@@ -96,7 +96,7 @@ _CameToItsSensesText::
 _OakTimeWokeUpText::
 	text "<……><……><……><……><……><……>"
 	line "<……><……><……><……><……><……>"
-
+	
 	para "Zzz… Hm? Wha…?"
 	line "You woke me up!"
 
