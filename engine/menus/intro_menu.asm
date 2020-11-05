@@ -181,7 +181,7 @@ InitializeMagikarpHouse:
 	ret
 
 .Ralph:
-	db "RALPH@"
+	db "LILLO@"
 
 InitializeNPCNames:
 	ld hl, .Rival
@@ -205,9 +205,9 @@ InitializeNPCNames:
 	ret
 
 .Rival:  db "???@"
-.Red:    db "RED@"
-.Green:  db "GREEN@"
-.Mom:    db "MOM@"
+.Red:    db "ROSSO@"
+.Green:  db "VERDE@"
+.Mom:    db "MAMMA@"
 
 InitializeWorld:
 	call ShrinkPlayer
@@ -402,10 +402,10 @@ Continue_LoadMenuHeader:
 .MenuData_Dex:
 	db 0 ; flags
 	db 4 ; items
-	db "PLAYER <PLAYER>@"
-	db "BADGES@"
+	db "GIOCA <PLAYER>@"
+	db "MEDAGLIE@"
 	db "#DEX@"
-	db "TIME@"
+	db "DURATA@"
 
 .MenuHeader_NoDex:
 	db MENU_BACKUP_TILES ; flags
@@ -416,10 +416,10 @@ Continue_LoadMenuHeader:
 .MenuData_NoDex:
 	db 0 ; flags
 	db 4 ; items
-	db "PLAYER <PLAYER>@"
-	db "BADGES@"
+	db "GIOCA <PLAYER>@"
+	db "MEDAGLIE@"
 	db " @"
-	db "TIME@"
+	db "DURATA@"
 
 Continue_DisplayBadgesDex:
 	call MenuBoxCoord2Tile

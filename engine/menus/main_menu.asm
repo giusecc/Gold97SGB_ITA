@@ -59,10 +59,10 @@ MainMenu:
 
 .Strings:
 ; entries correspond to MAINMENUITEM_* constants
-	db "CONTINUE@"
-	db "NEW GAME@"
-	db "OPTION@"
-	db "MYSTERY GIFT@"
+	db "CONTINUA@"
+	db "NUOVO GIOCO@"
+	db "OPZIONI@"
+	db "DONO SEGRETO@"
 
 .Jumptable:
 ; entries correspond to MAINMENUITEM_* constants
@@ -212,14 +212,14 @@ MainMenu_PrintCurrentTimeAndDay:
 	ret
 
 .TimeNotSet:
-	db "TIME NOT SET@"
+	db "ORA NON DEFINITA@"
 
 .MainMenuTimeUnknownText:
 	text_far _MainMenuTimeUnknownText
 	text_end
 	
 .VersionNumberPrint:
-	db "v2.11@"
+	db "v2ITA@"
 
 PrintDayOfWeek:
 	push de
@@ -240,13 +240,13 @@ PrintDayOfWeek:
 
 
 .Days:
-	db "SUNDAY       @"
-	db "MONDAY       @"
-	db "TUESDAY      @"
-	db "WEDNESDAY    @"
-	db "THURSDAY     @"
-	db "FRIDAY       @"
-	db "SATURDAY     @"
+	db "DOMENICA     @"
+	db "LUNEDÌ       @"
+	db "MARTEDÌ      @"
+	db "MERCOLEDÌ    @"
+	db "GIOVEDÌ      @"
+	db "VENERDÌ      @"
+	db "SABATO       @"
 .Day:
 	db "@"
 

@@ -24,7 +24,6 @@ silver_excl_obj := $(addsuffix _silver.o,$(gs_excl_asm))
 gold_obj := $(rom_obj:.o=_gold.o) $(gold_excl_obj)
 silver_obj := $(rom_obj:.o=_silver.o) $(silver_excl_obj)
 
-
 ### Build tools
 
 ifeq (,$(shell which sha1sum))

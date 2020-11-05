@@ -232,7 +232,7 @@ TrainerCard_PrintTopHalfOfCard:
 	hlcoord 2, 4
 	ld de, .ID_No
 	call TrainerCardSetup_PlaceTilemapString
-	hlcoord 7, 2
+	hlcoord 2, 2
 	ld de, wPlayerName
 	call PlaceString
 	hlcoord 5, 4
@@ -267,9 +267,9 @@ TrainerCard_PrintTopHalfOfCard:
 	ret
 
 .Name_Money:
-	db   "NAME/"
+	db   ""
 	next ""
-	next "MONEY@"
+	next "SOLDI@"
 
 .ID_No:
 	db $27, $28, -1 ; ID NO
@@ -281,7 +281,7 @@ TrainerCard_Page1_PrintDexCaught_GameTime:
 	hlcoord 2, 10
 	ld de, .Dex_PlayTime
 	call PlaceString
-	hlcoord 12, 15
+	hlcoord 10, 15
 	ld de, .Badges
 	call PlaceString
 	ld hl, wPokedexCaught
@@ -305,12 +305,12 @@ TrainerCard_Page1_PrintDexCaught_GameTime:
 
 .Dex_PlayTime:
 	db   "#DEX"
-	next "PLAY TIME@"
+	next "DURATA@"
 
 	db "@" ; unused
 
 .Badges:
-	db "BADGES▶@"
+	db "MEDAGLIE▶@"
 
 .StatusTilemap:
 	db $29, $2a, $2b, $2c, $2d, -1
@@ -346,7 +346,7 @@ endr
 	ret
 
 .BadgesTilemap:
-	db $79, $7a, $7b, $7c, $7d, -1 ; "BADGES"
+	db $79, $7a, $7b, $7c, $7d, -1 ; "MEDAGLIE"
 
 TrainerCardSetup_PlaceTilemapString:
 .loop
