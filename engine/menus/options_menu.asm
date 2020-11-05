@@ -84,7 +84,7 @@ StringOptions:
 	db "GUIDA MENU<LF>"
 	db "        :<LF>"
 	db "CORNICE<LF>"
-	db "        :TYPE<LF>"
+	db "        :TIPO<LF>"
 	db "ESCI@"
 
 GetOptionPointer:
