@@ -13,22 +13,22 @@ TrainerInstructorCliff:
 
 
 InstructorCliffSeenText:
-	text "This new GAME"
-	line "CORNER is great!"
-	para "It's a fun way to"
-	line "take a break from"
-	cont "marking papers."
+	text "Questo nuovo"
+	line "CASINÒ è grande!"
+	para "È il modo migliore"
+	line "per fare una pausa"
+	cont "dalle valutazioni."
 	done
 
 InstructorCliffBeatenText:
-	text "Losing at #MON"
-	line "is less fun than"
-	cont "the slots…"
+	text "Meglio perdere"
+	line "alle slot machines"
+	cont "che con i #MON…"
 	done
 
 InstructorCliffAfterBattleText:
-	text "There's never"
-	line "enough time left"
-	para "in the day once"
-	line "grading is done."
+	text "Non rimane mai"
+	line "abbastanza tempo"
+	para "dopo la"
+	line "valutazione."
 	done
