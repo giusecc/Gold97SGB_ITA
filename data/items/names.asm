@@ -176,7 +176,7 @@ ItemNames::
 	db "ANNAFFIATOIO@"
 	db "ENERGIMURO@"
 	db "PARK BALL@"
-	db "ALA IRIDE@"
+	db "ALA D'IRIDE@"
 	db "GUSCIACCIAIO@"
 	db "MATTONCINO@"
 	db "MESS.SURF@"
