@@ -1,19 +1,21 @@
 BikeShopPhoneCallerText:
-	text "Hi, <PLAYER>!"
-	line "Our BICYCLE sales"
+	text "Ciao, <PLAYER>!"
+	line "Le vendite sono"
 
-	para "have gone through"
-	line "the roof!"
+	para "salite alle"
+	line "stelle!"
 
-	para "We owe it all to"
-	line "your advertising"
+	para "Tutto grazie alla"
+	line "tua pubblicità"
 
-	para "by riding around"
-	line "on our BICYCLE."
+	para "quando hai fatto"
+	line "un giro con la."
 
-	para "As our way of say-"
-	line "ing thanks, please"
+	para "BICICLETTA!"
+	line "Per premio, puoi"
 
-	para "keep that BICYCLE."
-	line "Thanks again!"
+	para "tenere la"
+	line "BICICLETTA:"
+	
+	para "grazie davvero!"
 	done

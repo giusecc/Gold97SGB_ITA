@@ -1,73 +1,73 @@
 PhoneNationalParkText:
-	db "NATIONAL PARK@"
+	db "PARCO NAZIONALE@"
 
 PhoneLighthouseText:
-	db "LIGHTHOUSE@"
+	db "FARO@"
 
 ; unreferenced
 PhoneUndergroundText:
-	db "UNDERGROUND@"
+	db "SOTTERRANEI@"
 
 PhoneDarkCaveText:
-	db "DARK CAVE@"
+	db "GROTTA SCURA@"
 
 PhoneMtMortarText:
-	db "MT.MORTAR@"
+	db "MT. SCODELLA@"
 
 PhoneRouteU6UText:
-	db "ROUTE 26@"
+	db "PERC. 26@"
 
 PhoneRoute115Text:
-	db "ROUTE 115@"
+	db "PERC. 115@"
 
 PhoneRoute105Text:
-	db "ROUTE 105@"
+	db "PERC. 105@"
 
 PhoneRoute108Text:
-	db "ROUTE 108@"
+	db "PERC. 108@"
 
 PhoneRoute112Text:
-	db "ROUTE 112@"
+	db "PERC. 112@"
 
 PhoneRoute104Text:
-	db "ROUTE 104@"
+	db "PERC. 104@"
 
 PhoneRoute113Text:
-	db "ROUTE 113@"
+	db "PERC. 113@"
 
 PhoneRoute103Text:
-	db "ROUTE 103@"
+	db "PERC. 103@"
 
 PhoneRoute102Text:
-	db "ROUTE 102@"
+	db "PERC. 102@"
 
 ; unreferenced
 PhoneSilentHillsText:
-	db "SILENT HILLS@"
+	db "PIANE SILENTI@"
 
 PhoneRoute106Text:
-	db "ROUTE 106@"
+	db "PERC. 106@"
 
 PhoneRoute109Text:
-	db "ROUTE 109@"
+	db "PERC. 109@"
 	
 PhoneRoute119Text:
-	db "ROUTE 119@"
+	db "PERC. 119@"
 	
 PhoneRoute120Text:
-	db "ROUTE 120@"
+	db "PERC. 120@"
 
 PhoneRouteU4UText:
-	db "ROUTE 42@"
+	db "PERC. 42@"
 
 PhoneBoardwalkText:
-	db "BOARDWALK@"
+	db "PONTILE@"
 
 PhoneKikaiStraitText:
-	db "ROUTE 44@"
+	db "PERC. 44@"
 
 PhoneTatsugoPathText:
-	db "ROUTE 45@"
+	db "PERC. 45@"
 
 PhoneGreatEastStraitText:
-	db "ROUTE 46@"
+	db "PERC. 46@"
