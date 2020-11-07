@@ -158,12 +158,12 @@
 	charmap "z",         $b9
 	charmap "'_",        $ba
 
-	charmap "Ä",         $c0
-	charmap "Ö",         $c1
-	charmap "Ü",         $c2
-	charmap "ä",         $c3
-	charmap "ö",         $c4
-	charmap "ü",         $c5
+	;charmap "Ä",         $c0
+	;charmap "Ö",         $c1
+	;charmap "Ü",         $c2
+	;charmap "ä",         $c3
+	;charmap "ö",         $c4
+	;charmap "ü",         $c5
 	
 	charmap "à",         $c6
 	charmap "è",         $c7
@@ -178,7 +178,7 @@
 	charmap "'o",        $d3
 	charmap "'u",        $d4
 	charmap "'è",        $d5
-	charmap "'v",        $d6
+	;charmap "'v",        $d6
 	charmap "À",         $d7
 	charmap "È",         $d8
 	charmap "É",         $d9
