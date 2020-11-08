@@ -1,10 +1,10 @@
-	db "SEA LION@" ; species name
-	dw 507, 2650 ; height, weight
+	db "OTARIA@" ; species name
+	dw 170, 1200 ; height, weight
 
-	db   "It sleeps under"
-	next "shallow ocean"
-	next "waters during the"
+	db   "Il suo corpo affu-"
+	next "solato ha poco"
+	next "attrito in"
 
-	page "day, then looks"
-	next "for food at night"
-	next "when it's cold.@"
+	page "acqua. Le basse"
+	next "temperature lo"
+	next "rendono vivace.@"

@@ -1,10 +1,10 @@
-	db "BARRIER@" ; species name
-	dw 205, 430 ; height, weight
+	db "BARRIERA@" ; species name
+	dw 070, 195 ; height, weight
 
-	db   "Is able to stop"
-	next "foes in their"
-	next "tracks by using"
+	db   "È capace di"
+	next "disorientare i"
+	next "nemici usando la"
 
-	page "its mind to fool"
-	next "them into losing"
-	next "their orientation.@"
+	page "sua mente per"
+	next "far perdere loro"
+	next "l'orientamento.@"

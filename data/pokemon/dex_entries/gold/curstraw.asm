@@ -1,10 +1,10 @@
-	db "HAUNTED@" ; species name
-	dw 106, 20 ; height, weight
+	db "INFESTATO@" ; species name
+	dw 050, 010 ; height, weight
 
-	db   "When a wandering"
-	next "spirit inhabits"
-	next "household objects,"
+	db   "Quando uno spirito"
+	next "vagante infesta"
+	next "oggetti domestici,"
 
-	page "it comes together"
-	next "and animates into"
-	next "a CURSTRAW.@"
+	page "può prendere"
+	next "la forma di un"
+	next "CURSTRAW.@"

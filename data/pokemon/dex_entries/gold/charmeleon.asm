@@ -1,10 +1,10 @@
-	db "FLAME@" ; species name
-	dw 307, 420 ; height, weight
+	db "FIAMMA@" ; species name
+	dw 110, 190 ; height, weight
 
-	db   "If it becomes"
-	next "agitated during"
-	next "battle, it spouts"
+	db   "È turbolento di"
+	next "natura, sempre"
+	next "alal ricerca di"
 
-	page "intense flames,"
-	next "incinerating its"
-	next "surroundings.@"
+	page "avversari. Si"
+	next "placa solo dopo"
+	next "aver vinto.@"

@@ -1,10 +1,10 @@
-	db "BAT@" ; species name
-	dw 511, 1650 ; height, weight
+	db "PIPISTREL.@" ; species name
+	dw 180, 750 ; height, weight
 
-	db   "As a result of its"
-	next "pursuit of faster,"
-	next "yet more silent"
+	db   "È così silenzioso"
+	next "quando vola nel"
+	next "buio con le sue"
 
-	page "flight, a new set"
-	next "of wings grew on"
-	next "its hind legs.@"
+	page "quattro ali, che"
+	next "è difficile notarlo"
+	next "anche se è vicino.@"

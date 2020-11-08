@@ -1,10 +1,10 @@
-	db "FAIRY@" ; species name
-	dw 200, 170 ; height, weight
+	db "FATA@" ; species name
+	dw 060, 075 ; height, weight
 
-	db   "Though rarely"
-	next "seen, it becomes"
-	next "easier to spot,"
+	db   "Sembra che la luce"
+	next "lunare che racco-"
+	next "glie nelle ali sul"
 
-	page "for some reason,"
-	next "on the night of a "
-	next "full moon.@"
+	page "dorso gli permetta"
+	next "di volare"
+	next "a mezz'aria.@"

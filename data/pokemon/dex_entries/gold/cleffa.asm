@@ -1,10 +1,10 @@
-	db "STARSHAPE@" ; species name
-	dw 100, 70 ; height, weight
+	db "STELLA@" ; species name
+	dw 030, 030 ; height, weight
 
-	db   "If the impact site"
-	next "of a meteorite is"
-	next "found, this"
+	db   "Per il suo aspetto"
+	next "bizzarro, a forma"
+	next "di stella, c'è"
 
-	page "#MON is certain"
-	next "to be within the"
-	next "immediate area.@"
+	page "chi crede che"
+	next "provenga da"
+	next "una meteora.@"

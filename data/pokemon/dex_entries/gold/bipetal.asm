@@ -1,10 +1,10 @@
-	db "FLYCATCHER@" ; species name
-	dw 403, 270 ; height, weight
+	db "MOSCHIVORO@" ; species name
+	dw 130, 122 ; height, weight
 
-	db   "A surprisingly"
-	next "speedy plant. Able"
-	next "to move on the"
+	db   "Una pianta dalla"
+	next "grande velocità."
+	next "Si muove molto"
 
-	page "ground much more"
-	next "quickly than its"
-	next "previous forms.@"
+	page "più velocemente"
+	next "delle sue forme"
+	next "precedenti.@"

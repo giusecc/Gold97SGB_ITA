@@ -1,10 +1,10 @@
-	db "DELIVERY@" ; species name
-	dw 211, 350 ; height, weight
+	db "CONSEGNA@" ; species name
+	dw 090, 160 ; height, weight
 
-	db   "It always carries"
-	next "its food with it,"
-	next "wherever it goes."
+	db   "Trasporta cibo per"
+	next "tutto il giorno."
+	next "Si racconta che"
 
-	page "If attacked, it"
-	next "throws its food at"
-	next "the opponent.@"
+	page "molti dispersi si"
+	next "siano salvati con"
+	next "il suo cibo.@"

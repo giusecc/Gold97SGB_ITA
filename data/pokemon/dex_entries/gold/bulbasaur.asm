@@ -1,10 +1,10 @@
-	db "SEED@" ; species name
-	dw 204, 150 ; height, weight
+	db "SEME@" ; species name
+	dw 070, 069 ; height, weight
 
-	db   "While it is young,"
-	next "it uses the"
-	next "nutrients that are"
+	db   "Il seme che ha sul,"
+	next "dorso è ricco di"
+	next "sostanze nutrien-"
 
-	page "stored in the"
-	next "seeds on its back"
-	next "in order to grow.@"
+	page "ti. Il seme cresce"
+	next "costantemente con"
+	next "il suo corpo.@"

@@ -1,10 +1,10 @@
-	db "FAIRY@" ; species name
-	dw 403, 880 ; height, weight
+	db "FATA@" ; species name
+	dw 130, 400 ; height, weight
 
-	db   "Said to live in"
-	next "quiet, remote"
-	next "mountains, this"
+	db   "Con il suo fine"
+	next "udito può captare"
+	next "suoni molto"
 
-	page "type of fairy has"
-	next "a strong aversion"
-	next "to being seen.@"
+	page "distanti. Di soli-"
+	next "to si nasconde in"
+	next "luoghi tranquilli.@"

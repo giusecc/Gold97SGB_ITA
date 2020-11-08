@@ -1,10 +1,10 @@
-	db "FLAME@" ; species name
-	dw 507, 2000 ; height, weight
+	db "FIAMMA@" ; species name
+	dw 170, 905 ; height, weight
 
-	db   "It uses its wings"
-	next "to fly high. The"
-	next "temperature of its"
+	db   "Se s'infuria,"
+	next "la fiamma che ha"
+	next "sulla punta della"
 
-	page "fire increases as"
-	next "it gains exper-"
-	next "ience in battle.@"
+	page "coda si colora"
+	next "di un blu"
+	next "biancastro.@"

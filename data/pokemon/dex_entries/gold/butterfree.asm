@@ -1,10 +1,10 @@
-	db "BUTTERFLY@" ; species name
-	dw 307, 710 ; height, weight
+	db "FARFALLA@" ; species name
+	dw 110, 320 ; height, weight
 
-	db   "It flits from"
-	next "flower to flower,"
-	next "collecting honey."
+	db   "Raccoglie miele"
+	next "tutti i giorni, e"
+	next "se lo spalma"
 
-	page "It can even"
-	next "identify distant"
-	next "flowers in bloom.@"
+	page "sui pele delle"
+	next "zampe per traspor-"
+	next "tarlo al nido.@"

@@ -1,10 +1,10 @@
-	db "FLOWER@" ; species name
-	dw 204, 90 ; height, weight
+	db "FIORE@" ; species name
+	dw 070, 40 ; height, weight
 
-	db   "If it notices"
-	next "anything that"
-	next "moves, it"
+	db   "Sebbene abbia un"
+	next "corpo magrissimo"
+	next "sa essere molto"
 
-	page "immediately flings"
-	next "its vine at the"
-	next "object.@"
+	page "rapido quando"
+	next "si scaglia sulla"
+	next "preda.@"

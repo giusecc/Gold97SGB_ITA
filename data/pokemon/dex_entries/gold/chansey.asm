@@ -1,10 +1,10 @@
-	db "EGG@" ; species name
-	dw 307, 760 ; height, weight
+	db "UOVO@" ; species name
+	dw 110, 346 ; height, weight
 
-	db   "People try to"
-	next "catch it for its"
-	next "extremely"
+	db   "Cammina con pru-"
+	next "denza per non rom-"
+	next "pere il suo uovo."
 
-	page "nutritious eggs,"
-	next "but it rarely can"
-	next "be found.@"
+	page "Tuttavia, può"
+	next "fuggire con"
+	next "estrema rapidità.@"

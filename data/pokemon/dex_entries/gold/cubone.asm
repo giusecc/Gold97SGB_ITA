@@ -1,10 +1,10 @@
-	db "LONELY@" ; species name
-	dw 104, 140 ; height, weight
+	db "SOLITARIO@" ; species name
+	dw 040, 065 ; height, weight
 
-	db   "It lost its mother"
-	next "after its birth."
-	next "It wears its"
+	db   "Se è stanco o si"
+	next "sente solo, il"
+	next "teschio che ha in"
 
-	page "mother's skull,"
-	next "never revealing"
-	next "its true face.@"
+	page "testa vibra ed"
+	next "emette un suono"
+	next "lamentoso.@"

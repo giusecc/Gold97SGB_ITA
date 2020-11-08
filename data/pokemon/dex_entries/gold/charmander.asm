@@ -1,10 +1,10 @@
-	db "LIZARD@" ; species name
-	dw 200, 190 ; height, weight
+	db "LUCERTOLA@" ; species name
+	dw 020, 085 ; height, weight
 
-	db   "If it's healthy,"
-	next "the flame on the"
-	next "tip of its tail"
+	db   "La fiamma che ha"
+	next "sulla coda"
+	next "dimostra tutta la"
 
-	page "will burn vigor-"
-	next "ously, even if it"
-	next "gets a bit wet.@"
+	page "sua forza."
+	next "Se è fiacco,"
+	next "la fiamma è fioca.@"

@@ -1,10 +1,10 @@
-	db "HATCHLING@" ; species name
-	dw 203, 450 ; height, weight
+	db "TRIPULCINO@" ; species name
+	dw 070, 204 ; height, weight
 
-	db   "Each one of its"
-	next "three heads has"
-	next "its own brain."
+	db   "Ciascuna delle"
+	next "sue tre teste"
+	next "ha un cervello,"
 
-	page "But one of the"
-	next "brains go dormant"
-	next "as it grows.@"
+	page "ma uno di essi va"
+	next "in letargo con la"
+	next "crescita.@"

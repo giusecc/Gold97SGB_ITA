@@ -1,10 +1,10 @@
-	db "FREEZE@" ; species name
-	dw 507, 1220 ; height, weight
+	db "GELO@" ; species name
+	dw 170, 554 ; height, weight
 
-	db   "Legendary bird"
-	next "#MON. As it"
-	next "flies through the"
+	db   "Sembra che le"
+	next "magnifiche ali"
+	next "semitrasparenti di"
 
-	page "sky, it cools the"
-	next "air, causing snow"
-	next "to fall.@"
+	page "questo uccello"
+	next "leggendario"
+	next "siano di ghiaccio.@"

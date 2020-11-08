@@ -1,10 +1,10 @@
-	db "POISON BEE@" ; species name
-	dw 303, 650 ; height, weight
+	db "VELENAPE@" ; species name
+	dw 100, 295 ; height, weight
 
-	db   "It uses sharp,"
-	next "poisonous stings"
-	next "to defeat prey,"
+	db   "Può abbattere ogni"
+	next "avversario con i"
+	next "velenosissimi"
 
-	page "then takes the"
-	next "victim back to its"
-	next "nest for food.@"
+	page "aculei."
+	next "Talvolta attacca"
+	next "in sciami.@"

@@ -1,10 +1,10 @@
-	db "BUD@" ; species name
-	dw 311, 350 ; height, weight
+	db "BOCCIOLO@" ; species name
+	dw 120, 159 ; height, weight
 
-	db   "The scent that"
-	next "wafts from its"
-	next "large petals"
+	db   "L'aroma che si"
+	next "spande dai suoi"
+	next "larghi petali"
 
-	page "causes anyone who"
-	next "smells it to"
-	next "become energetic.@"
+	page "dona energia a"
+	next "chiunque lo"
+	next "odori.@"

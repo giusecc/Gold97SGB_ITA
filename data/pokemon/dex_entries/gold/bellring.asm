@@ -1,10 +1,10 @@
-	db "LOUDCAT@" ; species name
-	dw 207, 410 ; height, weight
+	db "SONAGLIO@" ; species name
+	dw 080, 186 ; height, weight
 
-	db   "The ring from its"
-	next "tail alerts foes"
-	next "to its position."
+	db   "Lo squillo della"
+	next "sua coda annuncia"
+	next "il suo arrivo."
 
-	page "However, it moves"
-	next "too quickly for"
-	next "foes to catch it.@"
+	page "Tuttavia, è"
+	next "troppo veloce per"
+	next "essere preso.@"

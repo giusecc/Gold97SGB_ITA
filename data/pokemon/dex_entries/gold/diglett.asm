@@ -1,10 +1,10 @@
-	db "MOLE@" ; species name
-	dw 8, 20 ; height, weight
+	db "TALPA@" ; species name
+	dw 020, 008 ; height, weight
 
-	db   "It digs under-"
-	next "ground and chews"
-	next "on tree roots,"
+	db   "La sua pelle è"
+	next "sottilissima."
+	next "Se si espone alla"
 
-	page "sticking its head"
-	next "out only when the"
-	next "sun isn't bright.@"
+	page "luce, il sangue"
+	next "si riscalda,"
+	next "indebolendolo.@"
