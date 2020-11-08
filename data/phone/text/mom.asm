@@ -1,165 +1,168 @@
 MomPhoneGreetingText:
-	text "Hello?"
+	text "Pronto?"
 
-	para "Oh, hi, <PLAYER>!"
-	line "Working hard?"
+	para "Ciao, <PLAYER>!"
+	line "Lavori sodo, eh?"
 	done
 
 MomPhoneLandmarkText:
-	text "Oh, so you're in"
+	text "Ah, così sei a"
 	line "@"
 	text_ram wStringBuffer3
 	text "…"
 
-	para "Isn't that where"
+	para "Ma non c'è anche"
 	line "@"
 	text_ram wStringBuffer4
 	text_start
-	para "is? Did you go"
-	line "take a look?"
+	para "lì? Vai a dare"
+	line "un'occhiata?"
 	done
 
 MomPhoneGenericAreaText:
-	text "Really, you're in"
+	text "E così sei a"
 	line "@"
 	text_ram wStringBuffer3
 	text "?"
 
-	para "I've never gone"
-	line "there. That's kind"
-	cont "of neat, <PLAYER>."
+	para "Non ci sono mai"
+	line "stata. Sono felice"
+	cont "per te, <PLAYER>."
 	done
 
 MomPhoneSilentText:
-	text "What? You're in"
+	text "Come? Sei a"
 	line "@"
 	text_ram wStringBuffer3
 	text "?"
 
-	para "Come see your MOM"
-	line "sometime!"
+	para "Ogni tanto vieni a"
+	line "trovare la mamma!"
 	done
 
 MomPhoneCrownText:
-	text "You're visiting"
+	text "Stai visitando"
 	line "@"
 	text_ram wStringBuffer3
 	text "?"
 
-	para "How about coming"
-	line "home for a bit?"
+	para "Perché non vieni"
+	line "un po' a casa?"
 	done
 
 MomOtherAreaText:
-	text "Wow, you're in"
+	text "Uauh, sei a"
 	line "@"
 	text_ram wStringBuffer3
 	text "?"
 
-	para "Good luck on your"
-	line "#MON quest!"
+	para "In bocca al lupo"
+	line "per l'avventura!"
 	done
 
 MomDeterminedText:
-	text "That sounds really"
-	line "tough."
+	text "Dev'essere dura"
+	line "lo so."
 
-	para "But, <PLAYER>, I"
-	line "know you're really"
+	para "Ma <PLAYER>, tu"
+	line "sei determinato!"
 
-	para "determined. You'll"
-	line "be OK, right?"
+	para "Sono certa che"
+	line "ce la farai."
 	done
 
 MomCheckBalanceText:
-	text "By the way, you've"
-	line "saved up ¥@"
+	text "Sai che hai"
+	line "¥@"
 	text_ram wStringBuffer3
-	text "."
+	text ""
+	para "risparmati? Vuoi"
 
-	para "Do you want to"
-	line "keep on saving?"
+	line "che continui a"
+	cont "risparmiare?"
 	done
 
 MomImportantToSaveText:
-	text "It's important to"
-	line "save your money."
+	text "Continuo a ri-"
+	line "sparmiare per te?"
 	done
 
 MomYoureNotSavingText:
-	text "Oh, <PLAYER>,"
-	line "you're not saving"
+	text "<PLAYER>, non"
+	line "stai risparmiando"
 
-	para "any money. Would"
-	line "you like to save?"
+	para "soldi. Vuoi che"
+	line "risparmi per te?"
 	done
 
 MomYouveSavedText:
-	text "By the way, you've"
-	line "saved up ¥@"
+	text "Sai che hai"
+	line "¥@"
 	text_ram wStringBuffer3
-	text "."
-
-	para "Want to start"
-	line "saving again?"
+	text ""
+	para "risparmati? Vuoi"
+	line "che ricominci a"
+	cont "risparmiare?"
 	done
 
 MomOKIllSaveText:
-	text "OK. I'll save your"
-	line "money."
+	text "Va bene: rispar-"
+	line "mierò per te."
 	done
 
 MomPhoneStopSavingMoneyText:
-	text "OK. I'll stop"
-	line "saving your money."
+	text "Allora non ri-"
+	line "sparmierò per te."
 	done
 
 MomPhoneHangUpText:
-	text "<PLAYER>, keep it"
-	line "up! I'm rooting"
-	cont "for you, baby!"
+	text "<PLAYER>, tieni"
+	line "duro! Sono con te!"
 	done
 
 MomPhoneNoPokemonText:
-	text "Hello?"
+	text "Pronto?"
 
-	para "Oh, hi, <PLAYER>!"
-	line "Wasn't PROF.OAK"
-	cont "waiting for you?"
+	para "Ciao, <PLAYER>! Il"
+	line "PROF.OAK ti sta"
+	cont "aspettando, vero?"
 	done
 
 MomPhoneNoPokedexText:
-	text "Hello?"
+	text "Pronto?"
 
-	para "Oh, hi, <PLAYER>!"
-	line "You're on a big"
+	para "Ciao, <PLAYER>!"
+	line "Sei in un'impor-"
 
-	para "mission for PROF."
-	line "OAK? Be good!"
+	para "tante missione per"
+	line "il PROF.OAK? Mi"
+	cont "raccomando!"
 	done
 
 MomPhoneNoGymQuestText:
-	text "Hello?"
+	text "Pronto?"
 
-	para "Hi, <PLAYER>! If"
-	line "you're done with"
+	para "Ciao, <PLAYER>! Se"
+	line "hai concluso la"
 
-	para "your errand come"
-	line "on home, dear."
+	para "missione, vieni"
+	line "a casa, caro."
 	done
 
 MomPhoneLectureText:
-	text "Hello?"
+	text "Pronto?"
 
 	para "…… <PLAYER>?"
-	line "I heard from PROF."
+	line "Ho sentito che il"
 
-	para "OAK that you went"
-	line "on a long trip."
+	para "PROF.OAK vuole che"
+	line "tu faccia un lungo"
+	cont "viaggio!"
 
-	para "I wish you would"
-	line "have told me…"
+	para "Potevi anche"
+	line "dirmelo…"
 
-	para "What about money?"
-	line "Should I save it?"
+	para "E i tuoi soldi?"
+	line "Vuoi che li"
+	cont "risparmi per te?"
 	done

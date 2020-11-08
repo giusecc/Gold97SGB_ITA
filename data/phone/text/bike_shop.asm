@@ -9,7 +9,7 @@ BikeShopPhoneCallerText:
 	line "tua pubblicità"
 
 	para "quando hai fatto"
-	line "un giro con la."
+	line "un giro con la"
 
 	para "BICICLETTA!"
 	line "Per premio, puoi"
