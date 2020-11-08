@@ -1,10 +1,10 @@
-	db "TRANSFORM@" ; species name
-	dw 110, 270 ; height, weight
+	db "MUTANTE@" ; species name
+	dw 056, 122 ; height, weight
 
-	db   "Much heavier than"
-	next "it would appear to"
-	next "be."
+	db   "Molto più pesante"
+	next "di quanto sembri"
+	next "Il suo corpo è"
 
-	page "Its body is made"
-	next "of a dense and"
-	next "metallic material.@"
+	page "composto di un"
+	next "materiale denso e"
+	next "metallico.@"

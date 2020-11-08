@@ -1,10 +1,10 @@
-	db "LIGHT@" ; species name
-	dw 407, 1360 ; height, weight
+	db "LUCE@" ; species name
+	dw 140, 615 ; height, weight
 
-	db   "When it gets dark,"
-	next "the light from its"
-	next "bright, shiny tail"
+	db   "La punta della,"
+	next "coda è molto lumi-"
+	next "nosa, visibile da"
 
-	page "can be seen from"
-	next "far away on the"
-	next "ocean's surface.@"
+	page "grandi distanze."
+	next "Fa da segnale per"
+	next "chi si è perso.@"

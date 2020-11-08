@@ -1,10 +1,10 @@
-	db "MAJESTIC@" ; species name
-	dw 702, 2170 ; height, weight
+	db "MAESTOSO@" ; species name
+	dw 220, 980 ; height, weight
 
-	db   "Because it has a"
-	next "massive body, it"
-	next "is nimble in water"
+	db   "A causa del suo"
+	next "corpo massiccio, è"
+	next "agile in acqua,"
 
-	page "but bulky on land."
-	next "Can easily hold"
-	next "its ground.@"
+	page "ma lento a terra."
+	next "Il suo aspetto è"
+	next "imponente.@"

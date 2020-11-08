@@ -1,10 +1,10 @@
-	db "STEEL FISH@" ; species name
-	dw 311, 360 ; height, weight
+	db "METALPESCE@" ; species name
+	dw 120, 163 ; height, weight
 
-	db   "This #MON's"
-	next "body is made of a"
-	next "metallic compound"
+	db   "Il suo corpo è"
+	next "fatto di una"
+	next "lega metallica"
 
-	page "that gives it"
-	next "excellent defense"
-	next "against attacks.@"
+	page "che gli dona una"
+	next "eccellente"
+	next "resistenza.@"

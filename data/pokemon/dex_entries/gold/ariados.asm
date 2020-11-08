@@ -1,10 +1,10 @@
-	db "LONG LEG@" ; species name
-	dw 307, 740 ; height, weight
+	db "LUNGAZAMPA@" ; species name
+	dw 110, 335 ; height, weight
 
-	db   "Rather than mak-"
-	next "ing a nest in one"
-	next "specific spot, it"
+	db   "Tesse un filo"
+	next "sia dalla bocca,"
+	next "sia dall'estremi-"
 
-	page "wanders in search"
-	next "of food after"
-	next "darkness falls.@"
+	page "tà opposta. È dura"
+	next "distinguerne l'-"
+	next "nizio e la fine.@"

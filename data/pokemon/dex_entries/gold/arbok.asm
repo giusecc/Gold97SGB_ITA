@@ -1,10 +1,10 @@
 	db "COBRA@" ; species name
-	dw 1106, 1430 ; height, weight
+	dw 350, 650 ; height, weight
 
-	db   "To intimidate"
-	next "foes, it spreads"
-	next "its chest wide and"
+	db   "Terrorizza la"
+	next "preda con il viso"
+	next "disegnato sulla"
 
-	page "makes eerie sounds"
-	next "by expelling air"
-	next "from its mouth.@"
+	page "pancia, poi blocca"
+	next "e avvelena la vit-"
+	next "tima atterrita.@"

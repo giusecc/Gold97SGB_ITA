@@ -1,10 +1,10 @@
-	db "SMOOTH SEAL@" ; species name
-	dw 207, 310 ; height, weight
+	db "FOCALISCIA@" ; species name
+	dw 080, 140 ; height, weight
 
-	db   "Its body is very"
-	next "moist and slick"
-	next "and is able to"
+	db   "Il suo corpo"
+	next "umido e liscio"
+	next "gli permette di"
 
-	page "keep its skin wet"
-	next "even while out of"
-	next "water for a time.@"
+	page "mantenere la"
+	next "pelle bagnata"
+	next "fuori dall'acqua.@"

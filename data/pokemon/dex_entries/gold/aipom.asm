@@ -1,10 +1,10 @@
-	db "LONG TAIL@" ; species name
-	dw 207, 250 ; height, weight
+	db "LUNGACODA@" ; species name
+	dw 080, 115 ; height, weight
 
-	db   "It uses its tail"
-	next "to hang on to tree"
-	next "branches. It uses"
+	db   "La sua coda è"
+	next "così forte che può"
+	next "appendersi ad un"
 
-	page "its momentum to"
-	next "swing from one"
-	next "branch to another.@"
+	page "albero e"
+	next "rimanere"
+	next "sospeso.@"

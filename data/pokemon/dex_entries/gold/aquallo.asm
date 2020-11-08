@@ -1,10 +1,10 @@
-	db "SMOOTH SEAL@" ; species name
-	dw 304, 910 ; height, weight
+	db "FOCALISCIA@" ; species name
+	dw 100, 410 ; height, weight
 
-	db   "Its skin is a good"
-	next "insulator. Able to"
-	next "withstand freezing"
+	db   "La sua pelle è un"
+	next "ottimo isolante"
+	next "per resistere a"
 
-	page "temperatures with"
-	next "ease. Is also"
-	next "quick on land.@"
+	page "basse temperature"
+	next "È molto veloce"
+	next "sulla terraferma.@"

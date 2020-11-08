@@ -1,10 +1,10 @@
-	db "PSI@" ; species name
-	dw 411, 1060 ; height, weight
+	db "PSICO@" ; species name
+	dw 150, 480 ; height, weight
 
-	db   "It has an IQ of"
-	next "5000. It calcu-"
-	next "lates many things"
+	db   "Se chiude gli"
+	next "occhi potenzia"
+	next "gli altri sensi."
 
-	page "in order to gain"
-	next "the edge in every"
-	next "battle.@"
+	page "Così può sfruttare"
+	next "al meglio le sue"
+	next "capacità.@"
