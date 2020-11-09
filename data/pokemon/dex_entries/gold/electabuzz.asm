@@ -1,10 +1,10 @@
-	db "ELECTRIC@" ; species name
-	dw 307, 660 ; height, weight
+	db "ELETTRICO@" ; species name
+	dw 110, 300 ; height, weight
 
-	db   "When two"
-	next "ELECTABUZZ touch,"
-	next "they control the"
+	db   "Corrente elettrica"
+	next "gli attraversa la"
+	next "superficie del"
 
-	page "electric currents"
-	next "to communicate"
-	next "their feelings.@"
+	page "corpo, che al buio"
+	next "riluce di un"
+	next "blu biancastro.@"

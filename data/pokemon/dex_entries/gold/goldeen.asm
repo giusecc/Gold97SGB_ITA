@@ -1,10 +1,10 @@
-	db "GOLDFISH@" ; species name
-	dw 200, 330 ; height, weight
+	db "PESCEROSSO@" ; species name
+	dw 060, 150 ; height, weight
 
-	db   "During spawning"
-	next "season, they swim"
-	next "gracefully in the"
+	db   "Le pinne su dorso,"
+	next "petto e coda ondu-"
+	next "lano con grazia in"
 
-	page "water, searching"
-	next "for their perfect"
-	next "mate.@"
+	page "acqua. Perciò lo"
+	next "chiamano"
+	next "danzatore d'acqua.@"

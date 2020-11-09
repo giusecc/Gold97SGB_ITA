@@ -1,10 +1,10 @@
-	db "COCONUT@" ; species name
-	dw 607, 2650 ; height, weight
+	db "NOCECOCCO@" ; species name
+	dw 200, 1200 ; height, weight
 
-	db   "Living in a good"
-	next "environment makes"
-	next "it grow lots of"
+	db   "Ha tre teste che"
+	next "ragionano"
+	next "autonomamente. Ma"
 
-	page "heads. A head that"
-	next "drops off becomes"
-	next "an EXEGGCUTE.@"
+	page "sono amichevoli e"
+	next "non litigano mai"
+	next "tra di loro.@"

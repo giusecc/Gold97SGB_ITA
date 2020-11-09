@@ -1,10 +1,10 @@
-	db "MOLE@" ; species name
-	dw 204, 730 ; height, weight
+	db "TALPA@" ; species name
+	dw 070, 333 ; height, weight
 
-	db   "These DIGLETT"
-	next "triplets dig over"
-	next "60 miles below sea"
+	db   "Le sue tre teste"
+	next "indipendenti smuo-"
+	next "vono il terreno"
 
-	page "level. No one"
-	next "knows what it's"
-	next "like underground.@"
+	page "per poter scavare"
+	next "con maggiore"
+	next "facilità.@"

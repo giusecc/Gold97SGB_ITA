@@ -1,10 +1,10 @@
-	db "DRAGON@" ; species name
-	dw 703, 4630 ; height, weight
+	db "DRAGO@" ; species name
+	dw 220, 2100 ; height, weight
 
-	db   "It is said that"
-	next "somewhere in the"
-	next "ocean lies an"
+	db   "Si dice che questo"
+	next "#MON voli"
+	next "continuamente sor-"
 
-	page "island where these"
-	next "gather. Only they"
-	next "live there.@"
+	page "volando il mare"
+	next "per salvare chi"
+	next "sta affogando.@"

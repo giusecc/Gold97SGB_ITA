@@ -1,10 +1,10 @@
-	db "DEEP FLAME@" ; species name
-	dw 511, 2180 ; height, weight
+	db "FIAMMAVIVA@" ; species name
+	dw 180, 989 ; height, weight
 
-	db   "The heat from its"
-	next "body causes the"
-	next "air around it to"
+	db   "Il calore del suo"
+	next "corpo rende"
+	next "rovente l'aria"
 
-	page "become incredibly"
-	next "hot. Can inflict"
-	next "burns by vicinity.@"
+	page "intorno a sé."
+	next "Può scottare chi"
+	next "gli è vicino.@"

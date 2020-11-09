@@ -1,10 +1,10 @@
-	db "WILD DUCK@" ; species name
-	dw 207, 330 ; height, weight
+	db "SELVANATRA@" ; species name
+	dw 080, 150 ; height, weight
 
-	db   "In order to pre-"
-	next "vent their"
-	next "extinction, more"
+	db   "Se qualcuno di-"
+	next "sturba la crescita"
+	next "dei gambi per lui"
 
-	page "people have made"
-	next "an effort to breed"
-	next "these #MON.@"
+	page "così preziosi, lo"
+	next "blocca usando il"
+	next "suo come un'arma.@"

@@ -1,10 +1,10 @@
-	db "BEAK@" ; species name
-	dw 311, 840 ; height, weight
+	db "BECCO@" ; species name
+	dw 120, 380 ; height, weight
 
-	db   "It uses its long"
-	next "beak to attack. It"
-	next "has a surprisingly"
+	db   "Si libra improv-"
+	next "visamente alto nel"
+	next "cielo, poi si lan-"
 
-	page "long reach, so it"
-	next "must be treated"
-	next "with caution.@"
+	page "cia in picchiata"
+	next "e colpisce spieta-"
+	next "tamente la preda.@"

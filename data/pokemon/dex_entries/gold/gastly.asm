@@ -1,10 +1,10 @@
 	db "GAS@" ; species name
-	dw 403, 2 ; height, weight
+	dw 130, 001 ; height, weight
 
-	db   "It wraps its op-"
-	next "ponent in its gas-"
-	next "like body, slowly"
+	db   "Il suo corpo gas-"
+	next "soso può infilarsi"
+	next "ovunque."
 
-	page "weakening its prey"
-	next "by poisoning it"
-	next "through the skin.@"
+	page "Tuttavia un colpo"
+	next "di vento lo può"
+	next "spazzare via.@"

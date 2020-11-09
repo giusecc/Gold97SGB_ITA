@@ -1,10 +1,10 @@
 	db "INFESTATO@" ; species name
 	dw 050, 010 ; height, weight
 
-	db   "Quando uno spirito"
-	next "vagante infesta"
-	next "oggetti domestici,"
+	db   "Si dice che questo"
+	next "spirito vagante"
+	next "possa infestare"
 
-	page "può prendere"
-	next "la forma di un"
-	next "CURSTRAW.@"
+	page "oggetti e"
+	next "luoghi"
+	next "abbandonati.@"

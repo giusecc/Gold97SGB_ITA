@@ -1,10 +1,10 @@
-	db "HYPNOSIS@" ; species name
-	dw 303, 710 ; height, weight
+	db "IPNOSI@" ; species name
+	dw 100, 324 ; height, weight
 
-	db   "When it twitches"
-	next "its nose, it can"
-	next "tell where someone"
+	db   "Se si pensa di"
+	next "aver fatto un bel"
+	next "sogno, ma non lo"
 
-	page "is sleeping and"
-	next "what that person"
-	next "is dreaming about.@"
+	page "si ricorda, proba-"
+	next "bilmente lo ha"
+	next "mangiato DROWZEE.@"

@@ -1,10 +1,10 @@
-	db "FIRE BEAR@" ; species name
-	dw 201, 220 ; height, weight
+	db "FIAMMORSO@" ; species name
+	dw 060, 099 ; height, weight
 
-	db   "The fire that"
-	next "spouts from its"
-	next "ears burns hottest"
+	db   "Le fiamme che"
+	next "bruciano dalle sue"
+	next "orecchie si scal-"
 
-	page "when it is angry."
-	next "The flaring flames"
-	next "intimidate foes.@"
+	page "dano con la sua"
+	next "rabbia, spaven-"
+	next "tando il nemico.@"

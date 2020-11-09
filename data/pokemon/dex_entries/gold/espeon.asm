@@ -1,10 +1,10 @@
-	db "SUN@" ; species name
-	dw 211, 580 ; height, weight
+	db "SOLE@" ; species name
+	dw 090, 265 ; height, weight
 
-	db   "The tip of its"
-	next "forked tail"
-	next "quivers when it is"
+	db   "Il pelo sottile"
+	next "che ricopre il suo"
+	next "corpo analizza le"
 
-	page "predicting its"
-	next "opponent's next"
-	next "move.@"
+	page "correnti d'aria e"
+	next "predice le mosse"
+	next "del nemico.@"

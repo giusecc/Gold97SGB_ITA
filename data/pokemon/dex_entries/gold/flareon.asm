@@ -1,10 +1,10 @@
-	db "FLAME@" ; species name
-	dw 211, 550 ; height, weight
+	db "FIAMMA@" ; species name
+	dw 090, 250 ; height, weight
 
-	db   "Once it has stored"
-	next "up enough heat,"
-	next "this #MON's"
+	db   "Immagazzina parte"
+	next "dell'aria che"
+	next "inala in una"
 
-	page "body temperature"
-	next "can reach up to"
-	next "1700 degrees.@"
+	page "tasca ardente in-"
+	next "terna, che arriva"
+	next "fino a 1700 gradi.@"

@@ -1,10 +1,10 @@
-	db "SHADOW@" ; species name
-	dw 411, 890 ; height, weight
+	db "OMBRA@" ; species name
+	dw 150, 405 ; height, weight
 
-	db   "Hiding in people's"
-	next "shadows at night,"
-	next "it absorbs their"
+	db   "Assorbe calore"
+	next "dall'ambiente, Se"
+	next "si sente un brivi-"
 
-	page "heat. The chill it"
-	next "causes makes the"
-	next "victims shake.@"
+	page "do di gelo improv-"
+	next "viso, è senz'altro"
+	next "apparso un GENGAR.@"

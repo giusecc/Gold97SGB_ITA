@@ -1,10 +1,10 @@
-	db "WEED@" ; species name
-	dw 207, 190 ; height, weight
+	db "MALERBA@" ; species name
+	dw 080, 086 ; height, weight
 
-	db   "The smell from its"
-	next "drool-like syrup"
-	next "and the pollen on"
+	db   "Ciò che sembra"
+	next "bava è in realtà"
+	next "dolce miele."
 
-	page "its petals is so"
-	next "bad, it may make"
-	next "opponents faint.@"
+	page "È molto viscoso:"
+	next "si attacca appena"
+	next "lo si sfiora.@"

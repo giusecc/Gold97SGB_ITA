@@ -1,10 +1,10 @@
-	db "WOOL@" ; species name
-	dw 207, 290 ; height, weight
+	db "LANA@" ; species name
+	dw 080, 133 ; height, weight
 
-	db   "Because of its"
-	next "rubbery, electric-"
-	next "ity-resistant"
+	db   "Avendo immagazzi-"
+	next "nato troppa elet-"
+	next "tricità, su intere"
 
-	page "skin, it can store"
-	next "lots of electric-"
-	next "ity in its fur.@"
+	page "parti del corpo"
+	next "non cresce neppure"
+	next "la lanugine.@"

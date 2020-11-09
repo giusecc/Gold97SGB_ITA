@@ -1,10 +1,10 @@
-	db "ELECTRIC@" ; species name
-	dw 200, 520 ; height, weight
+	db "ELETTRICO@" ; species name
+	dw 060, 235 ; height, weight
 
-	db   "It loves violent"
-	next "thunder. The space"
-	next "between its horns"
+	db   "Genera elettricità"
+	next "ruotando le"
+	next "braccia, ma non fa"
 
-	page "flickers bluish-"
-	next "white when it is"
-	next "charging energy.@"
+	page "mai una ricarica"
+	next "completa perché si"
+	next "stanca presto.@"

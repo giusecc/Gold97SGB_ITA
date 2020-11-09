@@ -1,10 +1,10 @@
-	db "TWIN BIRD@" ; species name
-	dw 407, 860 ; height, weight
+	db "BIUCCELLO@" ; species name
+	dw 140, 392 ; height, weight
 
-	db   "It lives on a"
-	next "grassy plain where"
-	next "it can see a long"
+	db   "Alzando e abbas-"
+	next "sando le 2 teste"
+	next "alternativamente,"
 
-	page "way. If it sees an"
-	next "enemy, it runs"
-	next "away at 60 mph.@"
+	page "si rende più"
+	next "stabile durante"
+	next "la corsa.@"

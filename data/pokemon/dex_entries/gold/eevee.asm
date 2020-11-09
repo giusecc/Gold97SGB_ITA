@@ -1,10 +1,10 @@
-	db "EVOLUTION@" ; species name
-	dw 100, 140 ; height, weight
+	db "EVOLUZIONE@" ; species name
+	dw 030, 065 ; height, weight
 
-	db   "Its ability to"
-	next "evolve into many"
-	next "forms allows it to"
+	db   "Ha la capacità di"
+	next "alterare la compo-"
+	next "sizione del corpo"
 
-	page "adapt smoothly"
-	next "and perfectly to"
-	next "any environment.@"
+	page "per adattarsi"
+	next "all'ambiente"
+	next "circostante.@"

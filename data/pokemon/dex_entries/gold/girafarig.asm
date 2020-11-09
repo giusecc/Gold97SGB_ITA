@@ -1,10 +1,10 @@
-	db "LONG NECK@" ; species name
-	dw 411, 910 ; height, weight
+	db "LUNGOCOLLO@" ; species name
+	dw 150, 415 ; height, weight
 
-	db   "When it is in"
-	next "danger, its tail"
-	next "uses some sort of"
+	db   "Le due teste sono"
+	next "entrambe dotate"
+	next "di cervello. Per"
 
-	page "mysterious powers"
-	next "to drive away the"
-	next "enemy.@"
+	page "avvicinarsi basta"
+	next "avere la fiducia"
+	next "di una delle due.@"

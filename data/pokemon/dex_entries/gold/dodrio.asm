@@ -1,10 +1,10 @@
-	db "TRIPLEBIRD@" ; species name
-	dw 511, 1880 ; height, weight
+	db "TRIUCCELLO@" ; species name
+	dw 180, 852 ; height, weight
 
-	db   "An enemy that"
-	next "takes its eyes off"
-	next "any of the three"
+	db   "Raccoglie dati e"
+	next "li elabora con"
+	next "le sue tre teste,"
 
-	page "heads--even for a"
-	next "second--will get"
-	next "pecked severely.@"
+	page "ma se si concentra"
+	next "troppo"
+	next "s'immobilizza.@"

@@ -1,10 +1,10 @@
-	db "SNAKE@" ; species name
-	dw 607, 150 ; height, weight
+	db "SERPENTE@" ; species name
+	dw 200, 069 ; height, weight
 
-	db   "It flutters the"
-	next "tip of its tongue"
-	next "to seek out the"
+	db   "Può facilmente"
+	next "spostare la mandi-"
+	next "bola per ingoiare"
 
-	page "scent of prey,"
-	next "then swallows the"
-	next "prey whole.@"
+	page "grosse prede. Per"
+	next "il peso, si muove"
+	next "con difficoltà.@"

@@ -1,10 +1,10 @@
-	db "ARMOR@" ; species name
-	dw 307, 2650 ; height, weight
+	db "ARMATURA@" ; species name
+	dw 110, 1200 ; height, weight
 
-	db   "Because this"
-	next "#MON's skin is"
-	next "so tough, a normal"
+	db   "Ha zanne dure e"
+	next "affilate e la"
+	next "pelle grinzosa."
 
-	page "attack won't even"
-	next "leave a scratch on"
-	next "it.@"
+	page "La sua AZIONE è"
+	next "così forte da ab-"
+	next "battere una causa.@"

@@ -1,10 +1,10 @@
-	db "JUNGLE@" ; species name
-	dw 504, 1220 ; height, weight
+	db "GIUNGLA@" ; species name
+	dw 160, 553 ; height, weight
 
-	db   "Its vision is very"
-	next "poor. However, its"
-	next "other senses are"
+	db   "Ha una pessima"
+	next "vista. Tuttavia,"
+	next "i suoi altri sensi"
 
-	page "hightened and it"
-	next "uses its vines to"
-	next "observe around it.@"
+	page "sono più sviluppa-"
+	next "ti. Usa le liane"
+	next "per orientarsi.@"
