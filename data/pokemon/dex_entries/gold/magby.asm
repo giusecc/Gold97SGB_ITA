@@ -1,10 +1,10 @@
-	db "LIVE COAL@" ; species name
-	dw 204, 470 ; height, weight
+	db "CARBONVIVO@" ; species name
+	dw 070, 214 ; height, weight
 
-	db   "It naturally spits"
-	next "an 1100-degree"
-	next "flame. It is said"
+	db   "Ogni volta che"
+	next "inspira ed espira"
+	next "brace ardente gli"
 
-	page "when many appear,"
-	next "it heralds a"
-	next "volcanic eruption.@"
+	page "esce dalla"
+	next "bocca e"
+	next "dalle narici.@"

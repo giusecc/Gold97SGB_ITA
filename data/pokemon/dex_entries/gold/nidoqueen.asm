@@ -1,10 +1,10 @@
-	db "DRILL@" ; species name
-	dw 403, 1320 ; height, weight
+	db "TRAPANO@" ; species name
+	dw 130, 600 ; height, weight
 
-	db   "The hard scales"
-	next "that cover its"
-	next "strong body serve"
+	db   "Il suo corpo è"
+	next "coperto di squame"
+	next "appuntite. Non"
 
-	page "as excellent"
-	next "protection from"
-	next "any attack.@"
+	page "indietreggia"
+	next "davanti ad"
+	next "alcun attacco.@"

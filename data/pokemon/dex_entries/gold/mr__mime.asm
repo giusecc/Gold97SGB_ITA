@@ -1,10 +1,10 @@
-	db "BARRIER@" ; species name
-	dw 403, 1200 ; height, weight
+	db "BARRIERA@" ; species name
+	dw 130, 545 ; height, weight
 
-	db   "It uses the"
-	next "mysterious"
-	next "power it has in"
+	db   "Mimo esperto fin"
+	next "dalla nascita,"
+	next "crescendo impara"
 
-	page "its fingers to"
-	next "solidify air into"
-	next "an invisible wall.@"
+	page "addirittura a"
+	next "creare oggetti"
+	next "invisibili.@"

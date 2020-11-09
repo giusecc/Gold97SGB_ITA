@@ -1,10 +1,10 @@
-	db "LITTLE BIRD@" ; species name
-	dw 8, 40 ; height, weight
+	db "PIUMATINO@" ; species name
+	dw 020, 020 ; height, weight
 
-	db   "It is extremely"
-	next "good at climbing"
-	next "tree trunks and"
+	db   "Poiché le sue ali"
+	next "non sono ancora"
+	next "ben sviluppate,"
 
-	page "likes to eat the"
-	next "new sprouts on"
-	next "the trees.@"
+	page "deve saltellare."
+	next "Sembra fissare"
+	next "sempre qualcosa.@"

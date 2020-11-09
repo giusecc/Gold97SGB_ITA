@@ -1,10 +1,10 @@
-	db "ROCK@" ; species name
-	dw 303, 2320 ; height, weight
+	db "ROCCIA@" ; species name
+	dw 100, 1050 ; height, weight
 
-	db   "It travels by rol-"
-	next "ling on mountain"
-	next "paths. If it gains"
+	db   "Di natura libera e"
+	next "incurante, non"
+	next "si preoccupa se"
 
-	page "too much speed, it"
-	next "stops by running"
-	next "into huge rocks.@"
+	page "perde dei pezzi"
+	next "mentre si rotola"
+	next "giù dai monti.@"

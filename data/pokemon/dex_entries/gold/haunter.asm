@@ -1,10 +1,10 @@
 	db "GAS@" ; species name
-	dw 503, 2 ; height, weight
+	dw 160, 001 ; height, weight
 
-	db   "It hides in the"
-	next "dark, planning to"
-	next "take the life of"
+	db   "Nella totale oscu-"
+	next "rità, dove non si"
+	next "vede nulla,"
 
-	page "the next living"
-	next "thing that wanders"
-	next "close by.@"
+	page "HAUNTER s'avvicina"
+	next "furtivamente alla"
+	next "prossima vittima.@"

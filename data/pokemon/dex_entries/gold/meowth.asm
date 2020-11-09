@@ -1,10 +1,10 @@
-	db "SCRATCHCAT@" ; species name
-	dw 104, 90 ; height, weight
+	db "GRAFFIMIAO@" ; species name
+	dw 040, 042 ; height, weight
 
-	db   "It loves things"
-	next "that sparkle. When"
-	next "it sees a shiny"
+	db   "È affascinato da"
+	next "oggetti rotondi."
+	next "Non può fare a"
 
-	page "object, the gold"
-	next "coin on its head"
-	next "shines too.@"
+	page "meno di giocarci"
+	next "fino a stancarsi"
+	next "e addormentarsi.@"

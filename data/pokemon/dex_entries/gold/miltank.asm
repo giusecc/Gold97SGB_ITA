@@ -1,10 +1,10 @@
-	db "MILK COW@" ; species name
-	dw 311, 1660 ; height, weight
+	db "BOVINO@" ; species name
+	dw 120, 755 ; height, weight
 
-	db   "In order to milk a"
-	next "MILTANK, one must"
-	next "have a knack for"
+	db   "Il suo latte è"
+	next "ricco di sostanze"
+	next "nutrienti, che ne"
 
-	page "rhythmically pull-"
-	next "ing up and down"
-	next "on its udders.@"
+	page "fanno il miglior"
+	next "rimedio per chi è"
+	next "stanco o ammalato.@"

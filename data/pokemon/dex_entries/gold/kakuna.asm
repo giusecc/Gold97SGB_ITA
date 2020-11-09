@@ -1,10 +1,10 @@
-	db "COCOON@" ; species name
-	dw 200, 220 ; height, weight
+	db "BOZZOLO@" ; species name
+	dw 060, 100 ; height, weight
 
-	db   "Nearly incapable"
-	next "of movement, it"
-	next "leans against"
+	db   "Pur essendo un"
+	next "bozzolo, può"
+	next "muoversi un po'."
 
-	page "stout trees while"
-	next "waiting for its"
-	next "evolution.@"
+	page "Può estendere il"
+	next "pungiglione quando"
+	next "è attaccato.@"

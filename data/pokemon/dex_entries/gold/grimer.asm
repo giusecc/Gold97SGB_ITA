@@ -1,10 +1,10 @@
-	db "SLUDGE@" ; species name
-	dw 211, 660 ; height, weight
+	db "MELMA@" ; species name
+	dw 090, 300 ; height, weight
 
-	db   "When two of these"
-	next "#MON's bodies"
-	next "are combined"
+	db   "Muovendosi perde"
+	next "pezzetti del pro-"
+	next "prio corpo, da cui"
 
-	page "together, new"
-	next "poisons are"
-	next "created.@"
+	page "nascono nuovi"
+	next "GRIMBY. Così il"
+	next "fetore aumenta.@"

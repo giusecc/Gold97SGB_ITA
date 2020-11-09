@@ -1,10 +1,10 @@
-	db "PIG MONKEY@" ; species name
-	dw 108, 620 ; height, weight
+	db "SUINPANZÉ@" ; species name
+	dw 050, 280 ; height, weight
 
-	db   "It lives in groups"
-	next "in the treetops."
-	next "If it loses sight"
+	db   "Ha un pessimo"
+	next "carattere. Può"
+	next "attaccare in"
 
-	page "of its group, it"
-	next "becomes infuriated"
-	next "by its loneliness.@"
+	page "gruppo qualsiasi"
+	next "obiettivo senza"
+	next "alcuna ragione.@"

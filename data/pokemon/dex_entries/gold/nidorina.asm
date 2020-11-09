@@ -1,10 +1,10 @@
-	db "POISON PIN@" ; species name
-	dw 207, 440 ; height, weight
+	db "VELENAGO@" ; species name
+	dw 080, 200 ; height, weight
 
-	db   "It has a docile"
-	next "nature. If it is"
-	next "threatened with"
+	db   "Per nutrire i"
+	next "piccoli, prima"
+	next "intenerisce il"
 
-	page "attack, it raises"
-	next "the barbs that are"
-	next "all over its body.@"
+	page "cibo masticandolo,"
+	next "poi lo sputa per"
+	next "i cuccioli.@"

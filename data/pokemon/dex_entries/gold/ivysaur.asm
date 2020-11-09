@@ -1,10 +1,10 @@
-	db "SEED@" ; species name
-	dw 303, 290 ; height, weight
+	db "SEME@" ; species name
+	dw 100, 130 ; height, weight
 
-	db   "The bulb on its"
-	next "back grows as it"
-	next "absorbs nutrients."
+	db   "L'esposizione alla"
+	next "luce solare lo"
+	next "rafforza e fa"
 
-	page "The bulb gives off"
-	next "a pleasant aroma"
-	next "when it blooms.@"
+	page "crescere il"
+	next "bocciolo che ha"
+	next "sul dorso.@"

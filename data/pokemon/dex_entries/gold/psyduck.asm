@@ -1,10 +1,10 @@
-	db "DUCK@" ; species name
-	dw 207, 430 ; height, weight
+	db "PAPERO@" ; species name
+	dw 080, 196 ; height, weight
 
-	db   "The only time it"
-	next "can use its psy-"
-	next "chic power is when"
+	db   "Ha poteri sopran-"
+	next "naturali ma non"
+	next "ricorda di averli"
 
-	page "its sleeping brain"
-	next "cells happen to"
-	next "wake.@"
+	page "usati. Per questo"
+	next "sembra sempre"
+	next "perplesso.@"

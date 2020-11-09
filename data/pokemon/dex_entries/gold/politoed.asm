@@ -1,10 +1,10 @@
-	db "FROG@" ; species name
-	dw 307, 750 ; height, weight
+	db "RANA@" ; species name
+	dw 110, 339 ; height, weight
 
-	db   "When it expands"
-	next "its throat to"
-	next "croak out a tune,"
+	db   "Se i POLIWAG o i"
+	next "POLIWHIRL odono il"
+	next "suo verso rimbom-"
 
-	page "nearby POLIWAG and"
-	next "POLIWHIRL gather"
-	next "immediately.@"
+	page "bante, si riuni-"
+	next "scono anche da"
+	next "enormi distanze.@"

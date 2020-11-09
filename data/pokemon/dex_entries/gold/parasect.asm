@@ -1,10 +1,10 @@
-	db "MUSHROOM@" ; species name
-	dw 303, 650 ; height, weight
+	db "FUNGO@" ; species name
+	dw 100, 295 ; height, weight
 
-	db   "When nothing's"
-	next "left to extract"
-	next "from the bug, the"
+	db   "Di solito sta in"
+	next "luoghi oscuri e"
+	next "umidi, non per se"
 
-	page "mushrooms on its"
-	next "back leave spores"
-	next "on the bug's egg.@"
+	page "stesso, ma per i"
+	next "grossi funghi che"
+	next "ha sulla schiena.@"

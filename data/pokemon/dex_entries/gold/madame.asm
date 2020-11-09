@@ -1,10 +1,10 @@
-	db "WILD DUCK@" ; species name
-	dw 401, 710 ; height, weight
+	db "SELVANTRA@" ; species name
+	dw 120, 322 ; height, weight
 
-	db   "Very territorial."
-	next "Will defend its"
-	next "hatchlings if it"
+	db   "È molto aggressivo."
+	next "Difende i suoi"
+	next "cuccioli anche se"
 
-	page "has a slight sense"
-	next "of danger from its"
-	next "surroundings.@"
+	page "ha un minimo pre-"
+	next "sentimento di"
+	next "pericolo.@"

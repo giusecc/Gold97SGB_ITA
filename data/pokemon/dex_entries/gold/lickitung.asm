@@ -1,10 +1,10 @@
-	db "LICKING@" ; species name
-	dw 311, 1440 ; height, weight
+	db "LINGUAGGIA@" ; species name
+	dw 120, 655 ; height, weight
 
-	db   "It has a tongue"
-	next "that is over 6'6''"
-	next "long. It uses this"
+	db   "La sua lingua ha"
+	next "nervi ben svilup-"
+	next "pati che vanno"
 
-	page "long tongue to"
-	next "lick its body"
-	next "clean.@"
+	page "fino alla punta,"
+	next "ed è quindi facil-"
+	next "mente governabile.@"

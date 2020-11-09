@@ -1,10 +1,10 @@
-	db "BALLOON@" ; species name
-	dw 100, 20 ; height, weight
+	db "PALLONE@" ; species name
+	dw 030, 010 ; height, weight
 
-	db   "Instead of walking"
-	next "with its short"
-	next "legs, it moves"
+	db   "Il suo corpo è"
+	next "morbidissimo. Se"
+	next "inizia a rotolare,"
 
-	page "around by bouncing"
-	next "on its soft,"
-	next "tender body.@"
+	page "rimbalza così"
+	next "forte che è impos-"
+	next "sibile fermarlo.@"

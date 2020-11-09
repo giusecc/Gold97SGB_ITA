@@ -1,10 +1,10 @@
-	db "GENETIC@" ; species name
-	dw 607, 2690 ; height, weight
+	db "GENETICO@" ; species name
+	dw 200, 1220 ; height, weight
 
-	db   "Said to rest qui-"
-	next "etly in an"
-	next "abandoned lab,"
+	db   "Dato che le sue"
+	next "abilità nel"
+	next "combattimento sono"
 
-	page "this #MON was"
-	next "created solely for"
-	next "battling.@"
+	page "al massimo, non"
+	next "fa altro che"
+	next "battere i nemici.@"

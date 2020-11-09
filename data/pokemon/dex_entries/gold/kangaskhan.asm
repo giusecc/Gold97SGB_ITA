@@ -1,10 +1,10 @@
-	db "PARENT@" ; species name
-	dw 703, 1760 ; height, weight
+	db "GENITORE@" ; species name
+	dw 220, 800 ; height, weight
 
-	db   "To avoid"
-	next "crushing the"
-	next "baby it carries in"
+	db   "Se è al sicuro, il"
+	next "piccolo esce dal"
+	next "marsupio e inizia"
 
-	page "its pouch, it"
-	next "always sleeps"
-	next "standing up.@"
+	page "a giocare sotto"
+	next "gli occhi vigili"
+	next "dell'adulto.@"

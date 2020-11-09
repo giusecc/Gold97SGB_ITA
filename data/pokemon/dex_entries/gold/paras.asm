@@ -1,10 +1,10 @@
-	db "MUSHROOM@" ; species name
-	dw 100, 120 ; height, weight
+	db "FUNGO@" ; species name
+	dw 030, 054 ; height, weight
 
-	db   "The tochukaso"
-	next "growing on this"
-	next "#MON's back"
+	db   "Il fungo tochukaso"
+	next "che gli cresce sul"
+	next "dorso lo costringe"
 
-	page "orders it to"
-	next "extract juice from"
-	next "tree trunks.@"
+	page "ad assorbire i"
+	next "succhi formati"
+	next "nei tronchi.@"

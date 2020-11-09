@@ -1,10 +1,10 @@
-	db "MAGNET@" ; species name
-	dw 303, 1320 ; height, weight
+	db "CALAMITA@" ; species name
+	dw 100, 600 ; height, weight
 
-	db   "When many"
-	next "MAGNETON gather"
-	next "together, the"
+	db   "Tre MAGNEMITE sono"
+	next "uniti da un forte"
+	next "campo magnetico."
 
-	page "resulting magnetic"
-	next "storm disrupts"
-	next "radio waves.@"
+	page "Avvicinandosi"
+	next "troppo le orecchie"
+	next "possono fischiare.@"

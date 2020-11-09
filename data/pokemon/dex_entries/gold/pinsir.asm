@@ -1,10 +1,10 @@
-	db "STAGBEETLE@" ; species name
-	dw 411, 1210 ; height, weight
+	db "CERVOLANTE@" ; species name
+	dw 150, 550 ; height, weight
 
-	db   "When the tempera-"
-	next "ture drops at"
-	next "night, it sleeps"
+	db   "Di notte dorme in"
+	next "cunicoli che scava"
+	next "con le sue corna."
 
-	page "on treetops or"
-	next "among roots where"
-	next "it is well hidden.@"
+	page "Al mattino ha il"
+	next "corpo coperto di"
+	next "terra umida.@"

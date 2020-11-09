@@ -1,10 +1,10 @@
-	db "SPITFIRE@" ; species name
-	dw 403, 980 ; height, weight
+	db "SPUTAFUOCO@" ; species name
+	dw 130, 445 ; height, weight
 
-	db   "It moves more"
-	next "frequently in hot"
-	next "areas. It can heal"
+	db   "Odiando i luoghi"
+	next "freddi, li bru-"
+	next "ciacchia sputando"
 
-	page "itself by dipping"
-	next "its wound into"
-	next "lava.@"
+	page "fiamme che li"
+	next "rendono più adatti"
+	next "ai suoi gusti.@"

@@ -1,10 +1,10 @@
-	db "BALLOON@" ; species name
-	dw 211, 180 ; height, weight
+	db "PALLONE@" ; species name
+	dw 090, 081 ; height, weight
 
-	db   "The spines on its"
-	next "body emit electric"
-	next "shocks that can be"
+	db   "Gli aculei sul suo"
+	next "corpo emettono "
+	next "scariche elettri-"
 
-	page "used to immobilize"
-	next "foes much larger"
-	next "than its own size.@"
+	page "che in grado di"
+	next "immobilizzare ne-"
+	next "mici molto grandi.@"

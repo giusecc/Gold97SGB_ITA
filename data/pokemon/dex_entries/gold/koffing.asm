@@ -1,10 +1,10 @@
-	db "POISON GAS@" ; species name
-	dw 200, 20 ; height, weight
+	db "VELENUVOLA@" ; species name
+	dw 060, 010 ; height, weight
 
-	db   "If one gets close"
-	next "enough to it when"
-	next "it expels poison-"
+	db   "Il suo corpo rare-"
+	next "fatto e sottile è"
+	next "composto da gas"
 
-	page "ous gas, the gas"
-	next "swirling inside it"
-	next "can be seen.@"
+	page "che causano"
+	next "raffreddori, tosse"
+	next "e lacrimazione.@"

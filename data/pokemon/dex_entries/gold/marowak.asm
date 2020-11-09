@@ -1,10 +1,10 @@
-	db "BONEKEEPER@" ; species name
-	dw 303, 990 ; height, weight
+	db "GUARDAOSSI@" ; species name
+	dw 100, 450 ; height, weight
 
-	db   "Somewhere in the"
-	next "world is a ceme-"
-	next "tery just for"
+	db   "È stato visto"
+	next "colpire massi"
+	next "con l'osso che"
 
-	page "MAROWAK. It gets"
-	next "its bones from"
-	next "those graves.@"
+	page "impugna, per"
+	next "trasmettere"
+	next "messaggi.@"

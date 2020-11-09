@@ -1,10 +1,10 @@
-	db "BALLOON@" ; species name
-	dw 108, 120 ; height, weight
+	db "PALLONE@" ; species name
+	dw 050, 055 ; height, weight
 
-	db   "It rolls its cute"
-	next "eyes as it sings a"
-	next "soothing lullaby."
+	db   "Se si gonfia"
+	next "e usa il suo CANTO"
+	next "diventa più resi-"
 
-	page "Its gentle song"
-	next "puts anyone who"
-	next "hears it to sleep.@"
+	page "stente e causa una"
+	next "forte sonnolenza"
+	next "in chi lo ascolta.@"

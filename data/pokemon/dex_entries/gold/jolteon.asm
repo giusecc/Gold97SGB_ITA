@@ -1,10 +1,10 @@
-	db "LIGHTNING@" ; species name
-	dw 207, 540 ; height, weight
+	db "LUMINOSO@" ; species name
+	dw 080, 245 ; height, weight
 
-	db   "The negatively"
-	next "charged ions"
-	next "generated in its"
+	db   "Le sue deboli sca-"
+	next "riche elettriche"
+	next "si concentrano"
 
-	page "fur create a"
-	next "constant sparking"
-	next "noise.@"
+	page "nelle cellule,"
+	next "lanciando sinistre"
+	next "saette luminose.@"

@@ -1,10 +1,10 @@
-	db "NEW SPECIE@" ; species name
-	dw 104, 90 ; height, weight
+	db "NOVASPECIE@" ; species name
+	dw 040, 040 ; height, weight
 
-	db   "Because it can"
-	next "learn any move,"
-	next "some people began"
+	db   "Sembra che appaia"
+	next "soltanto ai puri"
+	next "di cuore e a"
 
-	page "research to see if"
-	next "it is the ancestor"
-	next "of all #MON.@"
+	page "coloro che hanno"
+	next "un forte desiderio"
+	next "di vederlo.@"

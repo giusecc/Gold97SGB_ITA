@@ -1,10 +1,10 @@
 	db "JET@" ; species name
-	dw 211, 630 ; height, weight
+	dw 090, 285 ; height, weight
 
-	db   "Its instinct is to"
-	next "bury itself in"
-	next "holes. It often"
+	db   "Cattura i nemici"
+	next "con le ventose dei"
+	next "tentacoli per poi"
 
-	page "steals the nesting"
-	next "holes of others to"
-	next "sleep in them.@"
+	page "colpirli con il"
+	next "suo capo duro"
+	next "come pietra.@"

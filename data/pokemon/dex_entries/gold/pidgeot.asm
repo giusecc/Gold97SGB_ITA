@@ -1,10 +1,10 @@
-	db "BIRD@" ; species name
-	dw 411, 870 ; height, weight
+	db "UCCELLO@" ; species name
+	dw 150, 395 ; height, weight
 
-	db   "Its outstanding"
-	next "vision allows it"
-	next "to spot splashing"
+	db   "I forti muscoli"
+	next "pettorali gli"
+	next "permettono di"
 
-	page "MAGIKARP, even"
-	next "while flying at"
-	next "3300 feet.@"
+	page "provocare una"
+	next "tempesta di vento"
+	next "battendo le ali.@"

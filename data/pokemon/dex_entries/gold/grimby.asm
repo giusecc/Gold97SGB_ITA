@@ -1,10 +1,10 @@
-	db "SLUDGE@" ; species name
-	dw 101, 400 ; height, weight
+	db "MELMA@" ; species name
+	dw 030, 181 ; height, weight
 
-	db   "Loves to float in"
-	next "polluted water."
-	next "Seeing these in a"
+	db   "Ama sguazzare in"
+	next "acque sporche."
+	next "Vederne molti in"
 
-	page "lake is a sign of"
-	next "a larger pollution"
-	next "issue.@"
+	page "un lago è indice"
+	next "di grande"
+	next "inquinamento.@"

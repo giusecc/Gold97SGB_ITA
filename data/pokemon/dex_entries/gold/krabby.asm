@@ -1,10 +1,10 @@
-	db "RIVER CRAB@" ; species name
-	dw 104, 140 ; height, weight
+	db "GRANCHIO@" ; species name
+	dw 040, 065 ; height, weight
 
-	db   "If it is unable"
-	next "to find food, it"
-	next "will absorb"
+	db   "Se si sente in"
+	next "pericolo, si"
+	next "circonda di bolle"
 
-	page "nutrients by"
-	next "swallowing a"
-	next "mouthful of sand.@"
+	page "che produce con la"
+	next "bocca per sembrare"
+	next "più grande.@"

@@ -1,10 +1,10 @@
-	db "SCRATCHCAT@" ; species name
-	dw 101, 80 ; height, weight
+	db "GRAFFIMIAO@" ; species name
+	dw 030, 036 ; height, weight
 
-	db   "Constantly looks"
-	next "for gold coins to"
-	next "play with."
+	db   "È sempre alla ri-"
+	next "cerca di monete"
+	next "con cui giocare."
 
-	page "Prefers shiny"
-	next "objects over yarn"
-	next "or other toys.@"
+	page "Preferisce ogget-"
+	next "ti splendenti ai"
+	next "gomitoli di lana.@"

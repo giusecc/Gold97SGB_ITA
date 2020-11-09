@@ -1,10 +1,10 @@
-	db "GOLDFISH@" ; species name
-	dw 108, 210 ; height, weight
+	db "PESCEROSSO@" ; species name
+	dw 050, 095 ; height, weight
 
-	db   "Even at a young"
-	next "age, this #MON"
-	next "swims quickly and"
+	db   "Anche da piccolo"
+	next "questo #MON nuota"
+	next "veloce e con"
 
-	page "with ease, even"
-	next "against relatively"
-	next "strong currents.@"
+	page "facilità, anche"
+	next "contro forti"
+	next "correnti.@"

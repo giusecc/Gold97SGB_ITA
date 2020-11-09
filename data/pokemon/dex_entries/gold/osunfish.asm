@@ -1,10 +1,10 @@
-	db "TOUGH FISH@" ; species name
-	dw 305, 270 ; height, weight
+	db "PESCELUNA@" ; species name
+	dw 100, 122 ; height, weight
 
-	db   "Its skin is very"
-	next "scaly and tough."
-	next "This #MON is"
+	db   "La sua pelle è"
+	next "squamosa e dura."
+	next "Questo #MON vive"
 
-	page "most often found"
-	next "in open waters and"
-	next "deep in the sea.@"
+	page "in acqua aperte e"
+	next "nelle profondità"
+	next "oceaniche.@"

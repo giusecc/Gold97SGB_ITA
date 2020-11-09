@@ -1,10 +1,10 @@
-	db "RAINBOW@" ; species name
-	dw 1206, 4390 ; height, weight
+	db "ARCOBALENO@" ; species name
+	dw 380, 1990 ; height, weight
 
-	db   "It will reveal"
-	next "itself before a"
-	next "pure-hearted"
+	db   "Narra la leggenda"
+	next "che questo #MON"
+	next "sorvoli instanca-"
 
-	page "trainer by shining"
-	next "its bright rain-"
-	next "bow-colored wings.@"
+	page "bilmente il mondo"
+	next "con splendide ali"
+	next "dai sette colori.@"

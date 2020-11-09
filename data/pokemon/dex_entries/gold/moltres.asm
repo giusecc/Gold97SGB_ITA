@@ -1,10 +1,10 @@
-	db "FLAME@" ; species name
-	dw 607, 1320 ; height, weight
+	db "FIAMMA@" ; species name
+	dw 200, 600 ; height, weight
 
-	db   "Legendary bird"
-	next "#MON. It is"
-	next "said to migrate"
+	db   "Questo #MON"
+	next "leggendario sparge"
+	next "tizzoni ardenti"
 
-	page "from the south"
-	next "along with the"
-	next "spring.@"
+	page "ad ogni batter"
+	next "d'ali: uno spet-"
+	next "tacolo esaltante.@"

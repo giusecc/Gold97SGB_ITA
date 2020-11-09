@@ -1,10 +1,10 @@
-	db "DARKNESS@" ; species name
-	dw 108, 50 ; height, weight
+	db "OSCURITÀ@" ; species name
+	dw 050, 021 ; height, weight
 
-	db   "It hides any shiny"
-	next "object it finds in"
-	next "a secret location."
+	db   "Molti lo temono e"
+	next "lo detestano cre-"
+	next "dendo che porti."
 
-	page "MURKROW and"
-	next "MEOWTH loot one"
-	next "another's stashes.@"
+	page "sfortuna a tutti"
+	next "coloro che lo"
+	next "vedono di notte.@"

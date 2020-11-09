@@ -1,10 +1,10 @@
-	db "SPIRAL@" ; species name
-	dw 303, 770 ; height, weight
+	db "SPIRALE@" ; species name
+	dw 100, 350 ; height, weight
 
-	db   "Its heavy shell"
-	next "allowed it to"
-	next "reach only nearby"
+	db   "Sembra che abbia"
+	next "rotto il guscio"
+	next "di SHELLDER con"
 
-	page "food. This could"
-	next "be the reason it"
-	next "is extinct.@"
+	page "le zanne affilate,"
+	next "succhiandone il"
+	next "contenuto.@"

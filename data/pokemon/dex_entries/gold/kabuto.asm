@@ -1,10 +1,10 @@
-	db "SHELLFISH@" ; species name
-	dw 108, 250 ; height, weight
+	db "CROSTACEO@" ; species name
+	dw 050, 115 ; height, weight
 
-	db   "Three hundred"
-	next "million years ago,"
-	next "it hid on the sea"
+	db   "Occasionalmente"
+	next "se ne sono trovati"
+	next "alcuni in forma"
 
-	page "floor. It also has"
-	next "eyes on its back"
-	next "that glow.@"
+	page "fossile, nascosti"
+	next "sul fondo"
+	next "dell'oceano.@"

@@ -1,10 +1,10 @@
-	db "TRANSPORT@" ; species name
-	dw 802, 4850 ; height, weight
+	db "TRASPORTO@" ; species name
+	dw 250, 2200 ; height, weight
 
-	db   "This gentle"
-	next "#MON loves to"
-	next "give people rides"
+	db   "Sono buoni d'animo"
+	next "e lottano di rado,"
+	next "così molti di loro"
 
-	page "and provides a ve-"
-	next "ry comfortable way"
-	next "to get around.@"
+	page "sono facili prede:"
+	next "sono stati"
+	next "decimati.@"

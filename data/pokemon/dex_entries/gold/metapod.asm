@@ -1,10 +1,10 @@
-	db "COCOON@" ; species name
-	dw 204, 220 ; height, weight
+	db "BOZZOLO@" ; species name
+	dw 070, 099 ; height, weight
 
-	db   "This is its pre-"
-	next "evolved form. At"
-	next "this stage, it can"
+	db   "Morbido e debole"
+	next "dentro al suo gu-"
+	next "scio, si prepara"
 
-	page "only harden, so it"
-	next "remains motionless"
-	next "to avoid attack.@"
+	page "ad evolversi."
+	next "Nel guscio non fa"
+	next "alcun movimento.@"

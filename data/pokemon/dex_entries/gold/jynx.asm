@@ -1,10 +1,10 @@
-	db "HUMANSHAPE@" ; species name
-	dw 407, 900 ; height, weight
+	db "UMANOIDE@" ; species name
+	dw 140, 406 ; height, weight
 
-	db   "It has several"
-	next "different cry pat-"
-	next "terns, each of"
+	db   "Agita il corpo"
+	next "ritmicamente"
+	next "Pare che il ritmo"
 
-	page "which seems to"
-	next "have its own"
-	next "meaning.@"
+	page "dipenda dal"
+	next "suo stato"
+	next "d'animo.@"

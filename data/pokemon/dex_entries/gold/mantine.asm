@@ -1,10 +1,10 @@
-	db "KITE@" ; species name
-	dw 611, 4850 ; height, weight
+	db "AQUILONE@" ; species name
+	dw 210, 2200 ; height, weight
 
-	db   "It swims along"
-	next "freely, eating"
-	next "things that swim"
+	db   "Nuotando maesto-"
+	next "samente, tiene"
+	next "lontani i nemici"
 
-	page "into its mouth."
-	next "Its whole body is"
-	next "very coarse.@"
+	page "con il motivo"
+	next "che ricopre il"
+	next "suo dorso.@"

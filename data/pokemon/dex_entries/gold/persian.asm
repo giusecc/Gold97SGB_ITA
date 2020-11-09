@@ -1,10 +1,10 @@
-	db "CLASSY CAT@" ; species name
-	dw 303, 710 ; height, weight
+	db "NOBILGATTO@" ; species name
+	dw 100, 320 ; height, weight
 
-	db   "Behind its lithe,"
-	next "elegant appearance"
-	next "lies a barbaric"
+	db   "Molti lo amano per"
+	next "il suo aspetto"
+	next "elegante. Tuttavia"
 
-	page "side. It will tear"
-	next "apart its prey on"
-	next "a mere whim.@"
+	page "può scatenarsi e"
+	next "graffiare alla mi-"
+	next "nima provocazione.@"

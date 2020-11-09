@@ -1,10 +1,10 @@
-	db "MAGNET@" ; species name
-	dw 100, 130 ; height, weight
+	db "CALAMITA@" ; species name
+	dw 030, 060 ; height, weight
 
-	db   "The electricity"
-	next "emitted by the"
-	next "units on each side"
+	db   "È attratto dalle"
+	next "onde elettromagne-"
+	next "tiche. È facile"
 
-	page "of its body cause"
-	next "it to become a"
-	next "strong magnet.@"
+	page "che si avvicini ad"
+	next "un allenatore che"
+	next "usa il #GEAR.@"

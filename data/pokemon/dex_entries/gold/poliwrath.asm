@@ -1,10 +1,10 @@
-	db "TADPOLE@" ; species name
-	dw 403, 1190 ; height, weight
+	db "GIRINO@" ; species name
+	dw 130, 540 ; height, weight
 
-	db   "It can use its"
-	next "well-developed"
-	next "arms and legs to"
+	db   "Questo forte ed"
+	next "esperto nuotatore"
+	next "potrebbe attraver-"
 
-	page "run on the surface"
-	next "of the water for a"
-	next "split second.@"
+	page "sare l'oceano nuo-"
+	next "tando solo con gli"
+	next "arti inferiori.@"

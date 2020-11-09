@@ -1,10 +1,10 @@
-	db "STAGBEETLE@" ; species name
-	dw 503, 1540 ; height, weight
+	db "CERVOLANTE@" ; species name
+	dw 160, 700 ; height, weight
 
-	db   "The pincers on its"
-	next "head allow it a"
-	next "firm grip to be"
+	db   "Le due corna la-"
+	next "terali garantis-"
+	next "cono una presa"
 
-	page "able to inflict"
-	next "damage with the"
-	next "horn in between.@"
+	page "salda, per dan-"
+	next "neggiare con il"
+	next "corno centrale.@"

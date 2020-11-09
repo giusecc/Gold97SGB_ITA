@@ -1,10 +1,10 @@
 	db "DRILL@" ; species name
-	dw 407, 1370 ; height, weight
+	dw 140, 620 ; height, weight
 
-	db   "It uses its thick"
-	next "arms, legs and"
-	next "tail to attack"
+	db   "In battaglia fa"
+	next "girare la coda. Se"
+	next "il nemico tenten-"
 
-	page "forcefully. Melee"
-	next "combat is its"
-	next "specialty.@"
+	page "na, lo carica con"
+	next "il suo fisico"
+	next "possente.@"

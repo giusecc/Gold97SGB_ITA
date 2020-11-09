@@ -1,10 +1,10 @@
-	db "TINY MOUSE@" ; species name
-	dw 100, 40 ; height, weight
+	db "TOPINO@" ; species name
+	dw 030, 020 ; height, weight
 
-	db   "It is unskilled at"
-	next "storing electric"
-	next "power. Any kind of"
+	db   "Non è ancora bravo"
+	next "ad immagazzinare"
+	next "elettricità."
 
-	page "shock causes it to"
-	next "discharge energy"
-	next "spontaneously.@"
+	page "Se si emoziona o"
+	next "è divertito ne"
+	next "perde un po'.@"

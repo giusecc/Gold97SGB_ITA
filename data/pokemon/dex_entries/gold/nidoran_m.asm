@@ -1,10 +1,10 @@
-	db "POISON PIN@" ; species name
-	dw 108, 200 ; height, weight
+	db "VELENAGO@" ; species name
+	dw 050, 090 ; height, weight
 
-	db   "It constantly"
-	next "moves its large"
-	next "ears in many"
+	db   "È piccolo, ma il"
+	next "corno è colmo di"
+	next "veleno. Carica,"
 
-	page "directions in"
-	next "order to detect"
-	next "danger right away.@"
+	page "poi infilza con"
+	next "il corno iniet-"
+	next "tando il veleno.@"

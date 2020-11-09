@@ -1,10 +1,10 @@
-	db "FISH@" ; species name
-	dw 211, 220 ; height, weight
+	db "PESCE@" ; species name
+	dw 090, 100 ; height, weight
 
-	db   "This weak and"
-	next "pathetic #MON"
-	next "gets easily pushed"
+	db   "Un #MON debole,"
+	next "patetico."
+	next "In rare occasioni"
 
-	page "along rivers when"
-	next "there are strong"
-	next "currents.@"
+	page "può saltare in"
+	next "alto, comunque non"
+	next "più di due metri.@"

@@ -1,10 +1,10 @@
-	db "MUSHROOM@" ; species name
-	dw 009, 100 ; height, weight
+	db "FUNGO@" ; species name
+	dw 020, 045 ; height, weight
 
-	db   "It hatched from"
-	next "an egg that was"
-	next "engulfed in a"
+	db   "È nato da un"
+	next "uovo fagocitato"
+	next "da un fungo, che"
 
-	page "mushroom that"
-	next "remains attached"
-	next "to its body.@"
+	page "rimane attaccato"
+	next "al suo"
+	next "corpo.@"

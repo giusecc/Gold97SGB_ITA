@@ -1,10 +1,10 @@
-	db "LONG NOSE@" ; species name
-	dw 108, 740 ; height, weight
+	db "NASONE@" ; species name
+	dw 050, 335 ; height, weight
 
-	db   "During the desert-"
-	next "ed morning hours,"
-	next "it comes ashore"
+	db   "Agita la"
+	next "proboscide per"
+	next "gioco, ma è"
 
-	page "where it deftly"
-	next "uses its trunk to"
-	next "take a shower.@"
+	page "così forte che"
+	next "può essere"
+	next "pericoloso.@"

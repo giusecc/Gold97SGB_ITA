@@ -1,10 +1,10 @@
-	db "SHOCK TIGER@" ; species name
-	dw 203, 470 ; height, weight
+	db "ELETTIGRE@" ; species name
+	dw 070, 213 ; height, weight
 
-	db   "Its whiskers have"
-	next "been used to pass"
-	next "electricity into"
+	db   "Le sue vibrisse"
+	next "vengono usate"
+	next "per generare"
 
-	page "circuits to"
-	next "generate power"
-	next "in emergencies.@"
+	page "elettricità"
+	next "in casi di"
+	next "emergenza.@"

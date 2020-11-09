@@ -1,10 +1,10 @@
-	db "PUNCHING@" ; species name
-	dw 407, 1110 ; height, weight
+	db "TIRAPUGNI@" ; species name
+	dw 140, 502 ; height, weight
 
-	db   "To increase the"
-	next "strength of all"
-	next "its punch moves,"
+	db   "Fende l'aria con"
+	next "i suoi pugni."
+	next "Tuttavia, deve"
 
-	page "it spins its arms"
-	next "just before making"
-	next "contact.@"
+	page "sempre fare una"
+	next "pausa dopo tre"
+	next "minuti di lotta.@"

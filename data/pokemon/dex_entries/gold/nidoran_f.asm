@@ -1,10 +1,10 @@
-	db "POISON PIN@" ; species name
-	dw 104, 150 ; height, weight
+	db "VELENAGO@" ; species name
+	dw 040, 070 ; height, weight
 
-	db   "Small and very"
-	next "docile, it pro-"
-	next "tects itself with"
+	db   "Il veleno del suo"
+	next "piccolo corno è"
+	next "potentissimo."
 
-	page "its small, poison-"
-	next "ous horn when"
-	next "attacked.@"
+	page "Anche una lieve"
+	next "puntura può essere"
+	next "fatale.@"

@@ -1,10 +1,10 @@
-	db "WEED@" ; species name
-	dw 108, 120 ; height, weight
+	db "MALERBA@" ; species name
+	dw 050, 054 ; height, weight
 
-	db   "During the day, it"
-	next "stays in the cold"
-	next "underground to"
+	db   "Gira di notte,"
+	next "svegliandosi con"
+	next "la luce lunare."
 
-	page "avoid the sun."
-	next "It grows by bath-"
-	next "ing in moonlight.@"
+	page "Di giorno se ne"
+	next "sta tranquilla-"
+	next "mente sottoterra.@"

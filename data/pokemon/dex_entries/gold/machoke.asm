@@ -1,10 +1,10 @@
-	db "SUPERPOWER@" ; species name
-	dw 411, 1550 ; height, weight
+	db "MEGAFORZA@" ; species name
+	dw 150, 705 ; height, weight
 
-	db   "This tough #MON"
-	next "always stays in"
-	next "the zone. Its"
+	db   "Utilizza sempre il"
+	next "massimo della sua"
+	next "energia, ma questo"
 
-	page "muscles become"
-	next "thicker after"
-	next "every battle.@"
+	page "#MON potente"
+	next "e resistente non"
+	next "si stanca mai.@"

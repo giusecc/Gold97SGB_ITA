@@ -1,10 +1,10 @@
-	db "DRAGON@" ; species name
-	dw 511, 3350 ; height, weight
+	db "DRAGO@" ; species name
+	dw 180, 1520 ; height, weight
 
-	db   "It stores energy"
-	next "by sleeping at"
-	next "underwater depths"
+	db   "Si dice che si"
+	next "nasconda in grotte"
+	next "sottacqua."
 
-	page "at which no other"
-	next "life forms can"
-	next "survive.@"
+	page "Il suo sbadiglio"
+	next "può provocare"
+	next "dei vortici.@"

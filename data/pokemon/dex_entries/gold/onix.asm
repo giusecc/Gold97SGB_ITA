@@ -1,10 +1,10 @@
-	db "ROCK SNAKE@" ; species name
-	dw 2810, 4630 ; height, weight
+	db "SERPESASSO@" ; species name
+	dw 880, 2100 ; height, weight
 
-	db   "As it digs through"
-	next "the ground, it"
-	next "absorbs many hard"
+	db   "Si contorce e si"
+	next "dimena attraverso"
+	next "il terreno."
 
-	page "objects. This is"
-	next "what makes its"
-	next "body so solid.@"
+	page "Il cupo boato del"
+	next "suo scavare giunge"
+	next "molto lontano.@"

@@ -1,10 +1,10 @@
-	db "HANDSTAND@" ; species name
-	dw 407, 1060 ; height, weight
+	db "VERTICALE@" ; species name
+	dw 140, 480 ; height, weight
 
-	db   "After doing a"
-	next "handstand to"
-	next "throw off the"
+	db   "Se ci si fa incan-"
+	next "tare dall'elegante"
+	next "danza dei suoi"
 
-	page "opponent's timing,"
-	next "it presents its"
-	next "fancy kick moves.@"
+	page "calci, si rischia"
+	next "di ricevere una"
+	next "bella lezione.@"

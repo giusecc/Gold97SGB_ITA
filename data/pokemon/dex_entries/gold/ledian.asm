@@ -1,10 +1,10 @@
-	db "FIVE STAR@" ; species name
-	dw 407, 780 ; height, weight
+	db "TRIASTRA@" ; species name
+	dw 140, 356 ; height, weight
 
-	db   "In the daytime"
-	next "when it gets warm,"
-	next "it curls up inside"
+	db   "Si aggira nella"
+	next "notte stellata"
+	next "lasciando"
 
-	page "a big leaf and"
-	next "drifts off into"
-	next "a deep slumber.@"
+	page "cadere una"
+	next "scia di polvere"
+	next "incandescente.@"

@@ -1,10 +1,10 @@
-	db "OWL@" ; species name
-	dw 204, 470 ; height, weight
+	db "GUFO@" ; species name
+	dw 070, 212 ; height, weight
 
-	db   "It begins to hoot"
-	next "at the same time"
-	next "every day. Some"
+	db   "Sta sempre su un"
+	next "piede solo."
+	next "Cambia piede così"
 
-	page "trainers use them"
-	next "in place of"
-	next "clocks.@"
+	page "rapidamente che è"
+	next "raro vederlo"
+	next "mentre lo fa.@"

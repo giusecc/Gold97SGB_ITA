@@ -1,10 +1,10 @@
-	db "COTTONWEED@" ; species name
-	dw 104, 10 ; height, weight
+	db "GRAMIGNA@" ; species name
+	dw 040, 005 ; height, weight
 
-	db   "It can be carried"
-	next "away on even the"
-	next "gentlest breeze."
+	db   "Si stringono uno"
+	next "accanto all'altro"
+	next "per resistere al"
 
-	page "It may even float"
-	next "all the way to the"
-	next "next town.@"
+	page "vento. Al contra-"
+	next "rio, amano la"
+	next "brezza leggera.@"

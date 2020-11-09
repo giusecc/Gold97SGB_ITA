@@ -1,10 +1,10 @@
-	db "TINY BIRD@" ; species name
-	dw 100, 40 ; height, weight
+	db "UCCELLINO@" ; species name
+	dw 030, 018 ; height, weight
 
-	db   "It rapidly flaps"
-	next "its wings in the"
-	next "grass, stirring up"
+	db   "Di solito si na-"
+	next "sconde nell'erba"
+	next "alta. Poiché odia"
 
-	page "a dust cloud that"
-	next "drives insect prey"
-	next "out into the open.@"
+	page "lottare, tira la"
+	next "sabbia con le zam-"
+	next "pe come difesa.@"

@@ -1,10 +1,10 @@
-	db "FIRE HORSE@" ; species name
-	dw 303, 660 ; height, weight
+	db "CAVALFUOCO@" ; species name
+	dw 100, 300 ; height, weight
 
-	db   "Training by"
-	next "jumping over grass"
-	next "that grows longer"
+	db   "Non è da subito un"
+	next "buon corridore."
+	next "Impara a correre"
 
-	page "every day has made"
-	next "it a world-class"
-	next "jumper.@"
+	page "sempre più veloce"
+	next "rincorrendo i"
+	next "suoi simili.@"

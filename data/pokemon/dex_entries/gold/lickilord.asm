@@ -1,10 +1,10 @@
-	db "LICKING@" ; species name
-	dw 409, 1720 ; height, weight
+	db "LINGUACCIA@" ; species name
+	dw 140, 780 ; height, weight
 
-	db   "Its tongue is the"
-	next "strongest muscle"
-	next "in its body."
+	db   "La lingua è il"
+	next "suo muscolo più"
+	next "sviluppato."
 
-	page "Is able to knock"
-	next "foes out with the"
-	next "force of a lick.@"
+	page "È capace di lan-"
+	next "ciare i nemici"
+	next "con una leccata.@"

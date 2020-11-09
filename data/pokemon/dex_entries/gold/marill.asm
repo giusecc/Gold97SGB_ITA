@@ -1,10 +1,10 @@
-	db "AQUAMOUSE@" ; species name
-	dw 104, 190 ; height, weight
+	db "ACQUATOPO@" ; species name
+	dw 040, 085 ; height, weight
 
-	db   "The fur on its"
-	next "body naturally"
-	next "repels water. It"
+	db   "La punta della"
+	next "coda, contenendo"
+	next "un olio più leg-"
 
-	page "can stay dry, even"
-	next "when it plays in"
-	next "the water.@"
+	page "gero dell'acqua,"
+	next "lo fa nuotare"
+	next "senza affogare.@"

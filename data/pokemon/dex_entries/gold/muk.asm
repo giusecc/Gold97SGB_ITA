@@ -1,10 +1,10 @@
-	db "SLUDGE@" ; species name
-	dw 311, 660 ; height, weight
+	db "MELMA@" ; species name
+	dw 120, 300 ; height, weight
 
-	db   "As it moves, a"
-	next "very strong poison"
-	next "leaks from it,"
+	db   "Amano riunirsi"
+	next "vicino a puzzolen-"
+	next "ti liquami di"
 
-	page "making the ground"
-	next "there barren for"
-	next "three years.@"
+	page "scolo, rendendo il"
+	next "fetore ancora più"
+	next "intenso.@"

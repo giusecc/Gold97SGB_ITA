@@ -1,10 +1,10 @@
-	db "OWL@" ; species name
-	dw 503, 900 ; height, weight
+	db "GUFO@" ; species name
+	dw 160, 408 ; height, weight
 
-	db   "Its extremely soft"
-	next "feathers make no"
-	next "sound in flight."
+	db   "Ha degli occhi"
+	next "speciali con cui"
+	next "concentra anche"
 
-	page "It silently sneaks"
-	next "up on prey without"
-	next "being detected.@"
+	page "la luce più fioca"
+	next "per poter vedere"
+	next "al buio.@"

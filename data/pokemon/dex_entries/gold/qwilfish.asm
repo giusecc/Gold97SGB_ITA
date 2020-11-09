@@ -1,10 +1,10 @@
-	db "BALLOON@" ; species name
-	dw 108, 90 ; height, weight
+	db "PALLONE@" ; species name
+	dw 050, 039 ; height, weight
 
-	db   "When faced with a"
-	next "larger opponent,"
-	next "it swallows as"
+	db   "Per sparare le"
+	next "punte velenose,"
+	next "gonfia il corpo"
 
-	page "much water as it"
-	next "can to match the"
-	next "opponent's size.@"
+	page "bevendo più di"
+	next "10 litri d'acqua"
+	next "in una volta.@"

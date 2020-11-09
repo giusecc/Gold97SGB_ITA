@@ -1,10 +1,10 @@
-	db "BIRD@" ; species name
-	dw 307, 660 ; height, weight
+	db "UCCELLO@" ; species name
+	dw 110, 300 ; height, weight
 
-	db   "It slowly flies in"
-	next "a circular pat-"
-	next "tern, all the"
+	db   "Ha una vista"
+	next "eccellente. Per"
+	next "quanto alto stia"
 
-	page "while keeping a"
-	next "sharp lookout for"
-	next "prey.@"
+	page "volando, scorge"
+	next "sempre i movimenti"
+	next "della preda.@"

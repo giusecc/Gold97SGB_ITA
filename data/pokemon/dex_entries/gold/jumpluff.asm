@@ -1,10 +1,10 @@
-	db "COTTONWEED@" ; species name
-	dw 207, 70 ; height, weight
+	db "GRAMIGNA@" ; species name
+	dw 080, 030 ; height, weight
 
-	db   "Even in the fierc-"
-	next "est wind, it can"
-	next "control its fluff"
+	db   "Sospinto dal vento"
+	next "controlla con abi-"
+	next "lità il suo ba-"
 
-	page "to make its way to"
-	next "any place in the"
-	next "world it wants.@"
+	page "tuffolo di cotone"
+	next "per volare persino"
+	next "intorno al mondo.@"

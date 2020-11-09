@@ -1,10 +1,10 @@
-	db "SUPERPOWER@" ; species name
-	dw 207, 430 ; height, weight
+	db "MEGAFORZA@" ; species name
+	dw 080, 195 ; height, weight
 
-	db   "It trains by"
-	next "lifting rocks in"
-	next "the mountains. It"
+	db   "Sempre traboccante"
+	next "di energia, passa"
+	next "il tempo a"
 
-	page "can even pick up a"
-	next "GRAVELER with"
-	next "ease.@"
+	page "sollevare massi."
+	next "Così diventa"
+	next "ancora più forte.@"

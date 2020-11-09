@@ -1,10 +1,10 @@
-	db "DARK@" ; species name
-	dw 200, 240 ; height, weight
+	db "BUI@" ; species name
+	dw 060, 108 ; height, weight
 
-	db   "Around dawn, its"
-	next "ominous howl"
-	next "echoes through the"
+	db   "Usa versi diffe-"
+	next "renti per"
+	next "comunicare con"
 
-	page "area to announce"
-	next "that this is its"
-	next "territory.@"
+	page "altri del suo tipo"
+	next "e per inseguire"
+	next "la preda.@"

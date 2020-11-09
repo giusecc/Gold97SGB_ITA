@@ -1,10 +1,10 @@
-	db "FIRE FOAL@" ; species name
-	dw 205, 310 ; height, weight
+	db "CAVALFUOCO@" ; species name
+	dw 070, 140 ; height, weight
 
-	db   "Although it is"
-	next "not able to run"
-	next "very quickly, it"
+	db   "Pur non essendo"
+	next "capace a correre"
+	next "molto veloce,"
 
-	page "is still able to"
-	next "stomp its hooves"
-	next "with great force.@"
+	page "può calpestare i"
+	next "suoi zoccoli con"
+	next "grande forza.@"

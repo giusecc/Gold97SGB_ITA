@@ -1,10 +1,10 @@
-	db "WATER FISH@" ; species name
-	dw 407, 1650 ; height, weight
+	db "ACQUAPESCE@" ; species name
+	dw 140, 750 ; height, weight
 
-	db   "Its body is always"
-	next "slimy. It often"
-	next "bangs its head on"
+	db   "Questo #MON"
+	next "sbarazzino non si"
+	next "fa grossi proble-"
 
-	page "the river bottom"
-	next "as it swims but"
-	next "seems not to care.@"
+	page "mi: nuotando urta"
+	next "sempre gli scafi"
+	next "delle barche.@"

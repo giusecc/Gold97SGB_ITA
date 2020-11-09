@@ -1,10 +1,10 @@
-	db "PSI@" ; species name
-	dw 403, 1250 ; height, weight
+	db "PSICO@" ; species name
+	dw 130, 565 ; height, weight
 
-	db   "When it closes its"
-	next "eyes, twice as"
-	next "many alpha parti-"
+	db   "Possiede un forte"
+	next "potere psicolo-"
+	next "gico. La sua forza"
 
-	page "cles come out of"
-	next "the surface of its"
-	next "body.@"
+	page "psichica aumenta"
+	next "quando si trova in"
+	next "pericolo.@"

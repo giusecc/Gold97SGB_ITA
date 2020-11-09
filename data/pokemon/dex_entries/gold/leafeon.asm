@@ -1,10 +1,10 @@
-	db "LEAF@" ; species name
-	dw 211, 580 ; height, weight
+	db "FOGLIA@" ; species name
+	dw 090, 263 ; height, weight
 
-	db   "The leaves growing"
-	next "from its body"
-	next "are able to absorb"
+	db   "Le foglie che cre-"
+	next "scono sul suo"
+	next "corpo assorboni"
 	
-	page "nutrients from the"
-	next "sun similar to"
-	next "species of plants.@"
+	page "nutrienti dal sole"
+	next "in modo simile a"
+	next "molte piante.@"

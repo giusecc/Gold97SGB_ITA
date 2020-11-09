@@ -1,10 +1,10 @@
-	db "KICKING@" ; species name
-	dw 411, 1100 ; height, weight
+	db "TIRACALCI@" ; species name
+	dw 150, 498 ; height, weight
 
-	db   "It is also called"
-	next "the Kick Master."
-	next "It uses its"
+	db   "Questo straordina-"
+	next "rio #MON ha un"
+	next "grande equilibrio."
 
-	page "elastic legs to"
-	next "execute every"
-	next "known kick.@"
+	page "Può scalciare"
+	next "ripetutamente da"
+	next "ogni posizione.@"

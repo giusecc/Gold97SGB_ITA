@@ -1,10 +1,10 @@
-	db "MEGATON@" ; species name
-	dw 407, 6620 ; height, weight
+	db "MEGATONE@" ; species name
+	dw 140, 3000 ; height, weight
 
-	db   "Its rock-like body"
-	next "is so durable,"
-	next "even high-powered"
+	db   "Cambia pelle una"
+	next "volta all'anno."
+	next "Il vecchio guscio"
 
-	page "dynamite blasts"
-	next "fail to scratch"
-	next "its rugged hide.@"
+	page "subito si"
+	next "indurisce e"
+	next "si sgretola.@"

@@ -1,10 +1,10 @@
-	db "FIVE STAR@" ; species name
-	dw 303, 240 ; height, weight
+	db "TRIASTRA@" ; species name
+	dw 100, 108 ; height, weight
 
-	db   "It is timid and"
-	next "clusters together"
-	next "with others. The"
+	db   "È timidissimo."
+	next "Ha sempre paura di"
+	next "muoversi da solo."
 
-	page "fluid secreted by"
-	next "its feet indicates"
-	next "its location.@"
+	page "Ma in gruppo sa"
+	next "diventare molto"
+	next "attivo.@"

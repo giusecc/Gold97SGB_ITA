@@ -1,10 +1,10 @@
-	db "LEAF@" ; species name
-	dw 211, 140 ; height, weight
+	db "FOGLIA@" ; species name
+	dw 090, 064 ; height, weight
 
-	db   "It loves to bask"
-	next "in the sunlight."
-	next "It uses the leaf"
+	db   "Un dolce profumo"
+	next "si diffonde alla"
+	next "sua testa."
 
-	page "on its head to"
-	next "seek out warm"
-	next "places.@"
+	page "È docile e"
+	next "ama scaldarsi al"
+	next "sole.@"

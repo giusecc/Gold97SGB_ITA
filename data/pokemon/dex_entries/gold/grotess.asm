@@ -1,10 +1,10 @@
-	db "JAW FISH@" ; species name
-	dw 207, 720 ; height, weight
+	db "FAUCIPESCE@" ; species name
+	dw 080, 326 ; height, weight
 
-	db   "Has incredibly"
-	next "strong jaws that"
-	next "can tear through"
+	db   "Le sue incredibili"
+	next "fauci possono"
+	next "frantumare rocce,"
 
-	page "rocks, metals, and"
-	next "other materials"
-	next "with ease.@"
+	page "lacerare metalli e"
+	next "altri materiali"
+	next "con facilità.@"

@@ -1,10 +1,10 @@
-	db "DUCK@" ; species name
-	dw 507, 1690 ; height, weight
+	db "PAPERO@" ; species name
+	dw 170, 766 ; height, weight
 
-	db   "It swims grace-"
-	next "fully along on the"
-	next "quiet, slow-moving"
+	db   "Quando nuota a"
+	next "tutta velocità con"
+	next "i suoi lunghi arti"
 
-	page "rivers and lakes"
-	next "of which it is so"
-	next "fond.@"
+	page "palmati, la fronte"
+	next "gli diventa"
+	next "incandescente.@"

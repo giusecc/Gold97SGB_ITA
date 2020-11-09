@@ -1,10 +1,10 @@
-	db "PINCER@" ; species name
-	dw 403, 1320 ; height, weight
+	db "CHELA@" ; species name
+	dw 130, 600 ; height, weight
 
-	db   "Its oversized claw"
-	next "is very powerful,"
-	next "but when it's not"
+	db   "Gli è difficile"
+	next "sollevare le sue"
+	next "enormi chele. La"
 
-	page "in battle, the"
-	next "claw just gets in"
-	next "the way.@"
+	page "dimensione rende"
+	next "difficile usarle"
+	next "efficacemente.@"
