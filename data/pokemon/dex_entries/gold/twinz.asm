@@ -1,10 +1,10 @@
-	db "TWIN GROWTH@" ; species name
-	dw 108, 30 ; height, weight
+	db "GEMELLO@" ; species name
+	dw 051, 014 ; height, weight
 
-	db   "This #MON is"
-	next "a living embryo"
-	next "that has split"
+	db   "Questo #MON è un"
+	next "embrione vivente"
+	next "diviso in"
 
-	page "into two separate"
-	next "#MON with unique"
-	next "personalities.@"
+	page "due entità sepa-"
+	next "rate e"
+	next "indipendenti.@"

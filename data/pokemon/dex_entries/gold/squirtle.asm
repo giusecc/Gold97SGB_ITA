@@ -1,10 +1,10 @@
-	db "TINYTURTLE@" ; species name
-	dw 108, 200 ; height, weight
+	db "TARTAGHINA@" ; species name
+	dw 050, 090 ; height, weight
 
-	db   "When it feels"
-	next "threatened, it"
-	next "draws its legs"
+	db   "Quando nasce, il"
+	next "suo guscio è"
+	next "tenero. Ma presto"
 
-	page "inside its shell"
-	next "and sprays water"
-	next "from its mouth.@"
+	page "diviene elastico:"
+	next "se un dito lo"
+	next "tocca, rimbalza.@"

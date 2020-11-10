@@ -1,10 +1,10 @@
-	db "SHARP CLAW@" ; species name
-	dw 211, 620 ; height, weight
+	db "LAMARTIGLI@" ; species name
+	dw 090, 280 ; height, weight
 
-	db   "This cunning"
-	next "#MON hides"
-	next "under the cover"
+	db   "Le zampe"
+	next "nascondono artigli"
+	next "affilati. Se è"
 
-	page "of darkness,"
-	next "waiting to attack"
-	next "its prey.@"
+	page "attaccato, sferra"
+	next "gli artigli spa-"
+	next "ventando i nemici.@"

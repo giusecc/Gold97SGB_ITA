@@ -1,10 +1,10 @@
-	db "SPIKES@" ; species name
-	dw 303, 2540 ; height, weight
+	db "PUNZONI@" ; species name
+	dw 100, 1150 ; height, weight
 
-	db   "It can remember"
-	next "only one thing at"
-	next "a time. Once it"
+	db   "Le quattro piccole"
+	next "zampe gli impedi-"
+	next "scono di voltarsi"
 
-	page "starts rushing, it"
-	next "forgets why it"
-	next "started.@"
+	page "Perciò corre"
+	next "e attacca in una"
+	next "sola direzione.@"

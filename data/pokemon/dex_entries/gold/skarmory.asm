@@ -1,10 +1,10 @@
-	db "ARMOR BIRD@" ; species name
-	dw 507, 1110 ; height, weight
+	db "ARMUCCELLO@" ; species name
+	dw 170, 505 ; height, weight
 
-	db   "The feathers that"
-	next "it sheds are very"
-	next "sharp. It is said"
+	db   "Le imponenti ali"
+	next "sembrano pesanti,"
+	next "ma in realtà sono"
 
-	page "that people once"
-	next "used the feathers"
-	next "as swords.@"
+	page "vuote e leggere, e"
+	next "lo fanno volare"
+	next "libero nel cielo.@"

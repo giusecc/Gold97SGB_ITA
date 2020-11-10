@@ -1,10 +1,10 @@
-	db "MOUSE@" ; species name
-	dw 200, 260 ; height, weight
+	db "TOPO@" ; species name
+	dw 060, 120 ; height, weight
 
-	db   "It prefers dry,"
-	next "sandy places"
-	next "because it uses"
+	db   "Se cade da una"
+	next "grande altezza,"
+	next "questo #MON può"
 
-	page "the sand to"
-	next "protect itself"
-	next "when threatened.@"
+	page "salvarsi"
+	next "appallottolandosi"
+	next "e rimbalzando.@"

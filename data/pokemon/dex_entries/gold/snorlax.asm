@@ -1,10 +1,10 @@
-	db "SLEEPING@" ; species name
-	dw 611, 10140 ; height, weight
+	db "SONNO@" ; species name
+	dw 210, 4600 ; height, weight
 
-	db   "This #MON's"
-	next "stomach is so"
-	next "strong, even"
+	db   "Ciò che sembra il"
+	next "verso potrebbe in-"
+	next "vece essere il suo"
 
-	page "eating moldy or"
-	next "rotten food will"
-	next "not affect it.@"
+	page "modo di russare, o"
+	next "il gorgogliare"
+	next "dello stomaco.@"

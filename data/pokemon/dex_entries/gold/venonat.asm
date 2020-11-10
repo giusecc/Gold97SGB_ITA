@@ -1,10 +1,10 @@
-	db "INSECT@" ; species name
-	dw 303, 660 ; height, weight
+	db "INSETTO@" ; species name
+	dw 100, 300 ; height, weight
 
-	db   "The small bugs it"
-	next "eats appear only"
-	next "at night, so it"
+	db   "I suoi occhi fanno"
+	next "anche da radar,"
+	next "per catturare"
 
-	page "sleeps in a hole"
-	next "in a tree until"
-	next "night falls.@"
+	page "e mangiare piccoli"
+	next "insetti che vivono"
+	next "nell'oscurità.@"

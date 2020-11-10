@@ -1,10 +1,10 @@
-	db "MOUSE@" ; species name
-	dw 207, 660 ; height, weight
+	db "TOPO@" ; species name
+	dw 080, 300 ; height, weight
 
-	db   "If its electric"
-	next "pouches run empty,"
-	next "it raises its tail"
+	db   "Se l'elettricità"
+	next "aumenta, i muscoli"
+	next "sono sollecitati"
 
-	page "to gather electri-"
-	next "city from the"
-	next "atmosphere.@"
+	page "e diventa più"
+	next "aggressivo"
+	next "del solito.@"

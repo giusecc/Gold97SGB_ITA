@@ -1,10 +1,10 @@
-	db "VINE@" ; species name
-	dw 303, 770 ; height, weight
+	db "LIANA@" ; species name
+	dw 100, 350 ; height, weight
 
-	db   "During battle, it"
-	next "constantly moves"
-	next "the vines that"
+	db   "Le liane che"
+	next "coprono il suo"
+	next "corpo dondolano"
 
-	page "cover its body in"
-	next "order to annoy its"
-	next "opponent.@"
+	page "in continuazione."
+	next "Ciò innervosisce"
+	next "molto i nemici.@"

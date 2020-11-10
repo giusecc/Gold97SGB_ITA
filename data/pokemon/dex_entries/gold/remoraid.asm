@@ -1,10 +1,10 @@
 	db "JET@" ; species name
-	dw 200, 260 ; height, weight
+	dw 060, 120 ; height, weight
 
-	db   "To escape from an"
-	next "attacker, it may"
-	next "shoot water out of"
+	db   "La sua precisione"
+	next "è straordinaria."
+	next "Può colpire una"
 
-	page "its mouth, then"
-	next "use that force to"
-	next "swim backward.@"
+	page "preda in movimento"
+	next "anche a più"
+	next "di 100 metri.@"

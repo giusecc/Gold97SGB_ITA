@@ -1,10 +1,10 @@
-	db "ROYAL@" ; species name
-	dw 607, 1750 ; height, weight
+	db "REALE@" ; species name
+	dw 200, 795 ; height, weight
 
-	db   "Every time it ya-"
-	next "wns, SHELLDER"
-	next "injects more poi-"
+	db   "Donato di incredi-"
+	next "bile intelligenza"
+	next "e intuito, sa"
 
-	page "son into it. The"
-	next "poison makes it"
-	next "more intelligent.@"
+	page "restare calmo e"
+	next "pardrone di sé in"
+	next "ogni situazione.@"

@@ -1,10 +1,10 @@
-	db "SYMBOL@" ; species name
-	dw 108, 110 ; height, weight
+	db "SIMBOLO@" ; species name
+	dw 050, 050 ; height, weight
 
-	db   "Because different"
-	next "types of UNOWN"
-	next "exist, it is said"
+	db   "La loro forma è"
+	next "simile a gerogli-"
+	next "fici su antiche"
 
-	page "that they must"
-	next "have a variety of"
-	next "abilities.@"
+	page "tavole. Si pensa"
+	next "che non sia una"
+	next "coincidenza.@"

@@ -1,10 +1,10 @@
-	db "ICE MONSTER@" ; species name
-	dw 203, 750 ; height, weight
+	db "YETI@" ; species name
+	dw 070, 340 ; height, weight
 
-	db   "The fur that"
-	next "surrounds its body"
-	next "is an outer cover"
+	db   "Il folto pelo che"
+	next "lo ricopre"
+	next "nasconde la sua"
 
-	page "that conceals its"
-	next "true form, which"
-	next "is never seen.@"
+	page "vera forma, che"
+	next "non lascia mai"
+	next "vedere.@"

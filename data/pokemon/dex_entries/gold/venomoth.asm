@@ -1,10 +1,10 @@
-	db "POISONMOTH@" ; species name
-	dw 411, 280 ; height, weight
+	db "VELENTARMA@" ; species name
+	dw 150, 125 ; height, weight
 
-	db   "The scales it"
-	next "scatters will"
-	next "paralyze anyone"
+	db   "Quando attacca"
+	next "batte con forza"
+	next "le sue larghe ali"
 
-	page "who touches them,"
-	next "making that person"
-	next "unable to stand.@"
+	page "spargendo ovunque"
+	next "la sua polvere"
+	next "velenosa.@"

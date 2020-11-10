@@ -1,10 +1,10 @@
-	db "VINE@" ; species name
-	dw 205, 440 ; height, weight
+	db "LIANA@" ; species name
+	dw 070, 200 ; height, weight
 
-	db   "The unruly vines"
-	next "hanging from its"
-	next "head often obscure"
+	db   "Le liane che"
+	next "pendono dalla sua"
+	next "testa gli coprono"
 
-	page "its vision. Is"
-	next "able to camouflage"
-	next "itself in shrubs.@"
+	page "la vista. È capace"
+	next "di mimetizzarsi"
+	next "nei cespugli.@"

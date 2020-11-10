@@ -1,10 +1,10 @@
-	db "ICE MONSTER@" ; species name
-	dw 504, 2230 ; height, weight
+	db "YETI@" ; species name
+	dw 160, 1011 ; height, weight
 
-	db   "Its fur isn't"
-	next "warmed by its"
-	next "body heat, as it"
+	db   "Il suo pelo non è"
+	next "scaldato dal suo"
+	next "corpo, ma rimane"
 
-	page "stays as cold as"
-	next "the environment it"
-	next "lives in.@"
+	page "gelido come"
+	next "l'ambiente in cui"
+	next "vive.@"

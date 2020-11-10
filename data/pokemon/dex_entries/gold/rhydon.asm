@@ -1,10 +1,10 @@
-	db "DRILL@" ; species name
-	dw 603, 2650 ; height, weight
+	db "TRAPANO@" ; species name
+	dw 190, 1200 ; height, weight
 
-	db   "By lightly spin-"
-	next "ning its drill-"
-	next "like horn, it can"
+	db   "La sua pelle dura"
+	next "lo protegge anche"
+	next "dalla lava."
 
-	page "easily shatter"
-	next "even a diamond in"
-	next "the rough.@"
+	page "La sua pelle però"
+	next "lo rende anche"
+	next "insensibile.@"

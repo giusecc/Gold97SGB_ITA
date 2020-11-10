@@ -1,10 +1,10 @@
-	db "POISON GAS@" ; species name
-	dw 311, 210 ; height, weight
+	db "VELENUVOLA@" ; species name
+	dw 120, 095 ; height, weight
 
-	db   "When it inhales"
-	next "poisonous gases"
-	next "from garbage, its"
+	db   "Se uno dei gemelli"
+	next "KOFFING si sgonfia"
+	next "l'altro si gonfia."
 
-	page "body expands, and"
-	next "its insides smell"
-	next "much worse.@"
+	page "I loro gas veleno-"
+	next "si si mischiano"
+	next "incessantemente.@"

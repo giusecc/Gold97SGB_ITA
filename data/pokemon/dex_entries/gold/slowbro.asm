@@ -1,10 +1,10 @@
-	db "HERMITCRAB@" ; species name
-	dw 503, 1730 ; height, weight
+	db "PAGURO@" ; species name
+	dw 160, 785 ; height, weight
 
-	db   "An attached"
-	next "SHELLDER won't let"
-	next "go because of the"
+	db   "Se combattendo"
+	next "perde lo SHELLDER"
+	next "che gli morde la"
 
-	page "tasty flavor that"
-	next "oozes out of its"
-	next "tail.@"
+	page "coda, si trasforma"
+	next "in un comune"
+	next "SLOWPOKE.@"

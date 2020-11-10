@@ -1,10 +1,10 @@
-	db "IRON SNAKE@" ; species name
-	dw 3002, 8820 ; height, weight
+	db "FERROSERPE@" ; species name
+	dw 920, 4000 ; height, weight
 
-	db   "The many small"
-	next "metal particles"
-	next "that cover this"
+	db   "Il suo corpo,"
+	next "pressato a"
+	next "grandissime"
 
-	page "#MON's body"
-	next "reflect bright"
-	next "light well.@"
+	page "profondità, è"
+	next "diventato più"
+	next "duro del diamante.@"

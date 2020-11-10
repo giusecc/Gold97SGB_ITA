@@ -1,10 +1,10 @@
-	db "THUNDER@" ; species name
-	dw 603, 3920 ; height, weight
+	db "TUONO@" ; species name
+	dw 190, 1780 ; height, weight
 
-	db   "This rough #MON"
-	next "stores energy"
-	next "inside its body,"
+	db   "Grazie all'elet-"
+	next "tricità accumulata"
+	next "in sé, lancia ful-"
 
-	page "then sweeps across"
-	next "the land, shooting"
-	next "off electricity.@"
+	page "mini a volontà."
+	next "Pare che sia arri-"
+	next "vato con un lampo.@"

@@ -1,10 +1,10 @@
-	db "FOX@" ; species name
-	dw 170, 170 ; height, weight
+	db "VOLPE@" ; species name
+	dw 050, 077 ; height, weight
 
-	db   "Its three tails"
-	next "are its primary"
-	next "source of warmth."
+	db   "Le sue tre code"
+	next "sono la sua fonte"
+	next "principale di ca-"
 
-	page "Most of its body"
-	next "heat is stored"
-	next "in its tails.@"
+	page "lore. Conservano"
+	next "quasi tutto il"
+	next "calore corporeo.@"

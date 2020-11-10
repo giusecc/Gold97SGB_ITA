@@ -1,10 +1,10 @@
-	db "BAT@" ; species name
-	dw 207, 170 ; height, weight
+	db "PIPSTREL.@" ; species name
+	dw 080, 075 ; height, weight
 
-	db   "During the day, it"
-	next "gathers with"
-	next "others and hangs"
+	db   "Mentre vola emette"
+	next "continuamente"
+	next "ultrasuoni dalla"
 
-	page "from the ceilings"
-	next "of old buildings"
-	next "and caves.@"
+	page "bocca per analiz-"
+	next "zare l'ambiente"
+	next "circostante.@"

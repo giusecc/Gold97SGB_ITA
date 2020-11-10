@@ -1,10 +1,10 @@
-	db "TURTLE@" ; species name
-	dw 303, 500 ; height, weight
+	db "TARTARUGA@" ; species name
+	dw 100, 225 ; height, weight
 
-	db   "Its long, furry"
-	next "tail is a symbol"
-	next "of longevity,"
+	db   "È considerato un"
+	next "simbolo di longe-"
+	next "vità. Se ci sono"
 
-	page "making it quite"
-	next "popular among"
-	next "older people.@"
+	page "alghe sul suo"
+	next "guscio, allora"
+	next "è molto anziano.@"

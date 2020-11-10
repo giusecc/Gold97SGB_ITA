@@ -1,10 +1,10 @@
-	db "DOPEY@" ; species name
-	dw 311, 790 ; height, weight
+	db "RONFONE@" ; species name
+	dw 120, 360 ; height, weight
 
-	db   "It is always so"
-	next "absent-minded that"
-	next "it won't react,"
+	db   "Ozia con aria as-"
+	next "sente vicino all'"
+	next "acqua. Se gli si"
 
-	page "even if its"
-	next "flavorful tail is"
-	next "bitten.@"
+	page "morsicasse la coda"
+	next "non se ne accorge-"
+	next "rebbe neppure.@"

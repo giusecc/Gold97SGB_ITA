@@ -1,10 +1,10 @@
-	db "MOUSE@" ; species name
-	dw 303, 650 ; height, weight
+	db "TOPO@" ; species name
+	dw 100, 295 ; height, weight
 
-	db   "Adept at climbing"
-	next "trees, it rolls"
-	next "into a spiny ball,"
+	db   "Per nascondersi"
+	next "può girare su se"
+	next "stesso velocemente"
 
-	page "then attacks its"
-	next "enemies from"
-	next "above.@"
+	page "e provocare una"
+	next "tempesta di"
+	next "polvere accecante.@"

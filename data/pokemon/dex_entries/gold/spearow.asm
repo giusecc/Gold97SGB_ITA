@@ -1,10 +1,10 @@
-	db "TINY BIRD@" ; species name
-	dw 100, 40 ; height, weight
+	db "UCCELLINO@" ; species name
+	dw 030, 020 ; height, weight
 
-	db   "To protect its"
-	next "territory, it"
-	next "flies around"
+	db   "Battendo le corte"
+	next "ali scova insetti"
+	next "nell'erba alta."
 
-	page "ceaselessly,"
-	next "making high-"
-	next "pitched cries.@"
+	page "Poi li raccoglie"
+	next "con il suo tozzo"
+	next "becco.@"

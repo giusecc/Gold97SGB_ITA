@@ -1,10 +1,10 @@
-	db "HAIRY BUG@" ; species name
-	dw 100, 70 ; height, weight
+	db "MILLEPIEDI@" ; species name
+	dw 030, 032 ; height, weight
 
-	db   "The barb on top of"
-	next "its head secretes"
-	next "a strong poison."
+	db   "Ha un pungiglione"
+	next "molto velenoso. La"
+	next "vivace colorazione"
 
-	page "It uses this toxic"
-	next "barb to protect"
-	next "itself.@"
+	page "del suo corpo è"
+	next "un avvertimento"
+	next "per i nemici.@"

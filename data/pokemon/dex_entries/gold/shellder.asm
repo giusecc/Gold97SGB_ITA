@@ -1,10 +1,10 @@
 	db "BIVALVE@" ; species name
-	dw 100, 90 ; height, weight
+	dw 030, 040 ; height, weight
 
-	db   "Clamping on to an"
-	next "opponent reveals"
-	next "its vulnerable"
+	db   "Nuota all'indietro"
+	next "aprendo e chiuden-"
+	next "do le due parti"
 
-	page "parts, so it uses"
-	next "this move only as"
-	next "a last resort.@"
+	page "del guscio. È"
+	next "sorprendentemente"
+	next "rapido.@"

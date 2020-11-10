@@ -1,10 +1,10 @@
-	db "PAINTER@" ; species name
-	dw 311, 1280 ; height, weight
+	db "PITTORE@" ; species name
+	dw 120, 580 ; height, weight
 
-	db   "The color of the"
-	next "mysterious fluid"
-	next "secreted from its"
+	db   "Sulla coda ha un"
+	next "fluido speciale,"
+	next "che lascia"
 
-	page "tail is predeter-"
-	next "mined for each"
-	next "SMEARGLE.@"
+	page "ovunque per"
+	next "marcare il suo"
+	next "territorio.@"

@@ -1,10 +1,10 @@
-	db "CONICAL@" ; species name
-	dw 401, 1380 ; height, weight
+	db "CONICO@" ; species name
+	dw 124, 626 ; height, weight
 
-	db   "Despite appearing"
-	next "to have no limbs,"
-	next "this #MON is"
+	db   "Anche se non sembra"
+	next "possedere arti,"
+	next "questo #MON è ca-"
 
-	page "able to throw the"
-	next "weight of its body"
-	next "around with force.@"
+	page "pace di gettare"
+	next "il peso del suo"
+	next "corpo con forza.@"

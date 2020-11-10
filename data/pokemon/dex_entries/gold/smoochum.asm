@@ -1,10 +1,10 @@
-	db "KISS@" ; species name
-	dw 104, 130 ; height, weight
+	db "BACIO@" ; species name
+	dw 040, 060 ; height, weight
 
-	db   "The sensitivity of"
-	next "its lips develops"
-	next "most quickly."
+	db   "Le labbra sono la"
+	next "parte più sensi-"
+	next "bile del corpo, il"
 
-	page "It uses them to"
-	next "try to identify"
-	next "unknown objects.@"
+	page "primo organo con"
+	next "cui analizza"
+	next "nuovi oggetti.@"

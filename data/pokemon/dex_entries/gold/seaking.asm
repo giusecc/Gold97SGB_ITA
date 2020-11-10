@@ -1,10 +1,10 @@
-	db "GOLDFISH@" ; species name
-	dw 403, 860 ; height, weight
+	db "PESCEROSSO@" ; species name
+	dw 130, 390 ; height, weight
 
-	db   "When autumn comes,"
-	next "the males patrol"
-	next "the area around"
+	db   "Durante la deposi-"
+	next "zione delle uova,"
+	next "i SEAKING riuniti"
 
-	page "their nests in"
-	next "order to protect"
-	next "their offspring.@"
+	page "colorano l'acqua"
+	next "dei fiumi di un"
+	next "rosso intenso.@"

@@ -1,10 +1,10 @@
-	db "MYSTIC@" ; species name
-	dw 411, 330 ; height, weight
+	db "MAGICO@" ; species name
+	dw 150, 150 ; height, weight
 
-	db   "Once it begins to"
-	next "meditate at sun-"
-	next "rise, the entire"
+	db   "Si dice che sia"
+	next "così quieto"
+	next "perché sta"
 
-	page "day will pass"
-	next "before it will"
-	next "move again.@"
+	page "osservando passato"
+	next "e futuro allo"
+	next "stesso tempo.@"

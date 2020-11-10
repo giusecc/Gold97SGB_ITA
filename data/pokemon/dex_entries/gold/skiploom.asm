@@ -1,10 +1,10 @@
-	db "COTTONWEED@" ; species name
-	dw 200, 20 ; height, weight
+	db "GRAMIGNA@" ; species name
+	dw 060, 010 ; height, weight
 
-	db   "As soon as it"
-	next "rains, it closes"
-	next "its flower and"
+	db   "Il fiore sul capo"
+	next "si apre e si"
+	next "chiude con il"
 
-	page "hides in the shade"
-	next "of a tree to avoid"
-	next "getting wet.@"
+	page "continuo mutare"
+	next "della temperatura"
+	next "corporea.@"

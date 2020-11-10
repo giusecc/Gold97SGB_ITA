@@ -1,10 +1,10 @@
-	db "FLOWER@" ; species name
-	dw 311, 410 ; height, weight
+	db "FIORE@" ; species name
+	dw 120, 186 ; height, weight
 
-	db   "By shaking its big"
-	next "petals, it scat-"
-	next "ters toxic pollen"
+	db   "Ha i petali più"
+	next "grandi del mondo."
+	next "Ad ogni suo passo,"
 
-	page "into the air,"
-	next "turning the air"
-	next "yellow.@"
+	page "i petali liberano"
+	next "fitte nubi di"
+	next "polline tossico.@"

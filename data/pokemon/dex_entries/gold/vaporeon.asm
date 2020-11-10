@@ -1,10 +1,10 @@
-	db "BUBBLE JET@" ; species name
-	dw 303, 640 ; height, weight
+	db "BOLLAJET@" ; species name
+	dw 100, 290 ; height, weight
 
-	db   "As it uses the"
-	next "fins on the tip"
-	next "of its tail to"
+	db   "Se le pinne di"
+	next "VAPOREON iniziano"
+	next "a vibrare, vuol"
 
-	page "swim, it blends"
-	next "with the water"
-	next "perfectly.@"
+	page "dire che pioverà"
+	next "nel giro di poche"
+	next "ore.@"

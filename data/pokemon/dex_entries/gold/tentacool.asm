@@ -1,10 +1,10 @@
-	db "JELLYFISH@" ; species name
-	dw 211, 1000 ; height, weight
+	db "MEDUSA@" ; species name
+	dw 090, 455 ; height, weight
 
-	db   "As it floats along"
-	next "on the waves, it"
-	next "uses its toxic"
+	db   "Con la bassa marea"
+	next "si possono"
+	next "trovare resti"
 
-	page "feelers to stab"
-	next "anything it"
-	next "touches.@"
+	page "disidratati di"
+	next "TENTACOOL sul"
+	next "bagnasciuga.@"

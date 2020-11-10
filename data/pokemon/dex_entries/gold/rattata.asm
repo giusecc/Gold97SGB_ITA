@@ -1,10 +1,10 @@
-	db "RAT@" ; species name
-	dw 100, 80 ; height, weight
+	db "RATTO@" ; species name
+	dw 030, 035 ; height, weight
 
-	db   "This #MON's"
-	next "impressive vital-"
-	next "ity allows it to"
+	db   "Mangia qualsiasi"
+	next "cosa. Si sistema"
+	next "ovunque ci sia"
 
-	page "live anywhere. It"
-	next "also multiplies"
-	next "very quickly.@"
+	page "del cibo,"
+	next "moltiplicandosi"
+	next "ininterrottamente.@"

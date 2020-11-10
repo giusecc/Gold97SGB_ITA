@@ -1,10 +1,10 @@
-	db "FLYCATCHER@" ; species name
-	dw 303, 140 ; height, weight
+	db "MOSCHIVORO@" ; species name
+	dw 100, 064 ; height, weight
 
-	db   "When it's hungry,"
-	next "it swings its"
-	next "razor-sharp"
+	db   "Sebbene sia pieno"
+	next "di ACIDO, riesce"
+	next "a non sciogliersi"
 
-	page "leaves, slicing up"
-	next "any unlucky object"
-	next "nearby for food.@"
+	page "perché emette"
+	next "un liquido"
+	next "neutralizzante.@"

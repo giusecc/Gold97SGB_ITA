@@ -1,10 +1,10 @@
-	db "FIRE BEAR@" ; species name
-	dw 305, 720 ; height, weight
+	db "FIAMMORSO@" ; species name
+	dw 100, 327 ; height, weight
 
-	db   "The fur on its"
-	next "back can become"
-	next "alight with flame"
+	db   "Il pelo sul suo"
+	next "dorso può infiam-"
+	next "marsi quando"
 
-	page "whenever it wills."
-	next "Touching it causes"
-	next "instant burns.@"
+	page "Vuole. Toccarlo"
+	next "significa scotta-"
+	next "rsi all'istante.@"

@@ -1,10 +1,10 @@
-	db "WILD BULL@" ; species name
-	dw 407, 1950 ; height, weight
+	db "TOROBRADO@" ; species name
+	dw 140, 884 ; height, weight
 
-	db   "These violent"
-	next "#MON fight"
-	next "with other mem-"
+	db   "Lottano tra loro"
+	next "incrociando le"
+	next "corna. Il capo-"
 
-	page "bers of their herd"
-	next "in order to prove"
-	next "their strength.@"
+	page "branco è fiero dei"
+	next "segni delle lotte"
+	next "sulle sue corna.@"

@@ -1,10 +1,10 @@
-	db "SPIKE BALL@" ; species name
-	dw 100, 30 ; height, weight
+	db "PALLAPUNTE@" ; species name
+	dw 030, 015 ; height, weight
 
-	db   "It is considered"
-	next "to be a symbol of"
-	next "good luck. Its"
+	db   "Il suo guscio"
+	next "sembra ricolmo di"
+	next "gioia. Si dice che"
 
-	page "shell is said to"
-	next "be filled with"
-	next "happiness.@"
+	page "porti fortuna se"
+	next "lo si tratta"
+	next "bene.@"

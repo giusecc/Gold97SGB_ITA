@@ -1,10 +1,10 @@
-	db "MANTIS@" ; species name
-	dw 411, 1230 ; height, weight
+	db "MANTIDE@" ; species name
+	dw 150, 560 ; height, weight
 
-	db   "It's very proud of"
-	next "its speed. It"
-	next "moves so fast that"
+	db   "Si fa strada tra"
+	next "l'erba grazie alle"
+	next "lame affilate,"
 
-	page "its opponent does"
-	next "not even know what"
-	next "knocked it down.@"
+	page "muovendosi troppo"
+	next "velocemente per"
+	next "l'occhio umano.@"

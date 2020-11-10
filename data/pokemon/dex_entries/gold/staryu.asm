@@ -1,10 +1,10 @@
-	db "STARSHAPE@" ; species name
-	dw 207, 760 ; height, weight
+	db "STELLA@" ; species name
+	dw 080, 345 ; height, weight
 
-	db   "When the stars"
-	next "twinkle at night,"
-	next "it floats up from"
+	db   "Di notte il centro"
+	next "del suo corpo"
+	next "pulsa lentamente,"
 
-	page "the sea floor, and"
-	next "its body's center"
-	next "core flickers.@"
+	page "allo stesso ritmo"
+	next "del cuore"
+	next "umano.@"

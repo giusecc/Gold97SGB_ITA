@@ -1,10 +1,10 @@
-	db "FOX@" ; species name
-	dw 200, 220 ; height, weight
+	db "VOLPE@" ; species name
+	dw 060, 099 ; height, weight
 
-	db   "As its body grows"
-	next "larger, its six"
-	next "warm tails become"
+	db   "Crescendo, le sue"
+	next "sei code diventano"
+	next "sempre più belle."
 
-	page "more beautiful,"
-	next "with a more luxur-"
-	next "ious coat of fur.@"
+	page "È molto"
+	next "tenero e"
+	next "affettuoso.@"

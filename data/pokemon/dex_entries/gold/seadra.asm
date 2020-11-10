@@ -1,10 +1,10 @@
-	db "DRAGON@" ; species name
-	dw 311, 550 ; height, weight
+	db "DRAGO@" ; species name
+	dw 120, 250 ; height, weight
 
-	db   "The male raises"
-	next "the young. If it"
-	next "is approached, it"
+	db   "Un esame delle sue"
+	next "cellule ha rivela-"
+	next "to la presenza di"
 
-	page "uses its toxic"
-	next "spikes to fend off"
-	next "the intruder.@"
+	page "un gene assente in"
+	next "HORSEA. Se ne è"
+	next "parlato molto.@"

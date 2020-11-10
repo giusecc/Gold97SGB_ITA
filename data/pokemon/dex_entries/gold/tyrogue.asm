@@ -1,10 +1,10 @@
-	db "SCUFFLE@" ; species name
-	dw 204, 460 ; height, weight
+	db "BARUFFA@" ; species name
+	dw 070, 210 ; height, weight
 
-	db   "To brush up on its"
-	next "fighting skills,"
-	next "it will challenge"
+	db   "È sempre traboc-"
+	next "cante di energia."
+	next "Per rinforzarsi"
 
-	page "anyone. It has a"
-	next "very strong com-"
-	next "petitive spirit.@"
+	page "continua a combat-"
+	next "tere anche dopo"
+	next "aver perso.@"

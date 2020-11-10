@@ -1,10 +1,10 @@
-	db "FLYCATCHER@" ; species name
-	dw 507, 340 ; height, weight
+	db "MOSCHIVORO@" ; species name
+	dw 170, 155 ; height, weight
 
-	db   "Once ingested into"
-	next "this #MON's"
-	next "body, even the"
+	db   "L'ACIDO si fa più"
+	next "dolce dopo avervi"
+	next "dissolto molte"
 
-	page "hardest object"
-	next "will melt into"
-	next "nothing.@"
+	page "prede. Così attrae"
+	next "nuove prede ancora"
+	next "più facilmente.@"

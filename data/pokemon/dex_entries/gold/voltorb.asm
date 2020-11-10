@@ -1,10 +1,10 @@
 	db "BALL@" ; species name
-	dw 108, 230 ; height, weight
+	dw 050, 104 ; height, weight
 
-	db   "During the study"
-	next "of this #MON,"
-	next "it was discovered"
+	db   "Rotola. Se il"
+	next "terreno è"
+	next "irregolare,"
 
-	page "that its compo-"
-	next "nents are not"
-	next "found in nature.@"
+	page "può esplodere all'"
+	next "improvviso scon-"
+	next "trando una gobba.@"

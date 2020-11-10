@@ -1,10 +1,10 @@
-	db "SUN@" ; species name
-	dw 207, 190 ; height, weight
+	db "SOLE@" ; species name
+	dw 080, 085 ; height, weight
 
-	db   "As the hot season"
-	next "approaches, the"
-	next "petals on this"
+	db   "Converte la luce"
+	next "solare in energia."
+	next "Nell'oscurità"
 
-	page "#MON's face"
-	next "become more vivid"
-	next "and lively.@"
+	page "dopo il tramonto,"
+	next "richiude i petali"
+	next "e si fa quieto.@"

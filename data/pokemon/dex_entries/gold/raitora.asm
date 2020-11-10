@@ -1,10 +1,10 @@
-	db "ZAP TIGER@" ; species name
-	dw 501, 1520 ; height, weight
+	db "ELETTIGRE@" ; species name
+	dw 150, 236 ; height, weight
 
-	db   "This #MON's skin"
-	next "seems to give off"
-	next "a glow, even in"
+	db   "La sua pelle"
+	next "sembra risplen-"
+	next "dere, anche nel"
 
-	page "darker areas."
-	next "Its cheeks glow"
-	next "brightest.@"
+	page "buio profondo."
+	next "Le sue guance"
+	next "sono lucenti.@"
