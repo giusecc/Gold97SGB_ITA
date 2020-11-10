@@ -1,4 +1,4 @@
-	db "DRILL@" ; species name
+	db "TRAPANO@" ; species name
 	dw 14, 620 ; height, weight
 
 	db   "In battaglia fa"

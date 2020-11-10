@@ -5,6 +5,6 @@
 	next "tutti i giorni, e"
 	next "se lo spalma"
 
-	page "sui pele delle"
+	page "sui peli delle"
 	next "zampe per traspor-"
 	next "tarlo al nido.@"

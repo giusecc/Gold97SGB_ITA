@@ -6,5 +6,5 @@
 	next "sia dall'estremi-"
 
 	page "tà opposta. È dura"
-	next "distinguerne l'-"
+	next "distinguerne l'i-"
 	next "nizio e la fine.@"

@@ -3,7 +3,7 @@
 
 	db   "È turbolento di"
 	next "natura, sempre"
-	next "alal ricerca di"
+	next "alla ricerca di"
 
 	page "avversari. Si"
 	next "placa solo dopo"

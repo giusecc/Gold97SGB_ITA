@@ -3,7 +3,7 @@
 
 	db   "Le foglie che cre-"
 	next "scono sul suo"
-	next "corpo assorboni"
+	next "corpo assorbono"
 	
 	page "nutrienti dal sole"
 	next "in modo simile a"

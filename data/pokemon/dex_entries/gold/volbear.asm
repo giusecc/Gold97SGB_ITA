@@ -6,5 +6,5 @@
 	next "marsi quando"
 
 	page "Vuole. Toccarlo"
-	next "significa scotta-"
-	next "rsi all'istante.@"
+	next "significa scottar-"
+	next "si all'istante.@"

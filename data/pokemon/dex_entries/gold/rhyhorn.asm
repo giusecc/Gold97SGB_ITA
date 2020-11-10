@@ -3,7 +3,7 @@
 
 	db   "Le quattro piccole"
 	next "zampe gli impedi-"
-	next "scono di voltarsi"
+	next "scono di voltarsi."
 
 	page "Perciò corre"
 	next "e attacca in una"
