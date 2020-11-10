@@ -1,92 +1,94 @@
 BattleText:: ; used only for BANK(BattleText)
 
 BattleText_PlayerPickedUpPayDayMoney:
-	text "<PLAYER> picked up"
+	text "<PLAYER> raccoglie"
 	line "¥@"
 	text_decimal wPayDayMoney, 3, 6
 	text "!"
 	prompt
 
 WildPokemonAppearedText:
-	text "Wild @"
+	text "Appare @"
 	text_ram wEnemyMonNick
 	text_start
-	line "appeared!"
+	line "selvatico!"
 	prompt
 
 HookedPokemonAttackedText:
-	text "The hooked"
-	line "@"
 	text_ram wEnemyMonNick
 	text_start
-	cont "attacked!"
+	line "pescato attacca!"
 	prompt
 
 PokemonFellFromTreeText:
 	text_ram wEnemyMonNick
-	text " fell"
-	line "out of the tree!"
+	text_start
+	line "cade dall'albero!"
 	prompt
 
 WantsToBattleText::
 	text "<ENEMY>"
-	line "wants to battle!"
+	line "vuole lottare!"
 	prompt
 
 BattleText_WildFled:
-	text "Wild @"
 	text_ram wEnemyMonNick
 	text_start
-	line "fled!"
+	line "selvatico fugge!"
 	prompt
 
 BattleText_EnemyFled:
-	text "Enemy @"
 	text_ram wEnemyMonNick
 	text_start
-	line "fled!"
+	line "selvatico fugge!"
 	prompt
 
 HurtByPoisonText:
-	text "<USER>"
-	line "is hurt by poison!"
+	text "Il veleno ha"
+	line "effetto su"
+	cont "<USER>!"
 	prompt
 
 HurtByBurnText:
-	text "<USER>'s"
-	line "hurt by its burn!"
+	text "<USER>"
+	line "soffre per la"
+	cont "scottatura!"
 	prompt
 
 LeechSeedSapsText:
-	text "LEECH SEED saps"
-	line "<USER>!"
+	text "PARASSISEME toglie"
+	line "energia a"
+	cont "<USER>!"
 	prompt
 
 HasANightmareText:
 	text "<USER>"
-	line "has a NIGHTMARE!"
+	line "ha un INCUBO!"
 	prompt
 
 HurtByCurseText:
-	text "<USER>'s"
-	line "hurt by the CURSE!"
+	text "MALEDIZIONE"
+	line "agisce su"
+	cont "<USER>"
 	prompt
 
 SandstormHitsText:
-	text "The SANDSTORM hits"
-	line "<USER>!"
+	text "TERREMPESTA"
+	line "colpisce"
+	cont "<USER>!"
 	prompt
 
 PerishCountText:
-	text "<USER>'s"
-	line "PERISH count is @"
+	text "ULTIMOCANTO di"
+	line "<USER>:"
+	cont "meno @"
 	text_decimal wDeciramBuffer, 1, 1
 	text "!"
 	prompt
 
 BattleText_TargetRecoveredWithItem:
 	text "<TARGET>"
-	line "recovered with"
+	line "si riprende con"
 	cont "@"
 	text_ram wStringBuffer1
 	text "."
@@ -94,7 +96,7 @@ BattleText_TargetRecoveredWithItem:
 
 BattleText_UserRecoveredPPUsing:
 	text "<USER>"
-	line "recovered PP using"
+	line "recupera PP con"
 	cont "@"
 	text_ram wStringBuffer1
 	text "."
@@ -102,334 +104,340 @@ BattleText_UserRecoveredPPUsing:
 
 BattleText_TargetWasHitByFutureSight:
 	text "<TARGET>"
-	line "was hit by FUTURE"
-	cont "SIGHT!"
+	line "è colpito da"
+	cont "DIVINAZIONE!"
 	prompt
 
 BattleText_SafeguardFaded:
-	text "<USER>'s"
-	line "SAFEGUARD faded!"
+	text "Cade"
+	line "SALVAGUARDIA di"
+	cont "<USER>!"
 	prompt
 
 BattleText_MonsLightScreenFell:
+	text "SCHERMO-LUCE del"
+	line "#MON @"
 	text_ram wStringBuffer1
-	text " #MON's"
-	line "LIGHT SCREEN fell!"
+	text_start
+	cont "è caduto!"
 	prompt
 
 BattleText_MonsReflectFaded:
+	text "RIFLESSO del"
+	line "#MON @"
 	text_ram wStringBuffer1
-	text " #MON's"
-	line "REFLECT faded!"
+	text_start
+	cont "è svanito!"
 	prompt
 
 BattleText_RainContinuesToFall:
-	text "Rain continues to"
-	line "fall."
+	text "Continua a"
+	line "piovere."
 	prompt
 
 BattleText_TheSunlightIsStrong:
-	text "The sunlight is"
-	line "strong."
+	text "La luce del sole è"
+	line "fortissima."
 	prompt
 
 BattleText_TheSandstormRages:
-	text "The SANDSTORM"
-	line "rages."
+	text "La TERREMPESTA è"
+	line "impetuosa."
 	prompt
 
 BattleText_TheRainStopped:
-	text "The rain stopped."
+	text "Non piove più."
 	prompt
 
 BattleText_TheSunlightFaded:
-	text "The sunlight"
-	line "faded."
+	text "La luce del sole"
+	line "è tornata normale."
 	prompt
 
 BattleText_TheSandstormSubsided:
-	text "The SANDSTORM"
-	line "subsided."
+	text "La TERREMPESTA si"
+	line "è calmata."
 	prompt
 
 BattleText_EnemyMonFainted:
-	text "Enemy @"
+	text "@"
 	text_ram wEnemyMonNick
-	text_start
-	line "fainted!"
+	text "nemico"
+	line "è esausto!"
 	prompt
 
 GotMoneyForWinningText:
-	text "<PLAYER> got ¥@"
+	text "<PLAYER> vince"
+	line "¥@"
 	text_decimal wBattleReward, 3, 6
-	text_start
-	line "for winning!"
+	text "!"
 	prompt
 
 BattleText_EnemyWasDefeated:
 	text "<ENEMY>"
-	line "was defeated!"
+	line "ha perso la sfida!"
 	prompt
 
 TiedAgainstText:
-	text "Tied against"
-	line "<ENEMY>!"
+	text "Tu e"
+	line "<ENEMY>"
+	cont "avete pareggiato!"
 	prompt
 
 SentSomeToMomText:
-	text "<PLAYER> got ¥@"
+	text "<PLAYER> riceve"
+	line "¥@" 
 	text_decimal wBattleReward, 3, 6
-	text_start
-	line "for winning!"
-	cont "Sent some to MOM!"
+	text ". Ne manda"
+	cont "parte alla mamma."
 	prompt
 
 SentHalfToMomText:
-	text "Sent half to MOM!"
+	text "Metà alla mamma!"
 	prompt
 
 SentAllToMomText:
-	text "Sent all to MOM!"
+	text "Tutto alla mamma!"
 	prompt
 
 BattleText_0x101415:
-	text "<RIVAL>: Huh? I"
-	line "should've chosen"
-	cont "your #MON!"
+	text "<RIVAL>: Avrei"
+	line "dovuto scegliere"
+	cont "il tuo #MON!"
 	prompt
 
 BattleText_MonFainted:
 	text_ram wBattleMonNick
 	text_start
-	line "fainted!"
+	line "è esausto!"
 	prompt
 
 BattleText_UseNextMon:
-	text "Use next #MON?"
+	text "Usarne un altro?"
 	done
 
 BattleText_0x101459:
-	text "<RIVAL>: Yes!"
-	line "I guess I chose a"
-	cont "good #MON!"
+	text "<RIVAL>: Sììì!"
+	line "Ho scelto proprio"
+	cont "il #MON giusto!"
 	prompt
 
 LostAgainstText:
-	text "Lost against"
-	line "<ENEMY>!"
+	text "<ENEMY>"
+	line "ti ha battuto!"
 	prompt
 
 BattleText_EnemyIsAboutToUseWillPlayerChangeMon:
 	text "<ENEMY>"
-	line "is about to use"
+	line "sta per usare"
 	cont "@"
 	text_ram wEnemyMonNick
 	text "."
 
-	para "Will <PLAYER>"
-	line "change #MON?"
+	para "<PLAYER>, vuoi"
+	line "cambiare #MON?"
 	done
 
 BattleText_EnemySentOut:
 	text "<ENEMY>"
-	line "sent out"
+	line "manda in campo"
 	cont "@"
 	text_ram wEnemyMonNick
 	text "!"
 	done
 
 BattleText_TheresNoWillToBattle:
-	text "There's no will to"
-	line "battle!"
+	text "Troppo esausto"
+	line "per lottare!"
 	prompt
 
 BattleText_AnEGGCantBattle:
-	text "An EGG can't"
-	line "battle!"
+	text "Un UOVO non può"
+	line "lottare!"
 	prompt
 
 BattleText_CantEscape2:
-	text "Can't escape!"
+	text "Non si scappa!"
 	prompt
 
 BattleText_TheresNoEscapeFromTrainerBattle:
-	text "No! There's no"
-	line "running from a"
-	cont "trainer battle!"
+	text "Non puoi sottrarti"
+	line "alla lotta con"
+	cont "un allenatore!"
 	prompt
 
 BattleText_GotAwaySafely:
-	text "Got away safely!"
+	text "Scampato pericolo!"
 	prompt
 
 BattleText_UserFledUsingAStringBuffer1:
 	text "<USER>"
-	line "fled using a"
+	line "è fuggito con"
 	cont "@"
 	text_ram wStringBuffer1
 	text "!"
 	prompt
 
 BattleText_CantEscape:
-	text "Can't escape!"
+	text "Non si scappa!"
 	prompt
 
 BattleText_UserHurtBySpikes:
-	text "<USER>'s"
-	line "hurt by SPIKES!"
+	text "<USER>"
+	line "soffre per le"
+	cont "PUNTE!"
 	prompt
 
 RecoveredUsingText:
 	text "<TARGET>"
-	line "recovered using a"
+	line "si riprende con"
 	cont "@"
 	text_ram wStringBuffer1
 	text "!"
 	prompt
 
 BattleText_UsersStringBuffer1Activated:
-	text "<USER>'s"
+	text "Attivato:"
 	line "@"
 	text_ram wStringBuffer1
-	text_start
-	cont "activated!"
+	text " di"
+	cont "<USER>!"
 	prompt
 
 BattleText_ItemsCantBeUsedHere:
-	text "Items can't be"
-	line "used here."
+	text "Qui non si possono"
+	line "usare strumenti."
 	prompt
 
 BattleText_MonIsAlreadyOut:
 	text_ram wBattleMonNick
 	text_start
-	line "is already out."
+	line "è già in campo."
 	prompt
 
 BattleText_MonCantBeRecalled:
 	text_ram wBattleMonNick
-	text_start
-	line "can't be recalled!"
+	text "non può"
+	line "essere richiamato!"
 	prompt
 
 BattleText_TheresNoPPLeftForThisMove:
-	text "There's no PP left"
-	line "for this move!"
+	text "Non ha più PP"
+	line "per questa mossa!"
 	prompt
 
 BattleText_TheMoveIsDisabled:
-	text "The move is"
-	line "DISABLED!"
+	text "Questa mossa è"
+	line "fuori uso!"
 	prompt
 
 BattleText_MonHasNoMovesLeft:
 	text_ram wBattleMonNick
-	text_start
-	line "has no moves left!"
+	text " non ha"
+	line "più mosse utili."
 	done
 
 BattleText_TargetsEncoreEnded:
-	text "<TARGET>'s"
-	line "ENCORE ended!"
+	text "Finito effetto di"
+	line "RIPETI su"
+	cont "<TARGET>"
 	prompt
 
 BattleText_StringBuffer1GrewToLevel:
 	text_ram wStringBuffer1
-	text " grew to"
-	line "level @"
+	text " sale al L. @"
 	text_decimal wCurPartyLevel, 1, 3
 	text "!@"
 	sound_dex_fanfare_50_79
 	db "@"
 
 BattleText_WildMonIsEating:
-	text "Wild @"
 	text_ram wEnemyMonNick
 	text_start
-	line "is eating!"
+	line "selvatico mangia!"
 	prompt
 
 BattleText_WildMonIsAngry:
-	text "Wild @"
 	text_ram wEnemyMonNick
 	text_start
-	line "is angry!"
+	line "selvatico è"
+	cont "infuriato."
 	prompt
 
 FastAsleepText:
 	text "<USER>"
-	line "is fast asleep!"
+	line "dorme!"
 	prompt
 
 WokeUpText:
 	text "<USER>"
-	line "woke up!"
+	line "si è svegliato!"
 	prompt
 
 FrozenSolidText:
 	text "<USER>"
-	line "is frozen solid!"
+	line "è congelato!"
 	prompt
 
 FlinchedText:
 	text "<USER>"
-	line "flinched!"
+	line "tentenna!"
 	prompt
 
 MustRechargeText:
 	text "<USER>"
-	line "must recharge!"
+	line "deve ricaricarsi!"
 	prompt
 
 DisabledNoMoreText:
-	text "<USER>'s"
-	line "disabled no more!"
+	text "Termina l'effetto"
+	line "di INIBITORE su"
+	cont "<USER>!"
 	prompt
 
 IsConfusedText:
 	text "<USER>"
-	line "is confused!"
+	line "è confuso!"
 	prompt
 
 HurtItselfText:
-	text "It hurt itself in"
-	line "its confusion!"
+	text "Così confuso da"
+	line "colpirsi da solo!"
 	prompt
 
 ConfusedNoMoreText:
-	text "<USER>'s"
-	line "confused no more!"
+	text "<USER>"
+	line "non è più confuso!"
 	prompt
 
 BecameConfusedText:
 	text "<TARGET>"
-	line "became confused!"
+	line "è stato confuso!"
 	prompt
 
 BattleText_ItemHealedConfusion:
-	text "A @"
+	text "Con @"
 	text_ram wStringBuffer1
-	text " rid"
+	text ","
 	line "<TARGET>"
-	cont "of its confusion."
+	cont "non è più confuso."
 	prompt
 
 AlreadyConfusedText:
-	text "<TARGET>'s"
-	line "already confused!"
+	text "<TARGET>"
+	line "è già confuso!"
 	prompt
 
 BattleText_UsersHurtByStringBuffer1:
-	text "<USER>'s"
-	line "hurt by"
-	cont "@"
 	text_ram wStringBuffer1
-	text "!"
+	text_start
+	line "ha effetto su"
+	cont "<USER>!"
 	prompt
 
 BattleText_UserWasReleasedFromStringBuffer1:
 	text "<USER>"
-	line "was released from"
+	line "si libera da"
 	cont "@"
 	text_ram wStringBuffer1
 	text "!"
@@ -437,40 +445,43 @@ BattleText_UserWasReleasedFromStringBuffer1:
 
 UsedBindText:
 	text "<USER>"
-	line "used BIND on"
-	cont "<TARGET>!"
+	line "ha usato"
+	cont "LEGATUTTO su"
+	para "<TARGET>!"
 	prompt
 
 WasTrappedText:
 	text "<TARGET>"
-	line "was trapped!"
+	line "è intrappolato!"
 	prompt
 
 WrappedByText:
 	text "<TARGET>"
-	line "was WRAPPED by"
-	cont "<USER>!"
+	line "ha usato"
+	cont "AVVOLGIBOTTA su"
+	para "<USER>!"
 	prompt
 
 ClampedByText:
 	text "<TARGET>"
-	line "was CLAMPED by"
-	cont "<USER>!"
+	line "ha usato"
+	cont "TENAGLIA su"
+	para "<USER>!"
 	prompt
 
 StoringEnergyText:
 	text "<USER>"
-	line "is storing energy!"
+	line "accumula energia!"
 	prompt
 
 UnleashedEnergyText:
 	text "<USER>"
-	line "unleashed energy!"
+	line "libera energia!"
 	prompt
 
 HungOnText:
 	text "<TARGET>"
-	line "hung on with"
+	line "resiste con"
 	cont "@"
 	text_ram wStringBuffer1
 	text "!"
@@ -478,73 +489,72 @@ HungOnText:
 
 EnduredText:
 	text "<TARGET>"
-	line "ENDURED the hit!"
+	line "RESISTE!"
 	prompt
 
 InLoveWithText:
 	text "<USER>"
-	line "is in love with"
+	line "è innamorato di"
 	cont "<TARGET>!"
 	prompt
 
 InfatuationText:
-	text "<USER>'s"
-	line "infatuation kept"
-	cont "it from attacking!"
+	text "<USER>"
+	line "è innamorato: non"
+	cont "può attaccare!"
 	prompt
 
 DisabledMoveText:
-	text "<USER>'s"
-	line "@"
 	text_ram wStringBuffer1
-	text " is"
-	cont "DISABLED!"
+	text_start
+	line "di <USER>"
+	cont "è fuori uso!"
 	prompt
 
 LoafingAroundText:
 	text_ram wBattleMonNick
-	text " is"
-	line "loafing around."
+	text_start
+	line "sta ciondolando."
 	prompt
 
 BeganToNapText:
 	text_ram wBattleMonNick
-	text " began"
-	line "to nap!"
+	text_start
+	line "fa un riposino!"
 	prompt
 
 WontObeyText:
 	text_ram wBattleMonNick
-	text " won't"
-	line "obey!"
+	text_start
+	line "non obbedisce!"
 	prompt
 
 TurnedAwayText:
 	text_ram wBattleMonNick
-	text " turned"
-	line "away!"
+	text_start
+	line "disobbedisce!"
 	prompt
 
 IgnoredOrdersText:
 	text_ram wBattleMonNick
-	text " ignored"
-	line "orders!"
+	text_start
+	line "ignora l'ordine!"
 	prompt
 
 IgnoredSleepingText:
 	text_ram wBattleMonNick
-	text " ignored"
-	line "orders…sleeping!"
+	text " ignora"
+	line "gli ordini…dorme!"
 	prompt
 
 NoPPLeftText:
-	text "But no PP is left"
-	line "for the move!"
+	text "Ma non ha più"
+	line "PP per la mossa!"
 	prompt
 
 HasNoPPLeftText:
 	text "<USER>"
-	line "has no PP left for"
+	line "non ha più PP per"
 	cont "@"
 	text_ram wStringBuffer2
 	text "!"
@@ -552,262 +562,261 @@ HasNoPPLeftText:
 
 WentToSleepText:
 	text "<USER>"
-	line "went to sleep!"
+	line "va a dormire!"
 	done
 
 RestedText:
 	text "<USER>"
-	line "fell asleep and"
-	cont "became healthy!"
+	line "s'è addormentato"
+	cont "e si riprende!"
 	done
 
 RegainedHealthText:
 	text "<USER>"
-	line "regained health!"
+	line "s'è ripreso!"
 	prompt
 
 AttackMissedText:
-	text "<USER>'s"
-	line "attack missed!"
+	text "<USER>"
+	line "fallisce!"
 	prompt
 
 AttackMissed2Text:
-	text "<USER>'s"
-	line "attack missed!"
+	text "<USER>"
+	line "fallisce!"
 	prompt
 
 CrashedText:
 	text "<USER>"
-	line "kept going and"
-	cont "crashed!"
+	line "si sbilancia e"
+	cont "si schianta!"
 	prompt
 
 UnaffectedText:
-	text "<TARGET>'s"
-	line "unaffected!"
+	text "<TARGET>"
+	line "è incolume!"
 	prompt
 
 DoesntAffectText:
-	text "It doesn't affect"
+	text "Non ha effetto su"
 	line "<TARGET>!"
 	prompt
 
 CriticalHitText:
-	text "A critical hit!"
+	text "Brutto colpo!"
 	prompt
 
 OneHitKOText:
-	text "It's a one-hit KO!"
+	text "KO in un attacco!"
 	prompt
 
 SuperEffectiveText:
-	text "It's super-"
-	line "effective!"
+	text "È superefficace"
 	prompt
 
 NotVeryEffectiveText:
-	text "It's not very"
-	line "effective…"
+	text "Non è molto"
+	line "efficace…"
 	prompt
 
 TookDownWithItText:
 	text "<TARGET>"
-	line "took down with it,"
+	line "si porta dietro"
 	cont "<USER>!"
 	prompt
 
 RageBuildingText:
-	text "<USER>'s"
-	line "RAGE is building!"
+	text "Cresce l'IRA di"
+	line "<USER>!"
 	prompt
 
 GotAnEncoreText:
 	text "<TARGET>"
-	line "got an ENCORE!"
+	line "colpito da RIPETI!"
 	prompt
 
 SharedPainText:
-	text "The battlers"
-	line "shared pain!"
+	text "I due avversari si"
+	line "dividono i PS!"
 	prompt
 
 TookAimText:
 	text "<USER>"
-	line "took aim!"
+	line "prende la mira!"
 	prompt
 
 SketchedText:
 	text "<USER>"
-	line "SKETCHED"
-	cont "@"
+	line "disegna uno"
+	cont "SCHIZZO di"
+	para "@"
 	text_ram wStringBuffer1
 	text "!"
 	prompt
 
 DestinyBondEffectText:
-	text "<USER>'s"
-	line "trying to take its"
-	cont "opponent with it!"
+	text "<USER>"
+	line "prova a colpire"
+	cont "l'avversario!"
 	prompt
 
 SpiteEffectText:
-	text "<TARGET>'s"
-	line "@"
 	text_ram wStringBuffer1
-	text " was"
-	cont "reduced by @"
+	text " di"
+	line "<TARGET>"
+	cont "cala di @"
 	text_decimal wDeciramBuffer, 1, 1
 	text "!"
 	prompt
 
 BellChimedText:
-	text "A bell chimed!"
+	text "Din don dan!"
 	line ""
 	prompt
 
 FellAsleepText:
 	text "<TARGET>"
-	line "fell asleep!"
+	line "s'è addormentato!"
 	prompt
 
 AlreadyAsleepText:
-	text "<TARGET>'s"
-	line "already asleep!"
+	text "<TARGET>"
+	line "sta dormendo!"
 	prompt
 
 WasPoisonedText:
 	text "<TARGET>"
-	line "was poisoned!"
+	line "è avvelenato!"
 	prompt
 
 BadlyPoisonedText:
-	text "<TARGET>'s"
-	line "badly poisoned!"
+	text "<TARGET>"
+	line "è iperavvelenato!"
 	prompt
 
 AlreadyPoisonedText:
-	text "<TARGET>'s"
-	line "already poisoned!"
+	text "<TARGET>"
+	line "è già avvelenato!"
 	prompt
 
 SuckedHealthText:
-	text "Sucked health from"
+	text "Succhia energia a"
 	line "<TARGET>!"
 	prompt
 
 DreamEatenText:
-	text "<TARGET>'s"
-	line "dream was eaten!"
+	text "Mangia il sogno di"
+	line "<TARGET>!"
 	prompt
 
 WasBurnedText:
 	text "<TARGET>"
-	line "was burned!"
+	line "è scottato!"
 	prompt
 
 DefrostedOpponentText:
 	text "<TARGET>"
-	line "was defrosted!"
+	line "è scongelato!"
 	prompt
 
 WasFrozenText:
 	text "<TARGET>"
-	line "was frozen solid!"
+	line "è congelato!"
 	prompt
 
 WontRiseAnymoreText:
-	text "<USER>'s"
-	line "@"
 	text_ram wStringBuffer2
-	text " won't"
-	cont "rise anymore!"
+	text " di"
+	line "<USER>"
+	cont "non può più"
+	para "crescere!"
 	prompt
 
 WontDropAnymoreText:
-	text "<TARGET>'s"
-	line "@"
 	text_ram wStringBuffer2
-	text " won't"
-	cont "drop anymore!"
+	text " di"
+	line "<TARGET>"
+	cont "non può più"
+	para "calare!"
 	prompt
 
 FledFromBattleText::
 	text "<USER>"
-	line "fled from battle!"
+	line "se la dà a gambe!"
 	prompt
 
 FledInFearText:
 	text "<TARGET>"
-	line "fled in fear!"
+	line "fugge spaventato!"
 	prompt
 
 BlownAwayText:
 	text "<TARGET>"
-	line "was blown away!"
+	line "è spazzato via!"
 	prompt
 
 PlayerHitTimesText:
-	text "Hit @"
+	text "Colpito @"
 	text_decimal wPlayerDamageTaken, 1, 1
-	text " times!"
+	text " volte!"
 	prompt
 
 EnemyHitTimesText:
-	text "Hit @"
+	text "Colpito @"
 	text_decimal wEnemyDamageTaken, 1, 1
-	text " times!"
+	text " volte!"
 	prompt
 
 MistText:
-	text "<USER>'s"
-	line "shrouded in MIST!"
+	text "La NEBBIA avvolge"
+	line "<USER>!"
 	prompt
 
 ProtectedByMistText:
-	text "<TARGET>'s"
-	line "protected by MIST."
+	text "La NEBBIA protegge"
+	line "<TARGET>."
 	prompt
 
 GettingPumpedText:
 	text_pause
-	text "<USER>'s"
-	line "getting pumped!"
+	text "<USER>"
+	line "si gonfia!"
 	prompt
 
 RecoilText:
-	text "<USER>'s"
-	line "hit with recoil!"
+	text "Contraccolpo su"
+	line "<USER>!"
 	prompt
 
 MadeSubstituteText:
 	text "<USER>"
-	line "made a SUBSTITUTE!"
+	line "crea un SOSTITUTO!"
 	prompt
 
 HasSubstituteText:
 	text "<USER>"
-	line "has a SUBSTITUTE!"
+	line "usa un SOSTITUTO!"
 	prompt
 
 TooWeakSubText:
-	text "Too weak to make"
-	line "a SUBSTITUTE!"
+	text "Debole! Non può"
+	line "creare SOSTITUTO!"
 	prompt
 
 SubTookDamageText:
-	text "The SUBSTITUTE"
-	line "took damage for"
+	text "Il SOSTITUTO è"
+	line "colpito invece di"
 	cont "<TARGET>!"
 	prompt
 
 SubFadedText:
-	text "<TARGET>'s"
-	line "SUBSTITUTE faded!"
+	text "Svanisce SOSTITUTO"
+	line "<TARGET>."
 	prompt
 
 MimicLearnedMoveText:
 	text "<USER>"
-	line "learned"
+	line "ha imparato"
 	cont "@"
 	text_ram wStringBuffer1
 	text "!"
@@ -815,270 +824,272 @@ MimicLearnedMoveText:
 
 WasSeededText:
 	text "<TARGET>"
-	line "was seeded!"
+	line "è pieno di semi!"
 	prompt
 
 EvadedText:
 	text "<TARGET>"
-	line "evaded the attack!"
+	line "schiva l'attacco!"
 	prompt
 
 WasDisabledText:
-	text "<TARGET>'s"
-	line "@"
 	text_ram wStringBuffer1
-	text " was"
-	cont "DISABLED!"
+	text " di"
+	line "<TARGET>"
+	cont "è fuori uso!"
 	prompt
 
 CoinsScatteredText:
-	text "Coins scattered"
-	line "everywhere!"
+	text "Monete lanciate"
+	line "ovunque!"
 	prompt
 
 TransformedTypeText:
 	text "<USER>"
-	line "transformed into"
-	cont "the @"
+	line "si trasforma nel"
+	cont "tipo @"
 	text_ram wStringBuffer1
-	text "-type!"
+	text "!"
 	prompt
 
 EliminatedStatsText:
-	text "All stat changes"
-	line "were eliminated!"
+	text "Eliminato ogni"
+	line "cambio di stato!"
 	prompt
 
 TransformedText:
 	text "<USER>"
-	line "TRANSFORMED into"
+	line "si TRASFORMA in"
 	cont "@"
 	text_ram wStringBuffer1
 	text "!"
 	prompt
 
 LightScreenEffectText:
-	text "<USER>'s"
-	line "SPCL.DEF rose!"
+	text "Aumenta"
+	line "DIFESA SPECIALE di"
+	cont "<USER>!"
 	prompt
 
 ReflectEffectText:
-	text "<USER>'s"
-	line "DEFENSE rose!"
+	text "Aumenta DIFESA di"
+	line "<USER>!"
 	prompt
 
 NothingHappenedText:
-	text "But nothing"
-	line "happened."
+	text "Ma non succede"
+	line "nulla!"
 	prompt
 
 ButItFailedText:
-	text "But it failed!"
+	text "Attacco fallito!"
 	prompt
 
 ItFailedText:
-	text "It failed!"
+	text "Fallisce!"
 	prompt
 
 DidntAffect1Text:
-	text "It didn't affect"
+	text "Non ha effetto su"
 	line "<TARGET>!"
 	prompt
 
 DidntAffect2Text:
-	text "It didn't affect"
+	text "Non ha effetto su"
 	line "<TARGET>!"
 	prompt
 
 HPIsFullText:
-	text "<USER>'s"
-	line "HP is full!"
+	text "<USER>"
+	line "ha tutti i PS!"
 	prompt
 
 DraggedOutText:
 	text "<USER>"
-	line "was dragged out!"
+	line "è tirato dentro!"
 	prompt
 
 ParalyzedText:
-	text "<TARGET>'s"
-	line "paralyzed! Maybe"
-	cont "it can't attack!"
+	text "<TARGET>"
+	line "è paralizzato!"
+	cont "Potrà attaccare?"
 	prompt
 
 FullyParalyzedText:
-	text "<USER>'s"
-	line "fully paralyzed!"
+	text "<USER>"
+	line "è paralizzato!"
 	prompt
 
 AlreadyParalyzedText:
-	text "<TARGET>'s"
-	line "already paralyzed!"
+	text "<TARGET>"
+	line "è già paralizzato!"
 	prompt
 
 ProtectedByText:
-	text "<TARGET>'s"
-	line "protected by"
+	text "<TARGET>"
+	line "è protetto da"
 	cont "@"
 	text_ram wStringBuffer1
 	text "!"
 	prompt
 
 MirrorMoveFailedText:
-	text "The MIRROR MOVE"
-	next "failed!"
+	text "La SPECULMOSSA"
+	next "è fallita!"
 	prompt
 
 StoleText:
 	text "<USER>"
-	line "stole @"
+	line "ruba @"
 	text_ram wStringBuffer1
 	text_start
-	cont "from its foe!"
+	cont "al nemico!"
 	prompt
 
 CantEscapeNowText:
 	text "<TARGET>"
-	line "can't escape now!"
+	line "non può scappare!"
 	prompt
 
 StartedNightmareText:
 	text "<TARGET>"
-	line "started to have a"
-	cont "NIGHTMARE!"
+	line "inizia ad avere un"
+	cont "INCUBO!"
 	prompt
 
 WasDefrostedText:
 	text "<USER>"
-	line "was defrosted!"
+	line "è scongelato!"
 	prompt
 
 PutACurseText:
 	text "<USER>"
-	line "cut its own HP and"
+	line "perde PS e lancia"
 
-	para "put a CURSE on"
+	para "MALEDIZIONE su"
 	line "<TARGET>!"
 	prompt
 
 ProtectedItselfText:
 	text "<USER>"
-	line "PROTECTED itself!"
+	line "si PROTEGGE!"
 	prompt
 
 ProtectingItselfText:
-	text "<TARGET>'s"
-	line "PROTECTING itself!"
+	text "PROTEZIONE"
+	line "agisce su"
+	cont "<TARGET>!"
 	done
 
 SpikesText:
-	text "SPIKES scattered"
-	line "all around"
-	cont "<TARGET>!"
+	text "PUNTE circondano"
+	line "<TARGET>!"
 	prompt
 
 IdentifiedText:
 	text "<USER>"
-	line "identified"
+	line "identifica"
 	cont "<TARGET>!"
 	prompt
 
 StartPerishText:
-	text "Both #MON will"
-	line "faint in 3 turns!"
+	text "In 3 mosse saranno"
+	line "entrambi esausti!"
 	prompt
 
 SandstormBrewedText:
-	text "A SANDSTORM"
-	line "brewed!"
+	text "Una TERREMPESTA"
+	line "è nell'aria!"
 	prompt
 
 BracedItselfText:
 	text "<USER>"
-	line "braced itself!"
+	line "si rinvigorisce!"
 	prompt
 
 FellInLoveText:
 	text "<TARGET>"
-	line "fell in love!"
+	line "è innamorato!"
 	prompt
 
 CoveredByVeilText:
-	text "<USER>'s"
-	line "covered by a veil!"
+	text "Un velo ricopre"
+	line "<USER>!"
 	prompt
 
 SafeguardProtectText:
 	text "<TARGET>"
-	line "is protected by"
-	cont "SAFEGUARD!"
+	line "è protetto da"
+	cont "SALVAGUARDIA!"
 	prompt
 
 MagnitudeText:
-	text "Magnitude @"
+	text "Magnitudo @"
 	text_decimal wDeciramBuffer, 1, 1
 	text "!"
 	prompt
 
 ReleasedByText:
 	text "<USER>"
-	line "was released by"
+	line "si libera da"
 	cont "<TARGET>!"
 	prompt
 
 ShedLeechSeedText:
 	text "<USER>"
-	line "shed LEECH SEED!"
+	line "sparge"
+	cont "PARASSISEME!"
 	prompt
 
 BlewSpikesText:
 	text "<USER>"
-	line "blew away SPIKES!"
+	line "scaccia le PUNTE!"
 	prompt
 
 DownpourText:
-	text "A downpour"
-	line "started!"
+	text "È iniziato un"
+	line "acquazzone!"
 	prompt
 
 SunGotBrightText:
-	text "The sunlight got"
-	line "bright!"
+	text "La luce solare"
+	line "diventa intensa!"
 	prompt
 
 BellyDrumText:
 	text "<USER>"
-	line "cut its HP and"
-	cont "maximized ATTACK!"
+	line "taglia i PS e"
+	cont "potenzia ATTACCO!"
 	prompt
 
 CopiedStatsText:
 	text "<USER>"
-	line "copied the stat"
+	line "copia modifiche"
 
-	para "changes of"
+	para "statistiche di"
 	line "<TARGET>!"
 	prompt
 
 ForesawAttackText:
 	text "<USER>"
-	line "foresaw an attack!"
+	line "prevede attacco!"
 	prompt
 
 BeatUpAttackText:
+	text "Attacco di"
+	line "@"
 	text_ram wStringBuffer1
-	text "'s"
-	line "attack!"
 	done
 
 ; BUG: Pokémon names 8-10 characters long can overflow the textbox,
 ; printing as "Enemy 1234567890 can't": up to 21 characters, over 18.
 CantReceiveGiftText:
-	text "<TARGET> can't"
-	line "receive the gift!"
+	text "<TARGET>"
+	line "non può ricevere"
+	cont "il dono!"
 	prompt
 
 IgnoredOrders2Text:
 	text "<USER>"
-	line "ignored orders!"
+	line "ignora l'ordine!"
 	prompt
