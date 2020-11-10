@@ -1,7 +1,7 @@
 	db "SEME@" ; species name
 	dw 070, 069 ; height, weight
 
-	db   "Il seme che ha sul,"
+	db   "Il seme che ha sul"
 	next "dorso è ricco di"
 	next "sostanze nutrien-"
 

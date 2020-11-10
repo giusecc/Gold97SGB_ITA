@@ -129,7 +129,7 @@ DisplayDexEntry:
 	ld d, h
 	ld e, l
 	hlcoord 12, 7
-	lb bc, 2, (2 << 4) | 4
+	lb bc, 2, (3 << 4) | 4
 	call PrintNum
 ; Replace the decimal point with a ft symbol
 ;	hlcoord 14, 7
@@ -154,8 +154,9 @@ DisplayDexEntry:
 	ld hl, sp+0
 	ld d, h
 	ld e, l
-	hlcoord 11, 9
-	lb bc, 2, (4 << 4) | 5
+	hlcoord 12, 9
+;	lb bc, 2, (4 << 4) | 5
+	lb bc, 2, (3 << 4) | 4
 	call PrintNum
 	pop de
 

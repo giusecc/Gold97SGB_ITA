@@ -1,5 +1,5 @@
 	db "FOCALISCIA@" ; species name
-	dw 080, 140 ; height, weight
+	dw 08, 140 ; height, weight
 
 	db   "Il suo corpo"
 	next "umido e liscio"

@@ -1169,9 +1169,9 @@ Pokedex_DrawDexEntryScreenBG:
 .Unused:
 	db $5c, $5d, -1 ; No.
 .Height:
-	db "h   ??? m", -1 ; HT  ?.??"
+	db "h    ???m", -1 ; HT  ?.??"
 .Weight:
-	db "P   ??? kg", -1 ; WT   ???lb
+	db "P    ???kg", -1 ; WT   ???lb
 .MenuItems:
 	db $3b, " PAGE AREA CRY PRNT", -1
 
