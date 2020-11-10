@@ -1,5 +1,5 @@
 	db "GRANCHIO@" ; species name
-	dw 040, 065 ; height, weight
+	dw 04, 065 ; height, weight
 
 	db   "Se si sente in"
 	next "pericolo, si"

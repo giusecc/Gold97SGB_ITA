@@ -1,5 +1,5 @@
 	db "REALE@" ; species name
-	dw 200, 795 ; height, weight
+	dw 20, 795 ; height, weight
 
 	db   "Donato di incredi-"
 	next "bile intelligenza"

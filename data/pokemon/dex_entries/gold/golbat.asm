@@ -1,5 +1,5 @@
 	db "PIPISTREL.@" ; species name
-	dw 160, 550 ; height, weight
+	dw 16, 550 ; height, weight
 
 	db   "Per quanto dura"
 	next "sia la pelle della"

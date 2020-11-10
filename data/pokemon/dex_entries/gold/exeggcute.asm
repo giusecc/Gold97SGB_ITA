@@ -1,5 +1,5 @@
 	db "UOVO@" ; species name
-	dw 040, 025 ; height, weight
+	dw 04, 025 ; height, weight
 
 	db   "Ha un guscio"
 	next "molto resistente."

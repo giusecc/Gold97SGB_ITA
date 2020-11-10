@@ -1,5 +1,5 @@
 	db "FOGLIA@" ; species name
-	dw 090, 263 ; height, weight
+	dw 09, 263 ; height, weight
 
 	db   "Le foglie che cre-"
 	next "scono sul suo"

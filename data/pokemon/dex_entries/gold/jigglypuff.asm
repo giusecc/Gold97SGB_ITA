@@ -1,5 +1,5 @@
 	db "PALLONE@" ; species name
-	dw 050, 055 ; height, weight
+	dw 05, 055 ; height, weight
 
 	db   "Se si gonfia"
 	next "e usa il suo CANTO"

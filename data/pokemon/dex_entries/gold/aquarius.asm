@@ -1,5 +1,5 @@
 	db "MAESTOSO@" ; species name
-	dw 220, 980 ; height, weight
+	dw 22, 980 ; height, weight
 
 	db   "A causa del suo"
 	next "corpo massiccio, è"

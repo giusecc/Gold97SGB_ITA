@@ -1,5 +1,5 @@
 	db "PITTORE@" ; species name
-	dw 120, 580 ; height, weight
+	dw 12, 580 ; height, weight
 
 	db   "Sulla coda ha un"
 	next "fluido speciale,"

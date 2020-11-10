@@ -1,5 +1,5 @@
 	db "BOLLAJET@" ; species name
-	dw 100, 290 ; height, weight
+	dw 10, 290 ; height, weight
 
 	db   "Se le pinne di"
 	next "VAPOREON iniziano"

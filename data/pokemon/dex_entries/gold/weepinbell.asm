@@ -1,5 +1,5 @@
 	db "MOSCHIVORO@" ; species name
-	dw 100, 064 ; height, weight
+	dw 10, 064 ; height, weight
 
 	db   "Sebbene sia pieno"
 	next "di ACIDO, riesce"

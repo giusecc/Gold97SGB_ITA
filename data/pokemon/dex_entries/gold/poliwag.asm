@@ -1,5 +1,5 @@
 	db "GIRINO@" ; species name
-	dw 060, 124 ; height, weight
+	dw 06, 124 ; height, weight
 
 	db   "Non potendo cammi-"
 	next "nare sulle sue"

@@ -1,5 +1,5 @@
 	db "PAGURO@" ; species name
-	dw 160, 785 ; height, weight
+	dw 16, 785 ; height, weight
 
 	db   "Se combattendo"
 	next "perde lo SHELLDER"

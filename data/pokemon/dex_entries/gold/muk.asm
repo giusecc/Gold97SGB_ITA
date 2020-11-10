@@ -1,5 +1,5 @@
 	db "MELMA@" ; species name
-	dw 120, 300 ; height, weight
+	dw 12, 300 ; height, weight
 
 	db   "Amano riunirsi"
 	next "vicino a puzzolen-"

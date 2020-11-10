@@ -1,5 +1,5 @@
 	db "LINGUACCIA@" ; species name
-	dw 140, 780 ; height, weight
+	dw 14, 780 ; height, weight
 
 	db   "La lingua è il"
 	next "suo muscolo più"

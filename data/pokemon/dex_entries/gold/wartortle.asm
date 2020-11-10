@@ -1,5 +1,5 @@
 	db "TARTARUGA@" ; species name
-	dw 100, 225 ; height, weight
+	dw 10, 225 ; height, weight
 
 	db   "È considerato un"
 	next "simbolo di longe-"

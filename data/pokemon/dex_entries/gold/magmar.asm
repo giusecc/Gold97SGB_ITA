@@ -1,5 +1,5 @@
 	db "SPUTAFUOCO@" ; species name
-	dw 130, 445 ; height, weight
+	dw 13, 445 ; height, weight
 
 	db   "Odiando i luoghi"
 	next "freddi, li bru-"

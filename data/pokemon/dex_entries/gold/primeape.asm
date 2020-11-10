@@ -1,5 +1,5 @@
 	db "SUINPANZÉ@" ; species name
-	dw 100, 320 ; height, weight
+	dw 10, 320 ; height, weight
 
 	db   "Se lo si avvicina"
 	next "mentre dorme può"

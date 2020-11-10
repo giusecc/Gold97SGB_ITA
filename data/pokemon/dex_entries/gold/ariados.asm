@@ -1,5 +1,5 @@
 	db "LUNGAZAMPA@" ; species name
-	dw 110, 335 ; height, weight
+	dw 11, 335 ; height, weight
 
 	db   "Tesse un filo"
 	next "sia dalla bocca,"

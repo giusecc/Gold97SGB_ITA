@@ -1,5 +1,5 @@
 	db "ROCCIA@" ; species name
-	dw 040, 200 ; height, weight
+	dw 04, 200 ; height, weight
 
 	db   "Possono passare"
 	next "inosservati, ma se"

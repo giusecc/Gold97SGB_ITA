@@ -1,5 +1,5 @@
 	db "BARRIERA@" ; species name
-	dw 130, 545 ; height, weight
+	dw 13, 545 ; height, weight
 
 	db   "Mimo esperto fin"
 	next "dalla nascita,"

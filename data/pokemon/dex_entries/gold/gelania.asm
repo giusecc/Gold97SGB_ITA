@@ -1,5 +1,5 @@
 	db "GIUNGLA@" ; species name
-	dw 160, 553 ; height, weight
+	dw 16, 553 ; height, weight
 
 	db   "Ha una pessima"
 	next "vista. Tuttavia,"

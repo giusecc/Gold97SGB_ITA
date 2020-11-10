@@ -1,5 +1,5 @@
 	db "FIORE@" ; species name
-	dw 120, 186 ; height, weight
+	dw 12, 186 ; height, weight
 
 	db   "Ha i petali più"
 	next "grandi del mondo."

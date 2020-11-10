@@ -1,5 +1,5 @@
 	db "PALLONE@" ; species name
-	dw 090, 081 ; height, weight
+	dw 09, 081 ; height, weight
 
 	db   "Gli aculei sul suo"
 	next "corpo emettono "

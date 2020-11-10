@@ -1,5 +1,5 @@
 	db "CAGNOLINO@" ; species name
-	dw 070, 190 ; height, weight
+	dw 07, 190 ; height, weight
 
 	db   "Coraggioso e fede-"
 	next "le, si oppone"

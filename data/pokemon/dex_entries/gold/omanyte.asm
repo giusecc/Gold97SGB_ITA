@@ -1,5 +1,5 @@
 	db "SPIRALE@" ; species name
-	dw 040, 075 ; height, weight
+	dw 04, 075 ; height, weight
 
 	db   "Questo #MON,"
 	next "resuscitato da un"

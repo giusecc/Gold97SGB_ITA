@@ -1,5 +1,5 @@
 	db "SONAGLIO@" ; species name
-	dw 080, 186 ; height, weight
+	dw 08, 186 ; height, weight
 
 	db   "Lo squillo della"
 	next "sua coda annuncia"

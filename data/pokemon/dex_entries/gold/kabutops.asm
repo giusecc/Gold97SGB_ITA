@@ -1,5 +1,5 @@
 	db "CROSTACEO@" ; species name
-	dw 130, 405 ; height, weight
+	dw 13, 405 ; height, weight
 
 	db   "In acqua raccoglie"
 	next "gli arti per"

@@ -1,5 +1,5 @@
 	db "GUARDAOSSI@" ; species name
-	dw 100, 450 ; height, weight
+	dw 10, 450 ; height, weight
 
 	db   "È stato visto"
 	next "colpire massi"

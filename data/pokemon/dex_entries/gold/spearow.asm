@@ -1,5 +1,5 @@
 	db "UCCELLINO@" ; species name
-	dw 030, 020 ; height, weight
+	dw 03, 020 ; height, weight
 
 	db   "Battendo le corte"
 	next "ali scova insetti"

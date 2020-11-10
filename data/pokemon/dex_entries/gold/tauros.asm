@@ -1,5 +1,5 @@
 	db "TOROBRADO@" ; species name
-	dw 140, 884 ; height, weight
+	dw 14, 884 ; height, weight
 
 	db   "Lottano tra loro"
 	next "incrociando le"

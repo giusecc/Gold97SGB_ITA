@@ -1,5 +1,5 @@
 	db "SERPESASSO@" ; species name
-	dw 880, 2100 ; height, weight
+	dw 88, 2100 ; height, weight
 
 	db   "Si contorce e si"
 	next "dimena attraverso"

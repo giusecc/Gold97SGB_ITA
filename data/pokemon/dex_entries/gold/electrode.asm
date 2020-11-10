@@ -1,5 +1,5 @@
 	db "BALL@" ; species name
-	dw 120, 666 ; height, weight
+	dw 12, 666 ; height, weight
 
 	db   "È pericoloso."
 	next "Se ha troppa"

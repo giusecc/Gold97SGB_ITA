@@ -1,5 +1,5 @@
 	db "MEGAFORZA@" ; species name
-	dw 150, 705 ; height, weight
+	dw 15, 705 ; height, weight
 
 	db   "Utilizza sempre il"
 	next "massimo della sua"

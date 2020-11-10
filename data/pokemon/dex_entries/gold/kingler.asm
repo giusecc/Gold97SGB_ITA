@@ -1,5 +1,5 @@
 	db "CHELA@" ; species name
-	dw 130, 600 ; height, weight
+	dw 13, 600 ; height, weight
 
 	db   "Gli è difficile"
 	next "sollevare le sue"

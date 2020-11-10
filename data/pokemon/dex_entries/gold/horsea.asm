@@ -1,5 +1,5 @@
 	db "DRAGO@" ; species name
-	dw 040, 080 ; height, weight
+	dw 04, 080 ; height, weight
 
 	db   "Se è attaccato da"
 	next "un nemico più"

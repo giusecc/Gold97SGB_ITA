@@ -1,5 +1,5 @@
 	db "VELENTARMA@" ; species name
-	dw 150, 125 ; height, weight
+	dw 15, 125 ; height, weight
 
 	db   "Quando attacca"
 	next "batte con forza"

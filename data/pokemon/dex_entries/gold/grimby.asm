@@ -1,5 +1,5 @@
 	db "MELMA@" ; species name
-	dw 030, 181 ; height, weight
+	dw 03, 181 ; height, weight
 
 	db   "Ama sguazzare in"
 	next "acque sporche."

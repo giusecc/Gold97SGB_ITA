@@ -1,5 +1,5 @@
 	db "DRAGO@" ; species name
-	dw 120, 250 ; height, weight
+	dw 12, 250 ; height, weight
 
 	db   "Un esame delle sue"
 	next "cellule ha rivela-"

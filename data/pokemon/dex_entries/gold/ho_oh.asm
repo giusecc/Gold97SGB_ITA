@@ -1,5 +1,5 @@
 	db "ARCOBALENO@" ; species name
-	dw 380, 1990 ; height, weight
+	dw 38, 1990 ; height, weight
 
 	db   "Narra la leggenda"
 	next "che questo #MON"

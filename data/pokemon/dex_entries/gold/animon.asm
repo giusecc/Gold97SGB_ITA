@@ -1,5 +1,5 @@
 	db "MUTANTE@" ; species name
-	dw 056, 122 ; height, weight
+	dw 06, 122 ; height, weight
 
 	db   "Molto più pesante"
 	next "di quanto sembri"

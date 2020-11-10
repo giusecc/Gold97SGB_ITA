@@ -1,5 +1,5 @@
 	db "SEME@" ; species name
-	dw 200, 1000 ; height, weight
+	dw 20, 1000 ; height, weight
 
 	db   "Si riempie di"
 	next "energia grazie ai"

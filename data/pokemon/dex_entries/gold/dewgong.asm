@@ -1,5 +1,5 @@
 	db "OTARIA@" ; species name
-	dw 170, 1200 ; height, weight
+	dw 17, 1200 ; height, weight
 
 	db   "Il suo corpo affu-"
 	next "solato ha poco"

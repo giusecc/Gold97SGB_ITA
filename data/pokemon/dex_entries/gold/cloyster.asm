@@ -1,5 +1,5 @@
 	db "BIVALVE@" ; species name
-	dw 150, 1325 ; height, weight
+	dw 15, 1325 ; height, weight
 
 	db   "Quando richiude il"
 	next "guscio nessuno"

@@ -1,5 +1,5 @@
 	db "CERVOLANTE@" ; species name
-	dw 160, 700 ; height, weight
+	dw 16, 700 ; height, weight
 
 	db   "Le due corna la-"
 	next "terali garantis-"

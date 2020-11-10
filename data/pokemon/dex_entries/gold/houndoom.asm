@@ -1,5 +1,5 @@
 	db "BUIO@" ; species name
-	dw 140, 350 ; height, weight
+	dw 14, 350 ; height, weight
 
 	db   "Se si è bruciati"
 	next "dalle fiamme che"

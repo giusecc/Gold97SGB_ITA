@@ -1,5 +1,5 @@
 	db "ELETTIGRE@" ; species name
-	dw 070, 213 ; height, weight
+	dw 07, 213 ; height, weight
 
 	db   "Le sue vibrisse"
 	next "vengono usate"

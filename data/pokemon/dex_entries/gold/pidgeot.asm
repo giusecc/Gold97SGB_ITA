@@ -1,5 +1,5 @@
 	db "UCCELLO@" ; species name
-	dw 150, 395 ; height, weight
+	dw 15, 395 ; height, weight
 
 	db   "I forti muscoli"
 	next "pettorali gli"

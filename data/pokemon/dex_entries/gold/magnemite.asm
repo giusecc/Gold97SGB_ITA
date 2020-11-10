@@ -1,5 +1,5 @@
 	db "CALAMITA@" ; species name
-	dw 030, 060 ; height, weight
+	dw 03, 060 ; height, weight
 
 	db   "È attratto dalle"
 	next "onde elettromagne-"

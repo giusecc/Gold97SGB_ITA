@@ -1,5 +1,5 @@
 	db "FUNGO@" ; species name
-	dw 020, 045 ; height, weight
+	dw 02, 045 ; height, weight
 
 	db   "È nato da un"
 	next "uovo fagocitato"

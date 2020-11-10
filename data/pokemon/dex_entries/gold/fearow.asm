@@ -1,5 +1,5 @@
 	db "BECCO@" ; species name
-	dw 120, 380 ; height, weight
+	dw 12, 380 ; height, weight
 
 	db   "Si libra improv-"
 	next "visamente alto nel"

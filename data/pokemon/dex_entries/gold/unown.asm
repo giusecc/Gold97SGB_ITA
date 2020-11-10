@@ -1,5 +1,5 @@
 	db "SIMBOLO@" ; species name
-	dw 050, 050 ; height, weight
+	dw 05, 050 ; height, weight
 
 	db   "La loro forma è"
 	next "simile a gerogli-"

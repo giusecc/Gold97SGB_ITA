@@ -1,5 +1,5 @@
 	db "FATA@" ; species name
-	dw 060, 075 ; height, weight
+	dw 06, 075 ; height, weight
 
 	db   "Sembra che la luce"
 	next "lunare che racco-"

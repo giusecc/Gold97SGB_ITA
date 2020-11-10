@@ -1,5 +1,5 @@
 	db "PESCEROSSO@" ; species name
-	dw 130, 390 ; height, weight
+	dw 13, 390 ; height, weight
 
 	db   "Durante la deposi-"
 	next "zione delle uova,"

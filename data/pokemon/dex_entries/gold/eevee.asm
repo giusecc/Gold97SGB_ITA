@@ -1,5 +1,5 @@
 	db "EVOLUZIONE@" ; species name
-	dw 030, 065 ; height, weight
+	dw 03, 065 ; height, weight
 
 	db   "Ha la capacità di"
 	next "alterare la compo-"

@@ -1,5 +1,5 @@
 	db "BACO@" ; species name
-	dw 030, 029 ; height, weight
+	dw 03, 029 ; height, weight
 
 	db   "Per proteggersi"
 	next "emette un puzzo"

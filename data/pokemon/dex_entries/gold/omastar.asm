@@ -1,5 +1,5 @@
 	db "SPIRALE@" ; species name
-	dw 100, 350 ; height, weight
+	dw 10, 350 ; height, weight
 
 	db   "Sembra che abbia"
 	next "rotto il guscio"

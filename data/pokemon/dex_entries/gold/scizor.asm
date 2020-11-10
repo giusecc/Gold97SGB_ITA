@@ -1,5 +1,5 @@
 	db "FORBICI@" ; species name
-	dw 180, 1180 ; height, weight
+	dw 18, 1180 ; height, weight
 
 	db   "Le chele di questo"
 	next "#MON sono così"

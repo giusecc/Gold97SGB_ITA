@@ -1,5 +1,5 @@
 	db "LAMARTIGLI@" ; species name
-	dw 090, 280 ; height, weight
+	dw 09, 280 ; height, weight
 
 	db   "Le zampe"
 	next "nascondono artigli"

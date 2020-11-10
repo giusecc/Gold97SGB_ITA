@@ -1,5 +1,5 @@
 	db "MALERBA@" ; species name
-	dw 050, 054 ; height, weight
+	dw 05, 054 ; height, weight
 
 	db   "Gira di notte,"
 	next "svegliandosi con"

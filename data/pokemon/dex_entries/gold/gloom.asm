@@ -1,5 +1,5 @@
 	db "MALERBA@" ; species name
-	dw 080, 086 ; height, weight
+	dw 08, 086 ; height, weight
 
 	db   "Ciò che sembra"
 	next "bava è in realtà"

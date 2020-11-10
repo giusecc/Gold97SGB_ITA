@@ -1,5 +1,5 @@
 	db "GELO@" ; species name
-	dw 170, 554 ; height, weight
+	dw 17, 554 ; height, weight
 
 	db   "Sembra che le"
 	next "magnifiche ali"

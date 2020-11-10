@@ -1,5 +1,5 @@
 	db "MEDUSA@" ; species name
-	dw 160, 550 ; height, weight
+	dw 16, 550 ; height, weight
 
 	db   "Ha 80 tentacoli"
 	next "che assorbono"

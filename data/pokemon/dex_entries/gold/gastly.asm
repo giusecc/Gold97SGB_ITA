@@ -1,5 +1,5 @@
 	db "GAS@" ; species name
-	dw 130, 001 ; height, weight
+	dw 13, 001 ; height, weight
 
 	db   "Il suo corpo gas-"
 	next "soso può infilarsi"

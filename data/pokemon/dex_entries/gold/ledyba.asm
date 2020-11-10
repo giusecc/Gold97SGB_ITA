@@ -1,5 +1,5 @@
 	db "TRIASTRA@" ; species name
-	dw 100, 108 ; height, weight
+	dw 10, 108 ; height, weight
 
 	db   "È timidissimo."
 	next "Ha sempre paura di"

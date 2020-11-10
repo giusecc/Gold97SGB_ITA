@@ -1,5 +1,5 @@
 	db "GEMELLO@" ; species name
-	dw 051, 014 ; height, weight
+	dw 05, 014 ; height, weight
 
 	db   "Questo #MON è un"
 	next "embrione vivente"

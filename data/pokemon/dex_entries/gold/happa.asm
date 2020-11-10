@@ -1,5 +1,5 @@
 	db "FOGLIA@" ; species name
-	dw 090, 064 ; height, weight
+	dw 09, 064 ; height, weight
 
 	db   "Un dolce profumo"
 	next "si diffonde alla"

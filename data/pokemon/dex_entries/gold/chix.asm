@@ -1,5 +1,5 @@
 	db "TRIPULCINO@" ; species name
-	dw 070, 204 ; height, weight
+	dw 07, 204 ; height, weight
 
 	db   "Ciascuna delle"
 	next "sue tre teste"

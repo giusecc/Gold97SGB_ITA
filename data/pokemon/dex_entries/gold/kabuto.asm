@@ -1,5 +1,5 @@
 	db "CROSTACEO@" ; species name
-	dw 050, 115 ; height, weight
+	dw 05, 115 ; height, weight
 
 	db   "Occasionalmente"
 	next "se ne sono trovati"

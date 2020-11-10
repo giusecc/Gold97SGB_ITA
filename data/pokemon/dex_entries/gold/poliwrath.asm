@@ -1,5 +1,5 @@
 	db "GIRINO@" ; species name
-	dw 130, 540 ; height, weight
+	dw 13, 540 ; height, weight
 
 	db   "Questo forte ed"
 	next "esperto nuotatore"

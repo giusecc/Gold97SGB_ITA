@@ -1,5 +1,5 @@
 	db "BOCCIOLO@" ; species name
-	dw 120, 159 ; height, weight
+	dw 12, 159 ; height, weight
 
 	db   "L'aroma che si"
 	next "spande dai suoi"

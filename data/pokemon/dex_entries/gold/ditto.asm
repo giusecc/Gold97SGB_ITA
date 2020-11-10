@@ -1,5 +1,5 @@
 	db "MUTANTE@" ; species name
-	dw 030, 40 ; height, weight
+	dw 03, 40 ; height, weight
 
 	db   "Si può trasformare"
 	next "in qualsiasi cosa."

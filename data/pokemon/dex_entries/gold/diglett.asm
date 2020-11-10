@@ -1,5 +1,5 @@
 	db "TALPA@" ; species name
-	dw 020, 008 ; height, weight
+	dw 02, 008 ; height, weight
 
 	db   "La sua pelle è"
 	next "sottilissima."

@@ -1,5 +1,5 @@
 	db "ELETTRICO@" ; species name
-	dw 160, 526 ; height, weight
+	dw 16, 526 ; height, weight
 
 	db   "Battendo le"
 	next "ali splendenti,"

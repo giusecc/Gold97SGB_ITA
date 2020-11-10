@@ -1,5 +1,5 @@
 	db "ELETTIGRE@" ; species name
-	dw 150, 236 ; height, weight
+	dw 15, 236 ; height, weight
 
 	db   "La sua pelle"
 	next "sembra risplen-"

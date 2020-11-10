@@ -1,5 +1,5 @@
 	db "GRAFFIMIAO@" ; species name
-	dw 030, 036 ; height, weight
+	dw 03, 036 ; height, weight
 
 	db   "È sempre alla ri-"
 	next "cerca di monete"

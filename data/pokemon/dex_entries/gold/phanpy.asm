@@ -1,5 +1,5 @@
 	db "NASONE@" ; species name
-	dw 050, 335 ; height, weight
+	dw 05, 335 ; height, weight
 
 	db   "Agita la"
 	next "proboscide per"

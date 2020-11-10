@@ -1,5 +1,5 @@
 	db "CAVALFUOCO@" ; species name
-	dw 070, 140 ; height, weight
+	dw 07, 140 ; height, weight
 
 	db   "Pur non essendo"
 	next "capace a correre"

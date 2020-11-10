@@ -1,5 +1,5 @@
 	db "GIRINO@" ; species name
-	dw 100, 200 ; height, weight
+	dw 10, 200 ; height, weight
 
 	db   "La spirale dise-"
 	next "gnata sulla pancia"

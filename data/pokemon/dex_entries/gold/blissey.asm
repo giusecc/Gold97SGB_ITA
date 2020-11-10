@@ -1,5 +1,5 @@
 	db "FELICITÀ@" ; species name
-	dw 150, 468 ; height, weight
+	dw 15, 468 ; height, weight
 
 	db   "Basta anche solo"
 	next "assaggiare un uovo"

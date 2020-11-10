@@ -1,5 +1,5 @@
 	db "PESCELUNA@" ; species name
-	dw 100, 122 ; height, weight
+	dw 10, 122 ; height, weight
 
 	db   "La sua pelle è"
 	next "squamosa e dura."

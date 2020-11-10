@@ -1,5 +1,5 @@
 	db "SELVANATRA@" ; species name
-	dw 080, 150 ; height, weight
+	dw 08, 150 ; height, weight
 
 	db   "Se qualcuno di-"
 	next "sturba la crescita"

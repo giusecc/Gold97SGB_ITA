@@ -1,5 +1,5 @@
 	db "FIAMMA@" ; species name
-	dw 110, 190 ; height, weight
+	dw 11, 190 ; height, weight
 
 	db   "È turbolento di"
 	next "natura, sempre"

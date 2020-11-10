@@ -1,5 +1,5 @@
 	db "ATROCE@" ; species name
-	dw 650, 2350 ; height, weight
+	dw 65, 2350 ; height, weight
 
 	db   "Si dice che in"
 	next "guerra i GYARADOS"

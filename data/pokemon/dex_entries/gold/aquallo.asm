@@ -1,5 +1,5 @@
 	db "FOCALISCIA@" ; species name
-	dw 100, 410 ; height, weight
+	dw 10, 410 ; height, weight
 
 	db   "La sua pelle è un"
 	next "ottimo isolante"

@@ -1,5 +1,5 @@
 	db "PSICO@" ; species name
-	dw 130, 565 ; height, weight
+	dw 13, 565 ; height, weight
 
 	db   "Possiede un forte"
 	next "potere psicolo-"

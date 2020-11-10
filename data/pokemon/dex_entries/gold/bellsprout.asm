@@ -1,5 +1,5 @@
 	db "FIORE@" ; species name
-	dw 070, 40 ; height, weight
+	dw 07, 40 ; height, weight
 
 	db   "Sebbene abbia un"
 	next "corpo magrissimo"

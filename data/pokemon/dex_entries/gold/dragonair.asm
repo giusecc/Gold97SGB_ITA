@@ -1,5 +1,5 @@
 	db "DRAGO@" ; species name
-	dw 400, 165 ; height, weight
+	dw 40, 165 ; height, weight
 
 	db   "Dicono che quando"
 	next "un'aura gli"

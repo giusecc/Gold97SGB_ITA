@@ -1,5 +1,5 @@
 	db "BOZZOLO@" ; species name
-	dw 070, 099 ; height, weight
+	dw 07, 099 ; height, weight
 
 	db   "Morbido e debole"
 	next "dentro al suo gu-"

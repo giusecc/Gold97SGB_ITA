@@ -1,5 +1,5 @@
 	db "OSCURITÀ@" ; species name
-	dw 050, 021 ; height, weight
+	dw 05, 021 ; height, weight
 
 	db   "Molti lo temono e"
 	next "lo detestano cre-"

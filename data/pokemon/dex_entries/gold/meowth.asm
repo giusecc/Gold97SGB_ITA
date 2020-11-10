@@ -1,5 +1,5 @@
 	db "GRAFFIMIAO@" ; species name
-	dw 040, 042 ; height, weight
+	dw 04, 042 ; height, weight
 
 	db   "È affascinato da"
 	next "oggetti rotondi."

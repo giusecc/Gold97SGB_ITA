@@ -1,5 +1,5 @@
 	db "BOVINO@" ; species name
-	dw 120, 755 ; height, weight
+	dw 12, 755 ; height, weight
 
 	db   "Il suo latte è"
 	next "ricco di sostanze"

@@ -1,5 +1,5 @@
 	db "VIRTUALE@" ; species name
-	dw 060, 325 ; height, weight
+	dw 06, 325 ; height, weight
 
 	db   "Questo #MON"
 	next "artificiale è"

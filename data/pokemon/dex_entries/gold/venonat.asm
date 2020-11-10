@@ -1,5 +1,5 @@
 	db "INSETTO@" ; species name
-	dw 100, 300 ; height, weight
+	dw 10, 300 ; height, weight
 
 	db   "I suoi occhi fanno"
 	next "anche da radar,"

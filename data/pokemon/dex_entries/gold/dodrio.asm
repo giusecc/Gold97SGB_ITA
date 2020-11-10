@@ -1,5 +1,5 @@
 	db "TRIUCCELLO@" ; species name
-	dw 180, 852 ; height, weight
+	dw 18, 852 ; height, weight
 
 	db   "Raccoglie dati e"
 	next "li elabora con"

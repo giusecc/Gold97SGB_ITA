@@ -1,5 +1,5 @@
 	db "LANA@" ; species name
-	dw 060, 078 ; height, weight
+	dw 06, 078 ; height, weight
 
 	db   "Se il suo corpo si"
 	next "riempie d'elettri-"

@@ -1,5 +1,5 @@
 	db "DRILL@" ; species name
-	dw 140, 620 ; height, weight
+	dw 14, 620 ; height, weight
 
 	db   "In battaglia fa"
 	next "girare la coda. Se"

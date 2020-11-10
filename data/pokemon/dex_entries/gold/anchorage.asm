@@ -1,5 +1,5 @@
 	db "METALPESCE@" ; species name
-	dw 120, 163 ; height, weight
+	dw 12, 163 ; height, weight
 
 	db   "Il suo corpo è"
 	next "fatto di una"

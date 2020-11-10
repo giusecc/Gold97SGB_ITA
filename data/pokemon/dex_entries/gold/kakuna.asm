@@ -1,5 +1,5 @@
 	db "BOZZOLO@" ; species name
-	dw 060, 100 ; height, weight
+	dw 06, 100 ; height, weight
 
 	db   "Pur essendo un"
 	next "bozzolo, può"

@@ -1,5 +1,5 @@
 	db "FUNGO@" ; species name
-	dw 100, 295 ; height, weight
+	dw 10, 295 ; height, weight
 
 	db   "Di solito sta in"
 	next "luoghi oscuri e"

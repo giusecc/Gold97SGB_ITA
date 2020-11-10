@@ -1,5 +1,5 @@
 	db "MELMA@" ; species name
-	dw 090, 300 ; height, weight
+	dw 09, 300 ; height, weight
 
 	db   "Muovendosi perde"
 	next "pezzetti del pro-"

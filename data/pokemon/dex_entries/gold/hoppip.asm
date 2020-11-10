@@ -1,5 +1,5 @@
 	db "GRAMIGNA@" ; species name
-	dw 040, 005 ; height, weight
+	dw 04, 005 ; height, weight
 
 	db   "Si stringono uno"
 	next "accanto all'altro"

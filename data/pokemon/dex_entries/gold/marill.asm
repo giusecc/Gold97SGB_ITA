@@ -1,5 +1,5 @@
 	db "ACQUATOPO@" ; species name
-	dw 040, 085 ; height, weight
+	dw 04, 085 ; height, weight
 
 	db   "La punta della"
 	next "coda, contenendo"

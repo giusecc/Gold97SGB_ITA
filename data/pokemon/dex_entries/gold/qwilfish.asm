@@ -1,5 +1,5 @@
 	db "PALLONE@" ; species name
-	dw 050, 039 ; height, weight
+	dw 05, 039 ; height, weight
 
 	db   "Per sparare le"
 	next "punte velenose,"

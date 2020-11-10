@@ -1,5 +1,5 @@
 	db "PSICO@" ; species name
-	dw 150, 480 ; height, weight
+	dw 15, 480 ; height, weight
 
 	db   "Se chiude gli"
 	next "occhi potenzia"

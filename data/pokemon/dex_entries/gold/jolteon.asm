@@ -1,5 +1,5 @@
 	db "LUMINOSO@" ; species name
-	dw 080, 245 ; height, weight
+	dw 08, 245 ; height, weight
 
 	db   "Le sue deboli sca-"
 	next "riche elettriche"

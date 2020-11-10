@@ -1,5 +1,5 @@
 	db "OMBRA@" ; species name
-	dw 150, 405 ; height, weight
+	dw 15, 405 ; height, weight
 
 	db   "Assorbe calore"
 	next "dall'ambiente, Se"

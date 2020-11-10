@@ -1,5 +1,5 @@
 	db "JET@" ; species name
-	dw 060, 120 ; height, weight
+	dw 06, 120 ; height, weight
 
 	db   "La sua precisione"
 	next "è straordinaria."

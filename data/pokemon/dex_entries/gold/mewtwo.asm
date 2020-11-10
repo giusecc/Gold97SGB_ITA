@@ -1,5 +1,5 @@
 	db "GENETICO@" ; species name
-	dw 200, 1220 ; height, weight
+	dw 20, 1220 ; height, weight
 
 	db   "Dato che le sue"
 	next "abilità nel"

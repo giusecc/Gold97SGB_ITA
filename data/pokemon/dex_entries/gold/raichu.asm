@@ -1,5 +1,5 @@
 	db "TOPO@" ; species name
-	dw 080, 300 ; height, weight
+	dw 08, 300 ; height, weight
 
 	db   "Se l'elettricità"
 	next "aumenta, i muscoli"

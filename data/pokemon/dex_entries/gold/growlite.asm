@@ -1,5 +1,5 @@
 	db "CAGNOLINO@" ; species name
-	dw 060, 136 ; height, weight
+	dw 06, 136 ; height, weight
 
 	db   "Protegge il suo"
 	next "territorio, ma non"

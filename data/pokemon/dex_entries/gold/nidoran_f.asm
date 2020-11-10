@@ -1,5 +1,5 @@
 	db "VELENAGO@" ; species name
-	dw 040, 070 ; height, weight
+	dw 04, 070 ; height, weight
 
 	db   "Il veleno del suo"
 	next "piccolo corno è"

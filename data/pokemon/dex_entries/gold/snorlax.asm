@@ -1,5 +1,5 @@
 	db "SONNO@" ; species name
-	dw 210, 4600 ; height, weight
+	dw 21, 4600 ; height, weight
 
 	db   "Ciò che sembra il"
 	next "verso potrebbe in-"

@@ -1,5 +1,5 @@
 	db "TRAPANO@" ; species name
-	dw 190, 1200 ; height, weight
+	dw 19, 1200 ; height, weight
 
 	db   "La sua pelle dura"
 	next "lo protegge anche"

@@ -1,5 +1,5 @@
 	db "SERPENTE@" ; species name
-	dw 200, 069 ; height, weight
+	dw 20, 069 ; height, weight
 
 	db   "Può facilmente"
 	next "spostare la mandi-"

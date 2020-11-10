@@ -1,5 +1,5 @@
 	db "FATA@" ; species name
-	dw 130, 400 ; height, weight
+	dw 13, 400 ; height, weight
 
 	db   "Con il suo fine"
 	next "udito può captare"

@@ -1,5 +1,5 @@
 	db "TRIASTRA@" ; species name
-	dw 140, 356 ; height, weight
+	dw 14, 356 ; height, weight
 
 	db   "Si aggira nella"
 	next "notte stellata"

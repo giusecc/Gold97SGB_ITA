@@ -1,5 +1,5 @@
 	db "UCCELLINO@" ; species name
-	dw 030, 018 ; height, weight
+	dw 03, 018 ; height, weight
 
 	db   "Di solito si na-"
 	next "sconde nell'erba"

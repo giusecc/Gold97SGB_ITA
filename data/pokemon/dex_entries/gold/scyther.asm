@@ -1,5 +1,5 @@
 	db "MANTIDE@" ; species name
-	dw 150, 560 ; height, weight
+	dw 15, 560 ; height, weight
 
 	db   "Si fa strada tra"
 	next "l'erba grazie alle"

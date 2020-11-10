@@ -1,5 +1,5 @@
 	db "BARUFFA@" ; species name
-	dw 070, 210 ; height, weight
+	dw 07, 210 ; height, weight
 
 	db   "È sempre traboc-"
 	next "cante di energia."

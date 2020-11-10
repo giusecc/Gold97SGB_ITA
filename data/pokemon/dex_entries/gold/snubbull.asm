@@ -1,5 +1,5 @@
 	db "FATA@" ; species name
-	dw 060, 078 ; height, weight
+	dw 06, 078 ; height, weight
 
 	db   "Nonostante l'"
 	next "aspetto spaventoso"

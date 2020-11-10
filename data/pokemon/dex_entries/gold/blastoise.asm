@@ -1,5 +1,5 @@
 	db "CROSTACEO@" ; species name
-	dw 160, 855 ; height, weight
+	dw 16, 855 ; height, weight
 
 	db   "Aumenta il suo"
 	next "peso per poter"

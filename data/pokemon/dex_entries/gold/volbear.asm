@@ -1,5 +1,5 @@
 	db "FIAMMORSO@" ; species name
-	dw 100, 327 ; height, weight
+	dw 10, 327 ; height, weight
 
 	db   "Il pelo sul suo"
 	next "dorso può infiam-"

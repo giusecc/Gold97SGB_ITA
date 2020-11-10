@@ -1,5 +1,5 @@
 	db "ARMATURA@" ; species name
-	dw 110, 1200 ; height, weight
+	dw 11, 1200 ; height, weight
 
 	db   "Ha zanne dure e"
 	next "affilate e la"

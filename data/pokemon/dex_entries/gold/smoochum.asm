@@ -1,5 +1,5 @@
 	db "BACIO@" ; species name
-	dw 040, 060 ; height, weight
+	dw 04, 060 ; height, weight
 
 	db   "Le labbra sono la"
 	next "parte più sensi-"

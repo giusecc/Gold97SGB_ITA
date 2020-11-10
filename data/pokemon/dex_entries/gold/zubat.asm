@@ -1,5 +1,5 @@
 	db "PIPSTREL.@" ; species name
-	dw 080, 075 ; height, weight
+	dw 08, 075 ; height, weight
 
 	db   "Mentre vola emette"
 	next "continuamente"

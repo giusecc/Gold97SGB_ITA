@@ -1,5 +1,5 @@
 	db "NOVASPECIE@" ; species name
-	dw 040, 040 ; height, weight
+	dw 04, 040 ; height, weight
 
 	db   "Sembra che appaia"
 	next "soltanto ai puri"

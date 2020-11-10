@@ -1,5 +1,5 @@
 	db "CAVALFUOCO@" ; species name
-	dw 170, 950 ; height, weight
+	dw 17, 950 ; height, weight
 
 	db   "Quando è lanciato"
 	next "al galoppo corre"

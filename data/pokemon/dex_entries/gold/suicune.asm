@@ -1,5 +1,5 @@
 	db "AURORA@" ; species name
-	dw 200, 1870 ; height, weight
+	dw 20, 1870 ; height, weight
 
 	db   "Si dice che sia la"
 	next "reincarnazione dei"

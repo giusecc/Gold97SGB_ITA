@@ -1,5 +1,5 @@
 	db "FIAMMAVIVA@" ; species name
-	dw 180, 989 ; height, weight
+	dw 18, 989 ; height, weight
 
 	db   "Il calore del suo"
 	next "corpo rende"

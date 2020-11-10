@@ -1,5 +1,5 @@
 	db "CALAMITA@" ; species name
-	dw 100, 600 ; height, weight
+	dw 10, 600 ; height, weight
 
 	db   "Tre MAGNEMITE sono"
 	next "uniti da un forte"

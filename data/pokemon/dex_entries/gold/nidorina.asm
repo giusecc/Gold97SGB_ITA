@@ -1,5 +1,5 @@
 	db "VELENAGO@" ; species name
-	dw 080, 200 ; height, weight
+	dw 08, 200 ; height, weight
 
 	db   "Per nutrire i"
 	next "piccoli, prima"

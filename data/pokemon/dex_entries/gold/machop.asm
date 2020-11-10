@@ -1,5 +1,5 @@
 	db "MEGAFORZA@" ; species name
-	dw 080, 195 ; height, weight
+	dw 08, 195 ; height, weight
 
 	db   "Sempre traboccante"
 	next "di energia, passa"

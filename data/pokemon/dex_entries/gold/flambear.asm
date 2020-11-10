@@ -1,5 +1,5 @@
 	db "FIAMMORSO@" ; species name
-	dw 060, 099 ; height, weight
+	dw 06, 099 ; height, weight
 
 	db   "Le fiamme che"
 	next "bruciano dalle sue"

@@ -1,5 +1,5 @@
 	db "MEDUSA@" ; species name
-	dw 090, 455 ; height, weight
+	dw 09, 455 ; height, weight
 
 	db   "Con la bassa marea"
 	next "si possono"

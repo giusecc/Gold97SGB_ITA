@@ -1,5 +1,5 @@
 	db "NOBILGATTO@" ; species name
-	dw 100, 320 ; height, weight
+	dw 10, 320 ; height, weight
 
 	db   "Molti lo amano per"
 	next "il suo aspetto"

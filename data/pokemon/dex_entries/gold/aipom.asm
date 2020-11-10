@@ -1,5 +1,5 @@
 	db "LUNGACODA@" ; species name
-	dw 080, 115 ; height, weight
+	dw 08, 115 ; height, weight
 
 	db   "La sua coda è"
 	next "così forte che può"

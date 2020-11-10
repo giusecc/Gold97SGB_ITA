@@ -1,5 +1,5 @@
 	db "FERROSERPE@" ; species name
-	dw 920, 4000 ; height, weight
+	dw 92, 4000 ; height, weight
 
 	db   "Il suo corpo,"
 	next "pressato a"

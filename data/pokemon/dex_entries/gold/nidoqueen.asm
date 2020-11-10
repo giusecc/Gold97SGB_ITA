@@ -1,5 +1,5 @@
 	db "TRAPANO@" ; species name
-	dw 130, 600 ; height, weight
+	dw 13, 600 ; height, weight
 
 	db   "Il suo corpo è"
 	next "coperto di squame"

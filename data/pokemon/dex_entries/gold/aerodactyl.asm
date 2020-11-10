@@ -1,5 +1,5 @@
 	db "FOSSILE@" ; species name
-	dw 180, 590 ; height, weight
+	dw 18, 590 ; height, weight
 
 	db   "Feroce #MON"
 	next "dell'antichità."

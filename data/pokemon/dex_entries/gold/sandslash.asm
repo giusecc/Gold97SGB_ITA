@@ -1,5 +1,5 @@
 	db "TOPO@" ; species name
-	dw 100, 295 ; height, weight
+	dw 10, 295 ; height, weight
 
 	db   "Per nascondersi"
 	next "può girare su se"

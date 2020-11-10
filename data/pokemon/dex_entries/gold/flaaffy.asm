@@ -1,5 +1,5 @@
 	db "LANA@" ; species name
-	dw 080, 133 ; height, weight
+	dw 08, 133 ; height, weight
 
 	db   "Avendo immagazzi-"
 	next "nato troppa elet-"

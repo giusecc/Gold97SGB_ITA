@@ -1,5 +1,5 @@
 	db "DRAGO@" ; species name
-	dw 220, 2100 ; height, weight
+	dw 22, 2100 ; height, weight
 
 	db   "Si dice che questo"
 	next "#MON voli"

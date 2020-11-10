@@ -1,5 +1,5 @@
 	db "TIRAPUGNI@" ; species name
-	dw 140, 502 ; height, weight
+	dw 14, 502 ; height, weight
 
 	db   "Fende l'aria con"
 	next "i suoi pugni."

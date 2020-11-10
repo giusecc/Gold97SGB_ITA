@@ -1,5 +1,5 @@
 	db "PUNZONI@" ; species name
-	dw 100, 1150 ; height, weight
+	dw 10, 1150 ; height, weight
 
 	db   "Le quattro piccole"
 	next "zampe gli impedi-"

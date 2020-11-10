@@ -1,5 +1,5 @@
 	db "ELETTRICO@" ; species name
-	dw 060, 235 ; height, weight
+	dw 06, 235 ; height, weight
 
 	db   "Genera elettricità"
 	next "ruotando le"

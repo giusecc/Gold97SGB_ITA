@@ -1,5 +1,5 @@
 	db "SOLE@" ; species name
-	dw 090, 265 ; height, weight
+	dw 09, 265 ; height, weight
 
 	db   "Il pelo sottile"
 	next "che ricopre il suo"

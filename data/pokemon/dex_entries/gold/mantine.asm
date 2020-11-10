@@ -1,5 +1,5 @@
 	db "AQUILONE@" ; species name
-	dw 210, 2200 ; height, weight
+	dw 21, 2200 ; height, weight
 
 	db   "Nuotando maesto-"
 	next "samente, tiene"

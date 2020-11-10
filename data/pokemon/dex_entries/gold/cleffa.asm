@@ -1,5 +1,5 @@
 	db "STELLA@" ; species name
-	dw 030, 030 ; height, weight
+	dw 03, 030 ; height, weight
 
 	db   "Per il suo aspetto"
 	next "bizzarro, a forma"

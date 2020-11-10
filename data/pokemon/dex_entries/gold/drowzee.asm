@@ -1,5 +1,5 @@
 	db "IPNOSI@" ; species name
-	dw 100, 324 ; height, weight
+	dw 10, 324 ; height, weight
 
 	db   "Se si pensa di"
 	next "aver fatto un bel"

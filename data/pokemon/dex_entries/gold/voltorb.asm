@@ -1,5 +1,5 @@
 	db "BALL@" ; species name
-	dw 050, 104 ; height, weight
+	dw 05, 104 ; height, weight
 
 	db   "Rotola. Se il"
 	next "terreno è"

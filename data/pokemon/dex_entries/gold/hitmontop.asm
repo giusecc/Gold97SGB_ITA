@@ -1,5 +1,5 @@
 	db "VERTICALE@" ; species name
-	dw 140, 480 ; height, weight
+	dw 14, 480 ; height, weight
 
 	db   "Se ci si fa incan-"
 	next "tare dall'elegante"

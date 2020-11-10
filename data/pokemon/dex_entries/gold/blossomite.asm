@@ -1,5 +1,5 @@
 	db "ERBE@" ; species name
-	dw 180, 1005 ; height, weight
+	dw 18, 1005 ; height, weight
 
 	db   "L'aroma che si"
 	next "spande dai suoi"

@@ -1,5 +1,5 @@
 	db "GRAMIGNA@" ; species name
-	dw 080, 030 ; height, weight
+	dw 08, 030 ; height, weight
 
 	db   "Sospinto dal vento"
 	next "controlla con abi-"

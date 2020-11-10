@@ -1,5 +1,5 @@
 	db "PIPISTREL.@" ; species name
-	dw 180, 750 ; height, weight
+	dw 18, 750 ; height, weight
 
 	db   "È così silenzioso"
 	next "quando vola nel"

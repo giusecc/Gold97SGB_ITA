@@ -1,5 +1,5 @@
 	db "TALPA@" ; species name
-	dw 070, 333 ; height, weight
+	dw 07, 333 ; height, weight
 
 	db   "Le sue tre teste"
 	next "indipendenti smuo-"

@@ -1,5 +1,5 @@
 	db "PSICO@" ; species name
-	dw 090, 195 ; height, weight
+	dw 09, 195 ; height, weight
 
 	db   "Avverte gli attac-"
 	next "chi imminenti e si"

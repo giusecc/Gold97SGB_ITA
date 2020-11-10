@@ -1,5 +1,5 @@
 	db "MAGICO@" ; species name
-	dw 150, 150 ; height, weight
+	dw 15, 150 ; height, weight
 
 	db   "Si dice che sia"
 	next "così quieto"

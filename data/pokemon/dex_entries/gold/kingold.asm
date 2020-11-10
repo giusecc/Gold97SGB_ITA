@@ -1,5 +1,5 @@
 	db "PESCEROSSO@" ; species name
-	dw 050, 095 ; height, weight
+	dw 05, 095 ; height, weight
 
 	db   "Anche da piccolo"
 	next "questo #MON nuota"

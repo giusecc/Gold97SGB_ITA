@@ -1,5 +1,5 @@
 	db "PIUMATINO@" ; species name
-	dw 020, 020 ; height, weight
+	dw 02, 020 ; height, weight
 
 	db   "Poiché le sue ali"
 	next "non sono ancora"

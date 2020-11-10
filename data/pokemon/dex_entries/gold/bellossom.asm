@@ -1,5 +1,5 @@
 	db "FIORE@" ; species name
-	dw 040, 058 ; height, weight
+	dw 04, 058 ; height, weight
 
 	db   "A volte gruppi di"
 	next "BELLOSSOM sembrano"

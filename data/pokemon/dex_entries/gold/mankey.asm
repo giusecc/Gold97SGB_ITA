@@ -1,5 +1,5 @@
 	db "SUINPANZÉ@" ; species name
-	dw 050, 280 ; height, weight
+	dw 05, 280 ; height, weight
 
 	db   "Ha un pessimo"
 	next "carattere. Può"

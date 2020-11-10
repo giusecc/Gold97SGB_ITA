@@ -1,5 +1,5 @@
 	db "LUCELUNARE@" ; species name
-	dw 100, 270 ; height, weight
+	dw 10, 270 ; height, weight
 
 	db   "Quando è nervoso,"
 	next "questo #MON si"

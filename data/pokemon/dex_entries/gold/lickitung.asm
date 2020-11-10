@@ -1,5 +1,5 @@
 	db "LINGUAGGIA@" ; species name
-	dw 120, 655 ; height, weight
+	dw 12, 655 ; height, weight
 
 	db   "La sua lingua ha"
 	next "nervi ben svilup-"

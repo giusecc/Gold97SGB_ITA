@@ -1,5 +1,5 @@
 	db "FOCOSO@" ; species name
-	dw 080, 104 ; height, weight
+	dw 08, 104 ; height, weight
 
 	db   "Può vivere in am-"
 	next "bienti estremi"

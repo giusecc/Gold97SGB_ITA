@@ -1,5 +1,5 @@
 	db "LUCE@" ; species name
-	dw 140, 615 ; height, weight
+	dw 14, 615 ; height, weight
 
 	db   "La punta della,"
 	next "coda è molto lumi-"

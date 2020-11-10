@@ -1,5 +1,5 @@
 	db "GUFO@" ; species name
-	dw 070, 212 ; height, weight
+	dw 07, 212 ; height, weight
 
 	db   "Sta sempre su un"
 	next "piede solo."

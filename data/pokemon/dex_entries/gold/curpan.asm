@@ -1,5 +1,5 @@
 	db "INFESTATO@" ; species name
-	dw 090, 109 ; height, weight
+	dw 09, 109 ; height, weight
 
 	db   "Bisogna stare at-"
 	next "tenti ai suoi"

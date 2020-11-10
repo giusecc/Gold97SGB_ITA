@@ -1,5 +1,5 @@
 	db "MOSCHIVORO@" ; species name
-	dw 130, 122 ; height, weight
+	dw 13, 122 ; height, weight
 
 	db   "Una pianta dalla"
 	next "grande velocità."

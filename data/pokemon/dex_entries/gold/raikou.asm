@@ -1,5 +1,5 @@
 	db "TUONO@" ; species name
-	dw 190, 1780 ; height, weight
+	dw 19, 1780 ; height, weight
 
 	db   "Grazie all'elet-"
 	next "tricità accumulata"

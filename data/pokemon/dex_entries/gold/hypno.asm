@@ -1,5 +1,5 @@
 	db "IPNOSI@" ; species name
-	dw 160, 756 ; height, weight
+	dw 16, 756 ; height, weight
 
 	db   "Quando ha molta"
 	next "fame addormenta"

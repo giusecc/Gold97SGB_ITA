@@ -1,5 +1,5 @@
 	db "YETI@" ; species name
-	dw 160, 1011 ; height, weight
+	dw 16, 1011 ; height, weight
 
 	db   "Il suo pelo non è"
 	next "scaldato dal suo"

@@ -1,5 +1,5 @@
 	db "MILLEPIEDI@" ; species name
-	dw 030, 032 ; height, weight
+	dw 03, 032 ; height, weight
 
 	db   "Ha un pungiglione"
 	next "molto velenoso. La"

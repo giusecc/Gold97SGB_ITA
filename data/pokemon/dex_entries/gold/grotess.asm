@@ -1,5 +1,5 @@
 	db "FAUCIPESCE@" ; species name
-	dw 080, 326 ; height, weight
+	dw 08, 326 ; height, weight
 
 	db   "Le sue incredibili"
 	next "fauci possono"

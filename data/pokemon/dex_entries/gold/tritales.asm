@@ -1,5 +1,5 @@
 	db "VOLPE@" ; species name
-	dw 050, 077 ; height, weight
+	dw 05, 077 ; height, weight
 
 	db   "Le sue tre code"
 	next "sono la sua fonte"

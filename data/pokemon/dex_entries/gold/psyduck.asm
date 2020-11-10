@@ -1,5 +1,5 @@
 	db "PAPERO@" ; species name
-	dw 080, 196 ; height, weight
+	dw 08, 196 ; height, weight
 
 	db   "Ha poteri sopran-"
 	next "naturali ma non"

@@ -1,5 +1,5 @@
 	db "FIAMMA@" ; species name
-	dw 090, 250 ; height, weight
+	dw 09, 250 ; height, weight
 
 	db   "Immagazzina parte"
 	next "dell'aria che"

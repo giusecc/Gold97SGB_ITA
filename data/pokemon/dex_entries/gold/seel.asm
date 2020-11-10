@@ -1,5 +1,5 @@
 	db "OTARIA@" ; species name
-	dw 110, 900 ; height, weight
+	dw 11, 900 ; height, weight
 
 	db   "Sebbene poco abile"
 	next "sulla terraferma,"

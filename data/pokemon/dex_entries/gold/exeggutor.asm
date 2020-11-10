@@ -1,5 +1,5 @@
 	db "NOCECOCCO@" ; species name
-	dw 200, 1200 ; height, weight
+	dw 20, 1200 ; height, weight
 
 	db   "Ha tre teste che"
 	next "ragionano"

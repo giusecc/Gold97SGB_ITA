@@ -1,5 +1,5 @@
 	db "LIANA@" ; species name
-	dw 100, 350 ; height, weight
+	dw 10, 350 ; height, weight
 
 	db   "Le liane che"
 	next "coprono il suo"

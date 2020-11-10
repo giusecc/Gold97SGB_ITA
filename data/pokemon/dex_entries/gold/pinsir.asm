@@ -1,5 +1,5 @@
 	db "CERVOLANTE@" ; species name
-	dw 150, 550 ; height, weight
+	dw 15, 550 ; height, weight
 
 	db   "Di notte dorme in"
 	next "cunicoli che scava"

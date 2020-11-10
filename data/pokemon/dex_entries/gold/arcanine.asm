@@ -1,5 +1,5 @@
 	db "LEGGENDA@" ; species name
-	dw 190, 1550 ; height, weight
+	dw 19, 1550 ; height, weight
 
 	db   "Questo #MON"
 	next "leggendario cinese"

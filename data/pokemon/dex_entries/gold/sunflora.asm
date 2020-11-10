@@ -1,5 +1,5 @@
 	db "SOLE@" ; species name
-	dw 080, 085 ; height, weight
+	dw 08, 085 ; height, weight
 
 	db   "Converte la luce"
 	next "solare in energia."

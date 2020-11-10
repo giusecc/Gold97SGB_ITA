@@ -1,5 +1,5 @@
 	db "MISTERIOSO@" ; species name
-	dw 110, 800 ; height, weight
+	dw 11, 800 ; height, weight
 
 	db   "La parte centrale"
 	next "del suo corpo è"

@@ -1,5 +1,5 @@
 	db "ACQUAPESCE@" ; species name
-	dw 140, 750 ; height, weight
+	dw 14, 750 ; height, weight
 
 	db   "Questo #MON"
 	next "sbarazzino non si"

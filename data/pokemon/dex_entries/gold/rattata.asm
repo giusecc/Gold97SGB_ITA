@@ -1,5 +1,5 @@
 	db "RATTO@" ; species name
-	dw 030, 035 ; height, weight
+	dw 03, 035 ; height, weight
 
 	db   "Mangia qualsiasi"
 	next "cosa. Si sistema"

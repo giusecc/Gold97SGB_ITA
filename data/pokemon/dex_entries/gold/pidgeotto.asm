@@ -1,5 +1,5 @@
 	db "UCCELLO@" ; species name
-	dw 110, 300 ; height, weight
+	dw 11, 300 ; height, weight
 
 	db   "Ha una vista"
 	next "eccellente. Per"

@@ -1,5 +1,5 @@
 	db "ARMUCCELLO@" ; species name
-	dw 170, 505 ; height, weight
+	dw 17, 505 ; height, weight
 
 	db   "Le imponenti ali"
 	next "sembrano pesanti,"

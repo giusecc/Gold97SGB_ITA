@@ -1,5 +1,5 @@
 	db "VELENAPE@" ; species name
-	dw 100, 295 ; height, weight
+	dw 10, 295 ; height, weight
 
 	db   "Può abbattere ogni"
 	next "avversario con i"

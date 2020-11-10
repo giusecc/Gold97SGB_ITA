@@ -1,5 +1,5 @@
 	db "GENITORE@" ; species name
-	dw 220, 800 ; height, weight
+	dw 22, 800 ; height, weight
 
 	db   "Se è al sicuro, il"
 	next "piccolo esce dal"

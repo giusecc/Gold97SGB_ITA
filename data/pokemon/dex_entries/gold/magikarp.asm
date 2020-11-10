@@ -1,5 +1,5 @@
 	db "PESCE@" ; species name
-	dw 090, 100 ; height, weight
+	dw 09, 100 ; height, weight
 
 	db   "Un #MON debole,"
 	next "patetico."

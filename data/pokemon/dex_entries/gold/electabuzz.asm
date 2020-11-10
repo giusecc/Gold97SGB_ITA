@@ -1,5 +1,5 @@
 	db "ELETTRICO@" ; species name
-	dw 110, 300 ; height, weight
+	dw 11, 300 ; height, weight
 
 	db   "Corrente elettrica"
 	next "gli attraversa la"

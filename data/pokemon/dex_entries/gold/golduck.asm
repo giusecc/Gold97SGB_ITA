@@ -1,5 +1,5 @@
 	db "PAPERO@" ; species name
-	dw 170, 766 ; height, weight
+	dw 17, 766 ; height, weight
 
 	db   "Quando nuota a"
 	next "tutta velocità con"

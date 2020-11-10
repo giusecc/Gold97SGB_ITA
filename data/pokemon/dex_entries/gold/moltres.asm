@@ -1,5 +1,5 @@
 	db "FIAMMA@" ; species name
-	dw 200, 600 ; height, weight
+	dw 20, 600 ; height, weight
 
 	db   "Questo #MON"
 	next "leggendario sparge"

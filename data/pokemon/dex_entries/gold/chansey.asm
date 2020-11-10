@@ -1,5 +1,5 @@
 	db "UOVO@" ; species name
-	dw 110, 346 ; height, weight
+	dw 11, 346 ; height, weight
 
 	db   "Cammina con pru-"
 	next "denza per non rom-"

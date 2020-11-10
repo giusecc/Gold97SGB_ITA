@@ -1,5 +1,5 @@
 	db "TELA@" ; species name
-	dw 050, 085 ; height, weight
+	dw 05, 085 ; height, weight
 
 	db   "Può rimanere"
 	next "immobile nella"

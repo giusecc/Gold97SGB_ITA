@@ -1,5 +1,5 @@
 	db "RATTO@" ; species name
-	dw 070, 185 ; height, weight
+	dw 07, 185 ; height, weight
 
 	db   "Rosicchia ovunque"
 	next "con i denti"

@@ -1,5 +1,5 @@
 	db "TRASPORTO@" ; species name
-	dw 250, 2200 ; height, weight
+	dw 25, 2200 ; height, weight
 
 	db   "Sono buoni d'animo"
 	next "e lottano di rado,"

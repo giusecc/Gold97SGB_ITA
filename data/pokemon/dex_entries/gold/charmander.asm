@@ -1,5 +1,5 @@
 	db "LUCERTOLA@" ; species name
-	dw 020, 085 ; height, weight
+	dw 02, 085 ; height, weight
 
 	db   "La fiamma che ha"
 	next "sulla coda"

@@ -1,5 +1,5 @@
 	db "BARRIERA@" ; species name
-	dw 070, 195 ; height, weight
+	dw 07, 195 ; height, weight
 
 	db   "È capace di"
 	next "disorientare i"

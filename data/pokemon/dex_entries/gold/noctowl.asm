@@ -1,5 +1,5 @@
 	db "GUFO@" ; species name
-	dw 160, 408 ; height, weight
+	dw 16, 408 ; height, weight
 
 	db   "Ha degli occhi"
 	next "speciali con cui"

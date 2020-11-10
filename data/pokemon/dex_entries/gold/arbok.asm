@@ -1,5 +1,5 @@
 	db "COBRA@" ; species name
-	dw 350, 650 ; height, weight
+	dw 35, 650 ; height, weight
 
 	db   "Terrorizza la"
 	next "preda con il viso"

@@ -1,5 +1,5 @@
 	db "SONAGLIO@" ; species name
-	dw 050, 100 ; height, weight
+	dw 05, 100 ; height, weight
 
 	db   "È molto vivace e"
 	next "fa sempre"

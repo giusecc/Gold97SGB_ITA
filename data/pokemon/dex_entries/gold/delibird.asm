@@ -1,5 +1,5 @@
 	db "CONSEGNA@" ; species name
-	dw 090, 160 ; height, weight
+	dw 09, 160 ; height, weight
 
 	db   "Trasporta cibo per"
 	next "tutto il giorno."

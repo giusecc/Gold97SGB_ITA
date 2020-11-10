@@ -1,5 +1,5 @@
 	db "PALLAPUNTE@" ; species name
-	dw 030, 015 ; height, weight
+	dw 03, 015 ; height, weight
 
 	db   "Il suo guscio"
 	next "sembra ricolmo di"

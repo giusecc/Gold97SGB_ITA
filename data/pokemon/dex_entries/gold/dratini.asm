@@ -1,5 +1,5 @@
 	db "DRAGO@" ; species name
-	dw 180, 33 ; height, weight
+	dw 18, 33 ; height, weight
 
 	db   "È già grande alla"
 	next "nascita. Poi con-"

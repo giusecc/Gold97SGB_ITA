@@ -1,5 +1,5 @@
 	db "CONICO@" ; species name
-	dw 124, 626 ; height, weight
+	dw 12, 626 ; height, weight
 
 	db   "Anche se non sembra"
 	next "possedere arti,"

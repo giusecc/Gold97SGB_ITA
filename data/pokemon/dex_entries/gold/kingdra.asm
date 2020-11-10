@@ -1,5 +1,5 @@
 	db "DRAGO@" ; species name
-	dw 180, 1520 ; height, weight
+	dw 18, 1520 ; height, weight
 
 	db   "Si dice che si"
 	next "nasconda in grotte"
