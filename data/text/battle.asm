@@ -162,7 +162,7 @@ BattleText_TheSandstormSubsided:
 BattleText_EnemyMonFainted:
 	text "@"
 	text_ram wEnemyMonNick
-	text "nemico"
+	text " nemico"
 	line "è esausto!"
 	prompt
 
