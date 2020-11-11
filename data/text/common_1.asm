@@ -1559,7 +1559,7 @@ _WhichMonPhotoText::
 	prompt
 
 _HoldStillText::
-	text "Ok. tienilo fermo"
+	text "Ok. Tienilo fermo"
 	line "un attimo."
 	prompt
 
