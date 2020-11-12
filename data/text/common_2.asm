@@ -58,7 +58,7 @@ _CantUseTeleportText::
 	done
 
 _AlreadyUsingStrengthText::
-	text "Un #MON sta dià"
+	text "Un #MON sta già"
 	line "usando FORZA."
 	prompt
 
@@ -259,7 +259,7 @@ _PoisonFaintText::
 	prompt
 
 _PoisonWhiteoutText::
-	text "<PLAYER> no ha più"
+	text "<PLAYER> non ha più"
 	line "#MON utili!"
 
 	para "<PLAYER> è"
@@ -366,7 +366,7 @@ _UsedMove1Text::
 
 _UsedMove2Text::
 	text_start
-	line "u @@"
+	line "usa @@"
 
 _UsedInsteadText::
 	text "invece,"
@@ -483,7 +483,7 @@ _BreedEggHatchText::
 	text_end
 
 _BreedAskNicknameText::
-	text "Vuo dare un"
+	text "Vuoi dare un"
 	line "soprannome a"
 	cont "@"
 	text_ram wStringBuffer1
@@ -629,7 +629,7 @@ _ContestAskSwitchText::
 
 _ContestAlreadyCaughtText::
 	text "Hai già un"
-	line "a @"
+	line "@"
 	text_ram wStringBuffer1
 	text "."
 	prompt
@@ -749,7 +749,7 @@ _CaughtAskNicknameText::
 	text "Dai un soprannome"
 	line "a @"
 	text_ram wStringBuffer1
-	text ""
+	text_start
 	cont "che hai ricevuto?"
 	done
 
@@ -796,6 +796,7 @@ _PlayersPCHowManyDepositText::
 _PlayersPCDepositItemsText::
 	text "Operazione"
 	line "completata."
+	prompt
 
 _PlayersPCNoRoomDepositText::
 	text "Non c'è spazio per"
@@ -852,10 +853,12 @@ _OakPCText2::
 	prompt
 
 _OakPCText3::
-	text " #MON visti: @"
+	text "#MON visti: @"
 	text_ram wStringBuffer3
-	line " #MON presi: @"
+	text_start
+	line "#MON presi: @"
 	text_ram wStringBuffer4
+	text_start
 
 	para "Valutazione del"
 	line "PROF.OAK:"
@@ -1535,7 +1538,7 @@ _BargainShopSoldOutText::
 	done
 
 _BargainShopNoFundsText::
-	text "Pos, sei a corto"
+	text "Ops, sei a corto"
 	line "di denaro."
 	done
 
