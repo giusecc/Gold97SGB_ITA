@@ -9,60 +9,61 @@
 ; The last text is associated with a second NPC, probably a Butterfree.
 
 UnusedSweetHoneyText:
-	text "My #MON is an"
-	line "expert at collect-"
-	cont "ing SWEET HONEY."
+	text "Il mio #MON"
+	line "è bravo a racco-"
+	para "gliere DOLCE"
+	line "MIELE."
 
-	para "I'll share some"
-	line "with you."
+	para "Te ne darò un po'!"
 	done
 
 UnusedSweetHoneyBagFullText:
-	text "I want to give you"
-	line "some SWEET HONEY,"
+	text "Vorrei darti"
+	line "DOLCE MIELE, ma"
 
-	para "but you have no"
-	line "room for it."
+	para "non hai abbastanza"
+	line "spazio."
 	done
 
 UnusedSweetHoneyGiveText:
-	text "Here you go! Have"
-	line "some SWEET HONEY!"
+	text "Eccoti un po' di"
+	line "DOLCE MIELE!"
 	done
 
 UnusedGotSweetHoneyText:
-	text "<PLAYER> received"
-	line "SWEET HONEY."
+	text "<PLAYER> riceve"
+	line "DOLCE MIELE."
 	done
 
 UnusedSweetHoneyAfterText1:
-	text "My little brother"
-	line "takes SWEET HONEY"
+	text "Il mio fratellino"
+	line "sta andando non so"
 
-	para "and goes somewhere"
-	line "with it."
+	para "dove con DOLCE"
+	line "MIELE."
 
-	para "I wonder what he's"
-	line "up to?"
+	para "Che vorrà fare?"
 	done
 
 UnusedSweetHoneyAfterText2:
-	text "Did you put SWEET"
-	line "HONEY on a tree?"
+	text "Hai messo DOLCE"
+	line "MIELE su un"
 
-	para "What happened to"
-	line "it?"
+	para "albero?"
+	line "E che è successo?"
 	done
 
 UnusedSweetHoneyAfterText3:
-	text "Did you put SWEET"
-	line "HONEY on a tree?"
+	text "Hai messo DOLCE"
+	line "MIELE su un"
+	cont "albero?"
 
-	para "It takes about a"
-	line "day for #MON to"
-	cont "be drawn to it."
+	para "Ci vuole un giorno"
+	line "perché un #MON"
+	para "sia attirato dal"
+	line "miele."
 	done
 
 UnusedSweetHoneyButterfreeText:
-	text "BUTTERFREE: Freeh!"
+	text "BUTTERFREE: Friii!"
 	done
