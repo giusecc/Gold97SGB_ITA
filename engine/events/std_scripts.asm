@@ -234,19 +234,19 @@ DayToTextScript:
 	getstring STRING_BUFFER_3, .SaturdayText
 	end
 .SundayText:
-	db "SUNDAY@"
+	db "DOMENICA@"
 .MondayText:
-	db "MONDAY@"
+	db "LUNEDÌ@"
 .TuesdayText:
-	db "TUESDAY@"
+	db "MARTEDÌ@"
 .WednesdayText:
-	db "WEDNESDAY@"
+	db "MERCOLEDÌ@"
 .ThursdayText:
-	db "THURSDAY@"
+	db "GIOVEDÌ@"
 .FridayText:
-	db "FRIDAY@"
+	db "VENERDÌ@"
 .SaturdayText:
-	db "SATURDAY@"
+	db "SABATO@"
 
 WestportRocketsScript:
 	clearevent EVENT_WESTPORT_CITY_ROCKET_TAKEOVER
@@ -778,7 +778,7 @@ CoinVendor_IntroScript:
 	db 3 ; items
 	db " 50 :  ¥1000@"
 	db "500 : ¥10000@"
-	db "CANCEL@"
+	db "ESCI@"
 
 HappinessCheckScript:
 	faceplayer

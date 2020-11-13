@@ -234,10 +234,10 @@ BillsPCDepositMenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "DEPOSIT@"
-	db "STATS@"
-	db "RELEASE@"
-	db "CANCEL@"
+	db "DEPOSITA@"
+	db "STAT.@"
+	db "LIBERA@"
+	db "ESCI@"
 
 _WithdrawPKMN:
 	ld hl, wOptions
@@ -472,10 +472,10 @@ BillsPC_Withdraw:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "WITHDRAW@"
-	db "STATS@"
-	db "RELEASE@"
-	db "CANCEL@"
+	db "RITIRA@"
+	db "STAT.@"
+	db "LIBERA@"
+	db "ESCI@"
 
 _MovePKMNWithoutMail:
 	ld hl, wOptions
@@ -682,9 +682,9 @@ _MovePKMNWithoutMail:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 3 ; items
-	db "MOVE@"
-	db "STATS@"
-	db "CANCEL@"
+	db "ATT.@"
+	db "STAT.@"
+	db "ESCI@"
 
 .PrepInsertCursor:
 	xor a
@@ -993,7 +993,7 @@ BillsPC_BoxName:
 	ret
 
 .PartyPKMN:
-	db "PARTY <PK><MN>@"
+	db "SQUADRA@"
 
 PCMonInfo:
 ; Display a monster's pic and
@@ -1240,7 +1240,7 @@ BillsPC_RefreshTextboxes:
 	ret
 
 .CancelString:
-	db "CANCEL@"
+	db "ESCI@"
 
 .PlaceNickname:
 	ld a, [de]
@@ -1945,7 +1945,8 @@ MovePKMNWitoutMail_InsertMon:
 	ret
 
 .Saving_LeaveOn:
-	db "Saving… Leave ON!@"
+	db "SALVATAGGIO…"
+	next "NON SPEGNERE!@"
 
 .Jumptable:
 	dw .BoxToBox

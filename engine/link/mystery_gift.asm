@@ -117,11 +117,12 @@ DoMysteryGift:
 	ldh [rLCDC], a
 	ret
 
+
 .String_PressAToLink_BToCancel:
-	db   "Press A to"
-	next "link IR-Device"
-	next "Press B to"
-	next "cancel it."
+	db   "Premi A per"
+	next "Com. a Infrar."
+	next "Premi B per"
+	next "annullare."
 	db   "@"
 
 .MysteryGiftCanceledText:

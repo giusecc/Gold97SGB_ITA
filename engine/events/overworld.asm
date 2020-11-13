@@ -1349,8 +1349,8 @@ RockSmashScript:
 	end
 	
 BadgeWorkaroundText:
-	text "Sorry! A new BADGE"
-	line "is required."
+	text "Mi spiace, serve"
+	line "un'altra MEDAGLIA."
 	done
 	
 RockSmashScript2:

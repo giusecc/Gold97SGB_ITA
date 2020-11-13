@@ -312,7 +312,7 @@ InitPokegearTilemap:
 	ret
 
 .switch
-	db "SWITCH▶@"
+	db "SCORRI▶@"
 
 .Map:
 	ld a, [wPokegearMapPlayerIconLandmark]
@@ -1236,9 +1236,9 @@ PokegearPhoneContactSubmenu:
 .CallDeleteCancelStrings:
 	dwcoord 10, 6
 	db 3
-	db   "CALL"
-	next "DELETE"
-	next "CANCEL"
+	db   "CHIAMA"
+	next "ELIMINA"
+	next "ESCI"
 	db   "@"
 
 .CallDeleteCancelJumptable:
@@ -1249,8 +1249,8 @@ PokegearPhoneContactSubmenu:
 .CallCancelStrings:
 	dwcoord 10, 8
 	db 2
-	db   "CALL"
-	next "CANCEL"
+	db   "CHIAMA"
+	next "ESCI"
 	db   "@"
 
 .CallCancelJumptable:
@@ -1694,15 +1694,15 @@ NoRadioStation:
 	ldh [hBGMapMode], a
 	ret
 
-OaksPKMNTalkName:     db "KEN's <PK><MN> Talk@"
+OaksPKMNTalkName:     db "<PK><MN> Talk di KEN@"
 PokedexShowName:      db "#DEX Show@"
 PokemonMusicName:     db "#MON Music@"
-LuckyChannelName:     db "Lucky Channel@"
+LuckyChannelName:     db "Radio Fortuna@"
 UnownStationName:     db "?????@"
 
-PlacesAndPeopleName:  db "Places & People@"
-LetsAllSingName:      db "Let's All Sing!@"
-PokeFluteStationName: db "# FLUTE@"
+PlacesAndPeopleName:  db "Posti e Persone@"
+LetsAllSingName:      db "Cantiamo in Coro!@"
+PokeFluteStationName: db "# FLAUTO@"
 
 _TownMap:
 	ld hl, wOptions
@@ -2126,7 +2126,7 @@ TownMapBubble:
 	ret
 
 .Where:
-	db "Where?@"
+	db "Dove?@"
 
 .Name:
 ; We need the map location of the default flypoint
@@ -2430,7 +2430,7 @@ Pokedex_GetArea:
 	ret
 
 .String_SNest:
-	db "'S NEST@"
+	db " (NIDO)@"
 
 .GetAndPlaceNest:
 	ld [wTownMapCursorLandmark], a

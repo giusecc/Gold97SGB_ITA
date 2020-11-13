@@ -176,20 +176,20 @@ _UnownPrinter:
 	ret
 
 AlphRuinsStampString:
-	db " ALPH RUINS STAMP@"
-
+	db "      STAMPA     @"
+	
 UnownDexDoWhatString:
-	db "Do what?@"
+	db "Cosa fare?@"
 
 UnownDexMenuString:
-	db   UNOWNSTAMP_BOLD_A, "▶PRINT"
-	next UNOWNSTAMP_BOLD_B, "▶CANCEL"
-	next "L▶BEFORE"
-	next "R▶NEXT"
+	db   UNOWNSTAMP_BOLD_A, "▶STAMPA"
+	next UNOWNSTAMP_BOLD_B, "▶ESCI"
+	next "L▶PREC."
+	next "R▶SUCC."
 	db   "@"
 
 UnownDexVacantString:
-	db "VACANT@"
+	db "VACANTE@"
 
 UnownDexATile:
 INCBIN "gfx/printer/bold_a.1bpp"

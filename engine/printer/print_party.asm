@@ -102,32 +102,32 @@ PrintPage2:
 
 GBPrinterStrings: ; used only for BANK(GBPrinterStrings)
 GBPrinterString_Null: db "@"
-GBPrinterString_CheckingLink: next " CHECKING LINK...@"
-GBPrinterString_Transmitting: next "  TRANSMITTING...@"
-GBPrinterString_Printing: next "    PRINTING...@"
+GBPrinterString_CheckingLink: next "  COLLEGAMENTO...@"
+GBPrinterString_Transmitting: next "  TRASMISSIONE...@"
+GBPrinterString_Printing: next     "        STAMPA...@"
 GBPrinterString_PrinterError1:
-	db   " Printer Error 1"
+	db   "Errore Stampante 1"
 	next ""
-	next "Check the Game Boy"
-	next "Printer Manual."
+	next "Controlla manuale"
+	next "stampante GB."
 	db   "@"
 GBPrinterString_PrinterError2:
-	db   " Printer Error 2"
+	db   "Errore Stampante 2"
 	next ""
-	next "Check the Game Boy"
-	next "Printer Manual."
+	next "Controlla manuale"
+	next "stampante GB."
 	db   "@"
 GBPrinterString_PrinterError3:
-	db   " Printer Error 3"
+	db   "Errore Stampante 3"
 	next ""
-	next "Check the Game Boy"
-	next "Printer Manual."
+	next "Controlla manuale"
+	next "stampante GB."
 	db   "@"
 GBPrinterString_PrinterError4:
-	db   " Printer Error 4"
+	db   "Errore Stampante 4"
 	next ""
-	next "Check the Game Boy"
-	next "Printer Manual."
+	next "Controlla manuale"
+	next "stampante GB."
 	db   "@"
 
 PrintPartyMonPage1:
@@ -334,20 +334,20 @@ Function1c0393:
 	ret
 
 String1c03b7:
-	db "OT/@"
+	db "AO/@"
 
 String1c03bb:
-	db "MOVE@"
+	db "MOSSE@"
 
 String1c03c0:
-	db "<ID>№@"
+	db "№<ID>@"
 
 String1c03c3:
-	db   "ATTACK"
-	next "DEFENSE"
-	next "SPCL.ATK"
-	next "SPCL.DEF"
-	next "SPEED"
+	db   "ATTACCO"
+	next "DIFESA"
+	next "ATT.SPEC"
+	next "DIF.SPEC"
+	next "VELOCITÀ"
 	db   "@"
 
 String1c03ea:

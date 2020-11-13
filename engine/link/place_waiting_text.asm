@@ -21,7 +21,7 @@ PlaceWaitingText::
 	jp DelayFrames
 
 .Waiting:
-	db "Waiting...!@"
+	db "Attendi...!@"
 
 DummyPredef1:
 	ret

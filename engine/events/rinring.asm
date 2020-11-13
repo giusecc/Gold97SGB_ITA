@@ -62,10 +62,10 @@ GiveRinring:
 	ret
 
 SpecialRinringOT:
-	db "MANIA@"
+	db "MANI@"
 
 SpecialRinringNick:
-	db "SHUCKIE@"
+	db "RING@"
 
 ReturnRinring:
 	farcall SelectMonFromParty
