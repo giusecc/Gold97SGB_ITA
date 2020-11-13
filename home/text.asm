@@ -310,12 +310,13 @@ PlaceMoveUsersName::
 	jr PlaceCommandCharacter
 
 .enemy
-	ld de, EnemyText
+	ld de, wEnemyMonNick
 	call PlaceString
 	ld h, b
 	ld l, c
-	ld de, wEnemyMonNick
+	ld de, EnemyText
 	jr PlaceCommandCharacter
+	
 
 PlaceEnemysName::
 	push de
@@ -357,14 +358,14 @@ PlaceCommandCharacter::
 	pop de
 	jp NextChar
 
-TMCharText::      db "TM@"
+TMCharText::      db "MT@"
 TrainerCharText:: db "TRAINER@"
 PCCharText::      db "PC@"
 RocketCharText::  db "ROCKET@"
 PlacePOKeText::   db "POKé@"
 KougekiText::     db "こうげき@"
 SixDotsCharText:: db "……@"
-EnemyText::       db "Enemy @"
+EnemyText::       db " nemico@"
 PlacePKMNText::   db "<PK><MN>@"
 PlacePOKEText::   db "<PO><KE>@"
 String_Space::    db " @"

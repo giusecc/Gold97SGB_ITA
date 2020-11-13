@@ -1596,9 +1596,9 @@ HandleScreens:
 	jp CopyName2
 
 .Your:
-	db "Your@"
+	db "tuo@"
 .Enemy:
-	db "Enemy@"
+	db "nemico@"
 
 .LightScreenTick:
 	ld a, [de]
@@ -5462,9 +5462,9 @@ MoveInfoBox:
 	ret
 
 .Disabled:
-	db "Disabled!@"
+	db "fuori uso@"
 .Type:
-	db "TYPE/@"
+	db "TIPO/@"
 
 ParseEnemyAction:
 	ld a, [wEnemyIsSwitching]
@@ -8046,11 +8046,11 @@ ShowLinkBattleParticipantsAfterEnd:
 	ret
 
 .YouWin:
-	db "YOU WIN@"
+	db "VITTORIA@"
 .YouLose:
-	db "YOU LOSE@"
+	db "DISFATTA@"
 .Draw:
-	db "  DRAW@"
+	db "PAREGGIO@"
 
 LINK_BATTLE_RECORD_LENGTH EQUS "(sLinkBattleRecord1End - sLinkBattleRecord1)" ; 18
 NUM_LINK_BATTLE_RECORDS EQUS "((sLinkBattleStatsEnd - sLinkBattleRecord) / LINK_BATTLE_RECORD_LENGTH)" ; 5
@@ -8196,11 +8196,11 @@ ReadAndPrintLinkBattleRecord:
 	db "  ---  <LF>"
 	db "         -    -    -@"
 .Record:
-	db "<PLAYER>'s RECORD@"
+	db "RECORD DI <PLAYER>  @"
 .Result:
-	db "RESULT WIN LOSE DRAW@"
+	db " RIS   VIT SCON  PAR@"
 .Total:
-	db "TOTAL  WIN LOSE DRAW@"
+	db " TOT   VIT SCON  PAR@"
 
 BattleEnd_HandleRoamMons:
 	ld a, [wBattleType]

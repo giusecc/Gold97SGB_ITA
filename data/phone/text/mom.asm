@@ -29,6 +29,69 @@ MomPhoneGenericAreaText:
 	line "stata. Sono felice"
 	cont "per te, <PLAYER>."
 	done
+	
+MomPhoneKantoText:
+	text "E così sei a"
+	line "@"
+	text_ram wStringBuffer3
+	text "?"
+
+	para "C'è molto da"
+	line "fare lì!"
+	done
+	
+MomPhoneKikaiText:
+	text "Uauh! Sei a"
+	line "@"
+	text_ram wStringBuffer3
+	text "?"
+
+	para "La CALDERA è"
+	line "grande come"
+	cont "si dice?"
+	done
+	
+MomPhoneRyukyuText:
+	text "E così sei a"
+	line "@"
+	text_ram wStringBuffer3
+	text "?"
+
+	para "Sicuro di non"
+	line "essere lì per"
+	cont "una vacanza?"
+	done
+	
+MomPhoneIejimaText:
+	text "Uahu! Sei a"
+	line "@"
+	text_ram wStringBuffer3
+	text "?"
+
+	para "Non c'è una cas-"
+	line "cata lì? Falle"
+	para "una foto!"
+	done
+
+MomPhoneFrostpointText:
+	text "E così sei a"
+	line "@"
+	text_ram wStringBuffer3
+	text "?"
+
+	para "Hai portato una"
+	line "giacca?"
+	done
+	
+MomPhoneKobanText:
+	text "E così sei a"
+	line "@"
+	text_ram wStringBuffer3
+	text "?"
+
+	para "Hai visto la"
+	line "TANA DEL DRAGO?"
+	done	
 
 MomPhoneSilentText:
 	text "Come? Sei a"
@@ -38,6 +101,17 @@ MomPhoneSilentText:
 
 	para "Ogni tanto vieni a"
 	line "trovare la mamma!"
+	done
+
+MomPhoneAmamiText:
+	text "E così sei a"
+	line "@"
+	text_ram wStringBuffer3
+	text "?"
+
+	para "Non ho mai visto"
+	line "le ISOLE."
+	para "Divertiti!"
 	done
 
 MomPhoneCrownText:
