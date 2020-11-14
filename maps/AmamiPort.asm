@@ -288,107 +288,106 @@ MovementData_0x74efe:
 	step_end
 	
 ThanksForTheFuelLine:
-	text "Thanks, kid!"
-	para "The S.S.AQUA is"
-	line "back to being"
-	cont "fully operational!"
-	para "We can't thank you"
-	line "enough!"
-	para "Talk to the"
-	line "CAPTAIN next time"
-	cont "you're onboard."
-	para "I'm sure he'll"
-	line "have some way to"
-	cont "show his thanks!"
+	text "Grazie, ragazzo!"
+	para "La M/N ACQUA è"
+	line "di nuovo"
+	cont "operativa!"
+	para "Non potrò mai"
+	line "ringraziarti"
+	cont "abbastanza!"
+	para "Vai dal CAPITANO"
+	line "non appena"
+	cont "sarai a bordo."
+	para "Sono sicuro che"
+	line "ti darà qualcosa"
+	cont "per ringraziarti!"
 	done
 	
 YouHaveTheFuelLine:
-	text "Ah, the FUEL LINE!"
-	para "Wow!"
-	para "Let me go bring"
-	line "this to the ship"
-	cont "crew!"
+	text "Ah! Il TUBO!"
+	para "Grazie!"
+	para "Lascia che lo"
+	line "porti"
+	cont "all'equipaggio!"
 	done
 	
 GoGetThePart:
-	text "Alright, kid. We"
-	line "need a new FUEL"
-	cont "LINE."
-	para "There's a guy in"
-	line "KUME CITY who'll"
-	cont "have what we need."
-	para "Bring it back here"
-	line "when you have it!"
+	text "Allora, ragazzo"
+	line "abbiamo bisogno"
+	cont "di un TUBO."
+	para "C'è un tipo a"
+	line "KUME che ti"
+	cont "potrà aiutare."
+	para "Portalo qui il"
+	line "prima possibile!"
 	done
 
 UnknownText_0x74f06:
-	text "We're departing"
-	line "soon. Please get"
-	cont "on board."
+	text "Siamo in partenza."
+	line "Sali a bordo!"
 	done
 
 UnknownText_0x74f31:
-	text "Sorry. You can't"
-	line "board now."
+	text "Mi spiace, ora non"
+	line "puoi imbarcarti."
 	done
 
 UnknownText_0x74f4d:
-	text "Welcome to FAST"
-	line "SHIP S.S.AQUA."
+	text "Questa è la NAVE"
+	line "VELOCE M/N ACQUA."
 
-	para "Will you be board-"
-	line "ing today?"
+	para "Vuoi imbarcarti"
+	line "ora?"
 	done
 
 UnknownText_0x74f8b:
-	text "May I see your"
-	line "S.S.TICKET?"
+	text "Posso vedere il"
+	line "BIGLIETTO NAVE?"
 	done
 
 UnknownText_0x74fa7:
-	text "We hope to see you"
-	line "again!"
+	text "Arrivederci!"
 	done
 
 AmamiPortSSTicketText:
-	text "<PLAYER> flashed"
-	line "the S.S.TICKET."
+	text "<PLAYER> mostra"
+	line "il BIGL. NAVE."
 
-	para "That's it."
-	line "Thank you!"
+	para "Benissimo, grazie."
 	done
 
 UnknownText_0x74ff2:
-	text "<PLAYER> tried to"
-	line "show the S.S."
-	cont "TICKET…"
+	text "<PLAYER> vuole"
+	line "mostrare il BIGL."
+	cont "NAVE…"
 
-	para "…But no TICKET!"
+	para "…Ma non ce l'ha!"
 
-	para "Sorry!"
-	line "You may board only"
+	para "Spiacente!"
+	line "Puoi imbarcarti"
 
-	para "if you have an"
-	line "S.S.TICKET."
+	para "soltanto se hai"
+	line "un BIGL. NAVE."
 	done
 
 UnknownText_0x75059:
-	text "The FAST SHIP will"
-	line "sail on Wednesday."
+	text "La NAVE VELOCE"
+	line "salperà mercoledì"
+	cont "prossimo."
 	done
 
 UnknownText_0x75080:
-	text "The FAST SHIP will"
-	line "sail on Sunday."
+	text "La NAVE VELOCE"
+	line "salperà domenica."
 	done
 
 UnknownText_0x750a6:
-	text "You came from"
-	line "the mainland?"
+	text "Vieni dalla"
+	line "terraferma?"
 
-	para "I hear many rare"
-	line "#MON live over"
-	cont "there."
+	para "So che si sono"
+	line "molti #MON"
+	cont "laggiù."
 	done
 
 AmamiPort_MapEvents:

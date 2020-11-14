@@ -22,32 +22,33 @@ AmamiPokecenter1FBugCatcherScript:
 	jumptextfaceplayer AmamiPokecenter1FBugCatcherText
 
 AmamiPokecenter1FFishingGuruText:
-	text "It has been said"
-	line "that a legendary"
-	para "trio of elemental"
-	line "birds will reveal"
-	para "themselves to he"
-	line "who holds the key."
-	para "I wonder what that"
-	line "key is?"
-	para "And who are those"
+	text "Si dice che un"
+	line "trio leggendario"
+	para "di ucelli elemen-"
+	line "tali si mostrerà"
+	para "a chi avrà con sé"
+	line "la chiave."
+	para "Mi chiedo cosa sia"
+	line "la chiave."
+	para "E chi sono questi"
 	line "#MON?"
 	done
 
 
 AmamiPokecenter1FSailorText:
-	text "The FAST SHIP is a"
-	line "great place to"
+	text "La M/N ACQUA è un"
+	line "posto fantastico"
 
-	para "meet and battle"
-	line "trainers."
+	para "per incontrare e"
+	line "sfidare"
+	cont "allenatori."
 	done
 
 AmamiPokecenter1FBugCatcherText:
-	text "Oh? You have many"
-	line "badges."
-	para "You say you"
-	line "beat the LEAGUE?"
+	text "Oh? Quante"
+	line "medaglie!"
+	para "Hai battuto"
+	line "la LEGA?"
 	done
 
 AmamiPokecenter1F_MapEvents:

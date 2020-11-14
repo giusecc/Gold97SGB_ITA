@@ -65,91 +65,88 @@ AmamiPublicPoolLassScript:
 	jumptextfaceplayer AmamiPublicPoolLassText
 	
 AmamiPublicPoolLassText:
-	text "A more controlled"
-	line "environment like"
-	para "an indoor pool can"
-	line "be a better place"
-	para "to train weaker"
-	line "#MON than out"
-	cont "on the open sea."
+	text "Un ambiente con-"
+	line "trollato come una"
+	para "piscina può essere"
+	line "un posto migliore"
+	para "rispetto al mare"
+	line "per allenare"
+	cont "#MON ACQUA deboli."
 	done
 	
 AmamiPublicPoolBugCatcherText:
-	text "I want to go"
-	line "swimming!"
+	text "Voglio andare a"
+	line "nuotare!"
 	done
 	
 AmamiPublicPoolGrannyText:
-	text "I can't really"
-	line "swim so well any-"
-	cont "more."
-	para "But my #MON"
-	line "love the water,"
-	para "so I bring them"
-	line "here frequently."
+	text "Non so più nuotare"
+	line "come un tempo,"
+	para "ma il mio #MON"
+	line "adora l'acqua,"
+	para "quindi lo porto"
+	line "spesso qui."
 	done
 	
 AmamiPublicPoolSwimmerGirlText:
-	text "Water type #MON"
-	line "love being in the"
-	cont "water!"
-	para "Makes sense,"
-	line "right?"
+	text "I #MON acqua"
+	line "amano l'acqua!"
+	para "Sembra sensato,"
+	line "no?"
 	done
 	
 AmamiPublicPoolSwimmerGuyText:
-	text "Swimming is good"
-	line "exercise for both"
-	para "people and #-"
-	line "MON!"
+	text "Il nuoto è una"
+	line "ottima attività"
+	para "per persone e"
+	line "#MON!"
 	done
 	
 ReceiveSquirtleText:
-	text "<PLAYER> received"
+	text "<PLAYER> riceve"
 	line "SQUIRTLE."
 	done
 	
 AlreadyGotSquirtleText:
-	text "I come here to"
-	line "swim with my"
-	para "SQUIRTLE almost"
-	line "every day!"
+	text "Vengo qui per"
+	line "nuotare con"
+	para "SQUIRTLE quasi"
+	line "ogni giorno!"
 	done
 	
 PartyFullSquirtleText:
-	text "You've already got"
-	line "too many #MON"
-	cont "with you!"
+	text "Hai già troppi"
+	line "#MON con te!"
 	done
 	
 NoSquirtleText:
-	text "You sure?"
-	para "They're such great"
-	line "#MON!"
+	text "Sei sicuro?"
+	para "Sono dei #MON"
+	line "incredibili!"
 	done
 	
 	
 ILoveSquirtleText:
-	text "SQUIRTLE are great"
-	line "swimmers!"
-	para "Have you ever gone"
-	line "swimming with a"
+	text "Gli SQUIRTLE sono"
+	line "grandi nuotatori!"
+	para "Sei mai andato a"
+	line "nuotare con uno"
 	cont "SQUIRTLE?"
-	para "You have to try"
-	line "it!"
-	para "They're also great"
-	line "#MON to raise!"
-	para "I've got a young"
-	line "one that needs"
-	para "someone to train"
-	line "it."
-	para "Here, you should"
-	line "raise a SQUIRTLE!"
+	para "Dovresti provarci"
+	line "una volta!"
+	para "Sono fantastici"
+	line "anche da allevare!"
+	para "Ne ho con me uno"
+	line "che ha bisogno di"
+	para "qualcuno che lo"
+	line "alleni."
+	para "Ecco, dovresti"
+	line "allevarlo!"
 	done
 	
 GiveSquirtleText:
-	text "Help it grow up"
-	line "big and strong!"
+	text "Fallo crescere"
+	line "grande e forte!"
 	done
 	
 AmamiPublicPool_MapEvents:

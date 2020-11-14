@@ -21,18 +21,18 @@ AmamiMartBuenaScript:
 	jumptextfaceplayer AmamiMartBuenaText
 
 AmamiMartSuperNerdText:
-	text "TEAM ROCKET had"
-	line "made a return on"
-	cont "the mainland?"
-	para "I'm glad we didn't"
-	line "have to see them"
-	cont "around here!"
+	text "TEAM ROCKET è"
+	line "tornato sulla"
+	cont "terraferma?"
+	para "Almeno non se ne"
+	line "vedono qua in"
+	cont "giro!"
 	done
 
 AmamiMartBuenaText:
-	text "I'm thinking about"
-	line "going shopping"
-	cont "in WESTPORT CITY."
+	text "Credo che andrò a"
+	line "fare acquisti a"
+	cont "PORTOVEST."
 	done
 
 AmamiMart_MapEvents:
