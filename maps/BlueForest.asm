@@ -114,122 +114,122 @@ BlueForestMartSign:
 	jumpstd MartSignScript
 
 BlackBeltText_WeirdRadio:
-	text "PRYCE is the GYM"
-	line "LEADER here."
-	para "He puts on a cold"
-	line "as ice exterior,"
-	para "but he has a heart"
-	line "of gold."
+	text "ALFREDO è il"
+	line "CAPOPALESTRA."
+	para "Da fuori è un"
+	line "pezzo di ghiaccio,"
+	para "ma ha un cuore"
+	line "d'oro."
 	done
 
 BlueForestCooltrainerF1Text:
-	text "Are you going to"
-	line "make your #MON"
-	cont "forget some moves?"
-	para "The MOVE DELETER's"
-	line "house is just west"
-	cont "of here."
+	text "Vuoi far scordare"
+	line "mosse ai tuoi"
+	cont "#MON?"
+	para "La casa dell'"
+	line "ELIMINAMOSSE è"
+	cont "a ovest di qui."
 	done
 
 BlueForestYoungsterText:
-	text "There are lots of"
-	line "ICE type #MON"
-	para "in the DEEPWATER"
-	line "PASSAGE."
+	text "Ci sono molti"
+	line "#MON di tipo"
+	para "GHIACCIO nel"
+	line "PASSAGGIO"
+	cont "SOMMERSO."
 	done
 
 MeetSantosText:
-	text "SANTOS: …"
+	text "SABATINO: …"
 
-	para "It's Saturday…"
+	para "Oggi è sabato…"
 
-	para "I'm SANTOS of"
-	line "Saturday…"
+	para "E io sono SABATINO"
+	line "del sabato…"
 	done
 
 SantosGivesGiftText:
-	text "You can have this…"
+	text "Prendi questo…"
 	done
 
 SantosGaveGiftText:
-	text "SANTOS: …"
+	text "SABATINO: …"
 
-	para "SPELL TAG…"
+	para "SPETTROTARGA…"
 
-	para "Ghost-type moves"
-	line "get stronger…"
+	para "Potenzia le mosse"
+	line "del tipo spettro…"
 
-	para "It will frighten"
-	line "you…"
+	para "Ti terrorizzerà,"
+	line "vedrai…"
 	done
 
 SantosSaturdayText:
-	text "SANTOS: …"
+	text "SABATINO: …"
 
-	para "See you again on"
-	line "another Saturday…"
+	para "Ci vediamo qualche"
+	line "altro sabato…"
 
-	para "I won't have any"
-	line "more gifts…"
+	para "Anche se non potrò"
+	line "regalarti altro…"
 	done
 
 SantosNotSaturdayText:
-	text "SANTOS: Today's"
-	line "not Saturday…"
+	text "SABATINO: Oggi non"
+	line "è mica sabato…"
 	done
 
 BlueForestCooltrainerF2Text:
-	text "Wow, you went"
-	line "through the"
-	cont "DEEPWATER PASSAGE?"
-	para "You must be a real"
-	line "hotshot trainer!"
+	text "Uauh! Vieni dal"
+	line "PASSAGGIO"
+	cont "SOMMERSO?"
+	para "Devi essere un"
+	line "grande allenatore!"
 	done
 	
 BlueForestCooltrainerF2TextNotWow:
-	text "I've never gone up"
-	line "to NORTH ISLAND."
-	para "Traveling through"
-	line "the DEEPWATER"
-	para "PASSAGE is too"
-	line "intimidating."
+	text "Non sono mai stato"
+	line "più a nord."
+	para "Ho troppa paura"
+	line "del PASSAGGIO"
+	cont "SOMMERSO!"
 	done
 
 BlueForestSignText:
-	text "BLUE FOREST"
+	text "BIANCASELVA"
 
-	para "A Quiet Snowy"
-	line "Retreat"
+	para "Calmo bosco"
+	line "innevato"
 	done
 
 BlueForestGymSignText:
-	text "BLUE FOREST"
-	line "#MON GYM"
-	cont "LEADER: PRYCE"
+	text "BIANCASELVA"
+	line "CAPOPALESTRA:"
+	cont "ALFREDO"
 
-	para "The Icy Chill"
-	line "Elder"
+	para "Il maestro del"
+	line "duro inverno"
 	done
 
 MoveDeletersHouseSignText:
-	text "MOVE DELETER'S"
-	line "HOUSE"
+	para "CASA DELL'"
+	line "ELIMINAMOSSE"
 	done
 
 DragonDensSignText:
-	text "DEEPWATER PASSAGE"
-	line "South Entrance"
+	text "PASSAGGIO SOMMERSO"
+	line "Entrata sud"
 	done
 
 BlueForestTrainerTipsText:
-	text "TRAINER TIPS"
+	text "CONSIGLI UTILI"
 
-	para "A #MON holding"
-	line "a MIRACLEBERRY"
+	para "Un #MON che"
+	line "tiene una BACCA"
+	cont "MIRACOLO potrà"
 
-	para "will cure itself"
-	line "of any status"
-	cont "problem."
+	para "risolvere ogni"
+	line "problema di stato."
 	done
 
 BlueForest_MapEvents:

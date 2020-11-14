@@ -27,24 +27,23 @@ BlueForestDragonSpeechHouseMagazineBookshelf:
 	jumpstd MagazineBookshelfScript
 
 BlueForestDragonSpeechHouseGrannyText:
-	text "North of town, out"
-	line "in the ocean, lies"
-	cont "WHIRL ISLAND."
-	para "It is named so"
-	line "because of the"
-	para "many whirlpools"
-	line "that surround it."
-	para "It is a dangerous"
-	line "maze that leads"
-	cont "nowhere."
-	para "Make sure you know"
-	line "what you're doing"
-	para "if you intend to"
-	line "explore it."
+	text "A nord della città"
+	line "si trovano le"
+	cont "ISOLE VORTICOSE."
+	para "Si chiamano così"
+	line "per tutti i"
+	para "vortici che le"
+	line "circondano."
+	para "Sono un pericoloso"
+	line "labirinto per chi"
+	cont "le esplora."
+	para "Devi fare molta"
+	line "attenzione se"
+	cont "vuoi esplorarle."
 	done
 
 BlueForestDragonSpeechHouseDratiniText:
-	text "SLOWPOKE: Bwa?"
+	text "SLOWPOKE: Waah?"
 	done
 
 BlueForestDragonSpeechHouse_MapEvents:

@@ -164,263 +164,273 @@ BlueForestGymStatue:
 	
 
 PryceRematchText:
-	text "So, you have"
-	line "returned from the"
-	cont "LEAGUE."
+	text "Quindi, fai"
+	line "ritorno dalla"
+	cont "LEGA."
 	
-	para "Just because you"
-	line "have climbed the"
-	para "peak, don't assume"
-	line "you're no longer"
-	para "subject to the"
-	line "mountain's frozen"
-	cont "winds!"
+	para "Solo perché hai"
+	line "raggiunto la vetta"
+	para "credi di essere"
+	line "diventato immune"
+	para "ai gelidi venti"
+	line "della montagna?"
 	
-	para "Let me show you"
-	line "the full arsenal"
-	para "of what I've"
-	line "learned in my"
-	cont "time!"
+	para "Fammi mostrare"
+	line "tutto ciò che ho"
+	para "imparato in"
+	line "questo periodo!"
 	done
 
 PryceRematchWinText:
-	text "Perhaps there is"
-	line "something to be"
-	cont "said of youth…"
+	text "Forse dovrei dire"
+	line "qualcosa sulla"
+	cont "giovinezza…"
 	done
 
 PryceAfterRematchText:
-	text "I am impressed"
-	line "by your prowess."
+	text "Sono impressionato"
+	line "dalla tua abilità."
 	
-	para "With your strong"
-	line "will, I know you"
-	para "can overcome all"
-	line "life's obstacles!"
+	para "Con la tua forza"
+	line "di volontà, potrai"
+	para "affrontare ogni"
+	line "ostacolo!"
 	done
 
 BlueForestGymGuyNotAroundText:
-	text "Hey, kid!"
-	para "PRYCE is an ice-"
-	line "cold battler!"
-	para "But he's got a"
-	line "heart of gold."
-	para "He cares about his"
-	line "#MON and he"
-	para "cares about his"
-	line "family."
-	para "He spends his days"
-	line "in serious"
-	para "training in the"
-	line "DEEPWATER PASSAGE."
-	para "What I'm trying to"
-	line "say is that he's"
-	cont "not here often."
-	para "It might be a"
-	line "while before he"
-	cont "returns."
-	para "If you want to"
-	line "battle, it might"
-	para "do you good to"
-	line "go look for him."
+	text "Ehi, ragazzo!"
+	para "ALFREDO è un"
+	line "uomo di ghiaccio,"
+	para "ma è molto"
+	line "generoso."
+	para "Si prende cura dei"
+	line "suoi #MON e"
+	para "della sua"
+	line "famiglia."
+	para "Trascorre giorni e"
+	line "giorni nel"
+	para "PASSAGGIO SOMMERSO"
+	line "per allenarsi."
+	para "Quello che sto"
+	line "cercando di dire"
+	para "è che spesso"
+	line "non si trova qui."
+	para "Potrebbe volerci"
+	line "un po' prima che"
+	cont "torni."
+	para "Se vuoi lottare"
+	line "con lui dovresti"
+	para "andare a"
+	line "cercarlo."
 	done
 
 PryceText_Intro:
-	text "So nice to see"
-	line "you again."
+	text "Che bello"
+	line "rivederti."
 	
-	para "#MON have many"
-	line "experiences in"
+	para "I #MON fanno molte"
+	line "esperienze nella"
 
-	para "their lives, just"
-	line "like we do. "
+	para "loro vita, proprio"
+	line "come noi."
 
-	para "I, too, have seen"
-	line "and suffered much"
-	cont "in my life."
+	para "Anch'io ho visto e"
+	line "sofferto molto in"
+	cont "vita mia."
 	
-	para "That is why I have"
-	line "decided in my old"
-	para "age to focus on"
-	line "what is important."
+	para "Questo è perché"
+	line "ho deciso di"
+	para "concentrarmi sulle"
+	line "cose importanti."
 	
-	para "#MON. Family."
+	para "#MON. Famiglia."
 	
-	para "These are the"
-	line "things I cherish."
+	para "Queste sono le"
+	line "cose a cui tengo."
 	
-	para "Make sure you make"
-	line "time for things"
-	cont "that you cherish."
+	para "Cerca sempre di"
+	line "trovare tempo per"
+	cont "ciò che ami."
 	
-	para "A good battle,"
-	line "however, is still"
+	para "Una buona lotta,"
+	line "comunque, è una"
 	
-	para "an important"
-	line "experience."
+	para "esperienza molto"
+	line "importante."
 	
-	para "Here, let me show"
-	line "you what I mean."
+	para "Ecco, lascia che"
+	line "te lo mostri."
 	done
 
 
 PryceText_Impressed:
-	text "Ah, I am impressed"
-	line "by your prowess."
+	text "La tua forza mi"
+	line "ha impressionato!"
 
-	para "With your strong"
-	line "will, I know you"
+	para "La tua volontà"
+	line "ti permetterà"
 
-	para "will overcome all"
-	line "life's obstacles."
+	para "di raggiungere i"
+	line "tuoi obiettivi."
 
-	para "You are worthy of"
-	line "this BADGE!"
+	para "Meriti la MEDAGLIA"
+	line "della PALESTRA!"
 	done
 
 Text_ReceivedGlacierBadge:
-	text "<PLAYER> received"
-	line "GLACIERBADGE."
+	text "<PLAYER> riceve la"
+	line "MEDAGLIA GELO."
 	done
 
 PryceText_GlacierBadgeSpeech:
-	text "That BADGE will"
-	line "raise the SPECIAL"
-	cont "stats of #MON."
+	text "Questa MEDAGLIA"
+	line "migliora le STATI-"
+	para "STICHE SPECIALI"
+	line "dei #MON."
 
-	para "It also lets your"
-	line "#MON use WHIRL-"
-	cont "POOL to get across"
-	cont "real whirlpools."
+	para "Inoltre, permette"
+	line "ai tuoi #MON"
+	para "di usare MULINELLO"
+	line "per superare i"
+	cont "mulinelli d'acqua."
 
-	para "And this… This is"
-	line "a gift from me!"
+	para "E poi… Questo"
+	line "è un mio regalo!"
 	done
 
 PryceText_IcyWindSpeech:
-	text "That TM contains"
-	line "ICY WIND."
+	text "La MT contiene"
+	line "VENTOGELATO."
 
-	para "It inflicts damage"
-	line "and lowers speed."
+	para "Arreca danni e"
+	line "diminuisce la"
+	cont "velocità."
 
-	para "It demonstrates"
-	line "the harshness of"
-	cont "winter."
+	para "È il simbolo"
+	line "della durezza"
+	cont "dell'inverno."
 	done
 
 PryceText_CherishYourPokemon:
-	text "When the ice and"
-	line "snow melt, spring"
-	cont "arrives."
+	text "Quando il ghiaccio"
+	line "e la neve si"
+	para "sciolgono, è"
+	line "primavera."
 
-	para "You and your #-"
-	line "MON will be to-"
+	para "Tu e i tuoi #-"
+	line "MON sarete insieme"
 
-	para "gether for many"
-	line "years to come."
+	para "ancora per molti"
+	line "anni."
 
-	para "Cherish your time"
-	line "together!"
+	para "Goditi il tuo"
+	line "tempo con loro!"
 	done
 
 
 BoarderBradSeenText:
-	text "This GYM has a"
-	line "slippery floor."
+	text "Il pavimento della"
+	line "PALESTRA è"
+	cont "scivoloso!"
 
-	para "It's fun, isn't"
-	line "it?"
+	para "Divertente,"
+	line "vero?"
 
-	para "But hey--we're"
-	line "not playing games"
-	cont "here!"
+	para "Ma ehi! Non siamo"
+	line "qui per giocare!"
 	done
 
 BoarderBradBeatenText:
-	text "Do you see how"
-	line "serious we are?"
+	text "Vuoi vedere quanto"
+	line "siamo seri?"
 	done
 
 BoarderBradAfterBattleText:
-	text "This GYM is great."
-	line "I love boarding"
-	cont "with my #MON!"
+	text "Questa PALESTRA è"
+	line "grandiosa: adoro"
+	para "fare snowboard"
+	line "con i #MON!"
 	done
 
 BoarderDouglasSeenText:
-	text "I know PRYCE's"
-	line "secret."
+	text "Conosco il segreto"
+	line "di ALFREDO."
 	done
 
 BoarderDouglasBeatenText:
-	text "OK. I'll tell you"
-	line "PRYCE's secret."
+	text "Ok. Ti dirò il"
+	line "segreto di"
+	cont "ALFREDO."
 	done
 
 BoarderDouglasAfterBattleText:
-	text "The secret behind"
-	line "PRYCE's power…"
+	text "Il segreto della"
+	line "forza di ALFREDO"
+	cont "è questo…"
 
-	para "He trains in"
-	line "the harsh"
+	para "Si allena in"
+	line "luoghi pericolosi"
 	
-	para "conditions of the"
-	line "DEEPWATER PASSAGE."
+	para "come il PASSAG-"
+	line "GIO SOMMERSO."
 	done
 
 SkierRoxanneSeenText:
-	text "To get to PRYCE,"
-	line "our GYM LEADER,"
+	text "Per raggiungere"
+	line "ALFREDO, il CAPO-"
+	cont "PALESTRA, devi"
 
-	para "you need to think"
-	line "before you skate."
+	para "pensare prima di"
+	line "scivolare."
 	done
 
 SkierRoxanneBeatenText:
-	text "I wouldn't lose to"
-	line "you in skiing!"
+	text "Con gli sci"
+	line "ti batterei!"
 	done
 
 SkierRoxanneAfterBattleText:
-	text "If you don't skate"
-	line "with precision,"
+	text "Se non scivoli con"
+	line "precisione, non"
 
-	para "you won't get far"
-	line "in this GYM."
+	para "farai molta strada"
+	line "nella PALESTRA."
 	done
 
 
 BlueForestGymGuyText:
-	text "PRYCE is a veteran"
-	line "who has trained"
+	text "ALFREDO è un vete-"
+	line "rano che si è"
 
-	para "#MON for some"
-	line "50 years."
+	para "allenato per 50"
+	line "anni con i"
+	cont "#MON."
 
-	para "He's said to be"
-	line "good at freezing"
+	para "Pare che sia abile"
+	line "a congelare gli"
 
-	para "opponents with"
-	line "ice-type moves."
+	para "avversari con le"
+	line "sue mosse di tipo"
+	cont "ghiaccio."
 
-	para "That means you"
-	line "should melt him"
+	para "Perciò, cerca di"
+	line "arrostirlo con la"
 
-	para "with your burning"
-	line "ambition!"
+	para "tua bruciante"
+	line "ambizione!"
 	done
 
 BlueForestGymGuyWinText:
-	text "PRYCE is some-"
-	line "thing, but you're"
-	cont "something else!"
+	text "ALFREDO è forte"
+	line "ma tu sei tutta"
+	cont "un'altra cosa!"
 
-	para "That was a hot"
-	line "battle that"
+	para "È stata una"
+	line "grande lotta, che"
 
-	para "bridged the gen-"
-	line "eration gap!"
+	para "ha regolato i"
+	line "conti tra due"
+	cont "generazioni!"
 	done
 
 BlueForestGym_MapEvents:
