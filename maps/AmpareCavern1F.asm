@@ -32,23 +32,23 @@ AmpareCavern1FTMSnore:
 	itemball TM_SNORE
 
 AmpareCavern1FPharmacistText1:
-	text "Whoa! You startled"
-	line "me there!"
+	text "Ehi! Mi hai"
+	line "spaventato!"
 
-	para "I guess I'm kinda"
-	line "confused about"
-	cont "where I am."
+	para "Credo di non"
+	line "sapere bene"
+	cont "dove sono."
 	
-	para "If you don't want"
-	line "your #MON to be"
-	para "confused, give"
-	line "them one of these."
+	para "Se non vuoi che"
+	line "i tuoi #MON"
+	para "siano confusi"
+	line "dai loro questo."
 	done
 
 AmpareCavern1FPharmacistText2:
-	text "CONFUSE CLAW"
-	line "prevents con-"
-	cont "fusion."
+	text "CAOSARTIGLIO"
+	line "previene la"
+	cont "confusione."
 	done
 
 AmpareCavern1F_MapEvents:

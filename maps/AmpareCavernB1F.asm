@@ -30,7 +30,7 @@ RaikouEvent:
 	end
 	
 RaikouText:
-	text "Groroa!"
+	text "Grooo!"
 	done
 
 
