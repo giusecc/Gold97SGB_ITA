@@ -21,22 +21,21 @@ BirdonMartBugCatcherScript:
 	jumptextfaceplayer BirdonMartBugCatcherText
 
 BirdonMartCooltrainerMText:
-	text "There's no GREAT"
-	line "BALL here. #"
+	text "Non ci sono MEGA"
+	line "BALL qui. Dovrò"
 
-	para "BALLS will have"
-	line "to do."
-	para "WESTPORT CITY has"
-	line "a much better"
-	cont "selection."
+	para "farmi bastare le"
+	line "# BALL."
+	para "A PORTOVEST c'è"
+	line "molta più scelta."
 	done
 
 BirdonMartBugCatcherText:
-	text "An ESCAPE ROPE is"
-	line "a handy tool if"
-	para "you're deep in a"
-	line "cave and need a"
-	cont "quick escape."
+	text "Una FUNE DI FUGA"
+	line "è molto utile se"
+	para "ti sei perso in"
+	line "una grotta e vuoi"
+	cont "andartene."
 	done
 
 BirdonMart_MapEvents:

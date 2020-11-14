@@ -128,88 +128,87 @@ BarN64YoungsterDownMovement:
 	step_end
 	
 BarN64YoungsterBoredText:
-	text "Man, I'm bored."
-	para "There's nothing to"
-	line "do in this town."
-	para "I'd love to meet"
-	line "some other"
-	para "trainers, and hang"
-	line "out and play video"
-	cont "games with them."
-	para "But I don't know"
-	line "anywhere I could"
-	cont "do that."
+	text "Che noia! Non c'è"
+	para "niente da fare in"
+	line "questa città."
+	para "Vorrei incontrare"
+	line "altri allenatori,"
+	para "uscire e giocare"
+	line "ai videogiochi con"
+	cont "loro."
+	para "Ma qui non c'è"
+	line "speranza che"
+	cont "accada."
 	done
 	
 SendN64YoungsterOffText:
-	text "Oh?"
-	para "There's a place"
-	line "by WESTPORT CITY"
-	cont "where I could go?"
-	para "What the heck, I"
-	line "have nothing else"
-	cont "to do."
-	para "I'll check it out,"
-	line "thanks!"
+	text "Come?"
+	para "Un posto vicino a"
+	line "PORTOVEST in cui"
+	cont "potrei andare?"
+	para "Non credo di aver"
+	line "niente di meglio"
+	cont "da fare."
+	para "Proverò ad"
+	line "andarci, grazie!"
 	done
 	
 BarFisherScriptText:
-	text "I come here just"
-	line "about every day."
-	para "I swear, that"
-	line "MOOMOO MILK must"
-	cont "be addictive."
+	text "Vengo qui ogni"
+	line "giorno."
+	para "Il LATTE MUMU"
+	line "è fantastico!"
 	done
 	
 BarLassScriptText:
-	text "There isn't too"
-	line "much to do in this"
-	cont "town."
-	para "A lot of us spend"
-	line "our time here just"
-	cont "drinking milk."
+	text "Non c'è molto da"
+	line "fare in questa"
+	cont "città."
+	para "Molti di noi"
+	line "passano il tempo"
+	cont "bevendo latte."
 	done
 
 FarmerMText_BuyMilk:
-	text "How'd you like a"
-	line "drink?"
-	para "We serve MOOMOO"
-	line "MILK here."
-	para "Ya want some?"
+	text "Che ne dici di"
+	line "una bevuta?"
+	para "Serviamo LATTE"
+	line "MUMU qui."
+	para "Che ne dici?"
 	done
 
 FarmerMText_GotMilk:
-	text "Here ya go!"
-	line "Drink up'n enjoy!"
+	text "Ecco a te!"
+	line "Alla salute!"
 	done
 
 FarmerMText_NoMoney:
-	text "Sorry, there."
-	line "No cash, no sale!"
+	text "Eh no, bello."
+	line "Niente soldi,"
+	cont "niente latte."
 	done
 
 FarmerMText_NoRoom:
-	text "I reckon yer"
-	line "PACK's full."
+	text "Dai, il tuo"
+	line "ZAINO è pieno."
 	done
 
 FarmerMText_NoSale:
-	text "You don't want it?"
-	line "Come again, hear?"
+	text "Neanche un goccio?"
+	line "So che tornerai."
 	done
 
 FarmerMText_Milking:
-	text "It goes down real"
-	line "smooth."
-	para "#MON love it"
-	line "as well!"
+	text "È una gioia per"
+	line "il palato."
+	para "Anche i #MON"
+	line "lo adorano!"
 	done
 
 
 FarmerFText_SnoreSpeech:
-	text "MOOMOO MILK is"
-	line "just plain"
-	cont "delicious!"
+	text "Il LATTE MUMU"
+	line "è delizioso!"
 	done
 
 BirdonMilkBar_MapEvents:

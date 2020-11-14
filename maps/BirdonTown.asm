@@ -92,44 +92,44 @@ BirdonTownHiddenFullHeal:
 
 
 BirdonTownGrampsTextBefore:
-	text "ENOKI, the GYM"
-	line "LEADER here, is a"
-	cont "mysterious man."
-	para "Not much is known"
-	line "about him."
-	para "However, it is"
-	line "known that he"
-	para "studies NIHON's"
-	line "myths and legends."
-	para "He is also, of"
-	line "course, an"
-	cont "excellent trainer."
+	text "ANGELO, il"
+	line "CAPOPALESTRA, è un"
+	cont "uomo misterioso."
+	para "Non si sa molto"
+	line "su di lui."
+	para "Tuttavia, si sa"
+	line "che è appassionato"
+	para "di miti e leggende"
+	line "di NIHON."
+	para "È anche un ottimo"
+	line "allenatore,"
+	cont "oltretutto."
 	done
 
 BirdonTownTeacherText:
-	text "We get very little"
-	line "rain here."
-	para "The SLOWPOKE WELL"
-	line "is an important"
-	para "part of our"
-	line "ecosystem."
+	text "Qui piove molto"
+	line "poco."
+	para "Il POZZO SLOWPOKE"
+	line "è fondamentale"
+	para "per la nostra"
+	line "città."
 	done
 
 BirdonTownYoungsterText:
-	text "EAST of here, a"
-	line "far ways down the"
-	para "road, is the JADE"
-	line "FOREST."
+	text "A est di qui, dopo"
+	line "un lungo percorso"
+	para "si trova il BOSCO"
+	line "GIADA."
 
-	para "Past that is"
-	line "ALLOY CITY."
+	para "Dopo il BOSCO c'è"
+	line "DESMOPOLI."
 	
-	para "The journey there"
-	line "is long."
+	para "È un viaggio molto"
+	line "lungo."
 	
-	para "Rest here if you"
-	line "plan on making"
-	cont "your way there."
+	para "Riposati bene"
+	line "se hai intenzione"
+	cont "di partire."
 	done
 
 BirdonTownSlowpokeText1:
@@ -139,43 +139,40 @@ BirdonTownSlowpokeText1:
 	done
 
 BirdonTownSlowpokeText2:
-	text "<……> <……>Yawn?"
+	text "<……> <……>"
+	line "Ooouuh?"
 	done
 
 
 BirdonTownSignText:
-	text "BIRDON TOWN"
-	para "Desolate in plant"
-	line "growth, but not"
-	cont "in friendship."
+	text "AVIOPOLI"
+	para "Città arida, ma"
+	line "ricca di amore."
 	done
 
 
 WestportGymSignText:
-	text "BIRDON TOWN"
-	line "#MON GYM"
-	cont "LEADER: BUGSY"
+	text "AVIOPOLI"
+	line "CAPOPALESTRA:"
+	cont "ANGELO"
 
-	para "The Walking"
-	line "Bug #MON"
-	cont "Encyclopedia"
+	para "Il magico veggente"
 	done
 
 SlowpokeWellSignText:
-	text "SLOWPOKE WELL"
+	text "POZZO SLOWPOKE"
 
-	para "An oasis for"
-	line "SLOWPOKE in an"
-	para "otherwise arid"
-	line "environment."
+	para "Un'oasi per gli"
+	line "SLOWPOKE in"
+	para "un ambiente"
+	line "arido."
 	done
 
 
 BirdonTownJadeForestSignText:
-	text "JADE FOREST"
+	text "BOSCO GIADA"
 
-	para "Enter through the"
-	line "gate."
+	para "Per di qua."
 	done
 
 BirdonTown_MapEvents:

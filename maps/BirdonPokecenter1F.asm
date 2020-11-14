@@ -26,53 +26,55 @@ BirdonPokecenter1FPokefanFScript:
 	jumptextfaceplayer BirdonPokecenter1FPokefanFText
 
 BirdonPokecenter1FGentlemanText:
-	text "Do your #MON"
-	line "know HM moves?"
+	text "I tuoi #MON"
+	line "conoscono mosse di"
+	cont "MN?"
 
-	para "Those moves can"
-	line "be used even if"
+	para "Queste mosse si"
+	line "possono usare"
 
-	para "your #MON has"
-	line "fainted."
+	para "anche se il #-"
+	line "MON è KO."
 	done
 
 BirdonPokecenter1FUnusedText:
 ; unreferenced
-	text "This BILL guy"
-	line "created the system"
+	text "Un tale BILL ha"
+	line "creato il Sistema"
+	cont "Memoria #MON."
 
-	para "for storing"
-	line "#MON in a PC."
-
-	para "BILL's PC can"
-	line "store up to 20"
-	cont "#MON per BOX."
+	para "Nel PC di BILL"
+	line "puoi depositare"
+	para "fino a 20 #MON"
+	line "per BOX."
 	done
 
 BirdonPokecenter1FFishingGuruText:
-	text "BILL's PC can"
-	line "store up to 20"
-	cont "#MON per BOX."
+	para "Nel PC di BILL"
+	line "puoi depositare"
+	para "fino a 20 #MON"
+	line "per BOX."
 	done
 
 BirdonPokecenter1FPokefanFText:
-	text "Do you know about"
-	line "APRICORNS?"
+	text "Conosci le"
+	line "GHICOCCHE?"
 
-	para "Crack one open,"
-	line "hollow it out and"
+	para "Aprine una e"
+	line "abbinala ad un"
 
-	para "fit it with a"
-	line "special device."
+	para "particolare"
+	line "strumento."
 
-	para "Then you can catch"
-	line "#MON with it."
+	para "In questo modo"
+	line "potrai catturare"
+	cont "i #MON."
 
-	para "Before # BALLS"
-	line "were invented,"
+	para "Prima che fossero"
+	line "inventate le #,"
 
-	para "everyone used"
-	line "APRICORNS."
+	para "BALL, tutti usa-"
+	line "vano le GHICOCCHE."
 	done
 
 BirdonPokecenter1F_MapEvents:
