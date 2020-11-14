@@ -18,17 +18,17 @@ AlloyPunishmentSpeechHouseRadio:
 	jumpstd Radio2Script
 
 AlloyPunishmentSpeechHouseDadText:
-	text "KOBAN ISLAND is"
-	line "such a quaint"
-	cont "little island."
-	para "But reaching it"
-	line "is difficult."
-	para "The waters north"
-	line "of here are filled"
-	cont "with whirlpools."
-	para "It's impossible to"
-	line "pass without the"
-	cont "help of #MON."
+	text "ISOLA ZUCCHERINO"
+	line "è un luogo"
+	cont "caratteristico."
+	para "Ma è difficile"
+	line "raggiungerla."
+	para "Le acque a nord"
+	line "di qui sono piene"
+	cont "di vortici."
+	para "È impossibile"
+	line "attraversarli"
+	cont "senza un #MON."
 	done
 
 

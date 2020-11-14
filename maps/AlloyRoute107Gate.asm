@@ -10,13 +10,14 @@ AlloyRoute107GateOfficerScript:
 	jumptextfaceplayer AlloyRoute107GateOfficerText
 
 AlloyRoute107GateOfficerText:
-	text "Be careful if you"
-	line "intend to cross"
-	para "the ocean to get"
-	line "to KOBAN ISLAND."
-	para "The waters are"
-	line "rough. You'll need"
-	cont "a #MON's help."
+	text "Fai attenzione se"
+	line "vuoi attraversare"
+	para "l'oceano per ISOLA"
+	line "ZUCCHERINO."
+	para "Le acque sono"
+	line "mosse. Ti serve"
+	para "la mossa di"
+	line "un #MON."
 	done
 
 

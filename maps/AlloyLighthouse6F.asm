@@ -161,94 +161,96 @@ MovementData_0x112db5:
 	step_end
 
 JasmineCrownHouse2Text:
-	text "JASMINE: … This"
-	line "#MON always"
+	text "JASMINE: … Questo"
+	line "#MON illuminava"
 
-	para "kept the sea lit"
-	line "at night."
+	para "sempre il mare la"
+	line "notte."
 
-	para "…But it suddenly"
-	line "got sick… It's"
-	cont "gasping for air…"
+	para "… Poi si è"
+	line "ammalato…"
+	para "Ora respira"
+	line "affannosamente…"
 
-	para "…I understand"
-	line "that there is a"
+	para "…So che"
+	line "c'è una FARMACIA"
 
-	para "wonderful PHARMACY"
-	line "in SUNPOINT…"
+	para "fornitissima a"
+	line "ELIOPOLI…"
 
-	para "But that's across"
-	line "the sea…"
+	para "Ma è dall'altra"
+	line "parte del mare…"
 
-	para "And I can't leave"
-	line "AMPHY unattended…"
+	para "E non posso"
+	line "lasciare AMPHY"
+	cont "da solo…"
 	done
 
 JasmineGetSomeMedicineText:
-	text "…May I ask you to"
-	line "get some medicine"
-	cont "for me? Please?"
+	text "…Ti prego,"
+	line "mi procureresti"
+	cont "la medicina?"
 	done
 
 JasmineCureAmphyText:
-	text "JASMINE: …Will"
-	line "that medicine cure"
-	cont "AMPHY?"
+	text "JASMINE: Questa"
+	line "medicina farà"
+	cont "guarire AMPHY?"
 	done
 
 PlayerHandedSecretpotionText:
-	text "<PLAYER> handed the"
-	line "SECRETPOTION to"
+	text "<PLAYER> dà la"
+	line "POZIONE SEGRETA a"
 	cont "JASMINE."
 	done
 
 JasmineDontBeOffendedText:
-	text "JASMINE: …Um,"
-	line "please don't be"
-	cont "offended…"
+	text "JASMINE: Non"
+	line "offenderti…"
 
-	para "…AMPHY will not"
-	line "take anything from"
-	cont "anyone but me…"
+	para "…Ma AMPHY non"
+	line "accetta nulla"
+	cont "dagli estranei…"
 	done
 
 JasmineAmphyHowAreYouFeelingText:
 	text "JASMINE: …"
 
-	para "AMPHY, how are you"
-	line "feeling?"
+	para "AMPHY, come ti"
+	line "senti?"
 	done
 
 JasmineThankYouText:
-	text "JASMINE: …Oh, I'm"
-	line "so relieved…"
+	text "JASMINE: Sono"
+	line "così sollevata…"
 
-	para "This is just so"
-	line "wonderful…"
+	para "È semplicemente"
+	line "meraviglioso…"
 
-	para "Thank you so very,"
-	line "very much."
+	para "Grazie, grazie"
+	line "davvero."
 
-	para "…I will return to"
-	line "the GYM…"
+	para "Ora torno alla"
+	line "PALESTRA"
 	done
 
 JasmineISeeText:
-	text "JASMINE: …I see…"
+	text "JASMINE: …Ok…"
 	done
 
 JasmineAmphyHangOnText:
-	text "…AMPHY, hang on!"
+	text "…AMPHY,"
+	line "tieni duro."
 	done
 
 AmphyPalPalooText:
 	text "AMPHY: …"
-	line "…Pa… paloo…"
+	line "…Pa… palu…"
 	done
 
 AmphyBreathingLaboredText:
-	text "Its breathing is"
-	line "terribly labored…"
+	text "Respira con grande"
+	line "difficoltà…"
 	done
 
 AmphyPaluPaluluText:

@@ -21,23 +21,25 @@ AlloyMartLassScript:
 	jumptextfaceplayer AlloyMartLassText
 
 AlloyMartCooltrainerFText:
-	text "Do your #MON"
-	line "already know the"
+	text "I tuoi #MON"
+	line "conoscono già"
 
-	para "move for carrying"
-	line "people on water?"
+	para "la mossa per"
+	line "portare la gente"
+	cont "sull'acqua?"
 	done
 
 AlloyMartLassText:
-	text "My BUTTERFREE came"
-	line "from my boyfriend"
-	cont "overseas."
+	text "Il mio ragazzo"
+	line "è di là dal mare:"
+	para "mi ha mandato"
+	line "un BUTTERFREE!"
 
-	para "It flew here on"
-	line "its own."
+	para "Aveva un MESSAGGIO"
+	line "con sé."
 	
-	para "Do your #MON"
-	line "know how to FLY?"
+	para "I tuoi #MON"
+	line "sanno usare VOLO?"
 	done
 
 AlloyMart_MapEvents:

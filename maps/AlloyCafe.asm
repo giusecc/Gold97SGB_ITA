@@ -34,47 +34,47 @@ AlloyCafeSailorScript:
 	jumptextfaceplayer AlloyCafeSailorText
 
 AlloyCafeStrengthSailorText:
-	text "Hah! Sailing is"
-	line "such an outdated"
-	cont "way to travel!"
-	para "Walking is too!"
-	para "Why not have your"
-	line "#MON FLY you"
-	cont "everywhere?"
+	text "Andare in barca"
+	line "è così fuori"
+	cont "moda!"
+	para "Anche camminare!"
+	para "Perché non ti fai"
+	line "portare in volo"
+	cont "dai tuoi #MON?"
 	done
 
 AlloyCafeStrengthSailorText_GotStrength:
-	text "Ships still have"
-	line "to set sail since"
-	para "FLYING #MON"
-	line "can't carry cargo."
+	text "Abbiamo ancora"
+	line "bisogno di navi."
+	para "I #MON non"
+	line "possono portare"
+	cont "merci in volo."
 	done
 
 AlloyCafeFishingGuruText:
-	text "ALLOY CAFE's"
-	line "menu is chock full"
+	text "Il menu del"
+	line "DESMOCAFÉ è pieno"
 
-	para "of hearty fare for"
-	line "hungry people!"
+	para "zeppo di piatti"
+	line "per ghiottoni!"
 	done
 
 AlloyCafeSailorText:
-	text "Whenever I roll"
-	line "into this town, I"
+	text "Ogni volta che"
+	line "passo per questa"
 
-	para "always visit the"
-	line "ALLOY CAFE."
+	para "città vado sempre"
+	line "al DESMOCAFÉ."
 
-	para "Everything here is"
-	line "delicious!"
+	para "Qui ci sono piatti"
+	line "deliziosi!"
 	done
 	
 AlloyCafeClerkText:
-	text "Welcome to ALLOY"
-	line "CAFE!"
-	para "We have food to"
-	line "satisfy every"
-	cont "appetite!"
+	text "Benvenuto al"
+	line "DESMOCAFÉ!"
+	para "Abbiamo piatti"
+	line "per ogni palato!"
 	done
 
 AlloyCafe_MapEvents:

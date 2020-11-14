@@ -45,47 +45,48 @@ AlloyLighthouse5FHiddenHyperPotion:
 	hiddenitem HYPER_POTION, EVENT_ALLOY_LIGHTHOUSE_5F_HIDDEN_HYPER_POTION
 
 SailorErnestSeenText:
-	text "I wanted to battle"
-	line "JASMINE, but she's"
+	text "Volevo lottare con"
+	line "JASMINE, ma non"
 
-	para "not up to it now."
-	line "So, how about you?"
+	para "è dell'umore"
+	line "adatto. E tu?"
 	done
 
 SailorErnestBeatenText:
-	text "Whoa, whoa. You're"
-	line "overwhoak2ing!"
+	text "Ehi, ehi. Ma"
+	line "sei una furia!"
 	done
 
 SailorErnestAfterBattleText:
-	text "A GYM LEADER isn't"
-	line "just about being"
+	text "Un CAPOPALESTRA"
+	line "non dev'essere"
 
-	para "strong. A LEADER"
-	line "also needs to be"
-	cont "compassionate."
+	cont "soltanto forte."
+	para "Un vero capo"
+	line "sa anche essere"
+	cont "compassionevole."
 	done
 
 BirdKeeperDenisSeenText:
-	text "We're pretty high"
-	line "up here. My bird"
+	text "È piuttosto alto"
+	line "quassù: il luogo"
 
-	para "#MON are in"
-	line "prime form."
+	para "adatto per i miei"
+	line "#MON uccello!"
 	done
 
 BirdKeeperDenisBeatenText:
-	text "Oops…They crashed…"
+	text "Ops… Che botta…"
 	done
 
 BirdKeeperDenisAfterBattleText:
-	text "My #MON learned"
-	line "how to use FLY in"
-	cont "SUNPOINT."
+	text "I miei #MON"
+	line "hanno imparato"
+	cont "VOLO a ELIOPOLI."
 
-	para "Well, since I'm a"
-	line "loser, I'll FLY"
-	cont "across the sea…"
+	para "Siccome ho perso"
+	line "userò VOLO per"
+	cont "sorvolare il mare…"
 	done
 
 AlloyLighthouse5F_MapEvents:

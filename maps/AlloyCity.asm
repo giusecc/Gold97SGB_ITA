@@ -166,97 +166,95 @@ MovementData_0x1a88f7:
 
 AlloyCityGrampsText:
 	text "Ohohoho!"
-	para "You ever battle"
-	line "with the steel"
-	cont "type?"
-	para "They have high"
-	line "defenses!"
-	para "Know this if you"
-	line "plan to take on"
+	para "Hai mai sfidato"
+	line "un tipo ACCIAIO?"
+	para "È un tipo molto"
+	line "difensivo!"
+	para "Devi prepararti"
+	line "se vuoi sfidare"
 	cont "JASMINE!"
 	done
 
 AlloyCityRivalText:
 	text "<PLAYER>!"
-	para "It's been a while!"
-	para "You just got"
-	line "through JADE"
-	cont "FOREST, right?"
-	para "It's a tough place."
-	para "But it's filled"
-	line "with #MON!"
-	para "I'm actually not"
-	line "in the mood to"
-	cont "battle right now."
-	para "I'm headed back"
-	line "out to the FOREST"
-	para "to look for more"
+	para "Quanto tempo!"
+	para "Sei appena uscito"
+	line "dal BOSCO GIADA,"
+	cont "vero?"
+	para "È un posto strano,"
+	para "ma è pieno"
+	line "di #MON!"
+	para "Ora non sono in"
+	line "vena di lottare."
+	para "Voglio tornare"
+	line "nel BOSCO per"
+	para "cercare altri"
 	line "#MON!"
-	para "Can't miss the"
-	line "opportunity to"
-	para "look for the"
-	line "strongest #MON"
-	cont "to add to my team!"
-	para "This city's pretty"
-	line "cool, though!"
-	para "There's a GYM"
-	line "LEADER that uses"
-	cont "the STEEL-TYPE!"
-	para "I'd never even"
-	line "heard of that type"
-	cont "before!"
-	para "Anyways, I'm off!"
-	line "See you around!"
+	para "Non posso perdere"
+	line "l'occasione di"
+	para "trovare qualche"
+	line "#MON da aggiungere"
+	cont "alla mia squadra!"
+	para "Questa città è"
+	line "fantastica!"
+	para "La CAPOPALESTRA"
+	line "usa #MON di"
+	cont "tipo ACCIAIO!"
+	para "Non ne avevo mai"
+	line "sentito parlare"
+	cont "prima d'ora!"
+	para "Ora devo andare!"
+	line "Ci si vede!"
 	done
 
 AlloyCitySailor1Text:
-	text "I've always had"
-	line "a dream to move"
-	para "farther north"
-	line "where it snows."
+	text "Ho sempre sognato"
+	line "di andare più"
+	para "a nord e vedere"
+	line "un po' di neve."
 	done
 
 AlloyCityStandingYoungsterPokegearText:
-	text "That thing you"
-	line "have--it's a #-"
-	cont "GEAR, right? Wow,"
-	cont "that's cool."
+	text "Quell'aggeggio"
+	line "è un #GEAR,"
+	cont "giusto? Sembra"
+	cont "bellissimo."
 	done
 
 AlloyCityStandingYoungsterPokedexText:
-	text "Wow, you have a"
+	text "Ma quello è un"
 	line "#DEX!"
 
-	para "That is just so"
-	line "awesome."
+	para "Vorrei averne"
+	line "uno anche io."
 	done
 
 AlloyCitySailor2Text:
-	text "The canal that"
-	line "runs through this"
-	para "city is a sight"
-	line "to behold at"
-	cont "sunset."
+	text "Il canale che"
+	line "passa per questa"
+	para "città è uno"
+	line "spettacolo al"
+	cont "tramonto."
 	done
 
 AlloyCitySignText:
-	text "ALLOY CITY"
+	text "DESMOPOLI"
 
-	para "A bustling city"
-	line "by rough waters"
+	para "Una città vivace"
+	line "tra acque agitate"
 	done
 
 AlloyGymSignText:
-	text "ALLOY CITY"
-	line "#MON GYM"
-	cont "LEADER: JASMINE"
+	text "DESMOPOLI"
+	line "CAPOPALESTRA:"
+	cont "JASMINE"
 
-	para "The Steel-Clad"
-	line "Defense Girl"
+	para "La ragazza con una"
+	line "difesa d'acciaio"
 	done
 
 AlloyLighthouseSignText:
-	text "FIGHTING DOJO"
+	text "DOJO KARATE"
 	done
 
 AlloyCity_MapEvents:
