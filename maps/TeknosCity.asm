@@ -82,6 +82,9 @@ TeknosCityFisherScript:
 
 
 TeknosCityRocket1Script:
+;	setevent EVENT_WHITNEY_1_AQUARIUM
+;	setevent EVENT_WHITNEY_2_AQUARIUM
+;	setmapscene TEKNOS_AQUARIUM_1F, SCENE_DEFAULTs
 	jumptextfaceplayer TeknosCityRocket1Text
 	
 TeknosCityRocket2Script:

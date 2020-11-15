@@ -84,7 +84,8 @@ _AskStrengthText::
 
 _BouldersMoveText::
 	text "Ora è possibile"
-	line "spostare i massi!"
+	line "spostare oggetti"
+	cont "pesanti!"
 	done
 
 _BouldersMayMoveText::
