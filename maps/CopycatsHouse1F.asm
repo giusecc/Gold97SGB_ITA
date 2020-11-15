@@ -36,38 +36,39 @@ CopycatsHouse1FMiltankScript:
 	end
 
 CopycatsHouse1FPokefanMText:
-	text "My daughter likes"
-	line "to mimic people."
+	text "A mia figlia piace"
+	line "imitare la gente."
 
-	para "Her mimicry has"
-	line "earned her the"
+	para "Per questo le"
+	line "hanno dato il"
 
-	para "nickname COPYCAT"
-	line "around here."
+	para "soprannome di"
+	line "COPIONA."
 	done
 
 CopycatsHouse1FPokefanFText:
-	text "My daughter is so"
-	line "self-centered…"
+	text "Mia figlia è così"
+	line "introversa…"
 
-	para "She only has a few"
-	line "friends."
+	para "Ha pochissimi"
+	line "amici."
 	done
 
 CopycatsHouse1FPokefanFText_ReturnedMachinePart:
-	text "She recently lost"
-	line "the # DOLL that"
+	text "Qualche tempo fa"
+	line "ha perso la #"
 
-	para "a boy gave her"
-	line "three years ago."
+	para "BAMBOLA che le"
+	line "aveva regalato un"
+	cont "ragazzo."
 
-	para "Ever since then,"
-	line "she's gotten even"
-	cont "better at mimicry…"
+	para "Da allora è diven-"
+	line "tata ancora più"
+	cont "brava a mimare…"
 	done
 
 CopycatsHouse1FMiltankText:
-	text "MILTANK: Bliisii!"
+	text "MILTANK: Blissi!"
 	done
 
 CopycatsHouse1F_MapEvents:

@@ -30,25 +30,25 @@ CrownHouse1GrannyScript:
 	end
 	
 CrownHouse1GrannyText1:
-	text "I was a LEAGUE"
-	line "challenger back in"
-	cont "my day."
-	para "You know what the"
-	line "secret is?"
-	para "Strategy. It's"
-	line "knowing how to use"
-	cont "items."
-	para "Here, I've got a"
-	line "good one for you."
+	text "Ai miei tempi ero"
+	line "uno sfidante della"
+	cont "LEGA."
+	para "Sai qual è il"
+	line "segreto?"
+	para "Strategia. Devi"
+	line "saper usare gli"
+	cont "strumenti."
+	para "Ecco, ne ho uno"
+	line "buono per te."
 	done
 	
 CrownHouse1GrannyText2:
-	text "SCOPE LENS makes"
-	line "your #MON more"
-	para "likely to land"
-	line "critical hits."
-	para "They won't know"
-	line "what hit them!"
+	text "MIRINO fa sì che"
+	line "i tuoi #MON"
+	para "possano fare più"
+	line "brutti colpi."
+	para "Non sapranno cosa"
+	line "li ha colpiti!"
 	done
 
 CrownHouse1_MapEvents:

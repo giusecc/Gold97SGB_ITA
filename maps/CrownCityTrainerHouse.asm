@@ -44,61 +44,61 @@ CrownCityTrainerHouseLassScript:
 	
 
 IejimaTownDreamEaterFisherText:
-	text "Yawn!"
+	text "Gulp!"
 
-	para "I've been training"
-	line "so much lately…"
-	para "I'm so tired, I"
-	line "could fall asleep."
+	para "Mi sono allenato"
+	line "troppo…"
+	para "Sono così stanco"
+	line "che potrei"
+	cont "addormentarmi!"
 	
-	para "Did you know"
-	line "there's a move"
-	para "that's only"
-	line "effective against"
-	cont "sleeping #MON?"
-	para "Here, check this"
-	line "out."
+	para "Sapevi che esiste"
+	line "una mossa efficace"
+	para "solo contro i"
+	line "#MON addormentati?"
+	para "Ecco, guarda un"
+	line "po'."
 	done
 
 IejimaTownDreamEaterFisherGotDreamEaterText:
-	text "TM42 contains"
-	line "DREAM EATER…"
+	text "MT42 contiene"
+	line "MANGIASOGNI…"
 
 	para "…Zzzzz…"
 	done
 
 	
 CrownCityTrainerHouseRockerText:
-	text "Which of my #-"
-	line "MON are tough"
-	para "enough to take on"
-	line "the LEAGUE?"
+	text "Quale dei miei"
+	line "#MON è adatto"
+	para "per sfidare la"
+	line "LEGA?"
 	done
 	
 CrownCityTrainerHouseCooltrainermText:
-	text "I'm ready!"
-	para "I can do this!"
-	para "Just psyching"
-	line "myself up."
+	text "Sono pronto!"
+	para "Posso farcela!"
+	para "Mi sto solo"
+	line "caricando un po'."
 	done
 
 CrownCityTrainerHouseSuperNerdText:
-	text "I hear there are"
-	line "trainers in the"
-	para "LEAGUE that use"
-	line "PSYCHIC, GHOST,"
-	para "WATER, POISON, and"
-	line "DRAGON #MON."
+	text "Dicono che gli"
+	line "allenatori della"
+	para "LEGA usino #MON"
+	line "PSICO, SPETTRO,"
+	para "ACQUA, VELENO e"
+	line "DRAGO."
 	done
 	
 CrownCityTrainerHouseCooltrainerfText:
-	text "I had a tough time"
-	line "getting eight"
-	cont "BADGEs."
-	para "I might need to"
-	line "train more before"
-	para "I take on the"
-	line "LEAGUE."
+	text "Vincere otto"
+	line "MEDAGLIE è stata"
+	cont "dura."
+	para "Mi servirà molto"
+	line "più allenamento"
+	para "per sfidare la"
+	line "LEGA."
 	done
 
 CrownCityTrainerHouse_MapEvents:

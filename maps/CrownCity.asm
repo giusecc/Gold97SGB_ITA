@@ -51,46 +51,46 @@ CrownCityJanineScript:
 	jumptextfaceplayer CrownCityJanineText
 	
 CrownCityJanineText:
-	text "My older brother"
-	line "challenged the"
-	cont "LEAGUE once."
-	para "He couldn't de-"
-	line "feat them."
+	text "Il mio fratellone"
+	line "ha sfidato la LEGA"
+	cont "in passato."
+	para "Non è riuscito"
+	line "a vincere."
 	done
 	
 CrownCityRockerText:
-	text "As imposing as"
-	line "MT.FUJI is, this"
-	para "town at the base"
-	line "of the mountain"
-	cont "is really scenic."
+	text "Con l'imponenza"
+	line "del MONTE FUJI,"
+	para "questa cittadina"
+	line "alle sue pendici"
+	cont "è stupenda."
 	done
 	
 CrownCitySign2Text:
-	text "CROWN CITY"
-	line "TRAINER HOUSE"
+	text "DIADEMOPOLI"
+	line "CASA ALLENATORE"
 	done
 	
 CrownCitySignText:
-	text "CROWN CITY"
-	para "The base camp for"
-	line "LEAGUE Challengers"
+	text "DIADEMOPOLI"
+	para "Campo base per"
+	line "arrivare alla LEGA"
 	done
 	
 GoTrainerText:
-	text "Trainer!"
-	para "You are here"
-	line "because you have"
-	para "committed to"
-	line "climbing MT.FUJI!"
-	para "Gather your best"
-	line "team of #MON"
-	para "and all of your"
-	line "strength!"
-	para "Ascend the water-"
-	line "fall and begin"
-	cont "your climb!"
-	para "The LEAGUE awaits!"
+	text "Allenatore!"
+	para "Se sei qui è"
+	line "perché vuoi"
+	para "provare a scalare"
+	line "il MONTE FUJI!"
+	para "Porta i tui #-"
+	line "MON migliori e"
+	para "raccogli le tue"
+	line "forze!"
+	para "Risali la cascata"
+	line "e inizia la tua"
+	cont "scalata!"
+	para "La LEGA è lassù!"
 	done
 
 CrownCity_MapEvents:

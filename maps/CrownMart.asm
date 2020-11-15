@@ -21,20 +21,20 @@ CrownMartYoungsterScript:
 	jumptextfaceplayer CrownMartYoungsterText
 
 CrownMartCooltrainerMText:
-	text "There's a MART in"
-	line "the entrance to"
-	cont "the LEAGUE."
-	para "I think they have"
-	line "better selection"
-	cont "there."
+	text "C'è un #MON"
+	line "MARKET alla LEGA"
+	cont "#MON."
+	para "Credo che lì ci"
+	line "sia una scelta"
+	cont "migliore."
 	done
 
 
 CrownMartYoungsterText:
-	text "Pick up some ULTRA"
-	line "BALLs if you want"
-	para "to catch #MON"
-	line "in MT.FUJI."
+	text "Prendi delle ULTRA"
+	line "BALL se vuoi cat-"
+	para "turare dei #MON"
+	line "nel MONTE FUJI."
 	done
 
 CrownMart_MapEvents:
