@@ -20,9 +20,9 @@ BoulderMineB4FGiftShopLassScript:
 	jumptextfaceplayer BoulderMineB4FGiftShopLassText
 
 BoulderMineB4FGiftShopLassText:
-	text "When the sun goes"
-	line "down, CLEFAIRY"
-	cont "come out to play."
+	text "Quando cala il"
+	line "sole, i CLEFAIRY"
+	cont "escono a giocare."
 	done
 
 BoulderMineB4FGiftShop_MapEvents:

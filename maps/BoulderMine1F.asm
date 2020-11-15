@@ -77,55 +77,54 @@ BoulderMine1FBoulder:
 	jumpstd StrengthBoulderScript
 	
 CooltrainerFEmmaSeenText:
-	text "This cave is very"
-	line "confusing to"
-	cont "navigate."
+	text "È così difficile"
+	line "orientarsi in"
+	cont "questa grotta."
 	done
 
 CooltrainerFEmmaBeatenText:
-	text "I couldn't cut it!"
+	text "Non ce l'ho fatta!"
 	done
 	
 CooltrainerFEmmaAfterBattleText:
-	text "I hope no one has"
-	line "gotten lost in"
-	cont "here."
-	para "That could be"
-	line "pretty scary."
+	text "Spero che nessuno"
+	line "si sia mai perso"
+	cont "qui dentro."
+	para "Sarebbe"
+	line "spaventoso."
 	done
 
 PokemaniacLarrySeenText:
-	text "I wonder what"
-	line "gets mined from"
-	cont "this cave…"
+	text "Mi chiedo cosa"
+	line "si estraesse da"
+	cont "questa grotta…"
 	done
 
 PokemaniacLarryBeatenText:
-	text "How are you so"
-	line "strong?"
+	text "Come fai a essere"
+	line "così forte?"
 	done
 	
 PokemaniacLarryAfterBattleText:
-	text "I wonder if there"
-	line "is anything worth"
-	cont "any money…"
+	text "Mi chiedo se ci"
+	line "sia qualcosa di"
+	cont "valore…"
 	done
 
 Text_FoundMe:
-	text "Oh, hi!"
-	para "Um…"
-	line "Do you happen to"
-	para "know the way out"
-	line "of here?"
+	text "Oh, ciao!"
 	para "…"
-	para "Oh! Grandpa is"
-	line "looking for me?"
-	para "I didn't mean to"
-	line "make him worry…"
-	para "Okay! You'll help"
-	line "me get out of"
-	cont "here?"
-	para "Let's go!"
+	line "Per caso sai come"
+	para "si fa ad uscire"
+	line "da qui?"
+	para "…"
+	para "Oh! Mio nonno mi"
+	line "sta cercando?"
+	para "Non voglio farlo"
+	line "preoccupare…"
+	para "Ok! Mi aiuterai"
+	line "a uscire di qui?"
+	para "Andiamo!"
 	done
 
 BoulderMine1F_MapEvents:

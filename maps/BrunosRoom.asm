@@ -87,58 +87,59 @@ BrunosRoom_EnterMovement:
 	step_end
 
 BrunoScript_BrunoBeforeText:
-	text "Oho!"
+	text "Oh!"
 
-	para "So, old OAK has"
-	line "sent another child"
-	cont "on one of his"
-	cont "foolish errands…"
+	para "Il vecchio OAK ha"
+	line "mandato un altro"
+	para "ragazzo in giro"
+	line "per le sue"
+	cont "ricerche…"
 
-	para "I am AGATHA of"
-	line "the ELITE FOUR."
+	para "Sono AGATHA dei"
+	line "SUPERQUATTRO."
 	
-	para "My years have seen"
-	line "many travels and"
-	cont "turmoil."
+	para "Nella mia vita ho"
+	line "vissuto gioie e"
+	cont "dolori."
 	
-	para "That old fool OAK"
-	line "just lives in his"
-	cont "childhood dreams."
+	para "Quel vecchio matto"
+	line "di OAK vive ancora"
+	cont "nei suoi sogni."
 	
-	para "#MON have"
-	line "always been for"
-	cont "battling!"
+	para "I #MON esistono"
+	line "da sempre per"
+	cont "lottare!"
 
-	para "Tell me, child."
+	para "Dimmi, ragazzo."
 
-	para "How far will your"
-	line "resolve take you"
-	para "in your journey"
-	line "to complete the"
+	para "Fin dove ti ha"
+	line "spinto la tua"
+	para "determinazione"
+	line "a completare il"
 	cont "#DEX?"
 	
-	para "Let's find out."
-    line "Fufufufu…"
+	para "Scopriamolo."
+    	line "Fufufufu…"
 	done
 
 BrunoScript_BrunoBeatenText:
-	text "My gracious!"
+	text "Oh, povera me!"
 	
-	para "You certainly have"
-	line "it, my child."
+	para "Hai delle grandi"
+	line "abilità, ragazzo."
 	done
 
 BrunoScript_BrunoDefeatText:
 	text "Hmm…"
 	
-	para "Perhaps that old"
-	line "fool does know"
-	cont "your potential."
+	para "Forse quel vecchio"
+	line "ha visto in te del"
+	cont "potenziale."
 	
-	para "Run along now."
+	para "Vai avanti."
 	
-	para "Your journey is"
-	line "not yet over."
+	para "Il tuo viaggio non"
+	line "è ancora finito."
 	done
 
 BrunosRoom_MapEvents:
