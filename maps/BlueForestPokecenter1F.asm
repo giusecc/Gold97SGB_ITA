@@ -22,27 +22,28 @@ BlueForestPokecenter1FCooltrainerMScript:
 	jumpstd HappinessCheckScript
 
 BlueForestPokecenter1FGentlemanText:
-	text "High atop MT.FUJI"
-	line "sits the NIHON"
-	cont "LEAGUE."
+	text "La LEGA #MON si"
+	line "trova sulla cima"
+	cont "del MONTE FUJI."
 
-	para "I hear the best"
-	line "trainers gather"
+	para "Si dice che vi"
+	line "siano i migliori"
 
-	para "there from around"
-	line "the country."
+	para "allenatori di"
+	line "tutto il paese."
 	done
 
 BlueForestPokecenter1FTwinText:
-	text "There was this"
-	line "move I just had"
+	text "Volevo far"
+	line "imparare una nuova"
 
-	para "to teach my #-"
-	line "MON."
+	para "mossa al mio"
+	line "#MON."
 
-	para "So I got the MOVE"
-	line "DELETER to make it"
-	cont "forget an HM move."
+	para "Così ho chiesto"
+	line "all'ELIMINAMOSSE"
+	para "di fargli scordare"
+	line "una mossa MN."
 	done
 
 BlueForestPokecenter1F_MapEvents:

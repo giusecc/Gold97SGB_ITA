@@ -21,27 +21,29 @@ BlueForestMartBlackBeltScript:
 	jumptextfaceplayer BlueForestMartBlackBeltText
 
 BlueForestMartCooltrainerMText:
-	text "You can't buy MAX"
-	line "REVIVE, but it"
+	text "Non puoi comprare"
+	line "REVITALIZZANTE"
 
-	para "fully restores a"
-	line "fainted #MON."
+	para "MAX, che ridà tut-"
+	line "ta la salute ad un"
+	cont "#MON esausto."
 
-	para "Beware--it won't"
-	line "restore PP, the"
+	para "Attenzione: non"
+	line "restituisce i PP,"
 
-	para "POWER POINTS"
-	line "needed for moves."
+	para "PUNTI POTENZA, che"
+	line "servono per le"
+	cont "mosse."
 	done
 
 BlueForestMartBlackBeltText:
-	text "MAX REPEL keeps"
-	line "weak #MON away"
-	cont "from you."
+	text "REPELLENTE MAX"
+	line "tiene alla larga i"
+	cont "#MON deboli."
 
-	para "It's the longest"
-	line "lasting of the"
-	cont "REPEL sprays."
+	para "È lo spray REPEL-"
+	line "LENTE che dura più"
+	cont "a lungo."
 	done
 
 BlueForestMart_MapEvents:

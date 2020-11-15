@@ -212,10 +212,10 @@ BoardwalkGameCornerPlantVendorMenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "MAGNAPLANT   1800@"
-	db "TROPICPLANT  1800@"
-	db "JUMBOPLANT   1800@"
-	db "CANCEL@"	
+	db "MEGAPIANTA   1800@"
+	db "TROPICPIANTA 1800@"
+	db "GIGAPIANTA   1800@"
+	db "ESCI@"	
 
 BoardwalkGameCornerCarpetVendorMenuHeader:
 	db MENU_BACKUP_TILES ; flags
@@ -226,10 +226,10 @@ BoardwalkGameCornerCarpetVendorMenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "BLUE CARPET  1800@"
-	db "YELLOW CARPET1800@"
-	db "GREEN CARPET 1800@"
-	db "CANCEL@"	
+	db "TAPP. BLU    1800@"
+	db "TAPP. GIALLO 1800@"
+	db "TAPP. VERDE  1800@"
+	db "ESCI@"	
 
 BoardwalkGameCornerBedsVendorMenuHeader:
 	db MENU_BACKUP_TILES ; flags
@@ -240,10 +240,10 @@ BoardwalkGameCornerBedsVendorMenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "PINK BED     1800@"
-	db "POLKADOT BED 1800@"
-	db "PIKACHU BED  1800@"
-	db "CANCEL@"	
+	db "LETTO ROSA   1800@"
+	db "LETTO A POIS 1800@"
+	db "LETTO PIKA   1800@"
+	db "ESCI@"	
 	
 BoardwalkGameCornerDecorVendorMenuHeader:
 	db MENU_BACKUP_TILES ; flags
@@ -254,10 +254,10 @@ BoardwalkGameCornerDecorVendorMenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "BEDS@"
-	db "CARPETS@"
-	db "PLANTS@"
-	db "CANCEL@"
+	db "LETTI@"
+	db "TAPPETI@"
+	db "PIANTE@"
+	db "ESCI@"
 
 ;--------------------------------------
 
@@ -357,10 +357,10 @@ BoardwalkGameCornerTMVendorMenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "POISON STONE  800@"
-	db "HEART STONE   800@"
-	db "MOON STONE    800@"
-	db "CANCEL@"
+	db "VELENPIETRA   800@"
+	db "PIETRACUORE   800@"
+	db "PIETRALUNARE  800@"
+	db "ESCI@"
 
 BoardwalkGameCornerPrizeMonVendorScript:
 	faceplayer
@@ -446,7 +446,7 @@ BoardwalkGameCornerPrizeMonVendorScript:
 	db "ABRA        100@"
 	db "CUBONE      800@"
 	db "TWINZ      1500@"
-	db "CANCEL@"
+	db "ESCI@"
 
 BoardwalkGameCornerPharmacistScript:
 	faceplayer
@@ -525,134 +525,138 @@ BoardwalkGameCornerCardFlipMachineScript:
 	end
 	
 AlreadyHaveDecorItemText:
-	text "You already have"
-	line "this item."
+	text "Hai già questo"
+	line "oggetto."
 	done
 	
 SendItemToHomePCText:
-	text "Send this item to"
-	line "your bedroom PC?"
+	text "Inviare al"
+	line "PC di casa?"
 	done
 
 BoardwalkGameCornerPrizeVendorIntroText:
-	text "Welcome!"
+	text "Benvenuto!"
 
-	para "We exchange your"
-	line "game coins for"
-	cont "fabulous prizes!"
+	para "Scambiamo gettoni"
+	line "per fantastici"
+	cont "premi!"
 	done
 
 BoardwalkGameCornerPrizeVendorWhichPrizeText:
-	text "Which prize would"
-	line "you like?"
+	text "Quale premio vuoi?"
 	done
 
 BoardwalkGameCornerPrizeVendorConfirmPrizeText:
 	text_ram wStringBuffer3
 	text "."
-	line "Is that right?"
+	line "Va bene?"
 	done
 
 BoardwalkGameCornerPrizeVendorHereYouGoText:
-	text "Here you go!"
+	text "Ecco a te!"
 	done
 
 BoardwalkGameCornerPrizeVendorNeedMoreCoinsText:
-	text "Sorry! You need"
-	line "more coins."
+	text "Mi spiace, ti ser-"
+	line "vono più gettoni."
 	done
 
 BoardwalkGameCornerPrizeVendorNoMoreRoomText:
-	text "Sorry. You can't"
-	line "carry any more."
+	text "Mi spiace, non"
+	line "puoi portarne"
+	cont "altri."
 	done
 
 BoardwalkGameCornerPrizeVendorQuitText:
-	text "OK. Please save"
-	line "your coins and"
-	cont "come again!"
+	text "Ok. Conserva i"
+	line "tuoi gettoni per"
+	cont "la prossima volta!"
 	done
 
 BoardwalkGameCornerPrizeVendorNoCoinCaseText:
-	text "Oh? You don't have"
-	line "a COIN CASE."
+	text "Oh? Non hai un"
+	line "SALVADANAIO."
 	done
 
 BoardwalkGameCornerPharmacistText:
-	text "I always play this"
-	line "slot machine. It"
+	text "Gioco sempre a"
+	line "questa slot"
 
-	para "pays out more than"
-	line "others, I think."
+	para "machine. Mi porta"
+	line "fortuna, credo."
 	done
 
 BoardwalkGameCornerPokefanM1Text:
-	text "I just love this"
-	line "new slot machine."
+	text "Mi piace questa"
+	line "nuova slot"
+	cont "machine."
 
-	para "It's just the"
-	line "right level of"
-	cont "challenge."
+	para "È molto più"
+	line "divertente delle"
+	cont "altre."
 	done
 
 BoardwalkGameCornerCooltrainerMText:
-	text "Life is a gamble."
-	line "I'm going to flip"
-	cont "cards till I drop!"
+	text "La vita è una"
+	line "scommessa. Voglio"
+	para "giocare fino alla"
+	line "nausea!"
 	done
 
 BoardwalkGameCornerPokefanFText:
-	text "Card flip…"
+	text "Le carte…"
 
-	para "I prefer it over"
-	line "the slots because"
+	para "Le preferisco alle"
+	line "slot perché è più"
 
-	para "it's easier to"
-	line "figure the odds."
+	para "facile capire le"
+	line "probabilità."
 
-	para "But the payout is"
-	line "much lower."
+	para "Ma si vince molto"
+	line "meno."
 	done
 
 BoardwalkGameCornerCooltrainerFText:
-	text "I won't quit until"
-	line "I win!"
+	text "Non me ne vado"
+	line "finché non vinco!"
 	done
 
 BoardwalkGameCornerGentlemanText:
-	text "I evolved my #-"
-	line "MON with a POISON"
-	cont "STONE."
+	text "Ho preso una"
+	line "VELENPIETRA per il"
+	cont "mio #MON."
 
-	para "It was hard to get"
-	line "enough coins for"
+	para "È stata dura"
+	line "vincere i gettoni"
 
-	para "it, but it was"
-	line "worth it."
+	para "necessari, ma ne"
+	line "è valsa la pena."
 	done
 
 BoardwalkGameCornerPokefanM2Text:
-	text "I couldn't win at"
-	line "the slots, and I"
+	text "Alle slot non"
+	line "vincevo e alle"
 
-	para "blew it on card"
-	line "flipping…"
+	para "carte ho perso"
+	line "tutto…"
 
-	para "I took too many"
-	line "risks, and they"
-	cont "weren't worth it."
+	para "Ho preso troppi"
+	line "rischi e non ne è"
+	cont "valsa la pena."
 	done
 
 MoveTutorInsideText:
-	text "Wahahah! The coins"
-	line "keep rolling in!"
+	text "Hahahah! I gettoni"
+	line "continuano"
+	cont "a girare!"
 	done
 
 BoardwalkGameCornerLeftTheirDrinkText:
-	text "Someone left their"
-	line "drink."
+	text "Qualcuno ha"
+	line "lasciato la sua"
+	cont "bevanda."
 
-	para "It smells sweet."
+	para "Ha un buon odore."
 	done
 
 BoardwalkGameCorner_MapEvents:

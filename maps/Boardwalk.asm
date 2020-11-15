@@ -158,173 +158,174 @@ BoardwalkFruitTree:
 
 
 FledglingHidalgoSeenText:
-	text "Can I try battling"
-	line "against you?"
+	text "Posso lottare"
+	line "con te?"
 	done
 	
 FledglingHidalgoBeatenText:
-	text "This is tough!"
+	text "È stata dura!"
 	done
 	
 FledglingHidalgoAfterBattleText:
-	text "I'll work hard to"
-	line "keep getting"
-	cont "better at this!"
+	text "Lavorerò duramente"
+	line "per continuare a"
+	cont "migliorarmi!"
 	done
 	
 
 PokemaniacBrentSeenText:
-	text "Hey! Do you have"
-	line "any rare #MON?"
+	text "Ehi! Hai qualche"
+	line "#MON raro?"
 	done
 
 PokemaniacBrentBeatenText:
-	text "Oh, my poor #-"
-	line "MON! Darlings!"
+	text "Oh, i miei #-"
+	line "MON!"
 	done
 
 PokemaniacBrentAfterBattleText:
-	text "I'd be happy just"
-	line "to own a single"
-	cont "rare #MON."
+	text "Vorrei avere un"
+	line "solo #MON"
+	cont "raro."
 	done
 
 PokemaniacRonSeenText:
-	text "Would you get"
-	line "this?"
+	text "Vuoi sapere"
+	line "l'ultima?"
 
-	para "Some <RIVAL> guy"
-	line "beat my team!"
+	para "Un certo <RIVAL>"
+	line "mi ha battuto!"
 
-	para "Darn it! My #-"
-	line "MON are great!"
+	para "Ma i miei #-"
+	line "MON sono forti!"
 	
-	para "Surely I can win"
-	line "against you!"
+	para "Certamente vincerò"
+	line "contro di te!"
 	done
 
 PokemaniacRonBeatenText:
-	text "My team did"
-	line "pretty right on!"
+	text "La mia squadra ha"
+	line "dato il massimo!"
 	done
 
 PokemaniacRonAfterBattleText:
-	text "It's okay for"
-	line "people to like"
+	text "È bello che gli"
+	line "allenatori usino"
 
-	para "different types"
-	line "of #MON."
+	para "diversi tipi di"
+	line "#MON."
 
-	para "#MON isn't just"
-	line "about having the"
-	cont "most powerful one."
+	para "Non serve per"
+	line "forza avere sempre"
+	cont "quello più forte."
 	done
 
 FisherMarvinSeenText:
-	text "I'm in a slump."
+	text "Non sono in forma."
 
-	para "Maybe it's the"
-	line "gear I'm using."
+	para "Dipenderà dall'"
+	line "equipaggiamento."
 
-	para "Let's battle for a"
-	line "change of pace!"
+	para "Lottiamo, vediamo"
+	line "se mi riprendo!"
 	done
 
 FisherMarvinBeatenText:
-	text "I lost, but I feel"
-	line "better anyway."
+	text "Ho perso, ma mi"
+	line "sento meglio."
 	done
 
 FisherMarvinAfterBattleText:
-	text "KURT's LURE BALL"
-	line "is the best for"
+	text "L'ESCA BALL"
+	line "di FRANZ è il mas-"
 
-	para "catching hooked"
-	line "#MON."
+	para "simo per catturare"
+	line "i #MON d'acqua."
 
-	para "It's much more"
-	line "effective than a"
+	para "È molto più"
+	line "efficace di una"
 	cont "ULTRA BALL."
 	done
 
 CamperSpencerSeenText:
-	text "I can do so much"
-	line "with my #MON--"
-	cont "it's super-fun!"
+	text "Posso fare così"
+	line "tanto con i #-"
+	para "MON! Mi diverto un"
+	line "sacco!"
 	done
 
 CamperSpencerBeatenText:
-	text "Losing isn't fun"
-	line "at all…"
+	text "Perdere non è"
+	line "divertente…"
 	done
 
 CamperSpencerAfterBattleText:
-	text "Have you ever been"
-	line "to JADE FOREST?"
+	text "Sei stato al"
+	line "BOSCO GIADA?"
 
-	para "We were planning"
-	line "to camp there."
+	para "Volevamo"
+	line "accamparci lì."
 	done
 
 PicnickerTiffanySeenText:
-	text "Are you going to"
-	line "the GAME CORNER?"
+	text "Stai andando al"
+	line "CASINÒ?"
 
-	para "Let's play for a "
-	line "little while!"
+	para "Giochiamo un po'"
+	line "insieme!"
 	done
 
 PicnickerTiffanyBeatenText:
-	text "I played too much!"
+	text "Ho giocato troppo!"
 	done
 
 PicnickerTiffanyWantsPicnicText:
-	text "I'm having a pic-"
-	line "nic with #MON."
+	text "Faccio un pic-nic"
+	line "con i #MON."
 
-	para "Won't you join us?"
+	para "Sei dei nostri?"
 	done
 
 PicnickerTiffanyClefairyText:
-	text "Isn't my CLEFAIRY"
-	line "just the most"
-	cont "adorable thing?"
+	text "Il mio CLEFAIRY"
+	line "è così adorabile,"
+	cont "non è vero?"
 	done
 
 BoardwalkSign1Text:
-	text "BOARDWALK"
+	text "PONTILE"
 
-	para "SANSKRIT TOWN -"
-	line "TEKNOS CITY"
+	para "VESTIGIA -"
+	line "TECNOPOLI"
 	done
 
 BoardwalkSign2Text:
-	text "BOARDWALK GAME"
-	line "CORNER"
-	para "Your source for"
-	line "fun!"
+	text "CASINÒ del"
+	line "PONTILE"
+	para "Entra e"
+	line "divertiti!"
 	done
 
 BoardwalkTrainerTipsText:
-	text "TRAINER TIPS"
+	text "CONSIGLI UTILI"
 
-	para "All #MON have"
-	line "pros and cons"
+	para "Tutti i #MON"
+	line "hanno qualità e"
 
-	para "depending on their"
-	line "types."
+	para "punti deboli,"
+	line "dipende dal tipo."
 
-	para "If their types"
-	line "differ, a higher-"
+	para "Anche un #MON"
+	line "di livello supe-"
 
-	para "level #MON may"
-	line "lose in battle."
+	para "riore può perdere,"
+	line "secondo il tipo."
 
-	para "Learn which types"
-	line "are strong and"
+	para "Scopri contro"
+	line "quali tipi i tuoi"
 
-	para "weak against your"
-	line "#MON's type."
+	para "#MON sono"
+	line "più forti."
 	done
 
 Boardwalk_MapEvents:

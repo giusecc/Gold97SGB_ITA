@@ -35,32 +35,31 @@ BlueForestHouse1AnimonScript:
 	
 BlueForestHouse1MonText:
 	text "ANIMON:"
-	line "Uoi!"
+	line "Uooi!"
 	done
 
 Text_NightmareIntro:
-	text "I had a terrible"
-	line "nightmare last"
-	para "night that my"
-	line "ANIMON had dis-"
-	cont "appeared."
-	para "I was so heart-"
-	line "broken."
-	para "Fortunately it was"
-	line "not real."
-	para "But I did find"
-	line "this in my house"
-	cont "today."
-	para "I don't want it."
-	line "Take it, please."
+	text "Ho fatto un incubo"
+	line "stanotte: il mio"
+	para "ANIMON era"
+	line "scomparso!"
+	para "È stato"
+	line "terribile."
+	para "Per fortuna era"
+	line "solo un sogno."
+	para "Tuttavia, quando"
+	line "mi sono svegliato"
+	cont "ho trovato questa."
+	para "Io non la voglio."
+	line "Prendila tu."
 	done
 	
 Text_NightmareOutro:
-	text "TM50 teaches"
-	line "NIGHTMARE."
-	para "It can do great"
-	line "damage to #MON"
-	cont "that are asleep."
+	text "MT50 è INCUBO."
+	line "È un'infida mossa"
+	para "che continua a"
+	line "danneggiare #-"
+	cont "MON addormentati."
 	done
 
 BlueForestHouse1_MapEvents:
