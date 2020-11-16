@@ -151,143 +151,142 @@ ArtHousePokefanMScript:
 	jumptextfaceplayer ArtHousePokefanMText
 	
 ArtHousePokefanMText:
-	text "This guy's work"
-	line "is really impress-"
-	cont "ive!"
+	text "Quest'opera d'arte"
+	line "è davvero"
+	cont "incredibile!"
 	done
 	
 ArtHouseLassText:
-	text "You know, I like"
-	line "this EGG one the"
-	cont "best."
+	text "Sai, mi piace un"
+	line "sacco questo UOVO."
 	done
 
 EggStatueText:
-	text "#MON EGG STATUE"
-	line "by EARL"
+	text "STATUA UOVO"
+	line "di PRIMO"
 	done
 	
 ArtSignText:
-	text "EARL'S ART HOUSE"
-	para "Please look, but"
-	line "do not touch."
+	text "GALLERIA D'ARTE"
+	para "Guardare, ma"
+	line "non toccare."
 	done
 
 ArtistEarlIntroText:
-	text "Oh, boo."
-	para "I'm a failure."
-	para "Don't ask why!"
-	para "Alright, I'll tell"
-	line "you."
-	para "My name is EARL,"
-	line "and I'm an artist."
-	para "Or at least, I"
-	line "wish I was a"
-	cont "decent one."
-	para "I never feel"
-	line "inspired."
-	para "I opened this"
-	line "ART HOUSE to"
-	para "show off my work,"
-	line "but the only"
-	para "sculpture I've"
-	line "ever finished is"
-	para "a sculpture of a"
-	line "#MON EGG."
-	para "I need to do"
-	line "something"
-	cont "impressive!"
-	para "I've been working"
-	line "on a statue of the"
-	para "#MON MADAME,"
-	line "but it's not quite"
-	para "finished."
+	text "Oh, che amarezza."
+	para "Sono un fallimento"
+	line "vivente."
+	para "Non chiedere il"
+	line "perché!"
+	para "Ve bene, te lo"
+	line "dirò."
+	para "Io sono PRIMO e"
+	line "sono un artista."
+	para "O meglio, vorrei"
+	line "esserne capace."
+	para "Non ho mai nessuna"
+	line "ispirazione."
+	para "Ho aperto questa"
+	line "GALLERIA per"
+	para "esporre i miei"
+	line "lavori, ma l'unica"
+	para "scultura che abbia"
+	line "mai portato a"
+	para "termine è quella"
+	line "di un UOVO."
+	para "Devo fare qualcosa"
+	line "di soprendente!"
+	para "Sto lavorando alla"
+	line "statua del #-"
+	para "MON MADAME,"
+	line "ma non è ancora"
+	para "finita."
 	done
 
 ArtistEarlAskToSeeMonText:
-	text "If you have that"
-	line "#MON, may I see"
-	cont "it, please?"
+	text "Hai per caso quel"
+	line "#MON?"
 	done
 
 ArtistEarlExcitedToSeeText:
-	text "You will show me?"
-	line "How good of you!"
+	text "Puoi farmelo"
+	line "vedere? Grazie!"
 	done
 
 ArtistEarlYouDontHaveItTextText:
-	text "You don't have it?"
-	line "That's too bad…"
+	text "Non ce l'hai?"
+	line "Che peccato…"
 	done
 
 ArtistEarlShownPokemonText:
-	text "Ah, yes! That is"
+	text "Oh, sì! Ecco"
 	line "@"
 	text_ram wStringBuffer3
 	text "!"
 
-	para "Thank you so much!"
-	line "I feel inspired!"
+	para "Grazie mille! Ecco"
+	line "l'ispirazione!"
 	done
 
 ArtistEarlTokenOfAppreciationText:
-	text "This is a token of"
-	line "my appreciation."
+	text "Questo è un segno"
+	line "di ringraziamento."
 	done
 
 ArtistEarlComeAgainText:
-	text "Come by again"
-	line "sometime."
+	text "Torna qui"
+	line "qualche volta."
 	done
 
 ArtistEarlShownAllThePokemonText:
-	text "Thanks for showing"
-	line "me those #MON."
-	para "With your help,"
-	line "I've made great"
-	para "progress on my"
-	line "dream!"
+	text "Grazie per avermi"
+	line "mostrato quei"
+	cont "#MON!"
+	para "Con il tuo aiuto"
+	line "ho fatto passi"
+	para "da gigante nel"
+	line "mio lavoro!"
 	done
 
 ArtistEarlWrongPokemonText:
-	text "Hm?"
+	text "Eh?"
 
-	para "That's not the"
-	line "#MON that I was"
-	cont "thinking about."
+	para "Quello non è il"
+	line "#MON a cui"
+	cont "stavo pensando."
 	done
 
 ArtistEarlLickitungText:
-	text "If I could only"
-	line "see a MADAME in"
-	para "person, I might"
-	line "feel inspired to"
-	cont "finish my statue."
+	text "Se potessi vedere"
+	line "un MADAME dal vivo"
+	para "potrei trovare"
+	line "l'ispirazione per"
+	cont "finire la statua."
 	done
 	
 
 ArtistEarlOddishText:
-	text "I've finished my"
-	line "MADAME statue!"
-	para "Now I'd like to"
-	line "finish my statue"
-	cont "of a DRATINI."
-	para "If I could only"
-	line "see a DRATINI in"
-	para "person, I might"
-	line "feel inspired to"
-	cont "finish my statue."
+	text "Ho finito la"
+	line "statua di MADAME!"
+	para "Ora vorrei finire"
+	line "la statua di un"
+	cont "DRATINI."
+	text "Se potessi vedere"
+	line "un DRATINI"
+	para "potrei trovare"
+	line "l'ispirazione per"
+	cont "finire la statua."
 	done
 
 	
 BirdText:
-	text "MADAME STATUE"
-	line "by EARL"
+	text "STATUA MADAME"
+	line "di PRIMO"
 	done
 	
 DragonText:
-	text "DRATINI STATUE"
-	line "by EARL"
+	text "STATUA DRATINI"
+	line "di PRIMO"
 	done
 
 EarlsMuseum_MapEvents:

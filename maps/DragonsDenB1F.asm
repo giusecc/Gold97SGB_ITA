@@ -277,144 +277,143 @@ DragonOrbGetScript:
 	end
 	
 HeresTheOrb:
-	text "At last, you"
-	line "figured out who"
-	para "has the DRAGON"
-	line "ORB."
-	para "Take this, and"
-	line "bring it to CLAIR."
+	text "Alla fine hai"
+	line "trovato chi ha"
+	para "la DRAGOSFERA."
+	para "Prendila e portala"
+	line "a SANDRA."
 	done
 	
 HeresTheOrb2:
-	text "got orb"
+	text "ottiene la sfera"
 	done
 
 KantoRestaurantSignpostText:
-	text "DRAGON SHRINE"
+	text "SANTUARIO DRAGO."
 
-	para "A shrine honoring"
-	line "the dragon #MON"
+	para "Un santuario in"
+	line "onore del"
 
-	para "said to have lived"
-	line "in DRAGON'S DEN."
+	para "drago che pare"
+	line "abitasse nella"
+	cont "TANA DEL DRAGO."
 	done
 
 CooltrainermDarinSeenText:
-	text "You! Do you have"
-	line "what it takes to"
-	para "train the powerful"
-	line "DRAGON #MON?"
+	text "Tu! Sai cosa"
+	line "serve per allenare"
+	para "i potenti"
+	line "#MON DRAGO?"
 	done
 
 CooltrainermDarinBeatenText:
-	text "S-strong!"
+	text "S-sei forte!"
 	done
 
 CooltrainermDarinAfterBattleText:
-	text "I trust you will"
-	line "find these grounds"
-	para "a great place to"
-	line "train."
+	text "Sono sicuro che ti"
+	line "divertirai ad"
+	para "allenare qui la"
+	line "tua squadra."
 	done
 
 CooltrainermDarinAfterBattleTextNotDone:
-	text "DRAGON ORB?"
-	para "It is not me who"
-	line "is holding it."
+	text "DRAGOSFERA?"
+	para "Non sono io a"
+	line "tenerla."
 	done
 
 CooltrainerfCaraSeenText:
-	text "Did CLAIR give you"
-	line "permission to be"
-	cont "in here?"
+	text "SANDRA ti ha dato"
+	line "il permesso di"
+	cont "entrare qui?"
 	done
 
 CooltrainerfCaraBeatenText:
-	text "Oh yikes, I lost!"
+	text "Ho perso!"
 	done
 
 CooltrainerfCaraAfterBattleTextNotDone:
-	text "Nope, I'm not the"
-	line "holder of the ORB."
-	para "Try again!"
+	text "No, non sono io a"
+	line "tenere la SFERA."
+	para "Riprova!"
 	done
 
 CooltrainerfCaraAfterBattleText:
-	text "Raising DRAGONs is"
-	line "more rewarding"
-	para "than other types,"
-	line "I think."
+	text "Allenare #MON"
+	line "DRAGO è molto più"
+	para "difficile di quel"
+	line "che sembra."
 	done
 
 
 InstructorRandSeenText:
-	text "Have you learned"
-	line "enough about"
-	para "mystical DRAGON"
-	line "#MON in order"
-	para "to respect them"
-	line "properly?"
+	text "Hai imparato"
+	line "abbastanza sul"
+	para "mistico tipo"
+	line "DRAGO da portare"
+	para "il dovuto"
+	line "rispetto?"
 	done
 
 InstructorRandBeatenText:
-	text "Oh yikes, I lost!"
+	text "Peccato, ho perso!"
 	done
 
 InstructorRandAfterBattleText:
-	text "The history of"
-	line "people training"
-	para "DRAGON #MON is"
-	line "long and storied."
-	para "But some suspect"
-	line "it began here."
+	text "La storia dei"
+	line "maestri del tipo"
+	para "DRAGO è lunga"
+	line "e complessa."
+	para "Molti credono che"
+	line "sia iniziata qui."
 	done
 
 InstructorRandAfterBattleTextNotDone:
-	text "The ORB? Not here."
-	line "Try someone else."
+	text "La SFERA? Niente"
+	line "da fare. Prova"
+	cont "altrove."
 	done
 
 TwinsLeaandpia1SeenText:
-	text "It's a stranger we"
-	line "don't know."
+	text "Uno sconosciuto!"
 	done
 
 TwinsLeaandpia1BeatenText:
-	text "Ouchies."
+	text "Ahia."
 	done
 
 TwinsLeaandpia1AfterBattleText:
-	text "Have you ever"
-	line "battled LANCE?"
-	para "He is the only"
-	line "DRAGON TRAINER"
-	para "considered CLAIR's"
-	line "superior."
+	text "Hai mai sfidato"
+	line "LANCE? È l'unico"
+	para "maestro del tipo"
+	line "DRAGO ritenuto"
+	para "superiore a"
+	line "SANDRA."
 	done
 	
 TwinsLeaandpia1AfterBattleTextNotDone:
-	text "A DRAGON ORB?"
-	line "Nope, not here!"
+	text "DRAGOSFERA?"
+	line "No, non è qui!"
 	done
 
 TwinsLeaandpia2SeenText:
-	text "Who are you?"
+	text "E tu chi sei?"
 	done
 
 TwinsLeaandpia2BeatenText:
-	text "Meanie."
+	text "Cattivone."
 	done
 
 TwinsLeaandpia2AfterBattleTextNotDone:
-	text "DRAGON ORB? I"
-	line "don't have it!"
+	text "DRAGOSFERA?"
+	line "Io non ce l'ho!"
 	done
 
 TwinsLeaandpia2AfterBattleText:
-	text "Me and my sister"
-	line "are going to rival"
-	para "CLAIR and LANCE"
-	line "someday!"
+	text "Io e mia sorella"
+	line "sfideremo SANDRA"
+	para "e LANCE un giorno!"
 	done
 
 DragonsDenB1F_MapEvents:
