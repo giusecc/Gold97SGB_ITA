@@ -10,14 +10,14 @@ DaitoRanchOtherHouseFarmhandScript:
 	jumptextfaceplayer DaitoRanchOtherHouseFarmhandText
 	
 DaitoRanchOtherHouseFarmhandText:
-	text "Hi there!"
-	para "I work here on the"
-	line "RANCH!"
-	para "Being a ranchand"
-	line "is such a pleasant"
-	para "job when you work"
-	line "in such a scenic"
-	cont "place as this!"
+	text "Ciao!"
+	para "Lavoro qui alla"
+	line "FATTORIA!"
+	para "Fare il fattore è"
+	line "soddisfacente"
+	para "quando lavori in"
+	line "un posto bello"
+	cont "come questo!"
 	done
 	
 

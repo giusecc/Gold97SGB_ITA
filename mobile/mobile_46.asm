@@ -2,8 +2,8 @@ SECTION "Mobile 46", ROMX
 
 
 Text_ReceivedOddEgg:
-	text "ODD EGG"
-	line "was received!"
+	text "UOVO MISTERO"
+	line "ricevuto!"
 	done
 
 

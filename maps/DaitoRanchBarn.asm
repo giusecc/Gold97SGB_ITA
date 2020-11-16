@@ -128,65 +128,66 @@ MoomooScript:
 	end
 
 Route39BarnTwinMoomooIsSickText:
-	text "MOOMOO is sick…"
+	text "MUMU sta male…"
 
-	para "I hope papa knows"
-	line "how to help her"
-	cont "get healthy…"
+	para "Spero che si"
+	line "riprenda"
+	cont "presto…"
 	done
 
 Route39BarnTwinWereFeedingMoomooText:
-	text "We're feeding"
-	line "MOOMOO!"
+	text "Diamo da mangiare"
+	line "a MUMU!"
 	done
 
 MoomooWeakMooText:
-	text "MILTANK: …Moo…"
+	text "MILTANK: …Muuu…"
 	done
 
 Route39BarnItsCryIsWeakText:
-	text "Its cry is weak…"
+	text "Non riesce quasi"
+	text "a muggire…"
 	done
 
 MoomooHappyMooText:
-	text "MILTANK: Mooo!"
+	text "MILTANK: Muuu!"
 	done
 
 Route39BarnAskGiveBerryText:
-	text "Give an APPLE"
-	line "to MILTANK?"
+	text "Dai una MELA"
+	line "a MILTANK?"
 	done
 
 Route39BarnGaveBerryText:
-	text "<PLAYER> gave an"
-	line "APPLE to MILTANK."
+	text "<PLAYER> dà una"
+	line "MELA a MILTANK."
 	done
 
 Route39BarnLittleHealthierText:
-	text "MILTANK became a"
-	line "little healthier!"
+	text "Ora MILTANK sta"
+	line "un po' meglio!"
 	done
 
 Route39BarnQuiteHealthyText:
-	text "MILTANK became"
-	line "quite healthy!"
+	text "Ora MILTANK sta"
+	line "molto meglio!"
 	done
 
 Route39BarnTotallyHealthyText:
-	text "MILTANK became"
-	line "totally healthy!"
+	text "Ora MILTANK sta"
+	line "benissimo!"
 	done
 
 Route39BarnNoBerriesText:
-	text "<PLAYER> has no"
-	line "APPLES…"
+	text "<PLAYER> non ha"
+	line "MELE…"
 	done
 
 Route39BarnRefusedBerryText:
-	text "<PLAYER> wouldn't"
-	line "give an APPLE."
+	text "<PLAYER> non dà"
+	line "una MELA."
 
-	para "MILTANK looks sad."
+	para "MILTANK è triste."
 	done
 
 

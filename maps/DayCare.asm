@@ -74,83 +74,84 @@ DayCareBookshelf:
 	jumpstd DifficultBookshelfScript
 
 Text_GrampsLookingForYou:
-	text "Gramps was looking"
-	line "for you."
+	text "Mio marito ti"
+	line "sta cercando."
 	done
 
 Text_DayCareManTalksAboutEggTicket:
-	text "I'm the DAY-CARE"
-	line "MAN."
+	text "Sono il PADRONE"
+	line "della PENSIONE."
 
-	para "There's something"
-	line "new in WESTPORT"
+	para "C'è qualcosa di"
+	line "nuovo a PORTOVEST,"
 
-	para "called the TRADE"
-	line "CORNER."
+	para "lo chiamano"
+	line "CENTRO SCAMBI."
 
-	para "I was given an EGG"
-	line "TICKET that can be"
+	para "Mi hanno dato un"
+	line "BIGLIETTO UOVO"
 
-	para "traded in for a"
-	line "ODD EGG."
+	para "che può essere"
+	line "scambiato per un"
+	cont "UOVO MISTERO."
 
-	para "But since we run a"
-	line "DAY-CARE, we don't"
+	para "Ma dovendo star"
+	line "dietro alla"
+	cont "PENSIONE non ne"
 
-	para "need it. You may"
-	line "as well have it."
+	para "ho bisogno. Ti"
+	line "potrebbe servire."
 	done
 
 DayCareManText_GiveOddEgg:
-	text "I'm the DAY-CARE"
-	line "MAN."
+	text "Sono il PADRONE"
+	line "della PENSIONE."
 
-	para "Do you know about"
-	line "EGGS?"
+	para "Conosci la storia"
+	line "delle UOVA?"
 
-	para "I was raising"
-	line "#MON with my"
-	cont "wife, you see."
+	para "Stavo accudendo i"
+	line "#MON con"
+	cont "mia moglie."
 
-	para "We were shocked to"
-	line "find an EGG!"
+	para "E cosa troviamo?"
+	line "Un UOVO!"
 
-	para "How incredible is"
-	line "that?"
+	para "È incredibile,"
+	line "vero?"
 
-	para "Well, wouldn't you"
-	line "like this EGG?"
+	para "Ti piace"
+	line "quest'UOVO?"
 
-	para "Then fine, this is"
-	line "yours to keep!"
+	para "Bene allora, puoi"
+	line "tenerlo!"
 	done
 
 DayCareText_ComeAgain:
-	text "Come again."
+	text "Torna presto."
 	done
 
 DayCareText_GotOddEgg:
-	text "<PLAYER> received"
-	line "ODD EGG!"
+	text "<PLAYER> riceve"
+	line "UOVO MISTERO!"
 	done
 
 DayCareText_DescribeOddEgg:
-	text "I found that when"
-	line "I was caring for"
+	text "L'ho trovato"
+	line "accudendo un #-"
 
-	para "someone's #MON"
-	line "before."
+	para "MON di un altro"
+	line "allenatore."
 
-	para "But the trainer"
-	line "didn't want the"
+	para "Ma lui non voleva"
+	line "quest'UOVO, quindi"
 
-	para "EGG, so I'd kept"
-	line "it around."
+	para "l'ho tenuto io."
 	done
 
 DayCareText_PartyFull:
-	text "You've no room for"
-	line "this."
+	text "Non hai spazio"
+	line "per prenderlo."
 	done
 
 DayCare_MapEvents:

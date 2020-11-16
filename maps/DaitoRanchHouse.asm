@@ -79,83 +79,85 @@ DaitoRancheroScript_Milking:
 	end
 	
 HeyYouHealedMooMoo:
-	text "Well, hey now!"
-	para "I sure do ap-"
-	line "preciate you"
-	para "helpin' out my"
-	line "MOOMOO."
-	para "I owe ya one, son."
-	para "Here's something I"
-	line "found when we was"
-	para "clearin' land to"
-	line "build this here"
-	cont "RANCH."
-	para "Take it!"
+	text "Oh, eccoti!"
+	para "Ti ringrazio"
+	line "per aver aiutato"
+	para "MILTANK!"
+	para "Ti devo un favore,"
+	line "ragazzo."
+	para "Mentre facevamo"
+	line "i lavori per la"
+	para "FATTORIA abbiamo"
+	line "trovato questo."
+	para "Tieni!"
 	done
 	
 HeyYouHealedMooMoo2:
-	text "And if you're ever"
-	line "needin' some"
-	para "MOOMOO MILK, y'all"
-	line "just let me know."
+	text "Se hai bisogno"
+	line "di LATTE MUMU"
+	para "devi solo farmelo"
+	line "sapere."
 	done
 
 
 DaitoRancheroText_SickCow:
-	text "My MILTANK ain't"
-	line "givin' me milk"
-	cont "n'more."
+	text "Il mio MILTANK"
+	line "mi dà sempre"
+	cont "tanto latte."
 
-	para "This here FARM's"
-	line "got famous milk."
+	para "Questa FATTORIA"
+	line "è rinomata per"
+	cont "il suo latte."
 
-	para "Most everyone"
-	line "wants a drink."
+	para "Lo bevono tutti"
+	line "da queste parti."
 
-	para "It'll give me lots"
-	line "o' milk if'n I"
+	para "Io prendo il suo"
+	line "latte e le faccio"
 
-	para "feed it lots o'"
-	line "APPLES, I reckon."
+	para "mangiare le nostre"
+	line "MELE."
 	done
 
 DaitoRancheroText_BuyMilk:
-	text "How'd you like my"
-	line "MOOMOO MILK?"
+	text "Vuoi un po' di"
+	line "LATTE MUMU?"
 
-	para "It's my pride and"
-	line "joy, there."
+	para "Fantastico!"
+	line "Eccolo."
 
-	para "Give it to #MON"
-	line "to restore HP!"
+	para "Dallo a un #MON"
+	line "per ristabilire"
+	cont "i suoi PS."
 
-	para "I'll give it to ya"
-	line "fer just ¥500."
+	para "Te lo posso dare"
+	line "per soli ¥500."
 	done
 
 DaitoRancheroText_GotMilk:
-	text "Here ya go!"
-	line "Drink up'n enjoy!"
+	text "Tieni!"
+	line "Bevi e divertiti!"
 	done
 
 DaitoRancheroText_NoMoney:
-	text "Sorry, there."
-	line "No cash, no sale!"
+	text "Mi spiace."
+	line "Niente soldi,"
+	cont "niente latte!"
 	done
 
 DaitoRancheroText_NoRoom:
-	text "I reckon yer"
-	line "PACK's full."
+	text "Ragazzo, il tuo"
+	line "ZAINO è pieno."
 	done
 
 DaitoRancheroText_NoSale:
-	text "You don't want it?"
-	line "Come again, hear?"
+	text "Non lo vuoi?"
+	line "Torna presto!"
 	done
 
 DaitoRancheroText_Milking:
-	text "I best go do my"
-	line "milkin'."
+	text "Meglio tornare"
+	line "a mungere."
 	done
 
 DaitoHouseWifeScript:
@@ -179,20 +181,21 @@ DaitoHouseWifeScript:
 	end
 	
 Route26HealHouseRestAWhileText:
-	text "Your #MON look"
-	line "a little tired."
+	text "I tuoi #MON"
+	line "sembrano stanchi."
 
-	para "You should rest"
-	line "them a while."
+	para "Dovresti farli"
+	line "riposare un po'."
 	done
 
 Route26HealHouseKeepAtItText:
-	text "There!"
+	text "Ecco a te!"
 
-	para "Your #MON are"
-	line "looking good!"
+	para "I tuoi #MON"
+	line "sono in perfetta"
+	cont "forma!"
 
-	para "Keep at it!"
+	para "Torna presto!"
 	done
 
 

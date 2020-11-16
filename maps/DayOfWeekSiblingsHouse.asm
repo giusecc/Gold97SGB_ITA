@@ -21,51 +21,53 @@ DayOfWeekSiblingsHousePokedexScript:
 	end
 
 DayOfWeekSiblingsHousePokedexText1:
-	text "There's something"
-	line "written here."
+	text "Qui c'è scritto"
+	line "qualcosa."
 
-	para "Read it?"
+	para "Vuoi leggerlo?"
 	done
 
 DayOfWeekSiblingsHousePokedexText2:
-	text "To my brothers and"
-	line "sisters:"
+	text "Fratelli e"
+	line "sorelle:"
 
-	para "We take pride in"
-	line "serving #MON"
-	cont "trainers."
+	para "È un onore per"
+	line "noi servire gli"
+	para "allenatori di"
+	line "#MON."
 
-	para "When trainers talk"
-	line "to you, give them"
-	cont "something useful."
+	para "Quando gli alle-"
+	line "tori si rivolgono"
+	para "a voi, date loro"
+	line "qualcosa di utile!"
 
-	para "Love,"
-	line "MONICA"
+	para "Con affetto,"
+	line "LUANA"
 
-	para "Keep reading?"
+	para "Continui?"
 	done
 
 DayOfWeekSiblingsHousePokedexText3:
-	text "Monday, MONICA"
-	line "ROUTE 110"
+	text "Lunedì, LUANA"
+	line "PERCORSO 110"
 
-	para "Tuesday, TUSCANY"
-	line "ROUTE 29"
+	para "Martedì, MARTA"
+	line "PERCORSO 104"
 
-	para "Wednesday, WESLEY"
-	line "LAKE OF RAGE"
+	para "Mercoledì, ERCOLE"
+	line "PERCORSO 119"
 
-	para "Thursday, ARTHUR"
-	line "ROUTE 36"
+	para "Giovedì, GIORGIO"
+	line "PERCORSO 102"
 
-	para "Friday, FRIEDA"
-	line "ROUTE 32"
+	para "Venerdì, VERONICA"
+	line "PERCORSO 112"
 
-	para "Saturday, SANTOS"
-	line "BLUE FOREST"
+	para "Sabato, SABATINO"
+	line "BIANCASELVA"
 
-	para "Sunday, SUNNY"
-	line "ROUTE 37"
+	para "Domenica, DORINO"
+	line "PIANE SILENTI"
 	done
 
 DayOfWeekSiblingsHouse_MapEvents:

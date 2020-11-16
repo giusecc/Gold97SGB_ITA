@@ -29,19 +29,19 @@ DaitoRanchSign:
 	jumptext DaitoRanchSignText
 	
 DaitoRanchSignText:
-	text "DAITO RANCH -"
-	para "Dairy producers"
-	line "of the SOUTHWEST"
-	cont "ISLANDS."
+	text "FATTORIA DAITO"
+	para "Produttori di"
+	line "latte delle ISOLE"
+	cont "SUDOCCIDENTALI."
 	done
 
 SummerHomeSign:
 	jumpstd PokecenterSignScript
 	
 SummerHomeSignText:
-	text "GEOFFREY the"
-	line "Gardener's summer"
-	cont "resort house."
+	text "Residenza estiva"
+	line "del giardiniere"
+	cont "GOFFREDO."
 	done
 
 DaitoRanchMiltank:
@@ -59,15 +59,14 @@ AppleOrchardSign:
 	jumptext AppleOrchardSignText
 	
 DaitoRanchJanineText:
-	text "This is such a"
-	line "lovely place,"
-	cont "isn't it?"
+	text "È un posto"
+	line "stupendo, non"
+	cont "è vero?"
 	done
 	
 	
 AppleOrchardSignText:
-	text "DAITO APPLE"
-	line "ORCHARD"
+	text "MELETO DAITO"
 	done
 
 Appletree1:
@@ -99,41 +98,39 @@ Route105FruitTree2:
 
 
 DaitoRanchMiltankText:
-	text "MILTANK: Mooo!"
+	text "MILTANK: Muuu!"
 	done
 	
 DaitoFarmer1Script:
 	jumptextfaceplayer DaitoFarmer1Text
 	
 DaitoFarmer1Text:
-	text "See those trees?"
+	text "Vedi queste"
+	line "piante?"
 	
-	para "This is called"
-	line "a windbreak."
-	para "It protects the"
-	line "crops from being"
-	para "damaged by the"
-	line "winds that blow"
-	cont "through here."
+	para "Sono dette"
+	line "frangivento."
+	para "Proteggono il"
+	line "raccolto dai"
+	para "venti che soffiano"
+	line "da queste parti."
 	done
 
 DaitoFarmer2Script:
 	jumptextfaceplayer DaitoFarmer2Text
 	
 DaitoFarmer2Text:
-	text "This crop field"
-	line "is full of"
-	para "flowers right now"
-	line "because we're"
-	para "cycling the land"
-	line "in preparation"
-	para "for next planting"
-	line "season!"
+	text "Questi campi sono"
+	line "pieni di fiori al"
+	para "momento. Facciamo"
+	line "ruotare le"
+	para "colture in prepa-"
+	line "razione della"
+	para "prossima semina!"
 	
-	para "If you look around"
-	line "you might find"
-	para "some left over"
-	line "berries."
+	para "Cercando in giro"
+	line "potresti trovare"
+	para "delle bacche."
 	done
 
 HiddenBerry1:
@@ -167,45 +164,43 @@ DaitoGeoffPatioScript:
 	end
 
 GeoffThanksVisitText:
-	text "Hey, didn't we"
-	line "meet back over on"
-	cont "ROUTE 104?"
+	text "Ehi! Non ci siamo"
+	line "già visti sul"
+	cont "PERCORSO 104?"
 	
-	para "I was sick of"
-	line "trying to grow"
-	para "crops out in the"
-	line "desert, so I've"
-	para "moved myself out"
-	line "here to work on"
-	cont "this ranch!"
+	para "Ero stanco di"
+	line "provare a seminare"
+	para "nel deserto, così"
+	line "mi sono trasferito"
+	para "qui per lavorare"
+	line "in questa"
+	cont "fattoria!"
 
-	para "Since you took"
-	line "the time to come"
-	para "all the way out"
-	line "here to see me,"
-	para "this drink's on"
-	line "the house!"
+	para "Visto che sei"
+	line "venuto da lontano"
+	para "fin qui, lascia"
+	line "che ti offra"
+	para "qualcosa!"
 	done
 
 GeoffIslandLifeText:
-	text "What do you"
-	line "think of this"
-	cont "place?"
+	text "Cosa ne pensi"
+	line "di questo posto?"
 	
-	para "Great view, isn't"
-	line "it?"
-	para "Much better than"
-	line "dusty old ROUTE"
-	cont "104."
+	para "La vista è"
+	line "fantastica, vero?"
+	para "Molto meglio"
+	line "dell'arido"
+	cont "PERCORSO 104."
 	
-	para "I can grow all"
-	line "kinds of tropical"
-	cont "plants here too!"
+	para "Qui posso anche"
+	line "far crescere"
+	cont "piante tropicali!"
 	
-	para "Come inside some-"
-	line "time later and"
-	para "I'll tell you"
-	line "all about it."
+	para "Se ti interessa"
+	line "vieni a trovarmi"
+	para "e ti dirò tutto"
+	line "a riguardo."
 	done
 
 

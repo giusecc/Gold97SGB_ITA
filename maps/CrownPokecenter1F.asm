@@ -22,28 +22,28 @@ CrownPokecenter1FTeacherScript:
 	jumptextfaceplayer CrownPokecenter1FTeacherText
 
 CrownPokecenter1FFisherText:
-	text "I better make sure"
-	line "my #MON are"
-	cont "ready."
-	para "The climb will not"
-	line "be easy."
+	text "Devo essere sicuro"
+	line "che i miei #MON"
+	cont "siano pronti."
+	para "La scalata non"
+	line "sarà facile."
 	done
 
 CrownPokecenter1FGentlemanText:
-	text "The trainers you"
-	line "meet in the mount-"
-	cont "ain are tough."
-	para "Everyone there is"
-	line "looking to face"
-	cont "the LEAGUE."
+	text "Nella montagna"
+	line "incontrerai alle-"
+	cont "natori forti."
+	para "Sono tutti lì per"
+	line "affrontare la"
+	cont "LEGA #MON."
 	done
 
 CrownPokecenter1FTeacherText:
-	text "CROWN CITY is a"
-	line "good meeting place"
-	para "for trainers look-"
-	line "ing to climb"
-	cont "MT.FUJI."
+	text "DIADEMOPOLI è un"
+	line "posto perfetto per"
+	para "incontrare allena-"
+	line "tori pronti alla"
+	cont "scalata del MONTE."
 	done
 
 
