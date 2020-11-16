@@ -185,193 +185,191 @@ MovementData_0x76010:
 	step_end
 	
 SSCaptain_NoRoomText:
-	text "Why, you have no"
-	line "room for my gift!"
+	text "Non hai posto per"
+	line "il mio regalo!"
 	done
 	
 SSAquaCaptainThankYouText:
-	text "Ah, it's you!"
-	para "The kid who helped"
-	line "fix the ship!"
-	para "Thank you so very"
-	line "much!"
-	para "As a token of my"
-	line "gratitude, I'd"
-	para "like you to have"
-	line "this."
+	text "Ah, sei tu!"
+	para "Il ragazzo che ha"
+	line "aiutato a riparare"
+	cont "la nave!"
+	para "Grazie mille!"
+	para "Come segno di"
+	line "gratitudine vorrei"
+	para "che prendessi"
+	line "questo."
 	done
 	
 	
 SSAquaCaptainShipIsBrokenText:
-	text "Oh, dear."
-	para "We're in a serious"
-	line "predicament here."
-	para "The rough weather"
-	line "damaged the ship's"
-	cont "main FUEL LINE."
-	para "We have reserves"
-	line "that can get us"
-	cont "to AMAMI TOWN."
-	para "But we won't be"
-	line "able to make the"
-	para "return trip until"
-	line "this gets fixed!"
-	para "It might be asking"
-	line "too much, but"
-	para "could you help us"
-	line "out?"
-	para "There's a guy"
-	line "over in KUME CITY"
-	cont "who repairs ships."
-	para "He'll have the"
-	line "part we need."
-	para "When we dock,"
-	line "could you please"
-	para "help us out by"
-	line "going to get the"
-	cont "part?"
-	para "We won't be able"
-	line "to return to the"
-	para "mainland until it"
-	line "gets fixed!"
+	text "Oooh."
+	para "Abbiamo un bel"
+	line "problema qui."
+	para "A causa del mal-"
+	line "tempo il sistema"
+	para "del CARBURANTE si"
+	line "è danneggiato."
+	para "Abbiamo bisogno di"
+	line "un TUBO nuovo."
+	para "Possiamo arrivare"
+	line "fino a NAZE."
+	para "Ma non riusciremo"
+	line "a tornare indietro"
+	para "finché la nave non"
+	line "sarà riparata!"
+	para "Forse sto chiedendo"
+	line "troppo, ma potresti"
+	cont "aiutarci?"
+	para "C'è un tipo a KUME"
+	line "che ripara navi."
+	para "Avrà i pezzi di"
+	line "cui abbiamo"
+	cont "bisogno."
+	para "Quando arriviamo,"
+	line "potresti aiutarci"
+	para "e andare a prende-"
+	line "re il pezzo di"
+	cont "ricambio?"
+	para "Non possiamo"
+	line "tornare alla ter-"
+	para "raferma senza quel"
+	line "pezzo!"
 	done
 
 SSAquaCaptainExhaustingText:
-	text "Won't you please"
-	line "help us out?"
+	text "Ci aiuterai?"
 	done
 
 SSAquaCaptainHowDoYouLikeText:
-	text "How do you like"
-	line "S.S.AQUA's ride?"
+	text "Senti come naviga"
+	line "la M/N ACQUA?"
 
-	para "She practically"
-	line "skates across the"
-	cont "waves."
+	para "Scivola dolcemente"
+	line "sulle onde."
 	done
 
 PokefanmColinSeenText:
-	text "Hey, kid! Want to"
-	line "battle with me?"
+	text "Ehi ragazzo! Vuoi"
+	line "lottare con me?"
 	done
 
 PokefanmColinBeatenText:
-	text "You're strong!"
+	text "Ma sei forte!"
 	done
 
 PokefanmColinAfterBattleText:
-	text "You're traveling"
-	line "all alone?"
+	text "Viaggi tutto"
+	line "solo?"
 
-	para "Isn't your mom"
-	line "worried?"
+	para "E tua mamma non"
+	line "si preoccupa?"
 	done
 
 TwinsMegandpeg1SeenText:
-	text "You think I'm a"
-	line "baby?"
-	cont "That's not fair!"
+	text "Mi consideri una"
+	line "bimba?"
+	cont "Non è giusto!"
 	done
 
 TwinsMegandpeg1BeatenText:
-	text "Oh! We lost!"
+	text "No, abbiamo perso!"
 	done
 
 TwinsMegandpeg1AfterBattleText:
-	text "Baby is a rude"
-	line "name to call us"
-	cont "girls!"
+	text "Chiamare bimba una"
+	line "ragazza è proprio"
+	cont "offensivo!"
 	done
 
 TwinsMegandpeg2SeenText:
-	text "I'm not a baby!"
+	text "Bimba non è un bel"
 
-	para "That's not nice to"
-	line "say to a lady!"
+	line "nome per una"
+	cont "signora!"
 	done
 
 TwinsMegandpeg2BeatenText:
-	text "Oh! We lost!"
+	text "Che sconfitta!"
 	done
 
 TwinsMegandpeg2AfterBattleText:
-	text "Sometimes, kids"
-	line "are smarter than"
-	cont "grown-ups!"
+	text "A volte i bambini"
+	line "hanno più cervello"
+	cont "degli adulti!"
 	done
 
 PsychicRodneySeenText:
-	text "Ssh! My brain is"
-	line "picking up radio"
-	cont "signals!"
+	text "Silenzio, il mio"
+	line "cervello capta dei"
+	cont "segnali radio!"
 	done
 
 PsychicRodneyBeatenText:
-	text "…I hear some-"
-	line "thing!"
+	text "…Sento"
+	line "qualcosa!"
 	done
 
 PsychicRodneyAfterBattleText:
-	text "I get it. You can"
-	line "hear NIHONS's"
-	cont "radio on here."
+	text "La sento. Puoi"
+	line "sentire la radio"
+	cont "di NIHON."
 	done
 
 PokefanmJeremySeenText:
-	text "What do you think?"
-	line "My #MON are"
-	cont "beautiful, yes?"
+	text "Tu che dici? Belli"
+	line "i miei #MON,"
+	cont "vero?"
 	done
 
 PokefanmJeremyBeatenText:
-	text "Oh, no! My beauti-"
-	line "ful #MON!"
+	text "Oh, no! I miei bei"
+	line "#MON!"
 	done
 
 PokefanmJeremyAfterBattleText:
-	text "I must go to the"
-	line "#MON SALON and"
-	cont "fix them up nice!"
+	text "Devo andare al"
+	line "SALONE #MON per"
+	para "farli rimettere"
+	line "in ordine!"
 	done
 
 PokefanfGeorgiaSeenText:
-	text "I'm going to shop"
-	line "at the DEPT.STORE"
-	cont "and then…"
+	text "Prima vado al"
+	line "CENTRO COMMERCIALE"
+	cont "e poi…"
 	done
 
 PokefanfGeorgiaBeatenText:
-	text "What was I going"
-	line "to do?"
+	text "Cosa volevo fare?"
 	done
 
 PokefanfGeorgiaAfterBattleText:
-	text "Oh, yes! I have to"
-	line "get my #MON out"
-	cont "of DAY-CARE!"
+	text "Ah, devo ritirare"
+	line "i miei #MON"
+	cont "dalla PENSIONE!"
 	done
 
 SupernerdShawnSeenText:
-	text "What kinds of #"
-	line "BALLS do you have"
-	cont "with you?"
+	text "Che tipi di BALL"
+	line "hai con te?"
 	done
 
 SupernerdShawnBeatenText:
-	text "Wait! Stop! Don't!"
-	line "Please!"
+	text "No! Aspetta!"
+	line "Ti prego!"
 	done
 
 SupernerdShawnAfterBattleText:
-	text "You should use the"
-	line "right BALLS to fit"
-	cont "the situation."
+	text "Devi avere le BALL"
+	line "giuste per ogni"
+	cont "situazione."
 	done
 
 SSAquaHasArrivedAmamiText:
-	text "FAST SHIP S.S.AQUA"
-	line "has arrived in"
-	cont "AMAMI TOWN."
+	text "La NAVE VELOCE M/N"
+	line "ACQUA è giunta"
+	cont "a NAZE."
 	done
 
 FastShipCabins_SE_SSE_CaptainsCabin_MapEvents:

@@ -55,60 +55,60 @@ EndonCave2FEther:
 	itemball ETHER
 
 BirdKeeperTheoSeenText:
-	text "My beautiful birds"
-	line "have no room to"
-	cont "FLY in here!"
+	text "I miei stupendi"
+	line "#MON uccello"
+	para "non possono"
+	line "VOLARE qui!"
 	done
 
 BirdKeeperTheoBeatenText:
-	text "Do you know the"
-	line "way out of here?"
+	text "Sai come si esce"
+	line "da qui?"
 	done
 
 BirdKeeperTheoAfterBattleText:
-	text "How the heck do"
-	line "you get out?"
+	text "Come diamine si"
+	line "esce da qui?"
 
-	para "I want to FLY!"
-	line "FLY, far away!"
+	para "Voglio VOLARE!"
+	line "VOLARE via!"
 	done
 
 SailorTerrellSeenText:
-	text "Sailors are both"
-	line "kind and strong."
-	cont "How about you?"
+	text "I marinai sono"
+	line "gentili, ma forti."
+	cont "E tu?"
 	done
 
 SailorTerrellBeatenText:
-	text "You are both kind"
-	line "and strong…"
+	text "Anche tu sei"
+	line "gentile e forte…"
 	done
 
 SailorTerrellAfterBattleText:
-	text "I hear there's a"
-	line "new BOARDWALK open"
-	para "south of SANSKRIT"
-	line "TOWN."
+	text "Ho saputo che c'è"
+	line "un nuovo PONTILE"
+	para "a sud di VESTIGIA."
 	done
 	
 CooltrainermNickSeenText:
-	text "Do your #MON"
-	line "know the ability"
-	para "to carry you over"
-	line "water?"
-	para "There's an old man"
-	line "over in BIRDON who"
-	cont "taught mine!"
+	text "I tuoi #MON"
+	line "sono capaci di"
+	para "trasportarti sull'"
+	line "acqua?"
+	para "Un vecchio signore"
+	line "di AVIOPOLI l'ha"
+	cont "insegnato ai miei!"
 	done
 
 CooltrainermNickBeatenText:
-	text "Have you met him?"
+	text "Lo conosci già?"
 	done
 
 CooltrainermNickAfterBattleText:
-	text "Not many people"
-	line "come through here"
-	cont "to battle."
+	text "Non sono in molti"
+	line "a venire fin qui"
+	cont "a lottare."
 	done
 
 

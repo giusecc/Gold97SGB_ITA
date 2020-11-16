@@ -211,218 +211,224 @@ FashShipB1FSailorBlocksLeftMovement:
 	step_end
 
 FastShipB1FOnDutySailorText:
-	text "Hey, kid. Could I"
-	line "get you to look"
-	cont "for my buddy?"
+	text "Ehi tu, andresti"
+	line "a cercare il mio"
+	cont "collega?"
 
-	para "He's goofing off"
-	line "somewhere, that"
-	cont "lazy bum!"
+	para "Starà perdendo"
+	line "tempo chissà dove,"
+	cont "quel pigrone!"
 
-	para "I want to go find"
-	line "him, but I'm on"
-	cont "duty right now."
+	para "Vorrei cercarlo"
+	line "io, ma sono in"
+	cont "servizio."
 	done
 
 FastShipB1FOnDutySailorRefusedText:
-	text "Oh, gee…"
+	text "Oh, no…"
 
-	para "The CAPTAIN will"
-	line "be furious…"
+	para "Il CAPITANO sarà"
+	line "furioso…"
 	done
 
 FastShipB1FOnDutySailorThanksText:
-	text "Thanks, kid!"
-	line "I chewed him out"
+	text "Ho sgridato per"
+	line "bene il mio"
 
-	para "good so he'll quit"
-	line "slacking off!"
+	para "collega, così la"
+	line "smetterà di"
+	cont "bighellonare!"
 	done
 
 
 FastShipB1FOnDutySailorDirectionsText:
-	text "The dining room is"
-	line "up ahead."
+	text "Sempre dritto c'è"
+	line "il ristorante."
 
-	para "The stairs at the"
-	line "end lead to the"
-	cont "CAPTAIN's cabin."
+	para "In fondo alla sala"
+	line "trovi le scale per"
+	para "la cabina del"
+	line "CAPITANO."
 	done
 
 SailorJeffSeenText:
-	text "Nothing beats a"
-	line "battle when I'm"
-	cont "on my break."
+	text "Niente è meglio di"
+	line "una lotta quando"
+	cont "sono in pausa."
 	done
 
 SailorJeffBeatenText:
-	text "Win or lose, my"
-	line "break's over!"
+	text "Che abbia vinto o"
+	line "perso, la pausa è"
+	cont "finita."
 	done
 
 SailorJeffAfterBattleText:
-	text "I guess I can't"
-	line "win if I don't get"
-	cont "serious."
+	text "Ma per vincere"
+	line "ci vuole"
+	cont "serietà."
 	done
 
 PicnickerDebraSeenText:
-	text "I'm so bored."
-	line "Want to battle?"
+	text "Che noia!"
+	line "Lottiamo!"
 	done
 
 PicnickerDebraBeatenText:
-	text "Yow! You're too"
-	line "strong!"
+	text "Ehi, ma sei"
+	line "troppo forte!"
 	done
 
 PicnickerDebraAfterBattleText:
-	text "I hear there are"
-	line "many quaint towns"
-	cont "on the ISLANDS."
+	text "Dicono ci siano"
+	line "molte cittadine"
+	para "pittoresche sulle"
+	line "ISOLE."
 	done
 
 JugglerFritzSeenText:
-	text "Urrf…"
-	line "I'm seasick!"
+	text "Ahi…"
+	line "Ho il mal di mare!"
 	done
 
 JugglerFritzBeatenText:
-	text "I can't move any-"
-	line "more…"
+	text "Non posso più"
+	line "muovermi…"
 	done
 
 JugglerFritzAfterBattleText:
-	text "Ugh…"
-	para "I can hold it"
-	line "together…"
+	text "Ahi…"
+	para "Non ce la faccio"
+	line "più…"
 	done
 
 SailorGarrettSeenText:
-	text "This is where we"
-	line "sailors work!"
+	text "È qui che"
+	line "lavoriamo noi"
+	cont "marinai!"
 	done
 
 SailorGarrettBeatenText:
-	text "I lost on my home"
-	line "field…"
+	text "Praticamente ho"
+	line "perso in casa…"
 	done
 
 SailorGarrettAfterBattleText:
-	text "We get different"
-	line "passengers from"
+	text "Trasportiamo"
+	line "passeggeri tra"
 
-	para "AMAMI TOWN to"
-	line "WESTPORT CITY."
+	para "NAZE e"
+	line "PORTOVEST."
 	done
 
 FisherJonahSeenText:
-	text "Even though we're"
-	line "out on the sea, I"
-	cont "can't fish!"
+	text "Anche se siamo in"
+	line "mezzo al mare non"
+	cont "posso pescare!"
 
-	para "This is boring!"
-	line "Let's battle!"
+	para "Che noia! Dai,"
+	line "lottiamo!"
 	done
 
 FisherJonahBeatenText:
-	text "I… I'm not bored"
-	line "anymore…"
+	text "Beh… Ora non mi"
+	line "annoio più…"
 	done
 
 FisherJonahAfterBattleText:
-	text "I plan to fish off"
-	line "AMAMI's pier."
+	text "Pescherò dalla"
+	line "banchina di NAZE."
 	done
 
 BlackbeltWaiSeenText:
-	text "I'm building up my"
-	line "legs by bracing"
+	text "Mi rinforzo le"
+	line "gambe facendo"
 
-	para "against the ship's"
-	line "rocking!"
+	para "resistenza alle"
+	line "oscillazioni della"
+	cont "nave!"
 	done
 
 BlackbeltWaiBeatenText:
-	text "Rocked and rolled"
-	line "over!"
+	text "Ehi, ma tu mi hai"
+	line "fatto ballare!"
 	done
 
 BlackbeltWaiAfterBattleText:
-	text "Have you ever"
-	line "trained in the"
-	para "DOJO in ALLOY"
-	line "CITY?"
+	text "Ti sei allenato"
+	line "al DOJO di"
+	para "DESMOPOLI?"
 	done
 
 SailorKennethSeenText:
-	text "I'm a sailor man!"
+	text "Sono un marinaio."
 
-	para "But I'm training"
-	line "#MON, so I can"
-	cont "beat the LEAGUE!"
+	para "Ma alleno i #-"
+	line "MON per diventare"
+	cont "un CAMPIONE."
 	done
 
 SailorKennethBeatenText:
-	text "My lack of train-"
-	line "ing is obvious…"
+	text "È ovvio che sono"
+	line "poco allenato…"
 	done
 
 SailorKennethAfterBattleText:
-	text "Eight BADGES!"
-	line "They must prove"
+	text "Otto MEDAGLIE!"
+	line "Vuol dire che hai"
 
-	para "that you've beaten"
-	line "GYM LEADERS."
+	para "battuto otto"
+	line "CAPOPALESTRA."
 
-	para "No wonder you're"
-	line "so good!"
+	para "Ecco perché sei"
+	line "così in gamba!"
 	done
 
 TeacherShirleySeenText:
-	text "Don't lay a finger"
-	line "on my students!"
+	text "Guai se tocchi i"
+	line "miei studenti!!"
 	done
 
 TeacherShirleyBeatenText:
-	text "Aaack!"
+	text "Noooo!"
 	done
 
 TeacherShirleyAfterBattleText:
-	text "We're on a field"
-	line "trip to the RUINS"
-	cont "outside SANSKRIT."
+	text "Andiamo in gita"
+	line "alle ROVINE fuori"
+	cont "VESTIGIA."
 	done
 
 SchoolboyNateSeenText:
-	text "Do you know the"
-	line "SANSKRIT RUINS?"
+	text "Conosci le"
+	line "ROVINE VESTIGIA?"
 	done
 
 SchoolboyNateBeatenText:
-	text "Yaargh!"
+	text "Nooo!"
 	done
 
 SchoolboyNateAfterBattleText:
-	text "Radios pick up"
-	line "strange signals"
-	cont "inside the RUINS."
+	text "La radio capta"
+	line "strani segnali"
+	cont "alle ROVINE."
 	done
 
 SchoolboyRickySeenText:
-	text "There are some odd"
-	line "stone panels over"
-	cont "in SANSKRIT RUINS."
+	text "Nelle ROVINE"
+	line "VESTIGIA ci sono"
+	para "strani pannelli"
+	line "di pietra."
 	done
 
 SchoolboyRickyBeatenText:
-	text "I was done in!"
+	text "Sono a pezzi!"
 	done
 
 SchoolboyRickyAfterBattleText:
-	text "I read that there"
-	line "are four of those"
-	cont "stone panels."
+	text "Ho letto che ne"
+	line "esistono quattro"
+	cont "di quei pannelli."
 	done
 
 FastShipB1F_MapEvents:
