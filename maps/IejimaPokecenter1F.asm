@@ -43,28 +43,26 @@ IejimaPokecenter1FGentlemanScript:
 	closetext
 	end
 IejimaPokecenter1FJanineText2:
-	text "What is going on"
-	line "here?"
-	para "Why is the water-"
-	line "fall not flowing?"
+	text "Che succede qui?"
+	para "Perché la cascata"
+	line "è asciutta?"
 	done
 
 IejimaPokecenter1FJanineText:
-	text "Those BIKERs must"
-	line "have learned to"
-	cont "behave themselves."
+	text "Quei teppisti"
+	line "hanno avuto una"
+	cont "bella lezione."
 	done
 	
 IejimaPokecenter1FGentlemanText:
-	text "What a beautiful"
-	line "town this is!"
+	text "Che bella città!"
 	done
 	
 IejimaPokecenter1FGentlemanText2:
-	text "Oh, my!"
-	para "Why is this town"
-	line "filled with"
-	cont "ruffians?"
+	text "Oh!"
+	para "Perché questa"
+	line "città è piena di"
+	cont "teppisti?"
 	done
 
 IejimaPokecenter1F_MapEvents:

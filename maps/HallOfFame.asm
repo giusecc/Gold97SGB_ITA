@@ -68,49 +68,50 @@ HallOfFame_SlowlyApproachMachine:
 	step_end
 
 HallOfFame_LanceText:
-	text "LANCE: It's been a"
-	line "long time since I"
-	cont "last came here."
+	text "LANCE: Era da un"
+	line "bel po' che non"
+	cont "entravo qui."
 
-	para "This is where we"
-	line "honor the LEAGUE"
+	para "In questo posto"
+	line "i CAMPIONI della"
 
-	para "CHAMPIONS for all"
-	line "eternity."
+	para "LEGA sono onorati"
+	line "per sempre."
 
-	para "Their courageous"
-	line "#MON are also"
-	cont "inducted."
+	para "Anche i loro"
+	line "valorosi #MON"
+	cont "possono accedervi."
 
-	para "Here today, we"
-	line "witnessed the rise"
+	para "Oggi assistiamo"
+	line "alla nascita di"
 
-	para "of a new LEAGUE"
-	line "CHAMPION--a"
+	para "un nuovo CAMPIONE,"
+	line "un allenatore che"
 
-	para "trainer who feels"
-	line "compassion for,"
+	para "ha dimostrato"
+	line "affetto e fiducia"
 
-	para "and trust toward,"
-	line "all #MON."
+	para "verso i suoi"
+	line "#MON."
 
-	para "A trainer who"
-	line "succeeded through"
+	para "Un allenatore che"
+	line "si è fatto strada"
 
-	para "perseverance and"
-	line "determination."
+	para "con tenacia e"
+	line "determinazione."
 
-	para "The new LEAGUE"
-	line "CHAMPION who has"
+	para "Il nuovo CAMPIONE"
+	line "della LEGA, che"
 
-	para "all the makings"
-	line "of greatness!"
+	para "ha tutti i tratti"
+	line "di una grande"
+	cont "personalità."
 
-	para "<PLAYER>, allow me"
-	line "to register you"
+	para "<PLAYER>, oggi"
+	line "proclamo te e"
 
-	para "and your partners"
-	line "as CHAMPIONS!"
+	para "i tuoi #MON"
+	line "CAMPIONI!"
 	done
 
 HallOfFame_MapEvents:

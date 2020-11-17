@@ -13,9 +13,9 @@ GreatEastSign:
 	jumptext GreatEastSignText
 	
 GreatEastSignText:
-	text "GREAT EAST STRAIT"
-	line "ahead - watch out"
-	cont "for whirlpools!"
+	text "STRETTO ORIENTALE"
+	line "Attento ai"
+	cont "mulinelli!"
 	done
 
 
@@ -54,58 +54,58 @@ TrainerSwimmermParker:
 	
 	
 SwimmermLewisSeenText:
-	text "Glub…"
+	text "Ooh…"
 
-	para "I'm up! Come and"
-	line "get me!"
+	para "Ci sto! Vienimi"
+	line "a prendere!"
 	done
 
 SwimmermLewisBeatenText:
-	text "This can't be…"
+	text "Non può essere…"
 	done
 
 SwimmermLewisAfterBattleText:
-	text "Don't let your"
-	line "guard down, or"
-	cont "you'll be crushed!"
+	text "Non abbassare la"
+	line "guardia, o sarai"
+	cont "sconfitto!"
 	done
 
 DanSeenText:
-	text "This island is"
-	line "my battleground,"
-	para "the waves my war"
-	line "siren."
+	text "Questa isola è il"
+	line "mio campo di"
+	para "battaglia, le onde"
+	line "le mie sirene"
+	cont "di battaglia."
 	
-	para "As long as I'm"
-	line "above water, you"
-	para "will never take"
-	line "me alive!"
+	para "Finché sono sopra"
+	line "l'acqua, non mi"
+	para "prenderai vivo!"
 	done
 
 DanBeatenText:
-	text "TELSOOOOOON!"
+	text "RITIRATAAA!"
 	done
 	
 DanAfterBattleText:
-	text "The war is never"
-	line "over! I fight my"
-	para "own war every day"
-	line "in this place!"
+	text "La guerra non è"
+	line "finita! Combatto"
+	para "ogni giorno la"
+	line "mia qui!"
 	done
 	
 SwimmermParkerSeenText:
-	text "Rough waters here,"
+	text "Acque agitate,"
 	line "eh?"
 	done
 
 SwimmermParkerBeatenText:
-	text "This was not"
-	line "the plan!"
+	text "Questo non era"
+	line "il piano!"
 	done
 
 SwimmermParkerAfterBattleText:
-	text "Watch out for all"
-	line "the WHIRLPOOLs!"
+	text "Attento ai"
+	line "MULINELLI!"
 	done
 
 GESItemball:

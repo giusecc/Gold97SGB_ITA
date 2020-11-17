@@ -222,100 +222,98 @@ PlayerGreetsOfficer:
 	step_end
 	
 BikerSwansonSeenText:
-	text "Get outta here,"
-	line "kid!"
-	para "You're just here"
-	line "to ruin our fun!"
+	text "Vattane via,"
+	line "moccioso!"
+	para "Rovini il nostro"
+	line "divertimento!"
 	done
 	
 BikerSwansonBeatenText:
-	text "You're so lame!"
+	text "Che fastidio!"
 	done
 	
 BikerSwansonAfterBattleText:
-	text "Why you gotta"
-	line "mess with us?"
-	para "You better not"
-	line "open the dam back"
-	cont "up!"
+	text "Perché vuoi"
+	line "infastidirci?"
+	para "Faresti meglio"
+	line "a non riaprire"
+	cont "la diga!"
 	done
 	
 OfficerInTheDistance:
-	text "OFFICER: Hey!"
-	para "What's been going"
-	line "on in here?"
+	text "AGENTE: Ehi!"
+	para "Che succede lì?"
 	done
 	
 BikerSwansonAfterBattleText2:
-	text "Agh!"
-	line "The cops!"
-	para "I better get out"
-	line "of here!"
+	text "Aaah!"
+	line "Gli sbirri!"
+	para "Meglio"
+	line "filarsela!"
 	done
 	
 	
 OfficerThanksYou:
-	text "Well, now!"
-	para "Thanks for helping"
-	line "out here!"
-	para "I was on my way to"
-	line "deal with all of"
-	para "these hooligans"
-	line "that had made"
-	para "their way into the"
-	line "HYDRO PLANT."
-	para "But you got here"
-	line "first and tired"
-	para "them all out with"
-	line "#MON battles!"
-	para "They didn't want"
-	line "anything to do"
-	para "with me and all"
-	line "took off as soon"
-	cont "as I showed up!"
-	para "I'm sure the"
-	line "citizens of IEJIMA"
-	para "TOWN will be very"
-	line "grateful to have"
-	para "the water flowing"
-	line "again!"
-	para "We'll have to post"
-	line "some more security"
-	para "here for the"
-	line "future to keep"
-	cont "those guys out!"
-	para "Anyways, thanks"
-	line "again!"
+	text "Oh, ecco!"
+	para "Grazie per"
+	line "l'aiuto!"
+	para "Stavo venendo qui"
+	line "per questi"
+	para "teppisti che si"
+	line "sono intrufolati"
+	para "nell'IMPIANTO"
+	line "IDROELETTRICO."
+	para "Ma sei arrivato"
+	line "prima tu e li hai"
+	para "fermati con i tuoi"
+	line "#MON!"
+	para "Non vogliono aver"
+	line "a che fare con me"
+	para "e se la sono data"
+	line "a gambe appena"
+	cont "sono arrivato!"
+	para "Sono sicuro che i"
+	line "cittadini di"
+	para "IEJIMA saranno"
+	line "euforici di avere"
+	para "nuovamente la"
+	line "loro acqua!"
+	para "Dovremo portare"
+	line "più agenti qui"
+	para "per tenere lontani"
+	line "i teppisti!"
+	para "Tuttavia, grazie"
+	line "ancora!"
 	done
 	
 LetsNotMessWithItText:
-	text "Better not mess"
-	line "with this any"
-	cont "more…"
+	text "Meglio non"
+	line "scherzarci di"
+	cont "nuovo…"
 	done
 
 DamOpenText:
-	text "It's the control"
-	line "console for the"
-	cont "dam."
-	para "Want to open the"
-	line "dam?"
+	text "È il pannello di"
+	line "controllo per la"
+	cont "diga."
+	para "Vuoi aprire la"
+	line "diga?"
 	done
 	
 DamOpenTextButton:
-	text "<PLAYER> pressed"
-	line "the button."
+	text "<PLAYER> preme"
+	line "il pulsante."
 	done
 	
 DamOpenText2:
-	text "The dam is"
-	line "opening!"
+	text "La diga si sta"
+	line "aprendo!"
 	done
 	
 DamOpenText3:
-	text "Water is once"
-	line "again flowing into"
-	cont "IEJIMA TOWN!"
+	text "L'acqua scorre"
+	line "di nuovo a"
+	cont "IEJIMA!"
 	done
 
 HydraulicCave_MapEvents:

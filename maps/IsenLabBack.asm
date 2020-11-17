@@ -60,7 +60,7 @@ MewtwoScript:
 ;	end
 	
 MewtwoText:
-	text "Gyargh!"
+	text "Gyaaa!"
 	done
 	
 ;MewText:
