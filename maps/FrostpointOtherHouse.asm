@@ -15,13 +15,14 @@ FrostpointOtherHouse:
 	end
 	
 FrostpointOtherHouseText:
-	text "FROSTPOINT TOWN is"
-	line "cold and remote."
-	para "We don't get many"
-	line "visitors."
-	para "But those who live"
-	line "here are a close"
-	cont "community."
+	text "ALGIDOPOLI è"
+	line "gelida e remota."
+	para "Non abbiamo molti"
+	line "visitatori."
+	para "Ma quelli che"
+	line "vivono qui sono"
+	para "molto legati"
+	line "tra loro."
 	done
 
 

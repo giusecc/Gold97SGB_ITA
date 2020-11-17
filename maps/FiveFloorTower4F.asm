@@ -15,16 +15,17 @@ FiveFloorTower4FSign:
 	jumptext FiveFloorTower4FSignText
 	
 FiveFloorTower4FSignText:
-	text "This is a statue"
-	line "of HO-OH."
-	para "The legendary bird"
-	line "#MON that once"
-	para "made roost on the"
-	line "top of this tower."
-	para "May we honor its"
-	line "nesting place so"
-	para "that one day it"
-	line "may return."
+	text "È la statua di"
+	line "HO-OH."
+	para "Il leggendario"
+	line "#MON uccello"
+	para "che fece il nido"
+	line "sulla cima della"
+	cont "torre."
+	para "Onoriamo il suo"
+	line "nido, sperando"
+	para "che un giorno"
+	line "faccia ritorno."
 	done
 
 
@@ -45,20 +46,20 @@ TrainerSageLi:
 
 
 SageLiSeenText:
-	text "I sense that it"
-	line "was the right"
-	para "decision for you"
-	line "to make this"
-	cont "journey."
+	text "Sento che hai"
+	line "fatto la giusta"
+	para "decisione met-"
+	line "tendoti in"
+	cont "viaggio."
 	done
 
 SageLiBeatenText:
-	text "I know it!"
+	text "Lo sapevo!"
 	done
 
 SageLiAfterBattleText:
-	text "Please, continue"
-	line "to the last floor."
+	text "Prego, prosegui"
+	line "all'ultimo piano."
 	done
 	
 TrainerSageGaku:
@@ -74,20 +75,20 @@ TrainerSageGaku:
 
 
 SageGakuSeenText:
-	text "We spend our days"
-	line "in serious"
-	cont "reflection."
+	text "Trascorriamo il"
+	line "tempo in profonde"
+	cont "meditazioni."
 	done
 
 SageGakuBeatenText:
-	text "I feel whole."
+	text "Mi sento completo."
 	done
 
 SageGakuAfterBattleText:
-	text "The mind is able"
-	line "to think of and"
-	para "pass along many"
-	line "thoughts in a day."
+	text "La mente può"
+	line "viaggiare per"
+	para "ore e ore durante"
+	line "il giorno."
 	done
 	
 TrainerSageMasa:
@@ -103,8 +104,8 @@ TrainerSageMasa:
 
 
 SageMasaSeenText:
-	text "I have little to"
-	line "say."
+	text "Non ho molto"
+	line "da dire."
 	done
 
 SageMasaBeatenText:
@@ -112,8 +113,8 @@ SageMasaBeatenText:
 	done
 
 SageMasaAfterBattleText:
-	text "Complete the"
-	line "climb."
+	text "Completa la"
+	line "salita."
 	done
 	
 TrainerSageKoji:
@@ -129,19 +130,19 @@ TrainerSageKoji:
 
 
 SageKojiSeenText:
-	text "I one day wish"
-	line "to see the sacred"
-	para "bird with my own"
-	line "eyes."
+	text "Spero un giorno"
+	line "di vedere il sacro"
+	para "#MON uccello"
+	line "con i miei occhi."
 	done
 
 SageKojiBeatenText:
-	text "It shall be."
+	text "Così sarà."
 	done
 
 SageKojiAfterBattleText:
-	text "I hope you have"
-	line "felt enlightened."
+	text "Spero tu ti senta"
+	line "illuminato."
 	done
 
 

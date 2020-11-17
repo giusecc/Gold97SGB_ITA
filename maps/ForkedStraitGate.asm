@@ -96,81 +96,78 @@ OneStepUpNoEntryYet:
 	step_end
 	
 NoEntryYetText:
-	text "We have a team of"
-	line "researchers out"
-	para "on the SOUTHERN"
-	line "ISLANDS doing a"
-	para "controlled study"
-	line "of #MON."
-	para "We cannot allow"
-	line "any entry, even"
-	para "from those who"
-	line "would normally be"
-	cont "qualified."
-	para "Please come by"
-	line "later if you have"
-	para "proper credentials"
-	line "for clearance."
+	text "Abbiamo un gruppo"
+	line "di ricercatori"
+	para "sulle ISOLE"
+	line "MERIDIONALI che"
+	para "sta facendo studi"
+	line "sui #MON."
+	para "Non possiamo far"
+	line "entrare nessuno,"
+	para "neanche chi"
+	line "potrebbe farlo"
+	cont "normalmente."
+	para "Torna con delle"
+	line "valide credenziali"
+	cont "se vuoi passare."
 	done
 
 EventCopHALT:
-	text "HALT!"
+	text "ALT!"
 	done
 
 EventCopText:
-	text "This is a"
-	line "restricted area!"
+	text "Quest'area è"
+	line "riservata!"
 	
-	para "No #MON"
-	line "trainers are"
-	cont "allowed past this"
-	cont "poin-"
+	para "Nessun allenatore"
+	line "è autorizzato a"
+	cont "passare olt-"
 	
-	para "Wait."
+	para "Aspetta."
 	
 	para "… … …"
 	line "… … …"
 	
-	para "Are you…"
+	para "Tu sei…"
 	
-	para "<PLAYER>, the"
-	line "NIHON LEAGUE's"
-	cont "new CHAMPION?"
+	para "<PLAYER>, sei"
+	line "il nuovo CAMPIONE"
+	cont "della LEGA?"
 	
-	para "You are!"
-	line "My apologies!"
+	para "Sì che lo sei!"
+	line "Perdonami!"
 	
-	para "The two SOUTHERN"
-	line "ISLANDS are off"
-	para "limits to members"
-	line "of the general"
-	para "public, but"
-	line "someone of your"
-	para "high level of"
-	line "clearance I'll"
-	cont "allow through."
+	para "Le due ISOLE"
+	line "MERIDIONALI non"
+	para "sono accessibili"
+	line "alle persone"
+	para "comuni, ma per"
+	line "un allenatore"
+	para "del tuo livello"
+	line "è diverso."
 	
-	para "These islands are"
-	line "natural #MON"
-	para "paradises, fully"
-	line "unspoiled by man."
+	para "Queste isole sono"
+	line "un paradiso per"
+	para "i #MON, mai"
+	line "toccate dall'uomo."
 	
-	para "As such they are"
-	line "highly valuable"
-	para "for scientific"
-	line "research."
+	para "In quanto tali"
+	line "hanno un valore"
+	para "immenso per la"
+	line "ricerca."
 	
-	para "I assume you"
-	line "must have been"
-	cont "informed by BLUE."
+	para "Credo che tu"
+	line "sia stato"
+	cont "informato da BLU."
 	
-	para "He passed through"
-	line "on his way to"
-	para "conduct research"
-	line "on RAINBOW ISLAND"
-	cont "to the west."
+	para "È passato di qui"
+	line "per condurre le"
+	para "sue ricerche a"
+	line "IRIDISOLA,"
+	cont "a ovest."
 	
-	para "Now, carry on!"
+	para "Vai pure!"
 	done
 
 FSGCopScript:
@@ -178,7 +175,7 @@ FSGCopScript:
 	
 FSGCopNormalText:
 	text "<PLAYER>!"
-	line "You may proceed!"
+	line "Puoi passare!"
 	done
 
 
@@ -186,35 +183,35 @@ FSGScientist1Script:
 	jumptextfaceplayer FSGScientist1Text
 	
 FSGScientist1Text:
-	text "TROPICAL ISLAND"
-	line "to the east is"
-	para "full of rare"
-	line "#MON species!"
+	text "ISOLA TROPICALE"
+	line "a est è piena"
+	para "di specie #-"
+	line "MON rare!"
 	
-	para "I'm researching"
-	line "the potential"
-	para "of a NEW SPECIES"
-	line "on the island."
+	para "Sto cercando"
+	line "una possibile"
+	para "NUOVA SPECIE"
+	line "sull'isola."
 	done
 
 FSGScientist2Script:
 	jumptextfaceplayer FSGScientist2Text
 	
 FSGScientist2Text:
-	text "I'm one of the"
-	line "lucky few that"
-	para "could obtain the"
-	line "clearance needed"
-	para "to study the"
-	line "SOUTHERN ISLANDS."
+	text "Sono uno dei pochi"
+	line "fortunati che ha"
+	para "avuto l'autorizza-"
+	line "zione necessaria"
+	para "per studiare le"
+	line "ISOLE MERIDIONALI."
 	
-	para "They're even"
-	line "printing a promo"
-	para "card set with"
-	line "the incredible"
-	para "#MON photos"
-	line "taken during our"
-	cont "research tour!"
+	para "Stanno anche"
+	line "stampando delle"
+	para "carte promozionali"
+	line "con le incredibili"
+	para "foto scattate"
+	line "durante le nostre"
+	cont "ricerche!"
 	done
 
 
@@ -222,19 +219,19 @@ FSGScientist3Script:
 	jumptextfaceplayer FSGScientist3Text
 	
 FSGScientist3Text:
-	text "There's ancient"
-	line "manuscripts that"
-	para "describe RAINBOW"
-	line "ISLAND as a"
-	para "miraculous site"
-	line "cloaked always in"
-	cont "rainbow light."
+	text "Un antico"
+	line "manoscritto"
+	para "descrive IRIDISOLA"
+	line "come un luogo"
+	para "miracoloso, sempre"
+	line "avvolto dalla luce"
+	cont "dell'arcobaleno."
 	
-	para "I wonder if that"
-	line "was just a legend"
-	para "or if the island"
-	line "really had some"
-	cont "special power…"
+	para "Mi chiedo se sia"
+	line "solo una leggenda"
+	para "o se l'isola abbia"
+	line "davvero qualche"
+	cont "potere…"
 	done
 
 TropicalSign:
@@ -244,13 +241,13 @@ RainbowSign:
 	jumptext RainbowSignText
 	
 TropicalSignText:
-	text "TROPICAL ISLAND"
-	line "AHEAD TO EAST"
+	text "ISOLA TROPICALE"
+	line "TUTTO A EST"
 	done
 	
 RainbowSignText:
-	text "RAINBOW ISLAND"
-	line "AHEAD TO WEST"
+	text "IRIDISOLA"
+	line "TUTTO A OVEST"
 	done
 
 

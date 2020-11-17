@@ -93,89 +93,87 @@ PlayerWalksToHoOhGroup1:
 	step_end
 	
 KurtKnewIt:
-	text "KURT: I knew I was"
-	line "right when I"
-	para "sensed something"
-	line "about you."
+	text "FRANZ: sapevo di"
+	line "averci visto"
+	para "giusto riguardo"
+	line "a te."
 	done
 	
 CaptainCantBelieve:
-	text "I can't believe"
-	line "it!"
-	para "The return of the"
-	line "bird!"
-	para "It's happening!"
+	text "Non riesco a"
+	line "crederci!"
+	para "Il ritorno del"
+	line "leggendario"
+	cont "#MON uccello!"
+	para "Sta accadendo!"
 	done
 	
 SageTellsYouToSeeBird:
 	text "<PLAYER>."
-	para "Ho-Oh roosts above"
-	line "our heads."
-	para "The bird has"
-	line "returned, as"
-	para "predicted in"
-	line "legend."
-	para "I sense that it"
-	line "wants to meet"
-	cont "you."
-	para "It has determined"
-	line "that actions you"
-	para "have taken have"
-	line "shown that you are"
-	para "worthy of"
-	line "approaching it."
-	para "Make your way to"
-	line "the roof."
+	para "HO-OH si sta"
+	line "posando sulle"
+	para "nostre teste."
+	line "È tornato, come"
+	para "diceva la"
+	line "leggenda."
+	para "Credo che voglia"
+	line "incontrarti."
+	para "Deve aver compreso"
+	line "che le scelte che"
+	para "hai intrapreso"
+	line "mostrano che"
+	para "meriti di"
+	line "vederlo."
+	para "Prosegui al"
+	line "tetto."
 	done
 	
 Text_5FSageDuringHoOh:
-	text "The bird awaits."
+	text "HO-OH attende."
 	done
 
 Text_5FSageAfterHoOh:
-	text "Such an encounter"
-	line "with the bird is"
-	cont "a legendary event."
+	text "Un incontro con"
+	line "questo #MON"
+	para "è un evento"
+	line "leggendario."
 	done
 	
 Text_5FSageNope:
-	text "You have reached"
-	line "the top of the"
-	cont "tower."
-	para "But you have not"
-	line "heard all of its"
-	cont "messages."
-	para "Please be sure you"
-	line "have read all"
-	para "signs on every"
-	line "floor."
-	para "Each one teaches"
-	line "a valuable lesson."
+	text "Hai raggiunto la"
+	line "cima della torre."
+	para "Ma non hai letto"
+	line "tutti i messaggi."
+	para "Assicurati di"
+	line "leggere i messaggi"
+	para "a ogni piano."
+	para "Ognuno insegna una"
+	line "profonda lezione."
 	done
 	
 Text_5FSageYup:
-	text "Welcome to the top"
-	line "of the 5 FLOOR"
-	cont "TOWER."
-	para "This is a sacred"
-	line "place that should"
-	para "only be visited"
-	line "by those willing"
-	para "to show proper"
-	line "respect."
-	para "I understand that"
-	line "KURT has asked"
-	para "you to scale its"
-	line "floors."
-	para "I hope you can"
-	line "go forward with"
-	para "the knowledge and"
-	line "understanding of"
-	para "how to properly"
-	line "treat #MON."
-	para "Return now to see"
-	line "KURT. You have my"
-	cont "blessing."
+	text "Benvenuto alla"
+	line "cima della"
+	cont "PENTATORRE."
+	para "Questo è un luogo"
+	line "sacro, che può"
+	para "essere visitato"
+	line "solo da coloro"
+	para "che mostrano il"
+	line "dovuto rispetto."
+	para "So che FRANZ ti"
+	line "ha chiesto di"
+	para "arrivare fino"
+	line "a qui."
+	para "Spero che tu possa"
+	line "ampliare le tue"
+	para "conoscenze e"
+	line "comprendere a"
+	para "fondo l'anima"
+	line "dai #MON."
+	para "Ora puoi tornare"
+	line "da FRANZ. Hai la"
+	cont "mia benedizione."
 	done
 
 FiveFloorTower5FSign:
@@ -184,26 +182,25 @@ FiveFloorTower5FSign:
 
 	
 FiveFloorTower5FSignText:
-	text "This is a statue"
-	line "of an ABRA."
-	para "ABRA are easily"
-	line "startled and quick"
-	para "to flee when"
-	line "encountered in the"
-	cont "wild."
-	para "Be sure to honor"
-	line "and respect all"
-	para "#MON in their"
-	line "natural habitats."
+	text "È la statua"
+	line "di ABRA."
+	para "Gli ABRA si"
+	line "spaventano facil-"
+	para "mente e scappano"
+	line "dalle lotte."
+	para "Ricordati di"
+	line "rispettare tutti"
+	para "i #MON nel"
+	line "loro habitat."
 	done
 	
 FiveFloorTower5FIncense:
 	jumptext FiveFloorTower5FIncenseText
 
 FiveFloorTower5FIncenseText:
-	text "What is this?"
-	para "Oh, it's an"
-	line "incense burner!"
+	text "E questo?"
+	para "Oh, è un"
+	line "incensiere!"
 	done
 
 FiveFloorTower5F_MapEvents:

@@ -23,26 +23,26 @@ TrainerFS1:
 	end
 
 FisherStirnerSeenText:
-	text "I want to go"
-	line "fishing in the"
-	cont "SOUTHERN ISLANDS,"
-	para "but they only let"
-	line "scientists go"
-	cont "there!"
+	text "Vorrei pescare"
+	line "sulle ISOLE"
+	cont "MERIDIONALI, ma"
+	para "ci lasciano"
+	line "andare solo gli"
+	cont "scienziati!"
 	done
 	
 FisherStirnerBeatenText:
-	text "Philosophy is"
-	line "a science! Let"
-	cont "me in!"
+	text "La filosofia è"
+	line "scienza!"
+	cont "Fatemi passare!"
 	done
 	
 FisherStirnerAfterBattleText:
-	text "Legality is a"
-	line "spook!"
+	text "La legge è uno"
+	line "scherzo!"
 	
-	para "I'll fish where"
-	line "I please!"
+	para "Voglio pescare"
+	line "dove voglio!"
 	done
 
 
@@ -58,35 +58,38 @@ TrainerFS2:
 	end
 
 FisherDaltonSeenText:
-	text "I am the strongest"
-	line "angler in the"
-	cont "world!"
-	para "Challenge me…"
-	line "If you dare!"
+	text "Sono il miglior"
+	line "pescatore del"
+	cont "mondo!"
+	para "Sfidami…"
+	line "Se ne hai il"
+	cont "coraggio!"
 	done
 
 FisherDaltonBeatenText:
-	text "You are worthy of"
-	line "a SUPER ROD…"
+	text "Sei degno del"
+	line "SUPER AMO…"
 	done
 	
 FisherDaltonAfterBattleText:
-	text "I have nothing to"
-	line "teach you, young"
-	cont "one."
-	para "You are the fish"
-	line "master now."
+	text "Non ho niente da"
+	line "insegnarti,"
+	cont "ragazzo."
+	para "Ora sei tu il"
+	line "maestro della"
+	cont "pesca."
 	done
 
 CheckpointSignpost:
 	jumptext CheckpointSignpostText
 	
 CheckpointSignpostText:
-	text "SOUTHERN ISLANDS"
-	line "ACCESS CHECKPOINT"
+	text "ISOLE MERIDIONALI"
+	line "PUNTO DI ACCESSO"
 	
-	para "OFFICIAL CLEARANCE"
-	line "REQUIRED TO ENTER"
+	para "AUTORIZZAZIONE"
+	line "UFFICIALE"
+	cont "NECESSARIA"
 	done
 
 ForkedStraitNorth_MapEvents:

@@ -123,116 +123,117 @@ FrostpointPryceHouseBookshelf:
 	jumpstd PictureBookshelfScript
 	
 HereIsWhirlpool:
-	text "Ah, I can see"
-	line "that you have"
-	para "received the"
-	line "GLACIERBADGE from"
-	cont "my husband."
-	para "Here, I have"
-	line "something that"
-	para "will be of use to"
-	line "you."
+	text "Oh, vedo che hai"
+	line "ottenuto la"
+	para "MEDAGLIA GELO"
+	line "da mio marito."
+	para "Ecco, ho qualcosa"
+	line "che potrebbe"
+	para "tornarti utile."
 	done
 	
 NowYouHaveWhirlpool:
-	text "That HM teaches"
-	line "WHIRLPOOL."
-	para "It is very useful"
-	line "for traversing the"
-	para "rough waters of"
-	line "northern NIHON."
+	text "Questa MN contiene"
+	line "MULINELLO."
+	para "È molto utile per"
+	line "attraversare le"
+	para "acque agitate a"
+	line "nord di NIHON."
 	done
 	
 PryceVisitingIsMyFavoriteG:
-	text "I always respect"
-	line "the dedication"
-	para "PRYCE has for his"
-	line "responsibilities."
+	text "Rispetto molto la"
+	line "dedizione di"
+	para "ALFREDO per le sue"
+	line "responsabilità."
 	done
 	
 PryceIsComingToVisitG:
-	text "PRYCE, my husband,"
-	line "is the GYM LEADER"
-	cont "in BLUE FOREST."
-	para "He has to travel"
-	line "there frequently"
-	cont "to battle."
-	para "He also spends a"
-	line "lot of time"
-	para "training in the"
-	line "DEEPWATER PASSAGE."
-	para "But he always"
-	line "makes time to"
-	cont "come home."
-	para "He should be here"
-	line "soon."
+	text "ALFREDO, mio"
+	line "marito è CAPOPA-"
+	para "LESTRA di"
+	line "BIANCASELVA."
+	para "Deve andare lì"
+	line "molto spesso per"
+	cont "lottare."
+	para "Trascorre anche"
+	line "molto tempo ad"
+	para "allenarsi nel PAS-"
+	line "SAGGIO SOMMERSO."
+	para "Ma ci mette sempre"
+	line "tanto tempo a"
+	cont "tornare a casa."
+	para "Dovrebbe essere"
+	line "qui presto."
 	done
 	
 PryceIsHereG:
-	text "It's always nice"
-	line "to have PRYCE at"
-	cont "home."
+	text "È sempre bello"
+	line "avere ALFREDO a"
+	cont "casa."
 	done
 	
 GoBeatHimPryce:
-	text "I see that PRYCE"
-	line "is awaiting your"
-	cont "challenge."
-	para "Defeat him, then"
-	line "come see me."
-	para "I'll have a gift"
-	line "for you."
+	text "Credo che ALFREDO"
+	line "ti aspetti per"
+	cont "lottare."
+	para "Battilo e poi"
+	line "ritorna da me."
+	para "Ti regalerò"
+	line "qualcosa."
 	done
 
 PryceVisitingIsMyFavorite:
-	text "It's my favorite"
-	line "when grandpa comes"
-	cont "to visit."
+	text "È fantastico"
+	line "quando il nonno"
+	cont "viene qui."
 	done
 	
 PryceIsComingToVisit:
-	text "Grandpa should be"
-	line "coming to visit"
-	cont "soon!"
+	text "Il nonno dovrebbe"
+	line "essere presto"
+	cont "qui!"
 	done
 	
 PryceIsHere:
-	text "Yay! Grandpa is"
-	line "here!"
+	text "Sìì! Il nonno è"
+	line "qui!"
 	done
 	
 FrostpointPryceHousePryceText:
-	text "Glad you could"
-	line "visit."
-	para "Any trainer that"
-	line "can make it to"
-	para "my training site"
-	line "is a trainer I"
-	cont "respect."
-	para "What is your name,"
-	line "by the way?"
+	text "Sono felice che"
+	line "tu sia qui."
+	para "Gli allenatori che"
+	line "possono arrivare"
+	para "al mio luogo di"
+	line "allenamento"
+	para "meritano il mio"
+	line "rispetto."
+	para "Qual è il tuo nome"
+	line "dunque?"
 	para "<PLAYER>?"
-	para "Well, <PLAYER>,"
-	line "as I promised, I"
-	para "will get back to"
-	line "my GYM."
-	para "I expect you to be"
-	line "a worthy opponent."
+	para "Bene, <PLAYER>,"
+	line "come promesso,"
+	para "tornerò alla"
+	line "PALESTRA."
+	para "Mi immagino che tu"
+	line "sia un valido"
+	cont "avversario!"
 	done
 
 FrostpointPryceHousePokefanFText:
-	text "LAVENDER is a"
-	line "tiny, quiet town"
-
-	para "at the foot of the"
-	line "mountains."
-
-	para "It's gotten a bit"
-	line "busier since the"
-
-	para "RADIO TOWER was"
-	line "built."
-	done
+;	text "LAVENDER is a"
+;	line "tiny, quiet town"
+;
+;	para "at the foot of the"
+;	line "mountains."
+;
+;	para "It's gotten a bit"
+;	line "busier since the"
+;
+;	para "RADIO TOWER was"
+;	line "built."
+;	done
 
 FrostpointPryceHouse_MapEvents:
 	db 0, 0 ; filler

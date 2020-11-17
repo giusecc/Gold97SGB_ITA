@@ -29,39 +29,37 @@ TrainerMediumMartha:
 	end
 	
 FiveFloorTower2FSignText:
-	text "This is a statue"
-	line "of a PIKACHU."
-	para "PIKACHU reminds"
-	line "us that even the"
-	para "most popular of"
-	line "#MON still"
-	para "deserve to be"
-	line "treated with honor"
-	para "and respect, and"
-	line "not just viewed"
-	para "as some sort of"
-	line "status symbol."
+	text "È la statua di"
+	line "un PIKACHU."
+	para "PIKACHU ci ricorda"
+	line "che anche i #-"
+	para "MON più popolari"
+	line "meritano di essere"
+	para "trattati con"
+	line "onore e rispetto,"
+	para "non visti come"
+	line "un trofeo."
 	done
 
 
 MediumMarthaSeenText:
-	text "What brings you"
-	line "here?"
+	text "Cosa ti porta"
+	line "qui?"
 	done
 
 MediumMarthaBeatenText:
-	text "Your purpose is"
-	line "clear."
+	text "Il tuo obiettivo"
+	line "è chiaro."
 	done
 
 MediumMarthaAfterBattleText:
-	text "Only the wisest"
-	line "of trainers fully"
-	para "grasp the full"
-	line "importance of the"
-	para "relationship"
-	line "between people"
-	cont "and #MON."
+	text "Solo gli"
+	line "allenatori più"
+	para "saggi comprendono"
+	line "l'importanza delle"
+	para "relazioni tra"
+	line "persone e"
+	cont "#MON."
 	done
 	
 TrainerMediumGrace:
@@ -77,23 +75,24 @@ TrainerMediumGrace:
 
 
 MediumGraceSeenText:
-	text "When done in a"
-	line "proper manner,"
-	para "a #MON battle"
-	line "can be a spiritual"
-	cont "experience."
+	text "Se fatta nel modo"
+	line "giusto, una lotta"
+	para "#MON può"
+	line "essere una espe-"
+	cont "rienza spirituale."
 	done
 
 MediumGraceBeatenText:
-	text "I hope you sensed"
-	line "it."
+	text "Spero che tu"
+	line "l'abbia vissuta."
 	done
 
 MediumGraceAfterBattleText:
-	text "In many ways,"
-	line "humans depend on"
-	para "#MON more than"
-	line "they depend on us."
+	text "Molte volte, le"
+	line "persone dipendono"
+	para "dai #MON più" 
+	line "di quanto loro"
+	cont "dipendano da noi."
 	done
 	
 TrainerMediumBethany:
@@ -109,10 +108,9 @@ TrainerMediumBethany:
 
 
 MediumBethanySeenText:
-	text "Do you sense an"
-	line "otherworldly"
-	para "presence in this"
-	line "place?"
+	text "Non senti una"
+	line "strana presenza"
+	para "in questo posto?"
 	done
 
 MediumBethanyBeatenText:
@@ -120,9 +118,9 @@ MediumBethanyBeatenText:
 	done
 
 MediumBethanyAfterBattleText:
-	text "In one way or"
-	line "another, we"
-	cont "all can feel it."
+	text "In un modo o"
+	line "nell'altro, tutti"
+	cont "possiamo sentirla."
 	done
 	
 TrainerMediumMargret:
@@ -138,18 +136,18 @@ TrainerMediumMargret:
 
 
 MediumMargretSeenText:
-	text "Ah! You disturbed"
-	line "me!"
+	text "Ah! Mi hai"
+	line "distratta!"
 	done
 
 MediumMargretBeatenText:
-	text "It is important to"
-	line "keep focused."
+	text "È importante"
+	line "stare concentrati."
 	done
 
 MediumMargretAfterBattleText:
-	text "Focus on the"
-	line "messages."
+	text "Concentrati sui"
+	line "messaggi."
 	done
 
 

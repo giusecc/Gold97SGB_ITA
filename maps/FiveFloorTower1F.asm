@@ -39,25 +39,25 @@ FiveFloorTower1FSign:
 	
 
 SageChowSeenText:
-	text "We stand guard in"
-	line "this tower."
+	text "Stiamo a guardia"
+	line "di questa torre."
 
-	para "Here, we express"
-	line "our gratitude to"
-	cont "honor all #MON."
+	para "Qui rendiamo"
+	line "omaggio a tutti i"
+	cont "#MON."
 	done
 
 SageChowBeatenText:
-	text "Th-Thank you!"
+	text "Gra-grazie!"
 	done
 
 SageChowAfterBattleText:
-	text "All living beings"
-	line "coexist through"
-	cont "cooperation."
+	text "Tutti gli esseri"
+	line "viventi convivono"
+	cont "cooperando."
 
-	para "We must always be"
-	line "thankful for this."
+	para "Dobbiamo sempre"
+	line "ricordarcene."
 	done
 	
 TrainerSageNico:
@@ -73,26 +73,26 @@ TrainerSageNico:
 
 
 SageNicoSeenText:
-	text "5 FLOOR TOWER"
-	line "was built many"
-	cont "centuries ago."
-	para "It is our honor"
-	line "to keep sacred"
-	cont "this place."
+	text "La PENTATORRE fu"
+	line "costruita molti"
+	cont "secoli fa."
+	para "È un onore per"
+	line "noi proteggere"
+	cont "questo luogo."
 	done
 
 
 SageNicoBeatenText:
-	text "Perhaps you"
-	line "understand."
+	text "Forse hai"
+	line "capito."
 	done
 
 SageNicoAfterBattleText:
-	text "We hope that this"
-	line "tower will"
-	para "continue to stand"
-	line "as long as it has"
-	cont "already stood."
+	text "Speriamo che"
+	line "questa torre"
+	para "continui a stare"
+	line "in piedi per molti"
+	cont "altri secoli."
 	done
 
 TrainerSageJin:
@@ -108,25 +108,25 @@ TrainerSageJin:
 
 
 SageJinSeenText:
-	text "All #MON have"
-	line "a lesson to teach"
-	cont "us."
-	para "It is our"
-	line "responsibility to"
-	para "take the time to"
-	line "stop and listen."
+	text "Tutti i #MON"
+	line "hanno qualcosa da"
+	cont "insegnarci."
+	para "È nostra respon-"
+	line "sabilità fare"
+	para "attenzione e"
+	line "ascoltarli."
 	
 	done
 
 SageJinBeatenText:
-	text "Do you hear?"
+	text "Li senti?"
 	done
 
 SageJinAfterBattleText:
-	text "#MON teach much"
-	line "to humans."
-	para "More than most"
-	line "people realize."
+	text "I #MON ci"
+	line "insegnano molto."
+	para "Molto più di"
+	line "quanto pensi."
 	done
 	
 TrainerSageTroy:
@@ -142,47 +142,47 @@ TrainerSageTroy:
 
 
 SageTroySeenText:
-	text "Why was this tower"
-	line "built?"
-	para "No one knows."
-	para "But it once served"
-	line "as a nest for"
-	cont "a bird of legends."
+	text "Perché la torre"
+	line "fu costruita?"
+	para "Nessuno lo sa."
+	para "In passato era"
+	line "il nido di un uc-"
+	cont "cello leggendario."
 	done
 
 SageTroyBeatenText:
-	text "Be sure to honor"
-	line "this place."
+	text "Devi onorare"
+	line "questo posto."
 	done
 
 SageTroyAfterBattleText:
-	text "Be deliberate with"
-	line "each step as you"
-	cont "climb the tower."
+	text "Conta ogni passo"
+	line "mentre stai"
+	cont "salendo in cima."
 	done
 
 FiveFloorTower1FStatueText:
-	text "A #MON statue…"
+	text "Una statua" 
+	line "#MON…"
 
-	para "It looks very"
-	line "distinguished."
+	para "Sembra molto"
+	line "particolare."
 	done
 	
 FiveFloorTower1FSignText:
-	text "This is the"
-	line "5 FLOOR TOWER."
-	para "An ancient"
-	line "monument that's"
-	para "dedicated to the"
-	line "#MON that"
-	para "enrich the lives"
-	line "of humans."
-	para "Carefully read"
-	line "the information"
-	para "by each statue"
-	line "above to"
-	para "understand what"
-	line "it teaches."
+	text "Questa è la"
+	line "PENTATORRE."
+	para "Un antico"
+	line "monumento dedica-"
+	para "to ai #MON,"
+	line "che arricchiscono"
+	para "le vite degli"
+	line "umani."
+	para "Leggi attentamente"
+	line "le informazioni"
+	para "di ogni statua"
+	line "per capire il"
+	para "loro insegnamento."
 	done
 
 FiveFloorTower1F_MapEvents:

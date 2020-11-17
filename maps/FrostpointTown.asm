@@ -43,48 +43,50 @@ FrostpointTownTeacherScript:
 	jumptextfaceplayer FrostpointTownTeacherText
 	
 FrostpointTownTwinText:
-	text "I love the snow!"
-	para "I also love"
-	line "swimming, but it's"
-	para "too cold here to"
-	line "spend too long"
-	cont "in the water."
+	text "Adoro la neve!"
+	para "Mi piace anche"
+	line "nuotare, ma fa"
+	para "troppo freddo"
+	line "per stare troppo"
+	cont "in acqua."
 	done
 	
 FrostpointTownRockerText:
-	text "The air is so"
-	line "crisp and clean"
-	cont "here."
-	para "I could never live"
-	line "in a smoggy city."
+	text "L'aria è così"
+	line "fresca e pulita"
+	cont "qui."
+	para "Non potrei mai"
+	line "vivere in una"
+	cont "città inquinata."
 	done
 	
 FrostpointTownTeacherText:
-	text "Did you come"
-	line "through the"
-	cont "DEEPWATER PASSAGE?"
-	para "It's difficult to"
-	line "get here by water"
-	para "because of the"
-	line "whirlpools along"
-	cont "the way."
-	para "PRYCE's wife knows"
-	line "a secret technique"
-	para "that allows"
-	line "#MON to cross"
-	cont "whirlpools."
+	text "Hai attraversato"
+	line "il PASSAGGIO"
+	cont "SOMMERSO?"
+	para "È difficile"
+	line "arrivare qui via"
+	para "mare a causa dei"
+	line "mulinelli lungo"
+	cont "la strada."
+	para "La moglie di"
+	line "ALFREDO conosce"
+	para "uan tecnica che"
+	line "permette ai #-"
+	para "MON di attraver-"
+	line "sare i mulinelli."
 	done
 
 FrostpointTownDeepwaterSignText:
-	text "DEEPWATER PASSAGE"
-	line "North Entrance"
+	text "PASSAGGIO SOMMERSO"
+	line "Entrata nord"
 	done
 
 FrostpointTownSignText:
-	text "FROSTPOINT TOWN"
+	text "ALGIDOPOLI"
 
-	para "The frigid land"
-	line "of hardy people"
+	para "Gelida landa di"
+	line "gente ardita"
 	done
 
 FrostpointTown_MapEvents:

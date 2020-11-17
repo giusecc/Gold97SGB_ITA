@@ -53,23 +53,24 @@ FiveFloorTower3FSign:
 	jumptext FiveFloorTower3FSignText
 	
 FiveFloorTower3FSignText:
-	text "This is a statue"
-	line "of a TENTACRUEL."
-	para "Despite its large"
-	line "and intimidating"
-	para "appearance,"
-	line "TENTACRUEL teaches"
-	para "us that all"
-	line "#MON have pure"
-	cont "hearts."
-	para "This statue is"
-	line "dedicated to a"
-	para "TENTACRUEL that"
-	line "used its tentacles"
-	para "to lift a drowning"
-	line "child out of the"
-	para "river next to this"
-	line "tower."
+	text "È una statua di"
+	line "TENTACRUEL."
+	para "Nonostante il suo"
+	line "aspetto intimida-"
+	para "torio, TENTACRUEL"
+	line "ci insegna che"
+	para "tutti i #MON"
+	line "hanno un cuore"
+	cont "puro."
+	para "Questa statua è"
+	line "dedicata al"
+	para "TENTACRUEL che"
+	line "con i suoi tenta-"
+	para "coli salvò un"
+	line "bambino dalle"
+	para "acque del fiume"
+	line "che scorre vicino"
+	cont "alla torre."
 	done
 
 
@@ -86,22 +87,22 @@ TrainerSageJeffrey:
 
 
 SageJeffreySeenText:
-	text "What does climbing"
-	line "this tower mean to"
-	cont "you?"
+	text "Cosa significa per"
+	line "te salire questa"
+	cont "torre?"
 	done
 
 SageJeffreyBeatenText:
-	text "Well, then."
+	text "Capisco."
 	done
 
 SageJeffreyAfterBattleText:
-	text "You should find"
-	line "meaning in this"
-	cont "journey."
-	para "Both here in the"
-	line "tower and whatever"
-	cont "may come after."
+	text "Dovresti trovare"
+	line "il senso del tuo"
+	cont "viaggio."
+	para "Sia dentro questa"
+	line "torre, sia per il"
+	cont "futuro."
 	done
 	
 TrainerSagePing:
@@ -117,27 +118,26 @@ TrainerSagePing:
 
 
 SagePingSeenText:
-	text "Above the 5th"
-	line "floor is access to"
-	cont "the roof."
-	para "But even we are"
-	line "not granted to set"
-	para "foot in that"
-	line "sacred place."
+	text "Sopra il quinto"
+	line "piano si trova il"
+	cont "tetto."
+	para "Ma anche a noi"
+	line "è proibito andare"
+	para "in quel luogo"
+	line "sacro."
 	done
 
 SagePingBeatenText:
-	text "You appear to"
-	line "treat your #MON"
-	cont "well."
+	text "Tratti bene i"
+	line "tuoi #MON."
 	done
 
 SagePingAfterBattleText:
-	text "We hope the roof"
-	line "will one day again"
-	para "be home to the"
-	line "rainbow-winged"
-	cont "bird of legend."
+	text "Speriamo che un"
+	line "giorno il #MON"
+	para "della leggenda"
+	line "faccia ritorno"
+	cont "al suo nido."
 	done
 	
 TrainerSageEdmond:
@@ -153,20 +153,20 @@ TrainerSageEdmond:
 
 
 SageEdmondSeenText:
-	text "I sense that a"
-	line "long journey"
-	cont "awaits you."
+	text "Sento che un"
+	line "lungo viaggio"
+	cont "ti attende."
 	done
 
 SageEdmondBeatenText:
-	text "This was but a"
-	line "step."
+	text "Questo è solo"
+	line "l'inizio."
 	done
 
 SageEdmondAfterBattleText:
-	text "Are you ready for"
-	line "what you will be"
-	cont "called to do?"
+	text "Sei pronto per"
+	line "affrontare il tuo"
+	cont "futuro?"
 	done
 	
 TrainerSageNeal:
@@ -182,22 +182,22 @@ TrainerSageNeal:
 
 
 SageNealSeenText:
-	text "You have done well"
-	line "to make it this"
-	cont "far."
+	text "Sei riuscito ad"
+	line "arrivare fin"
+	cont "qui."
 	done
 
 SageNealBeatenText:
-	text "Please, continue."
+	text "Prego, continua."
 	done
 
 SageNealAfterBattleText:
-	text "If KURT asked you"
-	line "to make this"
-	para "journey, he must"
-	line "sense an important"
-	para "destiny in your"
-	line "future."
+	text "Se FRANZ ti ha"
+	line "chiesto di fare"
+	para "questo viaggio,"
+	line "il tuo futuro"
+	para "si prospetta"
+	line "importante."
 	done
 
 FiveFloorTower3F_MapEvents:
