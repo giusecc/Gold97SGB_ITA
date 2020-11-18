@@ -741,405 +741,392 @@ PlayerWalksToOtherSideDown:
 	step_end
 	
 PartyFullTogepiText:
-	text "Oh, wait!"
-	para "You gotta make"
-	line "room!"
+	text "Oh, aspetta!"
+	para "Devi avere più"
+	line "spazio!"
 	done
 	
 NoTogepiText:
-	text "You sure?"
-	para "I'd have thought"
-	line "you'd like this."
+	text "Sicuro?"
+	para "Credevo ti sarebbe"
+	line "piaciuto."
 	done
 	
 GiveTogepiText:
-	text "I'm sure you're"
-	line "the best person to"
-	cont "take care of it."
+	text "Sono sicuro che tu"
+	line "sia la persona"
+	para "migliore per"
+	line "tenerlo!"
 	done
 	
 IHaveAWeirdEggText:
-	text "Wow! I heard you"
-	line "beat that super"
-	cont "tough COOLTRAINER!"
-	para "That's incredible!"
-	para "Hey, listen. I had"
-	line "this weird #MON"
-	cont "EGG."
-	para "It hatched the"
-	line "other day, but"
-	para "it still looks"
-	line "like an EGG!"
-	para "It's a very odd"
-	line "#MON."
-	para "I think an expert"
-	line "trainer such as"
-	para "yourself would be"
-	line "better suited to"
-	cont "take care of it."
-	para "You want it?"
+	text "Ehi! Hai battuto"
+	line "quel FANTALLEN."
+	cont "fortissimo!"
+	para "Incredibile!"
+	para "Senti, ho questo"
+	line "strano UOVO"
+	cont "#MON."
+	para "Si è schiuso"
+	line "ieri, ma sembra"
+	para "ancora un UOVO!"
+	para "È un #MON"
+	line "molto strano."
+	para "Credo che un"
+	line "allenatore esperto"
+	para "come te sia adatto"
+	line "per prendersene"
+	cont "cura."
+	para "Lo vuoi?"
 	done
 	
 PlayerGotTogepiText:
-	text "<PLAYER> received"
+	text "<PLAYER> riceve"
 	line "TOGEPI."
 	done
 	
 BattleClubYoungsterTextBeat:
-	text "Seriously, how did"
-	line "you beat that guy?"
-	para "It's incredible!"
+	text "Hai battuto dav-"
+	line "vero quel tipo?"
+	para "Assurdo!"
 	done
 	
 	
 BattleClubGrannyText:
-	text "I was once a"
-	line "strong trainer."
-	para "I don't battle so"
-	line "much myself,"
-	cont "anymore."
-	para "But it's always a"
-	line "good time to come"
-	para "here and watch"
-	line "today's strong"
-	cont "trainers battle."
+	text "In passato ero un"
+	line "grande allenatore."
+	para "Ora non lotto più"
+	line "come prima."
+	para "Ma è sempre bello"
+	line "venire qui e"
+	para "vedere i giovani"
+	line "d'oggi darsi"
+	cont "battaglia."
 	done
 	
 BattleClubYoungster2Text:
-	text "I'm here to"
-	line "support my younger"
-	cont "brother."
-	para "He's new at this."
-	para "Maybe if you have"
-	line "some weaker"
-	para "#MON, you could"
-	line "battle him with"
-	cont "those?"
+	text "Faccio il tifo per"
+	line "il mio fratellino."
+	para "È un principiante."
+	para "Forse con dei"
+	line "#MON più"
+	para "deboli potresti"
+	line "sfidarlo."
 	done
 	
 BattleClubLassText:
-	text "This place has"
-	line "different trainers"
-	para "stop by every day"
-	line "of the week."
-	para "Stronger trainers"
-	line "tend to show up"
-	cont "late in the week."
+	text "In questo posto"
+	line "ci sono allenatori"
+	para "diversi ogni"
+	line "giorno della"
+	cont "settimana."
+	para "Gli allenatori più"
+	line "forti arrivano"
+	cont "a fine settimana."
 	done
 	
 BattleClubRockerText:
-	text "I'm all tired from"
-	line "all of these"
-	cont "battles."
-	para "If you want a"
-	line "challenge now, I"
-	para "think there's a"
-	line "SPORTSMAN over"
-	cont "there."
+	text "Sono stanco di"
+	line "tutte queste"
+	cont "lotte."
+	para "Se vuoi una sfida"
+	line "ora, credo che"
+	para "ci sia uno"
+	line "SPORTIVO laggiù."
 	done
 	
 BattleClubGentlemanText:
-	text "I say, this"
-	line "establishment is"
-	para "great for the"
-	line "trainer who"
-	para "doesn't like to"
-	line "travel much but"
-	para "still wants new"
-	line "challenges."
+	text "Questo posto è"
+	line "fantastico per"
+	para "gli allenatori che"
+	line "non vogliono"
+	para "viaggiare, ma"
+	line "vogliono ancora"
+	para "sfidarsi."
 	done
 	
 BattleClubYoungsterText:
-	text "There was a"
-	line "COOLTRAINER here"
-	cont "the other day."
-	para "His #MON were"
-	line "incredibly tough."
-	para "I didn't stand a"
-	line "chance."
-	para "I think he comes"
-	line "by on Saturdays."
-	para "Could you beat"
-	line "him?"
+	text "L'altro giorno"
+	line "c'era un"
+	cont "FANTALLEN."
+	para "I suoi #MON"
+	line "erano incredibili!"
+	para "Non ho avuto"
+	line "possibilità."
+	para "Credo che venga"
+	line "di sabato."
+	para "Pensi di batterlo?"
 	done
 	
 BattleClubJanineText:
-	text "Some of the"
-	line "trainers here are"
-	cont "too tough!"
-	para "I gotta get"
-	line "stronger."
+	text "Alcuni allenatori"
+	line "qui sono troppo"
+	cont "forti!"
+	para "Devo migliorare!"
 	done
 	
 BattleClubPokefanMText:
-	text "Everyone loves a"
-	line "good battle!"
-	para "Sometimes it's fun"
-	line "to just watch!"
+	text "A tutti piace una"
+	line "bella lotta!"
+	para "A volte è bello"
+	line "anche guardare!"
 	done
 	
 BattleClubReceptionistText:
-	text "Welcome to the"
+	text "Benvenuto al"
 	line "KANTO BATTLE CLUB."
-	para "We attract serious"
-	line "trainers of all"
-	cont "skill levels."
-	para "Some very tough"
-	line "trainers frequent"
-	cont "here."
-	para "Don't be afraid to"
-	line "challenge them!"
+	para "Qui ci sono"
+	line "allenatori di"
+	cont "tutti i livelli."
+	para "Ci sono alcuni"
+	line "allenatori molto"
+	cont "forti."
+	para "Non avere paura"
+	line "di sfidarli!"
 	done
 	
 NoBattleNowSundayText:
-	text "Aw, man!"
-	para "Maybe another"
-	line "time."
+	text "Oh, no!"
+	para "Forse un'altra"
+	line "volta."
 	done
 	
 SundayAfterYourDefeatText:; backwards
-	text "I'm not tough yet"
-	line "but I'm working on"
-	cont "it!"
+	text "Non sono così"
+	line "forte, ma ci sto"
+	cont "provando!"
 	done
 	
 SundayAfterVictoriousText:; backwards
-	text "My #MON get"
-	line "stronger every"
-	cont "day!"
+	text "Il mio #MON"
+	line "si rafforza ogni"
+	cont "giorno!"
 	done
 	
 SundayWinText:
-	text "Wow, you're tough!"
+	text "Ehi! Sei forte!"
 	done
 	
 SundayLossText:
-	text "I won! Wow!"
+	text "Ho vinto!"
 	done
 
 	
 SundayTrainerGreeting:
-	text "Hi there! I'm new"
-	line "at #MON and I'm"
-	cont "new at battling!"
-	para "But it's my dream"
-	line "to one day be a"
-	cont "great trainer!"
-	para "I use #MON"
-	line "around level 10."
-	para "Do you want to"
-	line "battle?"
+	text "Ehi! Sono un"
+	line "novellino per le"
+	cont "battaglie!"
+	para "Ma il mio sogno"
+	line "è di diventare un"
+	cont "grande allenatore!"
+	para "I miei #MON"
+	line "sono intorno al"
+	cont "livello 10."
+	para "Vuoi lottare?"
 	done
 	
 NoBattleNowMondayText:
-	text "I'll be here if"
-	line "you change your"
-	cont "mind!"
+	text "Sarò qui se"
+	line "cambi idea!"
 	done
 
 MondayAfterYourDefeatText:; backwards
-	text "Looks like I need"
-	line "to keep training!"
+	text "Sembra che abbia"
+	line "bisogno di più"
+	cont "allenamento"
 	done
 	
 MondayAfterVictoriousText:; backwards
-	text "My training is"
-	line "paying off!"
+	text "L'allenamento"
+	line "paga!"
 	done
 	
 MondayWinText:
-	text "Dude, you're good!"
+	text "Sei bravo!"
 	done
 	
 MondayLossText:
-	text "Oh yeah!"
+	text "Oh sì!"
 	done
 	
 MondayTrainerGreeting:
-	text "Yo, you want to"
-	line "battle?"
-	para "I'm getting kind"
-	line "of good at this,"
-	cont "I think."
-	para "I use #MON"
-	line "around level 20."
-	para "Wanna battle?"
+	text "Vuoi lottare?"
+	para "Sto diventando"
+	line "più forte, credo."
+	para "Uso #MON"
+	line "intorno al"
+	cont "livello 20."
+	para "Vuoi lottare?"
 	done
 	
 NoBattleNowTuesdayText:
-	text "I guess I'm too"
-	line "good, huh?"
+	text "Sono troppo"
+	line "buono, eh?"
 	done
 	
 TuesdayAfterYourDefeatText:; backwards
-	text "Wow, looks like"
-	line "you're the tough"
-	cont "one here!"
+	text "Sei tu quello"
+	line "forte qui!"
 	done
 	
 TuesdayAfterVictoriousText:; backwards
-	text "I'm getting good"
-	line "at this!"
+	text "Sto diventando"
+	line "bravo!"
 	done
 	
 TuesdayWinText:
-	text "Woah, now!"
+	text "Ecco!"
 	done
 	
 TuesdayLossText:
-	text "I got this!"
+	text "Assurdo!"
 	done
 
 	
 TuesdayTrainerGreeting:
-	text "Hi there!"
-	para "I'm looking to"
-	line "battle!"
-	para "I think I'm pretty"
-	line "tough."
-	para "I use #MON"
-	line "around level 30."
-	para "Think you can take"
-	line "me on?"
+	text "Ciao!"
+	para "Voglio lottare!"
+	line "Mi sento forte!"
+	para "I miei #MON"
+	line "sono intorno al"
+	cont "livello 30."
+	para "Credi di farcela?"
 	done
 	
 	
 NoBattleNowWednesdayText:
-	text "That's okay!"
-	para "I'll stick around"
-	line "for a bit."
+	text "Va bene!"
+	para "Starò qui per"
+	line "un po'."
 	done
 	
 WednesdayAfterYourDefeatText:; backwards
-	text "Hey, looks like"
-	line "you're good at"
-	cont "this too!"
+	text "Sembra che anche"
+	line "tu sia forte!"
 	done
 	
 WednesdayAfterVictoriousText:; backwards
-	text "My #MON are"
-	line "always up for a"
-	cont "battle!"
+	text "I miei #MON"
+	line "sono sempre pronti"
+	cont "a lottare!"
 	done
 	
 WednesdayWinText:
-	text "Hey, good one!"
+	text "Ehi! Bella lotta!"
 	done
 	
 WednesdayLossText:
-	text "What a workout!"
+	text "Che lotta!"
 	done
 
 WednesdayTrainerGreeting:
-	text "Hiya! I'm stopping"
-	line "by here after a"
-	para "run with my"
-	line "#MON!"
-	para "I'm pretty good at"
-	line "battling."
-	para "My #MON are"
-	line "around level 40."
-	para "Wanna send a"
-	line "challenge my way?"
+	text "Ehi! Sono qui"
+	line "dopo una corsa"
+	para "con i #MON!"
+	para "Sono bravo a"
+	line "lottare."
+	para "I miei #MON"
+	line "sono intorno al"
+	cont "livello 40."
+	para "Vuoi sfidarmi?"
 	done
 	
 	
 NoBattleNowThursdayText:
-	text "That's fine, then."
+	text "Va bene, allora."
 	done
 	
 ThursdayAfterYourDefeatText:; backwards
-	text "This was a good"
-	line "challenge."
+	text "Bella sfida."
 	done
 	
 ThursdayAfterVictoriousText:; backwards
-	text "My #MON prove"
-	line "their strength."
+	text "I miei #MON"
+	line "sono forti."
 	done
 	
 ThursdayWinText:
-	text "Very good."
+	text "Fantastico."
 	done
 	
 ThursdayLossText:
-	text "Ah, victory."
+	text "Ah, vittoria."
 	done
 
 	
 ThursdayTrainerGreeting:
-	text "Good day."
-	para "I am experienced"
-	line "in battling."
-	para "I have a party"
-	line "of #MON around"
-	cont "level 50."
-	para "Want to have a go"
-	line "at a battle?"
+	text "Salve."
+	para "Mi alleno nella"
+	line "lotta."
+	para "La mia squadra è"
+	line "intorno al"
+	cont "livello 50."
+	para "Vuoi lottare?"
 	done
 	
 
 NoBattleNowFridayText:
-	text "It's okay, most"
-	line "people can't."
+	text "Va bene, molti"
+	line "non vogliono."
 	done
 	
 FridayAfterYourDefeatText:; backwards
-	text "Wow, you beat me!"
+	text "Oh, ho perso!"
 	done
 	
 FridayAfterVictoriousText:; backwards
-	text "Another victory"
-	line "for my team!"
+	text "Un'altra vittoria"
+	line "per me!"
 	done
 	
 FridayWinText:
-	text "I'm shocked!"
+	text "Che shock!"
 	done
 	
 FridayLossText:
-	text "Way to go, me!"
+	text "Ben fatto!"
 	done
 
 	
 FridayTrainerGreeting:
-	text "Well, hello!"
-	para "I try not to brag,"
-	line "but I'm pretty"
-	cont "darn good."
-	para "I have #MON"
-	line "around level 60."
-	para "Think you can"
-	line "handle them?"
+	text "Oh, ciao!"
+	para "Non vorrei"
+	line "vantarmi, ma sono"
+	cont "abbastanza forte."
+	para "I miei #MON"
+	line "sono intorno al"
+	cont "livello 60."
+	para "Credi di potercela"
+	line "fare?"
 	done
 	
 
 NoBattleNowSaturdayText:
-	text "One day, you might"
-	line "be strong enough"
-	para "to accept my"
-	line "challenge."
+	text "Un giorno potresti"
+	line "essere abbastanza"
+	para "forte da"
+	line "sfidarmi."
 	done
 	
 SaturdayAfterYourDefeatText:; backwards
-	text "You're among a"
-	line "select few who"
-	cont "have defeated me."
-	para "Well done."
+	text "Sei uno dei pochi"
+	line "che è riuscito a"
+	cont "battermi."
+	para "Ben fatto."
 	done
 	
 SaturdayAfterVictoriousText:; backwards
-	text "This was the"
-	line "expected outcome."
+	text "Questo era il"
+	line "giusto esito."
 	done
 	
 SaturdayWinText:
-	text "Unbelievable!"
+	text "Incredibile!"
 	done
 	
 SaturdayLossText:
-	text "Victory for me"
-	line "once more!"
+	text "Ancora una volta,"
+	line "vittoria!"
 	done
 
 	
@@ -1152,34 +1139,31 @@ SaturdayLossText:
 ;	done
 
 SaturdayTrainerGreeting:
-	text "It's not often I"
-	line "come across a"
-	para "trainer to match"
-	line "my skill."
-	para "My #MON are"
-	line "around level 70."
-	para "So tell me, do you"
-	line "think you're"
-	para "someone who can"
-	line "match me in"
-	cont "battle?"
+	text "È difficile"
+	line "trovare allenatori"
+	para "del mio livello."
+	para "I miei #MON"
+	line "sono intorno al"
+	cont "livello 60."
+	para "Dimmi, credi"
+	line "di potermi"
+	para "sfidare?"
 	done
 	
 	
 TrainerAcceptsChallenge:
-	text "Okay!"
-	para "Just stand over on"
-	line "the opposite side"
-	cont "and we can begin!"
+	text "Ok!"
+	para "Mettiti al lato"
+	line "opposto e"
+	cont "lottiamo!"
 	done
 	
 TrainerClubDone:
-	text "Whew!"
-	para "I'm not up for any"
-	line "more battles now."
-	para "Come back tomorrow"
-	line "and battle someone"
-	cont "new!"
+	text "Phew!"
+	para "Niente più lotte"
+	line "oggi."
+	para "Torna domani e"
+	line "sfida qualcuno!"
 	done
 	
 
