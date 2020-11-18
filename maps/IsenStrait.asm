@@ -54,8 +54,9 @@ FrostpointGymSign:
 	jumptext FrostpointGymSignText
 
 SwimmerfNicoleSeenText:
-	text "I feel so much"
-	line "lighter in water."
+	text "In acqua il mio"
+	line "corpo è così"
+	cont "leggero!"
 	done
 
 SwimmerfNicoleBeatenText:
@@ -63,19 +64,17 @@ SwimmerfNicoleBeatenText:
 	done
 
 SwimmerfNicoleAfterBattleText:
-	text "Swimming exercises"
-	line "your full body."
-
-	para "It's really good"
-	line "for you."
+	text "Nuotare rinforza"
+	line "tutto il corpo."
+	cont "Fa davvero bene."
 	done
 
 SwimmerfLoriSeenText:
-	text "What an impressive"
-	line "collection of GYM"
+	text "Che serie impres-"
+	line "sionante di"
 
-	para "BADGES. We should"
-	line "battle!"
+	para "MEDAGLIE. Dobbiamo"
+	line "proprio lottare!"
 	done
 
 SwimmerfLoriBeatenText:
@@ -83,36 +82,37 @@ SwimmerfLoriBeatenText:
 	done
 
 SwimmerfLoriAfterBattleText:
-	text "SURF is no longer"
-	line "the only HM move"
-	cont "you use in water."
+	text "SURF non è più"
+	line "l'unica MN da"
+	cont "usare in acqua."
 	done
 
 SwimmermCameronSeenText:
-	text "I guess it's im-"
-	line "possible to swim"
+	text "Non credo che sia"
+	line "possibile nuotare"
 
-	para "all the way to"
-	line "the mainland."
+	para "fino alla"
+	line "terraferma."
 	done
 
 SwimmermCameronBeatenText:
-	text "Aiyah!"
+	text "Ahiahi!"
 	done
 
 SwimmermCameronAfterBattleText:
-	text "Besides the sea, I"
-	line "can also swim in"
-	cont "ponds and rivers."
+	text "Oltre che in mare,"
+	line "posso nuotare"
+	para "anche nei fiumi e"
+	line "nei laghetti."
 	done
 
 FrostpointGymSignText:
-	text "#MON RESEARCH"
-	line "FACILITY"
-	para "…The sign reads,"
-	line "with the word"
-	para "'CONDEMNED'"
-	line "written over it…"
+	text "CENTRO RICERCA"
+	line "#MON"
+	para "…Dice il cartello."
+	line "C'è la parola"
+	para "'INAGIBILE'"
+	line "scritta sopra…"
 	done
 
 IsenStrait_MapEvents:

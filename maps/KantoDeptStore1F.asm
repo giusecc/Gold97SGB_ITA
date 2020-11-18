@@ -24,50 +24,52 @@ KantoDeptStore1FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 KantoDeptStore1FReceptionistText:
-	text "Hello! Welcome to"
-	line "KANTO DEPT.STORE!"
+	text "Benvenuto al"
+	line "CENTRO COMMERCIALE"
+	cont "di KANTO!"
 
-	para "The directory is"
-	line "on the wall."
+	para "Appesa al muro c'è"
+	line "la guida."
 	done
 
 KantoDeptStore1FGentlemanText:
-	text "This DEPT.STORE is"
-	line "part of the same"
+	text "Questo CENTRO COM-"
+	line "MERCIALE fa parte"
 
-	para "chain as the one"
-	line "in WESTPORT CITY."
+	para "della stessa"
+	line "catena di quello"
+	cont "di PORTOVEST."
 
-	para "They were both"
-	line "renovated at the"
-	cont "same time."
+	para "Sono stati"
+	line "rinnovati"
+	cont "insieme."
 	done
 
 KantoDeptStore1FTeacherText:
-	text "This is my first"
-	line "time here."
+	text "È la prima volta"
+	line "che vengo qui."
 
-	para "It's so big…"
+	para "È immenso…"
 
-	para "I'm afraid I'll"
-	line "get lost."
+	para "Ho paura di"
+	line "perdermi."
 	done
 
 KantoDeptStore1FDirectoryText:
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "PT: ASSISTENZA"
+	line "    CASSE"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "P1: NEGOZIO PER"
+	line "    ALLENATORI"
 
-	para "3F: TM SHOP"
+	para "P2: NEGOZIO MT"
 
-	para "4F: WISEMAN GIFTS"
+	para "P3: REGALI"
 
-	para "5F: DRUG STORE"
+	para "P4: FARMACIA"
 
-	para "6F: ROOFTOP"
-	line "    SQUARE"
+	para "P5: DISTRIBUTORI"
+	line "    AUTOMATICI"
 	done
 
 KantoDeptStore1F_MapEvents:

@@ -21,15 +21,15 @@ KantoMartTwinScript:
 	jumptextfaceplayer KantoMartTwinText
 	
 KantoMartGrampsText:
-	text "Why is this MART"
-	line "here with the big"
-	para "DEPT. STORE right"
-	line "next door?"
+	text "Perché c'è questo"
+	line "#MON MARKET"
+	para "vicino al CENTRO"
+	line "COMMERCIALE?"
 	done
 	
 KantoMartTwinText:
-	text "I want to get toys"
-	line "for my #MON!"
+	text "Voglio qualcosa"
+	line "per i #MON!"
 	done
 
 KantoMart_MapEvents:

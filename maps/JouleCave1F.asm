@@ -78,57 +78,55 @@ JouleCave1FHiddenMaxRepel:
 	hiddenitem MAX_REPEL, EVENT_JOULE_CAVE_1F_HIDDEN_MAX_REPEL
 	
 HikerErikSeenText:
-	text "Be prepared for"
-	line "anything!"
+	text "Preparati a tutto!"
 
-	para "Let me see if your"
-	line "#MON have been"
-	cont "raised properly!"
+	para "Fammi vedere come"
+	line "hai allenato i"
+	cont "tuoi #MON!"
 	done
 
 HikerErikBeatenText:
-	text "Oh, I lost that!"
+	text "Oh, ho perso!"
 	done
 
 HikerErikAfterBattleText:
-	text "I'll train here"
-	line "until I get"
-	cont "stronger!"
+	text "Mi allenero qui"
+	line "finché sarò più"
+	cont "forte!"
 	done
 
 PokemaniacMillerSeenText:
-	text "I'm not losing"
-	line "to you!"
+	text "Non perderò!"
 	done
 
 PokemaniacMillerBeatenText:
-	text "I lost to some"
-	line "kid…?"
+	text "Ho perso con un"
+	line "ragazzino…?"
 	done
 
 PokemaniacMillerAfterBattleText:
-	text "I heard that a"
-	line "rare bird some-"
-	para "times roosts in"
-	line "this mountain."
-	para "I haven't been"
-	line "able to find it,"
-	cont "though."
+	text "Dicono che ci"
+	line "sia un raro #-"
+	para "MON uccello che"
+	line "riposa in questa"
+	cont "montagna."
+	para "Tuttavia non l'ho"
+	line "mai visto."
 	done
 
 SupernerdMarkusSeenText:
-	text "Hey! Woah!"
+	text "Ehi!"
 	done
 
 SupernerdMarkusBeatenText:
-	text "You startled me…"
+	text "Mi hai spaventato…"
 	done
 
 SupernerdMarkusAfterBattleText:
-	text "I came to explore"
-	line "JOULE CAVE, but"
-	para "I haven't found"
-	line "anything cool."
+	text "Volevo esplorare"
+	line "la GROTTA JOULE,"
+	para "ma non ci ho"
+	line "trovato niente."
 	done
 
 JouleCave1F_MapEvents:

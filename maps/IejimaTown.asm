@@ -181,128 +181,123 @@ IejimaTownSwimmerGuy:
 	jumptextfaceplayer IejimaTownSwimmerGuyText
 	
 ItemWashedUpText:
-	text "Hey, check this"
-	line "out!"
-	para "Something washed"
-	line "onto the shore"
-	para "when the water"
-	line "started flowing"
-	cont "again!"
-	para "It looks like a"
-	line "wing of some sort."
-	para "I don't know what"
-	line "to do with this,"
-	cont "so you take it!"
+	text "Ehi! Guarda qua!"
+	para "Qualcosa è"
+	line "comparso a riva"
+	para "quando l'acqua ha"
+	line "ripreso a"
+	cont "scorrere!"
+	para "Sembra una specie"
+	line "di piuma."
+	para "Io non so cosa"
+	line "farci, prendila"
+	cont "tu!"
 	done
 	
 GotTriWingText:
-	text "<PLAYER> got"
-	line "TRI-WING!"
+	text "<PLAYER> riceve"
+	line "TRI-ALA!"
 	done
 	
 IejimaTownLassText:
-	text "I'm glad things"
-	line "are okay at the"
-	cont "HYDRO PLANT now."
+	text "Sono felice che"
+	line "tutto si sia"
+	para "risolto alla"
+	line "CENTRALE."
 	done
 	
 IejimaTownLassText2:
-	text "The waterfall and"
-	line "the pond it feeds"
-	para "into are the pride"
-	line "and joy of this"
-	cont "town."
-	para "It's definitely"
-	line "bad that the water"
-	cont "isn't flowing now."
+	text "La cascata e il"
+	line "laghetto che"
+	para "riempie sono"
+	line "l'orgoglio della"
+	cont "città."
+	para "Se l'acqua non"
+	line "scorre è un"
+	cont "problema."
 	done
 	
 IejimaTownSwimmerGirlText:
-	text "This pond is so"
-	line "peaceful."
+	text "Questo laghetto"
+	line "è così bello."
 	done
 	
 IejimaTownSwimmerGuyText:
-	text "I like swimming"
-	line "laps around here"
-	cont "to exercise!"
+	text "Mi piace nuotare"
+	line "qui per fare"
+	cont "esrcizio!"
 	done
 	
 IejimaTownBiker4Text:
-	text "We got chased"
-	line "out of the basin"
-	cont "by some cops."
-	para "Good thing, too,"
-	line "cause the water"
-	cont "started flowing!"
+	text "Gli sbirri ci"
+	line "hanno seguito fino"
+	cont "al bacino."
+	para "L'acqua ha ripreso"
+	line "a scorrere!"
 	done
 	
 IejimaTownBiker5Text:
-	text "People really"
-	line "didn't like it"
-	para "when we stopped"
-	line "the waterfall."
-	para "Maybe we shouldn't"
-	line "do that again if"
-	para "we want to stay"
-	line "out of trouble."
+	text "Nessuno ha gradito"
+	line "quando abbiamo"
+	para "bloccato la"
+	line "cascata."
+	para "Forse dovremmo"
+	line "smetterla, se"
+	para "vogliamo stare"
+	line "fuori dai guai."
 	done
 
 IejimaTownBiker6Text:
-	text "I'm up for riding"
-	line "somewhere else."
+	text "Andrò da qualche"
+	line "altra parte."
 	done
 	
 IejimaTownBiker1Text:
-	text "Hehe!"
-	para "This place is"
-	line "great for riding"
-	cont "our bikes around!"
+	text "Eheh!"
+	para "Questo posto è"
+	line "fantastico per"
+	cont "andare in giro!"
 	done
 	
 IejimaTownBiker2Text:
-	text "Watch out, IEJIMA"
-	line "TOWN!"
-	para "We're here to"
-	line "stay!"
+	text "IEJIMA, attenta!"
+	para "Noi restiamo qui!"
 	done
 	
 IejimaTownBiker3Text:
-	text "This land has"
-	line "dried up now that"
-	para "we closed the dam"
-	line "in the HYDRO"
-	cont "PLANT!"
-	para "There's so much"
-	line "room to ride!"
+	text "Quest'area si è"
+	line "asciugata quando"
+	para "abbiamo chiuso la"
+	line "diga della"
+	cont "CENTRALE!"
+	para "C'è un sacco di"
+	line "spazio per girare!"
 	done
 	
 IejimaTownYoungsterText:
-	text "It's so nice to"
-	line "stand here by"
-	cont "the water."
+	text "È così bello stare"
+	line "vicino all'acqua."
 	done
 	
 IejimaTownYoungsterText2:
-	text "This is horrible!"
-	para "The water should"
-	line "be coming up to"
-	cont "my feet here!"
-	para "What could be"
-	line "going on at the"
-	cont "HYDRO PLANT?"
+	text "È terribile!"
+	para "L'acqua dovrebbe"
+	line "arrivare fin qui!"
+	para "Cosa sta succeden-"
+	line "do alla CENTRALE"
+	cont "IDROELETTRICA?"
 	done
 	
 IejimaTownGrampsBeforeText:
-	text "Oh, dear!"
-	para "What has happened"
-	line "to our beloved"
-	cont "waterfall?"
-	para "This has to have"
-	line "something to do"
-	para "with all of these"
-	line "BIKERs that have"
-	cont "shown up here!"
+	text "Oh!"
+	para "Cos'è successo"
+	line "alla nostra amata"
+	cont "cascata?"
+	para "Deve avere a che"
+	line "fare con i"
+	para "teppisti che ci"
+	line "sono da queste"
+	cont "parti!"
 	done
 
 IejimaTown_MapEvents:

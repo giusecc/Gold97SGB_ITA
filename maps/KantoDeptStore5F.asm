@@ -46,20 +46,22 @@ KantoDeptStore5FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 KantoDeptStore5FGentlemanText:
-	text "I want to buy some"
-	line "items that raise"
+	text "Vorrei comprare"
+	line "strumenti per mi-"
+	para "gliorare le"
+	line "statistiche"
 
-	para "#MON stats, but"
-	line "I don't have"
-	cont "enough money…"
+	para "dei #MON, ma"
+	line "non ho abbastanza"
+	cont "soldi"
 	done
 
 KantoDeptStore5FSailorText:
-	text "I want PP UP, so I"
-	line "can raise the PP"
+	text "Vorrei PP-SU per"
+	line "poter aumentare i"
 
-	para "of moves. But you"
-	line "can't buy it…"
+	para "PP delle mosse:"
+	line "ma non lo vendono…"
 	done
 
 KantoDeptStore5FTeacherText:
@@ -68,7 +70,7 @@ KantoDeptStore5FTeacherText:
 	done
 
 KantoDeptStore5FDirectoryText:
-	text "5F: DRUG STORE"
+	text "P4: FARMACIA"
 	done
 
 KantoDeptStore5F_MapEvents:

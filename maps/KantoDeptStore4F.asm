@@ -36,24 +36,22 @@ KantoDeptStore4FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 KantoDeptStore4FSuperNerdText:
-	text "I'm here to buy"
-	line "a gift for my"
-	cont "girlfriend."
+	text "Voglio comprare"
+	line "un regalo per"
+	cont "la mia ragazza."
 	done
 
 KantoDeptStore4FYoungsterText:
-	text "This floor carries"
-	line "evolution stones"
-	para "that can be"
-	line "difficult to find"
-	cont "elsewhere."
+	text "In questo posto"
+	line "si trovano pietre"
+	para "evolutive rare."
 	done
 
 KantoDeptStore4FDirectoryText:
-	text "Express Yourself"
-	line "With Gifts!"
+	text "Dillo con un"
+	line "regalo!"
 
-	para "4F: WISEMAN GIFTS"
+	para "P3: REGALI"
 	done
 
 KantoDeptStore4F_MapEvents:

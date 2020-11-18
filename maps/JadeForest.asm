@@ -129,131 +129,135 @@ RouteU4UFruitTree3:
 	fruittree FRUITTREE_ROUTE_U4U_3
 
 Text_HeadbuttIntro:
-	text "What am I doing?"
+	text "Che sto facendo?"
 
-	para "I'm shaking trees"
-	line "using HEADBUTT."
+	para "Scrollo gli alberi"
+	line "con BOTTINTESTA."
 
-	para "It's fun. Here,"
-	line "you try it too!"
+	para "È divertente."
+	line "Vuoi provare?"
 	done
 
 Text_HeadbuttOutro:
-	text "Rattle trees with"
-	line "HEADBUTT. Some-"
-	cont "times, sleeping"
-	cont "#MON fall out."
+	text "Se scrolli gli"
+	line "alberi con"
+	para "BOTTINTESTA"
+	line "possono cadere dei"
+	cont "#MON."
 	done
 
 Text_JadeForestLass:
-	text "There are a lot"
-	line "of #MON in the"
-	para "FOREST with moves"
-	line "that can inflict"
-	cont "status conditions."
-	para "It's a good idea"
-	line "to stock up on"
-	cont "items."
+	text "Ci sono molti"
+	line "#MON nel"
+	para "BOSCO, con mosse"
+	line "che possono"
+	para "causare problemi"
+	line "di stato."
+	para "È una buona idea"
+	line "avere gli strumen-"
+	cont "ti adatti."
 	done
 
 JadeForestSignpostText:
-	text "JADE FOREST is"
-	line "so overgrown with"
+	text "Il BOSCO GIADA è"
+	line "così pieno di"
 
-	para "trees that you"
-	line "can't see the sky."
+	para "alberi, che non"
+	line "puoi vedere il"
+	cont "cielo!"
 
-	para "Please watch out"
-	line "for items that may"
-	cont "have been dropped."
+	para "Fai attenzione"
+	line "agli strumenti che"
+	cont "puoi trovare!"
 	done
 	
 JadeForestSignpost2Text:
-	text "Exit to the right"
-	line "for ROUTE 106"
+	text "A destra si trova"
+	line "il PERCORSO 106."
 	done
 
 BugCatcherWayneSeenText:
-	text "Don't sneak up on"
-	line "me like that!"
+	text "Non fare così!"
 
-	para "You frightened a"
-	line "#MON away!"
+	para "Hai spaventato un"
+	line "#MON!"
 	done
 
 BugCatcherWayneBeatenText:
-	text "I hadn't seen that"
-	line "#MON before…"
+	text "Non avevo mai"
+	line "visto quel"
+	cont "#MON…"
 	done
 
 BugCatcherWayneAfterBattleText:
-	text "A #MON I've"
-	line "never seen before"
+	text "Un #MON che"
+	line "non avevo mai"
 
-	para "fell out of the"
-	line "tree when I used"
-	cont "HEADBUTT."
+	para "visto è caduto"
+	line "dall'albero quando"
+	para "ho usato"
+	line "BOTTINTESTA."
 
-	para "I ought to use"
-	line "HEADBUTT in other"
-	cont "places too."
+	para "Dovre usare"
+	line "BOTTINTESTA anche"
+	cont "altrove."
 	done
 
 
 HikerLeonardSeenText:
-	text "I'm walking"
-	line "through this"
-	para "FOREST until I see"
-	line "every #MON that"
-	cont "lives here!"
+	text "Starò nel BOSCO"
+	line "finché non avrò"
+	para "visto tutti i"
+	line "#MON che"
+	cont "vivono qui!"
 	done
 
 HikerLeonardBeatenText:
-	text "I should stick to"
-	line "hiking!"
+	text "Dovrei continuare"
+	line "le mie escursioni!"
 	done
 
 HikerLeonardAfterBattleText:
-	text "The FOREST has"
-	line "many species of"
-	para "#MON that don't"
-	line "appear anywhere"
-	cont "else."
+	text "Il BOSCO è pieno"
+	line "di #MON che non"
+	para "che non ci sono"
+	line "altrove."
 	done
 
 
 FirebreatherBillSeenText:
-	text "Nothing in this"
-	line "FOREST can handle"
-	cont "my FIRE #MON!"
+	text "Nulla in questo"
+	line "BOSCO può"
+	para "resistere ai miei"
+	line "#MON FUOCO!"
 	done
 
 FirebreatherBillBeatenText:
-	text "Yeowch!"
+	text "Ouch!"
 	done
 
 FirebreatherBillAfterBattleText:
-	text "I gotta be careful"
-	line "not to set the"
-	cont "trees on fire."
+	text "Devo stare attento"
+	line "a non appiccare"
+	cont "incendi."
 	done
 	
 
 CooltrainerfGwenSeenText:
-	text "I'm not lost!"
-	para "And even if I was,"
-	line "my team is ready"
-	cont "for any TRAINER!"
+	text "Non mi sono perso!"
+	para "E se è così, la"
+	line "mia squadra è"
+	cont "pronta!"
 	done
 
 CooltrainerfGwenBeatenText:
-	text "It's important to"
-	line "be prepared."
+	text "È importante"
+	line "essere preparati."
 	done
 
 CooltrainerfGwenAfterBattleText:
-	text "I definitely know"
-	line "where I'm going!"
+	text "So dove sto"
+	line "andando!"
 	done
 
 JadeForest_MapEvents:

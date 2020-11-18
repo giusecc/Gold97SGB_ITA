@@ -37,21 +37,20 @@ DontDisturbSnorlaxScript:
 	end
 	
 SnorlaxAloneText:
-	text "Better leave it"
-	line "alone…"
+	text "Meglio lasciarlo"
+	line "da solo…"
 	done
 	
 SnorlaxText:
-	text "This SNORLAX looks"
-	line "kind of restless."
-	para "…Want to disturb"
-	line "it?"
+	text "Questo SNORLAX"
+	line "sembra irrequieto."
+	para "…Vuoi disturbarlo?"
 	done
 	
 SnorlaxText2:
-	text "You pushed against"
-	line "the SNORLAX…"
-	para "It's awake!"
+	text "Hai toccato"
+	line "SNORLAX…"
+	para "Si è svegliato!"
 	done
 	
 SnorlaxText3:
