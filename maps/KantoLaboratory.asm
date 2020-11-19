@@ -335,109 +335,108 @@ ScientistGoesToMachine7:
 	step_end
 	
 KantoLaboratoryGentlemanText:
-	text "This place is a"
-	line "hub for NIHON's"
-	para "brightest"
-	line "researchers."
+	text "Questo posto è"
+	line "il luogo perfetto"
+	para "per i ricercatori"
+	line "di NIHON."
 	done
 	
 KantoLaboratoryScientist1Text:
-	text "Did you know?"
-	para "We've made great"
-	line "strides in #MON"
-	cont "fossil technology!"
-	para "We are now able"
-	line "to bring back"
-	para "fossilized #MON"
-	line "in mere seconds!"
+	text "Lo sapevi?"
+	para "Abbiamo fatto"
+	line "passi da gigante"
+	para "nella ricerca"
+	line "sui fossili."
+	para "Ora possiamo"
+	line "riportare in"
+	para "vita i fossili"
+	line "in pochi secondi!"
 	done
 
 ScientistHereYouGoText:
-	text "All done!"
-	para "Here you go!"
+	text "Ecco fatto!"
+	para "Tieni!"
 	done
 	
 IfYouHaveAnyOtherFossilsText:
-	text "Let me know if"
-	line "you come across"
-	cont "any other fossils!"
+	text "Fammi sapere se"
+	line "trovi altri"
+	cont "fossili!"
 	done
 	
 NoRoomForFossilmon:
-	text "Oh, wait! I can't"
-	line "do this yet!"
-	para "You'd have no room"
-	line "to hold onto this"
+	text "Oh, aspetta! Non"
+	line "posso farlo!"
+	para "Non hai spazio per"
+	line "prendere questo"
 	cont "#MON!"
-	para "Come back once you"
-	line "have some space in"
-	cont "your party!"
+	para "Torna quando avrai"
+	line "fatto spazio nella"
+	cont "squadra!"
 	done
 	
 PlayerGetsAnOmanyte:
-	text "<PLAYER> received"
+	text "<PLAYER> riceve"
 	line "OMANYTE!"
 	done
 	
 PlayerGetsAKabuto:
-	text "<PLAYER> received"
+	text "<PLAYER> riceve"
 	line "KABUTO!"
 	done
 	
 PlayerGetsAnAerodactyl:
-	text "<PLAYER> received"
+	text "<PLAYER> riceve"
 	line "AERODACTYL!"
 	done
 	
 TimeToGetAFossilmonText:
-	text "Alright, just let"
-	line "me see this fossil"
-	para "and I'll have it"
-	line "back to life in"
-	cont "just a second!"
+	text "Allora, lasciami"
+	line "vedere questo fos-"
+	para "sile e lo farò"
+	line "tornare in vita in"
+	cont "un attimo!"
 	done
 	
 YouHaveHelixFossilText:
-	text "Oh, what's this?"
-	para "You have a HELIX"
-	line "FOSSIL!"
-	para "Want me to turn it"
-	line "into a #MON?"
+	text "Oh, e questo"
+	line "cos'è?"
+	para "Un HELIXFOSSILE!"
+	para "Vuoi che lo"
+	line "riporti in vita?"
 	done
 	
 YouHaveDomeFossilText:
-	text "Oh, what's this?"
-	para "You have a DOME"
-	line "FOSSIL!"
-	para "Want me to turn it"
-	line "into a #MON?"
+	text "Oh, e questo"
+	line "cos'è?"
+	para "Un DOMOFOSSILE!"
+	para "Vuoi che lo"
+	line "riporti in vita?"
 	done
 	
 YouHaveOldAmberText:
-	text "Oh, what's this?"
-	para "You have an OLD"
-	line "AMBER!"
-	para "Want me to turn it"
-	line "into a #MON?"
+	text "Oh, e questo"
+	line "cos'è?"
+	para "AMBRA ANTICA!"
+	para "Vuoi che lo"
+	line "riporti in vita?"
 	done
 	
 AnotherTimeFossilText:
-	text "Oh, really?"
-	para "Well, let me know"
-	line "if you change your"
-	cont "mind."
+	text "Oh, davvero?"
+	para "Fammi sapere se"
+	line "cambi idea."
 	done
 	
 FossilScientistIntroText:
-	text "Hiya! I'm a"
-	line "scientist who"
-	para "specializes in"
-	line "#MON fossils!"
-	para "Let me know if you"
-	line "have any fossils"
-	para "and I can turn"
-	line "them back into"
-	cont "living #MON!"
+	text "Ehi! Sono uno"
+	line "scienziato"
+	para "specializzato in"
+	line "fossili #MON!"
+	para "Fammi sapere se"
+	line "hai dei fossili"
+	para "da far tornare"
+	line "#MON!"
 	done
 
 KantoLaboratory_MapEvents:

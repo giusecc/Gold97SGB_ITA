@@ -10,22 +10,20 @@ KKHouse2GrampsScript:
 	jumptextfaceplayer KKHouse2GrampsText
 	
 KKHouse2GrampsText:
-	text "A man named BRUNO"
-	line "trains at the"
-	cont "CALDERA's top."
+	text "Un uomo chiamato"
+	line "BRUNO si allena"
+	para "in cima alla"
+	line "CALDERA."
 	
-	para "He is far and"
-	line "beyond more"
-	para "powerful than the"
-	line "other fighters"
-	para "who come to"
-	line "train here."
+	para "È molto più forte"
+	line "di tutti gli altri"
+	para "lottatori che si"
+	line "allenano qui."
 	
-	para "In fact, he is"
-	line "a reserve member"
-	para "of the NIHON"
-	line "LEAGUE's ELITE"
-	cont "FOUR!"
+	para "Non a caso è un"
+	line "membro di riserva"
+	para "dei SUPERQUATTRO"
+	line "di NIHON!"
 	done
 
 KikaiHouse2_MapEvents:

@@ -87,160 +87,154 @@ KantoLass2Script:
 	jumptextfaceplayer KantoLass2Text
 	
 KantoLass2Text:
-	text "The SCIENTISTs in"
-	line "this lab are"
-	cont "amazing!"
-	para "They were able to"
-	line "turn my fossil"
-	para "into a living"
-	line "#MON!"
+	text "Gli SCIENZIATI del"
+	line "laboratorio sono"
+	cont "incredibili!"
+	para "Hanno riportato"
+	line "in vita un"
+	cont "fossile!"
 	done
 	
 KantoFisher2Text:
-	text "Boy, I sure do"
-	line "love fishing!"
-	para "And this is such"
-	line "a peaceful spot"
-	cont "to do it!"
+	text "Oh, sì. Amo"
+	line "pescare!"
+	para "E questo è un"
+	line "posto perfetto"
+	cont "per farlo!"
 	done
 	
 KantoYoungsterText:
-	text "One day, I want"
-	line "to be just as"
-	cont "strong as RED."
-	para "I'm not sure that"
-	line "will happen,"
-	cont "though."
-	para "Very few people"
-	line "are as good as"
-	cont "him."
+	text "Un giorno voglio"
+	line "essere forte come"
+	cont "ROSSO."
+	para "Non so se ce la"
+	line "farò."
+	para "Pochissimi sono"
+	line "al suo livello."
 	done
 	
 KantoSuperNerdText:
-	text "The owner of this"
-	line "GAME CORNER"
-	para "recently bought"
-	line "ownership of the"
-	para "newer one over on"
-	line "BOARDWALK."
+	text "Il gestore del"
+	line "CASINÒ ne ha"
+	para "fatto costruire"
+	line "uno nuovo sul"
+	cont "PONTILE."
 	done
 	
 KantoLassText:
-	text "Do you know about"
-	line "SILPH CO.?"
-	para "If not, you"
-	line "probably should."
-	para "There's a good"
-	line "chance they made"
-	para "the #BALLs your"
-	line "#MON are in!"
+	text "Conosci la"
+	line "SILPH SPA?"
+	para "Dovresti!"
+	line "È probabile che"
+	para "abbiano fatto le"
+	line "#BALL che hai"
+	cont "con te!"
 	done
 	
 KantoPokefanMText:
-	text "I've never been a"
-	line "serious trainer."
-	para "I mean, I train"
-	line "#MON, and I"
-	cont "battle."
-	para "But it's been more"
-	line "of a hobby."
-	para "The guy inside of"
-	line "the KANTO BATTLE"
-	para "CLUB wouldn't let"
-	line "me inside…"
+	text "Non sono mai stato"
+	line "un allenatore"
+	cont "serio."
+	para "Alleno i miei"
+	line "#MON e lotto,"
+	para "ma per me è un"
+	line "passatempo."
+	para "Il tipo del CLUB"
+	line "LOTTA KANTO non"
+	para "mi lascerebbe"
+	line "entrare…"
 	done
 	
 KantoFisherText:
-	text "Technology is"
-	line "incredible!"
-	para "You can now trade"
-	line "#MON across"
-	cont "time!"
+	text "La tecnologia è"
+	line "incredibile!"
+	para "Ora puoi scambiare"
+	line "#MON con il"
+	cont "passato!"
 	done
 	
 KantoSignText:
-	text "KANTO-"
-	line "NIHON's southern"
-	cont "crown jewel."
+	text "KANTO"
+	line "Gioiello di NIHON"
 	done
 	
 KantoGymSignText:
-	text "KANTO #MON GYM"
-	line "LEADER: RED"
+	text "KANTO"
+	line "CAPOPALESTRA:"
+	cont "ROSSO"
 
-	para "The Experienced"
-	line "Veteran Trainer"
+	para "Maestro di"
+	line "#MON"
 	done
 	
 KobanIslandSignText2:
-	text "PALLET TOWN -"
+	text "BIANCAVILLA"
 
-	para "A tranquil setting"
-	line "of peace and"
-	cont "purity."
+	para "Un ridente angolo"
+	line "di pace e purezza."
 	done
 	
 RedsHouseSignText2:
-	text "RED's house"
+	text "Casa di ROSSO"
 	done
 	
 BluesHouseSignText2:
-	text "BLUE's house"
+	text "Casa di BLU"
 	done
 
 OaksLabSign2Text:
-	text "OAK #MON LAB"
-	para "NOTICE: PROF.OAK"
-	line "is currently"
-	para "researching in"
-	line "SILENT TOWN."
+	text "LAB. RICERCA"
+	para "#MON DI OAK"
+	line "NOTA: al momento"
+	para "il PROF.OAK. è"
+	line "a BORGO SILENTE."
 	done
 	
 KantoDeptSignText:
-	text "Full Selection of"
-	line "#MON Goods!"
-
-	para "KANTO DEPT.STORE"
+	text "Una completa sele-"
+	line "zione di articoli"
+	cont "sui #MON!"
+	
+	para "CENTRO COMMERCIALE"
+	line "di KANTO"
 	done
 	
 KantoMansionSignText:
-	text "KANTO MANSION"
+	text "VILLA KANTO"
 	done
 	
 KantoBattleClubSignText:
-	text "KANTO BATTLE CLUB"
-	para "A members-only"
-	line "club for serious"
-	cont "trainers."
+	text "CLUB LOTTA KANTO"
+	para "Un club per"
+	line "allenatori di"
+	cont "livello."
 	done
 	
 PokemonTowerSignText:
-	text "#MON TOWER"
-	para "A monument to"
-	line "#MON who have"
-	cont "passed."
+	text "TORRE #MON"
+	para "In ricordo dei"
+	line "#MON defunti."
 	done
 
 KantoCooltrainerMText:
-	text "They're holding an"
-	line "eating contest in"
-	cont "the restaurant."
-	para "Just watching them"
-	line "go at it makes me"
-	cont "feel bloated…"
+	text "Al ristorante"
+	line "fanno una gara"
+	cont "di cibo."
+	para "Solo guardandoli"
+	line "mi passa"
+	cont "l'appetito…"
 	done
 	
 KantoTeacherText:
-	text "The KANTO DEPT."
-	line "STORE has the best"
-	cont "selection."
-	para "If you can't get"
-	line "it there, you"
-	para "can't get it any-"
-	line "where!"
-	para "…Gee, I sound"
-	line "like a sales"
-	cont "clerk."
+	text "Il CENTRO"
+	line "COMMERCIALE ha una"
+	cont "vasta scelta."
+	para "Se non lo trovi"
+	line "lì, non lo trove-"
+	para "rai da nessuna"
+	line "parte!"
+	para "…ooh, sembro"
+	line "un commesso."
 	done
 
 KantoRegion_MapEvents:

@@ -10,16 +10,14 @@ KobanHouse2GuruScript:
 	jumptextfaceplayer KobanHouse2GuruText
 	
 KobanHouse2GuruText:
-	text "It's said that"
-	line "DRAGON #MON"
-	para "still inhabit the"
-	line "cave just north"
-	cont "of here."
-	para "I've never found"
-	line "any by fishing."
-	para "Maybe you have to"
-	line "have a special"
-	cont "ROD…"
+	text "Dicono che i"
+	line "#MON DRAGO"
+	para "abitino ancora la"
+	line "grotta a nord."
+	para "Non ne ho mai"
+	line "trovati pescando."
+	para "Forse se avessi"
+	line "un AMO special…"
 	done
 
 KobanHouse2_MapEvents:

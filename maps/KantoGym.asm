@@ -250,109 +250,107 @@ RedDummyWalksToSpotLeft:
 	step_end
 	
 KantoGymGuyWinText2:
-	text "What an incredible"
-	line "battle!"
-	para "How many badges do"
-	line "you have now?"
-	para "You might be ready"
-	line "for the LEAGUE."
+	text "Che lotta"
+	line "incredibile!"
+	para "Quante MEDAGLIE"
+	line "ha ora?"
+	para "Potresti andare"
+	line "alla LEGA."
 	done
 	
 KantoGymGuyText2:
-	text "Go get him, champ-"
-	line "in-the-making!"
+	text "Forza! Campione"
+	line "in erba!"
 	done
 	
 KantoGymGuyRedNotHereText2:
-	text "Hey, champ-in-the-"
-	line "making!"
-	para "You know who RED"
-	line "is, right?"
-	para "He's not only a"
-	line "GYM LEADER, but"
-	para "he's also beaten"
-	line "the LEAGUE."
-	para "He's one tough"
-	line "guy, but he's not"
-	cont "much for words."
-	para "He's also not here"
-	line "right now."
-	para "I'm sure he'll be"
-	line "back soon. Why"
-	para "don't you battle"
-	line "the TRAINERS here"
-	para "while we wait for"
-	line "his return?"
+	text "Ehi! Campione in"
+	line "erba!"
+	para "Conosci ROSSO?"
+	para "Non è solo un"
+	line "CAPOPALESTRA, ma"
+	para "è anche CAMPIONE"
+	line "della LEGA."
+	para "È un tipo tosto,"
+	line "ma poco locuace."
+	para "Al momento non"
+	line "è qui."
+	para "Sono sicuro che"
+	line "tornerà presto."
+	para "Perché non sfidi"
+	line "gli ALLENATORI qui"
+	cont "mentre aspetti?"
 	done
 	
 CooltrainerfFranSeenText:
-	text "I can't allow a"
-	line "nameless trainer"
-	cont "to defeat me!"
+	text "Non lascerò che"
+	line "uno sconosciuto"
+	cont "mi sconfigga!"
 	done
 
 CooltrainerfFranBeatenText:
-	text "Awww… I lost…"
+	text "Ooooh… Ho perso…"
 	done
 
 CooltrainerfFranAfterBattleText:
-	text "Huh. You might"
-	line "have what it takes"
-	cont "to beat RED."
+	text "Oh. Hai quello che"
+	line "serve per battere"
+	cont "ROSSO."
 	done
 
 CooltrainerfLolaSeenText:
-	text "What type of"
-	line "#MON do we use?"
-	para "Why, all of them,"
-	line "like any good"
-	cont "trainer should."
+	text "Che tipo di"
+	line "#MON usa?"
+	para "Tutti i tipi,"
+	line "come è giusto"
+	cont "che sia."
 	done
 
 CooltrainerfLolaBeatenText:
-	text "Way to go!"
+	text "Ben fatto!"
 	done
 
 CooltrainerfLolaAfterBattleText:
-	text "A balanced party"
-	line "is key to victory."
+	text "Una squadra bilan-"
+	line "ciata è la chiave"
+	cont "per la vittoria."
 	done
 
 
 CooltrainermMikeSeenText:
-	text "My chance of"
-	line "losing? Not even"
-	cont "one percent!"
+	text "Possibilità di"
+	line "perdere? Neppure"
+	cont "l'un percento!"
 	done
 
 CooltrainermMikeBeatenText:
-	text "That's odd."
+	text "Che strano."
 	done
 
 CooltrainermMikeAfterBattleText:
-	text "I know my short-"
-	line "comings now."
+	text "Ora conosco i"
+	line "miei limiti."
 
-	para "Thanks for showing"
-	line "me!"
+	para "Grazie per"
+	line "avermeli fatti"
+	cont "vedere!"
 	done
 
 CooltrainermPaulSeenText:
-	text "Facing RED will"
-	line "surely be your"
-	cont "toughest battle."
-	para "But I can be a"
-	line "close second!"
+	text "Affrontare ROSSO"
+	line "sarà una sfida"
+	cont "durissima."
+	para "Ma affrontare me"
+	line "non sarà da meno!"
 	done
 
 CooltrainermPaulBeatenText:
-	text "My #MON lost?"
+	text "Ho perso?"
 	done
 
 CooltrainermPaulAfterBattleText:
-	text "You almost ready"
-	line "to take on the"
-	cont "LEAGUE?"
+	text "Sei pronto per"
+	line "la LEGA?"
 	done
 
 ErikaBeforeBattleText:
@@ -376,8 +374,8 @@ RedAfterRematchText:
 	done
 
 PlayerReceivedRainbowBadgeText:
-	text "<PLAYER> received"
-	line "RISINGBADGE."
+	text "<PLAYER> riceve"
+	line "MEDAGLIA LEVANTE."
 	done
 
 ErikaExplainTMText:

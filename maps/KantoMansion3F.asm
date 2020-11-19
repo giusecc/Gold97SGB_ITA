@@ -83,22 +83,23 @@ KantoMansion3FReferenceMaterial:
 	jumptext KantoMansion3FReferenceMaterialText
 
 GameFreakGameDesignerText:
-	text "Is that right?"
+	text "Che te ne pare?"
 
-	para "I'm the GAME"
-	line "DESIGNER!"
+	para "Ho progettato io"
+	line "questo gioco!"
 
-	para "Filling up your"
-	line "#DEX is tough,"
-	cont "but don't give up!"
+	para "Completare il tuo"
+	line "#DEX è"
+	para "difficile, ma"
+	line "non arrenderti!"
 	done
 
 GameFreakGameDesignerCompletedPokedexText:
-	text "Wow! Excellent!"
-	line "You completed your"
-	cont "#DEX!"
+	text "Uauh! Eccellente!"
+	line "Hai completato il"
+	cont "tuo #DEX!"
 
-	para "Congratulations!"
+	para "Congratulazioni!"
 	done
 
 GameFreakGameDesignerPauseForDiplomaText:
@@ -106,86 +107,90 @@ GameFreakGameDesignerPauseForDiplomaText:
 	done
 
 GameFreakGameDesignerAfterDiplomaText:
-	text "The GRAPHIC ARTIST"
-	line "will print out a"
-	cont "DIPLOMA for you."
+	text "Ora il GRAFICO"
+	line "ti stamperà"
+	cont "un DIPLOMA."
 
-	para "You should go show"
-	line "it off."
+	para "Mostralo a tutti,"
+	line "mi raccomando!"
 	done
 
 GameFreakGraphicArtistText:
-	text "I'm the GRAPHIC"
-	line "ARTIST."
+	text "Io sono il"
+	line "GRAFICO."
 
-	para "I drew you!"
+	para "Ti ho disegnato"
+	line "io!"
 	done
 
 GameFreakGraphicArtistPrintDiplomaText:
-	text "I'm the GRAPHIC"
-	line "ARTIST."
+	text "Io sono il"
+	line "GRAFICO."
 
-	para "Oh, you completed"
-	line "your #DEX?"
+	para "Hai completato il"
+	line "tuo #DEX?"
 
-	para "Want me to print"
-	line "out your DIPLOMA?"
+	para "Vuoi che ti stampi"
+	line "il tuo DIPLOMA?"
 	done
 
 GameFreakGraphicArtistRefusedText:
-	text "Give me a shout if"
-	line "you want your"
-	cont "DIPLOMA printed."
+	text "Quando vuoi che ti"
+	line "stampi il DIPLOMA,"
+	cont "vieni a dirmelo!"
 	done
 
 GameFreakGraphicArtistErrorText:
-	text "Something's wrong."
-	line "I'll have to can-"
-	cont "cel printing."
+	text "C'è qualcosa che"
+	line "non va: devo"
+	text "annullare la"
+	line "stampa."
 	done
 
 GameFreakProgrammerText:
-	text "Who, me? I'm the"
-	line "PROGRAMMER."
+	text "Io? Sono il"
+	line "PROGRAMMATORE."
 
-	para "Play the slot"
-	line "machines!"
+	para "Gioca alle"
+	line "slot machine!"
 	done
 
 GameFreakCharacterDesignerText:
-	text "Aren't the TWINS"
-	line "adorable?"
+	text "Le GEMELLE sono"
+	line "deliziose, vero?"
 
-	para "JASMINE's pretty"
-	line "too."
+	para "Anche JASMINE è"
+	line "carina."
 
-	para "Oh, I love them!"
+	para "Oh, le adoro!"
 	done
 
 KantoMansion3FDevRoomSignText:
 	text "GAME FREAK"
-	line "DEVELOPMENT ROOM"
+	line "SALA SVILUPPO"
 	done
 
 KantoMansion3FDrawingText:
-	text "It's a detailed"
-	line "drawing of a"
-	cont "pretty girl."
+	text "È il disegno"
+	line "dettagliato di una"
+	cont "bella ragazza."
 	done
 
 KantoMansion3FGameProgramText:
-	text "It's the game"
-	line "program. Messing"
+	text "È il programma"
+	line "del gioco! Non lo"
 
-	para "with it could put"
-	line "a bug in the game!"
+	para "toccare, potresti"
+	line "causare un errore"
+	cont "dentro al gioco!"
 	done
 
 KantoMansion3FReferenceMaterialText:
-	text "It's crammed with"
-	line "reference materi-"
-	cont "als. There's even"
-	cont "a # DOLL."
+	text "È pieno di"
+	line "materiale da"
+	para "consultare. C'è"
+	line "anche una"
+	cont "# BAMBOLA."
 	done
 
 KantoMansion3F_MapEvents:

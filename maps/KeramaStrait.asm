@@ -57,87 +57,85 @@ KeramaStraitSign:
 
 
 SwimmermTuckerSeenText:
-	text "Pant, pant…"
-	line "Just… a little…"
+	text "Uff, uff…"
+	line "Ancora… un po'…"
 
-	para "farther… to…"
-	line "KUME…"
+	para "verso… KUME…"
 	done
 
 SwimmermTuckerBeatenText:
-	text "I'm drowning!"
+	text "Sto annegando!"
 	done
 
 SwimmermTuckerAfterBattleText:
-	text "I… asked my girl-"
-	line "friend to swim to"
-	cont "KUME… Gasp…"
+	text "Ho… chiesto alla"
+	line "mia ragazza di"
+	para "nuotare fino a"
+	line "KUME… Gasp…"
 	done
 
 SwimmerfDawnSeenText:
-	text "I'm disgusted by"
-	line "wimpy people!"
+	text "Non mi piacciono"
+	line "i deboli!"
 	done
 
 SwimmerfDawnBeatenText:
-	text "I could beat you"
-	line "at swimming…"
+	text "Potrei batterti a"
+	line "nuoto…"
 	done
 
 SwimmerfDawnAfterBattleText:
-	text "It's a quick swim"
-	line "to KUME CITY…"
+	text "È una breve"
+	line "nuotata fino"
+	cont "a KUME…"
 
-	para "Sheesh, some big"
-	line "man my boyfriend"
+	para "Guarda il mio"
+	line "ragazzo! Che"
 
-	para "is! What a wimp!"
+	cont "pappamolle!"
 	done
 
 SwimmermJeromeSeenText:
-	text "Swimming?"
-	line "It's my favorite"
-	cont "thing."
+	text "Nuotare?"
+	line "Lo adoro!"
 	done
 
 SwimmermJeromeBeatenText:
-	text "I thought I could"
-	line "win."
+	text "Credevo di poter"
+	line "vincere."
 	done
 
 SwimmermJeromeAfterBattleText:
-	text "I'm great at"
-	line "swimming, and I"
-	cont "love the sea!"
+	text "Sono un bravo"
+	line "nuotatore e adoro"
+	cont "il mare!"
 	done
 
 KeramaStraitFisher1Text:
-	text "The FISHERS who"
-	line "say the east side"
-	para "of the STRAIT is"
-	line "the best fishing"
-	cont "spot are wrong."
-	para "The FISHERS who"
-	line "say the west side"
-	para "of the STRAIT is"
-	line "the best fishing"
-	cont "spot are wrong."
-	para "It's here in the"
-	line "middle that's the"
-	cont "best spot!"
+	text "I PESCATORI che"
+	line "preferiscono il"
+	para "lato orientale"
+	line "dello STRETTO si"
+	cont "sbagliano."
+	para "Anche quelli che"
+	line "preferiscono il"
+	para "lato occidentale."
+	para "Il posto migliore"
+	line "è il centro!"
 	done
 
 KeramaStraitFisher2Text:
-	text "This here is"
-	line "definitely the"
-	cont "best spot."
+	text "Questo è di"
+	line "certo il posto"
+	cont "migliore."
 	done
 
 
 KeramaStraitSignText:
-	text "KERAMA STRAIT"
+	text "STRETTO DI KERAMA"
 
-	para "West to KUME CITY"
+	para "CITTÀ DI KUME"
+	line "a ovest"
 	done
 
 

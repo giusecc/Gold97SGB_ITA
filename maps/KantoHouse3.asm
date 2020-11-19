@@ -14,23 +14,23 @@ KantoHouse3Gramps:
 	jumptextfaceplayer KantoHouse3GrampsText
 	
 KantoHouse3GrannyText:
-	text "Me and my dear"
-	line "husband have lived"
-	cont "here for decades."
-	para "I'm so happy to"
-	line "have spent this"
-	cont "time with him."
+	text "Io e mio marito"
+	line "viviamo qui da"
+	cont "decenni."
+	para "Sono così felice"
+	line "del tempo passato"
+	cont "con lui."
 	done
 	
 KantoHouse3GrampsText:
-	text "Me and my sweet"
-	line "wife were once"
-	cont "tough trainers."
-	para "But now we just"
-	line "spend our days"
-	para "together here, and"
-	line "I couldn't be"
-	cont "happier."
+	text "Io e mia moglie"
+	line "eravamo forti"
+	cont "allenatori."
+	para "Ora trascorriamo"
+	line "le nostre giornate"
+	para "qui. Non potrei"
+	line "essere più"
+	cont "felice."
 	done
 
 KantoHouse3_MapEvents:

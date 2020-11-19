@@ -91,8 +91,9 @@ MagikarpHouseBookshelf:
 	jumpstd DifficultBookshelfScript
 
 MagikarpLengthRaterText_KikaiVillageHistory:
-	text "You should never"
-	line "see this dialogue."
+	text "DEBUG TEXT"
+	line "You should never"
+	cont "see this dialogue."
 	para "If you are, you've"
 	line "either stumbled"
 	para "upon a glitch, or"
@@ -121,82 +122,84 @@ MagikarpLengthRaterText_KikaiVillageHistory:
 	done
 
 MagikarpLengthRaterText_MenInBlack:
-	text "Get out of here,"
-	line "kid."
+	text "Vattene via,"
+	line "ragazzino."
 	done
 
 MagikarpLengthRaterText_WorldsLargestMagikarp:
-	text "Ever since I was a"
-	line "boy, I've loved"
-	cont "MAGIKARP."
+	text "Amo i MAGIKARP da"
+	line "quando sono"
+	cont "piccolo."
 
-	para "I may yet realize"
-	line "my dream of see-"
-	cont "ing the world's"
-	cont "largest MAGIKARP."
+	para "Ora posso realiz-"
+	line "zare il mio sogno"
+	para "di trovare il MA-"
+	line "GIKARP più grande"
+	cont "del mondo!"
 
-	para "Do you have a ROD?"
-	line "Please help me if"
-	cont "you do."
+	para "Hai un AMO? Se ce"
+	line "l'hai, mi daresti"
+	cont "una mano?"
 	done
 
 MagikarpLengthRaterText_YouHaveAMagikarp:
-	text "Ah, you have a"
-	line "MAGIKARP! Let's"
+	text "Ah, vedo che hai"
+	line "un MAGIKARP!"
 
-	para "see how big that"
-	line "baby is."
+	para "Vediamo un po'"
+	line "quant'è grosso."
 	done
 
 MagikarpLengthRaterText_Memento:
-	text "Wow! This one is"
-	line "outstanding!"
+	text "Uauh, ma questo"
+	line "è enorme!"
 
-	para "I tip my hat to"
-	line "you!"
+	para "Mi inchino alla"
+	line "tua classe!"
 
-	para "Take this as a"
-	line "memento!"
+	para "Prendi questo come"
+	line "ricordo!"
 	done
 
 MagikarpLengthRaterText_Bonus:
-	text "The record is the"
-	line "important thing."
+	text "È importante"
+	line "battere il record."
 
-	para "Think of that as"
-	line "a bonus!"
+	para "È una specie di"
+	line "bonus, capisci?"
 	done
 
 MagikarpLengthRaterText_TooShort:
-	text "Wow! This one is"
-	line "outstanding!"
+	text "Uauh! Ma questo è"
+	line "enorme!"
 
-	para "…I wish I could"
-	line "say that, but I've"
+	para "…Mi piacerebbe"
+	line "poter dire così"
 
-	para "seen a bigger one"
-	line "before."
+	para "ma ne ho visti di"
+	line "più grossi."
 	done
 
 MagikarpLengthRaterText_NotMagikarp:
-	text "What? That's not a"
+	text "Come? Ma non è un"
 	line "MAGIKARP!"
 	done
 
 MagikarpLengthRaterText_Refused:
-	text "Oh… So you didn't"
-	line "get one good"
+	text "Oh… Non riesci"
+	line "a prenderne uno"
 
-	para "enough to show me?"
-	line "Maybe next time."
+	para "abbastanza grande?"
+	line "Sarà per un'altra"
+	cont "volta."
 	done
 
 KikaiVillageMagikarpHouseUnusedRecordText:
-	text "CURRENT RECORD"
+	text "RECORD ATTUALE"
 
 	para "@"
 	text_ram wStringBuffer3
-	text " caught by"
+	text " cm preso da"
 	line "@"
 	text_ram wStringBuffer4
 	text_end

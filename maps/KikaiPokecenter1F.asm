@@ -19,22 +19,21 @@ KikaiPokecenter1FBB2Script:
 
 
 KKPCBBText1:
-	text "I've been in this"
-	line "#MON CENTER"
-	cont "12 times in the"
-	cont "last week!"
+	text "È la dodicesima"
+	line "volta in questa"
+	para "settimana che"
+	line "vengo qui!"
 	done
 
 KKPCBBText2:
-	text "I wish people"
-	line "could be healed"
-	para "here as easily as"
-	line "#MON."
+	text "Vorrei che si"
+	line "potessero curare"
+	para "le persone come"
+	line "i #MON."
 	
-	para "If they could,"
-	line "I would be able"
-	cont "to train much"
-	cont "harder!"
+	para "Se fosse così,"
+	line "potrei allenarmi"
+	cont "molto di più!"
 	done
 
 KikaiPokecenter1F_MapEvents:

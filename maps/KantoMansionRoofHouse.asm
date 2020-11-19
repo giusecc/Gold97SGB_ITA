@@ -34,83 +34,86 @@ KantoMansionRoofHousePharmacistScript:
 	end
 
 KantoMansionRoofHousePharmacistIntroText:
-	text "Let me recount a"
-	line "terrifying tale…"
+	text "Ti racconto una"
+	line "storia spaventosa…"
 	done
 
 KantoMansionRoofHousePharmacistNotNightText:
-	text "Then again, it's"
-	line "not as scary while"
+	text "Ora però non ti"
+	line "farebbe abbastanza"
 
-	para "it's still light"
-	line "outside."
+	para "paura perché fuori"
+	line "è ancora chiaro."
 
-	para "Come back after"
-	line "sunset, OK?"
+	para "Torna dopo il"
+	line "tramonto, va bene?"
 	done
 
 KantoMansionRoofHousePharmacistStoryText:
-	text "Once upon a time,"
-	line "there was a little"
+	text "C'era una volta un"
+	line "ragazzino, che"
 
-	para "boy who was given"
-	line "a new BICYCLE…"
+	para "ricevette una"
+	line "BICICLETTA nuova…"
 
-	para "He wanted to try"
-	line "it right away…"
+	para "Volle subito"
+	line "provarla…"
 
-	para "He was having so"
-	line "much fun that he"
+	para "Si divertiva cosi"
+	line "tanto da non"
 
-	para "didn't notice the"
-	line "sun had set…"
+	para "vedere che il sole"
+	line "stava calando…"
 
-	para "While riding home"
-	line "in the pitch-black"
+	para "Si fece buio, e"
+	line "mentre tornava"
 
-	para "night, the bike"
-	line "suddenly slowed!"
+	para "a casa,"
+	line "improvvisamente"
+	cont "la bici rallentò."
 
-	para "The pedals became"
-	line "heavy!"
+	para "I pedali si fecero"
+	line "pesantissimi."
 
-	para "When he stopped"
-	line "pedaling, the bike"
+	para "Quando non poté"
+	line "più pedalare, la"
 
-	para "began slipping"
-	line "backwards!"
+	para "bici iniziò ad"
+	line "andare indietro!"
 
-	para "It was as if the"
-	line "bike were cursed"
+	para "La bici era come"
+	line "segnata da una"
 
-	para "and trying to drag"
-	line "him into oblivion!"
+	para "maledizione, che"
+	line "l'attirava verso"
+	cont "il Nulla!"
+
+	para "…"
 
 	para "…"
 
-	para "…"
-
-	para "SHRIEEEEK!"
-
-	para "The boy had been"
-	line "riding uphill!"
+	para "Ad un certo punto"
+	line "s'accorse di star"
+	para "pedalando in"
+	line "salita!"
 
 	para "…"
-	line "Ba-dum ba-dum!"
+	line "Agghiacciante, eh?"
 
-	para "For listening so"
-	line "patiently, you may"
-	cont "take this--TM03!"
+	para "Per aver ascoltato"
+	line "con tanta pazienza"
+	cont "meriti una MT03!"
 	done
 
 KantoMansionRoofHousePharmacistCurseText:
-	text "TM03 is CURSE."
+	text "MT03 è"
+	line "MALEDIZIONE."
 
-	para "It's a terrifying"
-	line "move that slowly"
+	para "È una terribile"
+	line "mossa, che lenta-"
 
-	para "whittles down the"
-	line "victim's HP."
+	para "mente prosciuga i"
+	line "PS della vittima."
 	done
 
 KantoMansionRoofHouse_MapEvents:

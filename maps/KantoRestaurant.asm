@@ -117,92 +117,94 @@ KantoCafe2Trashcan:
 	jumpstd TrashCanScript
 
 ChefText_Eatathon:
-	text "Hi!"
+	text "Salve!"
 
-	para "We're holding an"
-	line "eatathon contest."
+	para "Stiamo facendo una"
+	line "gara di cibo."
 
-	para "We can't serve you"
-	line "right now. Sorry."
+	para "Non possiamo"
+	line "servirti ora."
 	done
 
 Fisher1Text_Snarfle:
-	text "…Snarfle, chew…"
+	text "…Gnam gnam…"
 	done
 
 Fisher1Text_Concentration:
-	text "Don't talk to me!"
+	text "Non parlarmi!"
 
-	para "You'll break my"
-	line "concentration!"
+	para "Mi farai perdere"
+	line "la concentrazione!"
 	done
 
 Fisher2Text_GulpChew:
-	text "…Gulp… Chew…"
+	text "…Gulp… Gnam…"
 	done
 
 Fisher2Text_Quantity:
-	text "I take quantity"
-	line "over quality!"
+	text "Alla qualità"
+	line "preferisco la"
+	cont "quantità!"
 
-	para "I'm happy when I'm"
-	line "full!"
+	para "Mi piace sentirmi"
+	line "sazio!"
 	done
 
 Fisher3Text_MunchMunch:
-	text "Munch, munch…"
+	text "Gnam gnam…"
 	done
 
 Fisher3Text_WestportIsBest:
-	text "The food is good"
-	line "here, but ALLOY"
-	para "CAFE has the best"
-	line "food anywhere."
+	text "Qui si mangia"
+	line "bene, ma"
+	para "DESMOPOLI è il"
+	line "meglio."
 	done
 
 TeacherText_CrunchCrunch:
-	text "Crunch… Crunch…"
+	text "Gnam… gnam…"
 	done
 
 TeacherText_NoCoinCase:
-	text "Nobody here will"
-	line "give you a COIN"
+	text "Qui non si trovano"
+	line "SALVADANAI. Devi"
 
-	para "CASE. You should"
-	line "look elsewhere."
+	para "procurartelo"
+	line "altrove."
 	done
 
 TeacherText_KeepEating:
-	text "Crunch… Crunch…"
+	text "Gnam… gnam…"
 
-	para "I can keep eating!"
+	para "Voglio altro cibo!"
 	done
 
 TeacherText_MoreChef:
-	text "More, CHEF!"
+	text "Cameriere, ancora!"
 	done
 
 EatathonContestPosterText:
-	text "Eatathon Contest!"
-	line "No time limit!"
+	text "Grande Abbuffata!"
+	line "Nessun limite di"
 
-	para "A battle without"
-	line "end! The biggest"
+	para "tempo: una gara"
+	line "interminabile! Il"
 
-	para "muncher gets it"
-	line "all for free!"
+	para "miglior mangione"
+	line "non paga il conto!"
 	done
 
 FoundLeftoversText2:
-	text "<PLAYER> found"
+	text "<PLAYER> trova"
 	line "@"
 	text_ram wStringBuffer3
 	text "!"
 	done
 
 NoRoomForLeftoversText2:
-	text "But <PLAYER> can't"
-	line "hold another item…"
+	text "Ma <PLAYER> non"
+	line "può portare altri"
+	cont "strumenti…"
 	done
 
 KantoRestaurant_MapEvents:

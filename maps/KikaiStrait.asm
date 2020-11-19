@@ -31,44 +31,46 @@ TrainerSwimmerfWendy:
 	end
 
 SwimmerfDeniseSeenText:
-	text "The weather is so"
-	line "beautiful, I'm in"
-	cont "a daze!"
+	text "C'è un clima"
+	line "stupendo, sono"
+	cont "inebriato!"
 	done
 
 SwimmerfDeniseBeatenText:
-	text "Ohhh!"
+	text "Ooooh!"
 	done
 
 SwimmerfDeniseAfterBattleText:
-	text "A sunburn is the"
-	line "worst for skin."
+	text "Le scottature sono"
+	line "terribili per la"
+	cont "pelle!"
 
-	para "But I don't use"
-	line "any sunblock."
+	para "Ma non uso nessuna"
+	line "crema solare."
 
-	para "I won't pollute"
-	line "the water."
+	para "Non voglio inqui-"
+	line "nare l'acqua."
 	done
 
 
 SwimmerfWendySeenText:
-	text "At night, STARYU"
-	line "gather near the"
-	cont "water's surface."
+	text "Di notte gli"
+	line "STARYU salgono"
+	para "fino alla"
+	line "superficie."
 	done
 
 SwimmerfWendyBeatenText:
-	text "Oh, dear…"
+	text "Peccato…"
 	done
 
 SwimmerfWendyAfterBattleText:
-	text "The clusters of"
-	line "STARYU light up"
-	cont "at the same time."
+	text "I nuclei degli"
+	line "STARYU brillano"
+	cont "tutti insieme."
 
-	para "It's so beautiful,"
-	line "it's scary."
+	para "È tanto bello"
+	line "quanto spaventoso."
 	done
 
 

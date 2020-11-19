@@ -87,59 +87,57 @@ KarensRoom_EnterMovement:
 	step_end
 
 KarenScript_KarenBeforeText:
-	text "Hi, there!"
+	text "Ciao!"
 
-	para "I am MISTY of the"
-	line "ELITE FOUR."
+	para "Sono MISTY dei"
+	line "SUPERQUATTRO."
 
-	para "You're <PLAYER>?"
-	line "Well it's nice to"
-	cont "meet you."
+	para "Tu sei <PLAYER>?"
+	line "Piacere di"
+	cont "conoscerti."
 	
-	para "But I'm not just"
-	line "here for friendly"
-	cont "greetings!"
+	para "Ma non sono qui"
+	line "solo per i"
+	cont "convenevoli!"
 	
-	para "My water #MON"
-	line "are ready to"
-	cont "battle."
-	para "And I'm ready to"
-	line "work with them to"
-	cont "defeat you!"
+	para "I miei #MON"
+	line "ACQUA sono pronti"
+	cont "a lottare."
+	para "E io sono pronta"
+	line "a batterti!"
 	
-	para "Ready? I accept"
-	line "your challenge!"
+	para "Sei pronto? Allora"
+	line "lottiamo!"
 	done
 
 KarenScript_KarenBeatenText:
-	text "Well, looks like"
-	line "you were ready to"
-	para "battle alongside"
-	line "your #MON as"
-	cont "well!"
+	text "Sembra che anche"
+	line "i tuoi #MON"
+	para "fossero pronti a"
+	line "lottare al tuo"
+	cont "fianco!"
 	done
 
 KarenScript_KarenDefeatText:
-	text "The best #MON"
-	line "trainers aren't"
-	para "the ones who pick"
-	line "the strongest"
-	cont "#MON."
-	para "They're the ones"
-	line "who battle with"
-	cont "their favorites,"
-	para "and build a bond"
-	line "between trainer"
-	cont "and #MON."
+	text "Gli allenatori"
+	line "migliori non sono"
+	para "quelli che scel-"
+	line "gono i #MON"
+	cont "più forti."
+	para "Sono quelli che"
+	line "lottano con i"
+	cont "loro preferiti,"
+	para "creando un forte"
+	line "legame."
 	
-	para "And that's how"
-	line "they win."
+	para "Per questo"
+	line "vincono."
 	
-	para "I think you've"
-	line "figured that out."
+	para "Credo che tu"
+	line "l'abbia capito."
 
-	para "Go on--the CHAM-"
-	line "PION is waiting."
+	para "Vai, il CAMPIONE"
+	line "ti attende."
 	done
 
 KarensRoom_MapEvents:

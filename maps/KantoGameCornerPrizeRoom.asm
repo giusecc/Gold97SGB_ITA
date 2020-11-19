@@ -193,9 +193,9 @@ KantoGameCornerBigDollVendorMenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 3 ; items
-	db "BIG ONIX     2500@"
-	db "BIG LAPRAS   2500@"
-	db "CANCEL@"	
+	db "ONIX         2500@"
+	db "LAPRAS       2500@"
+	db "ESCI@"	
 
 KantoGameCornerConsoleVendorMenuHeader:
 	db MENU_BACKUP_TILES ; flags
@@ -209,7 +209,7 @@ KantoGameCornerConsoleVendorMenuHeader:
 	db "NES          1800@"
 	db "SUPER NES    1800@"
 	db "VIRTUAL BOY  1800@"
-	db "CANCEL@"	
+	db "ESCI@"	
 
 KantoGameCornerPostersVendorMenuHeader:
 	db MENU_BACKUP_TILES ; flags
@@ -223,7 +223,7 @@ KantoGameCornerPostersVendorMenuHeader:
 	db "PIKACHU      1800@"
 	db "CLEFAIRY     1800@"
 	db "JIGGLYPUFF   1800@"
-	db "CANCEL@"	
+	db "ESCI@"	
 	
 KantoGameCornerDecorVendorMenuHeader:
 	db MENU_BACKUP_TILES ; flags
@@ -234,10 +234,10 @@ KantoGameCornerDecorVendorMenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "POSTERS@"
-	db "CONSOLES@"
-	db "BIG DOLLS@"
-	db "CANCEL@"
+	db "POSTER @"
+	db "CONSOLE @"
+	db "BAMBOLE @"
+	db "ESCI@"
 
 ;----------------------------------
 
@@ -337,10 +337,10 @@ KantoPrizeRoom_TMMenuHeader:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "KING'S ROCK  2500@"
-	db "COVENANT ORB 2500@"
-	db "METAL COAT   2500@"
-	db "CANCEL@"
+	db "ROCCIA DI RE 2500@"
+	db "PATTOSFERA   2500@"
+	db "METALCOPERTA 2500@"
+	db "ESCI@"
 
 KantoGameCornerPrizeRoomPokemonVendor:
 ;	faceplayer
@@ -426,81 +426,80 @@ KantoGameCornerPrizeRoomPokemonVendor:
 	db "PIKACHU    2222@"
 	db "PORYGON    5555@"
 	db "WOLFAN     8888@"
-	db "CANCEL@"
+	db "ESCI@"
 	
 DummyVendorScript:
 	end
 	
 AlreadyHaveDecorItemTextKanto:
-	text "You already have"
-	line "this item."
+	text "Hai già questo"
+	line "oggetto."
 	done
 	
 	
 SendItemToHomePCTextKanto:
-	text "Send this item to"
-	line "your bedroom PC?"
+	text "Inviare al tuo PC?"
 	done
 
 KantoGameCornerPrizeRoomGentlemanText:
-	text "I wanted PORYGON,"
-	line "but I was short by"
-	cont "100 coins…"
+	text "Volevo PORYGON, ma"
+	line "mi mancano 100"
+	cont "gettoni…"
 	done
 
 KantoGameCornerPrizeRoomPharmacistText:
-	text "Whew…"
+	text "Calma…"
 
-	para "I've got to stay"
-	line "calm and cool…"
+	para "Calma e sangue"
+	line "freddo…"
 
-	para "I can't lose my"
-	line "cool, or I'll lose"
-	cont "all my money…"
+	para "Devo mantenere"
+	line "la concentrazione"
+	cont "o perderò tutto…"
 	done
 
 KantoPrizeRoom_PrizeVendorIntroText:
-	text "Welcome!"
+	text "Benvenuto!"
 
-	para "We exchange your"
-	line "coins for fabulous"
-	cont "prizes!"
+	para "Qui scambiamo i"
+	line "tuoi gettoni con"
+	cont "fantastici premi!"
 	done
 
 KantoPrizeRoom_AskWhichPrizeText:
-	text "Which prize would"
-	line "you like?"
+	text "Che premio"
+	line "preferisci?"
 	done
 
 KantoPrizeRoom_ConfirmPurchaseText:
-	text "OK, so you wanted"
-	line "a @"
+	text "Allora vuoi"
+	line "@"
 	text_ram wStringBuffer3
 	text "?"
 	done
 
 KantoPrizeRoom_HereYouGoText:
-	text "Here you go!"
+	text "Ecco qui!"
 	done
 
 KantoPrizeRoom_NotEnoughCoinsText:
-	text "You don't have"
-	line "enough coins."
+	text "Non hai abbastanza"
+	line "gettoni."
 	done
 
 KantoPrizeRoom_NotEnoughRoomText:
-	text "You have no room"
-	line "for it."
+	text "Non hai abbastanza"
+	line "spazio."
 	done
 
 KantoPrizeRoom_ComeAgainText:
-	text "Oh. Please come"
-	line "back with coins!"
+	text "Beh, torna quando"
+	line "avrai i gettoni!"
 	done
 
 KantoPrizeRoom_NoCoinCaseText:
-	text "Oh? You don't have"
-	line "a COIN CASE."
+	text "Non hai un"
+	line "SALVADANAIO!"
 	done
 
 KantoGameCornerPrizeRoom_MapEvents:

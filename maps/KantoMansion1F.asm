@@ -46,11 +46,12 @@ KantoMansion1FBookshelf:
 	jumpstd PictureBookshelfScript
 
 KantoMansionManagerText:
-	text "My dear #MON"
-	line "keep me company,"
+	text "I miei #MON"
+	line "mi fanno compa-"
+	cont "gnia, cosi non"
 
-	para "so I don't ever"
-	line "feel lonely."
+	para "soffro mai la"
+	line "solitudine."
 	done
 
 KantoMansion1FMeowthText:
@@ -63,13 +64,14 @@ KantoMansion1FClefairyText:
 	done
 
 KantoMansion1FNidoranFText:
-	text "NIDORAN: Kya"
-	line "kyaoo!"
+	text "NIDORAN: Kia"
+	line "kiauu!"
 	done
 
 KantoMansionManagersSuiteSignText:
-	text "KANTO MANSION"
-	line "MANAGER'S SUITE"
+	text "VILLA KANTO"
+	line "La SUITE"
+	cont "PRESIDENZIALE"
 	done
 
 KantoMansion1F_MapEvents:

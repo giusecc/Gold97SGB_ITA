@@ -54,62 +54,56 @@ KobanHouse1ClairScript:
 	end
 	
 ClairPlayerReceivedDratiniText:
-	text "<PLAYER> received"
+	text "<PLAYER> riceve"
 	line "DRATINI!"
 	done
 	
 ClairSymbolicDragonText:
-	text "DRAGON #MON are"
-	line "difficult to"
-	para "raise, but their"
-	line "majesty and"
-	para "strength make it"
-	line "worth it."
-	para "I trust you can"
-	line "raise that DRATINI"
-	cont "properly."
+	text "I #MON DRAGO"
+	line "sono difficili da"
+	para "allenare, ma ne"
+	line "vale la pena."
+	para "So che tratterai"
+	line "quel DRATINI"
+	cont "al meglio."
 	done
 	
 KantoRestaurantPartyFullTextClair:
-	text "You have no room"
-	line "in your party for"
-	cont "this!"
+	text "Non hai spazio"
+	line "nella tua squadra!"
 	done
 	
 ClairTakeThisDratiniText:
-	text "Ah, the DRAGON"
-	line "ORB!"
-	para "I see you have"
-	line "learned of the"
-	para "power of DRAGON"
-	line "#MON!"
-	para "I would like to"
-	line "reward you with"
-	para "a special #MON"
-	line "that deserves to"
-	para "be raised by a"
-	line "worthy TRAINER!"
+	text "Ah! La DRAGOSFERA!"
+	para "Hai appreso del"
+	line "potere del tipo"
+	para "DRAGO!"
+	para "Vorrei ricompen-"
+	line "sarti con un"
+	para "#MON che merita"
+	line "di essere allenato"
+	para "solo dai più"
+	line "forti!"
 	done
 	
 GoGetTheOrbText:
-	text "Retreive the"
-	line "DRAGON ORB from"
-	para "a TRAINER in the"
-	line "cave, and bring it"
-	cont "to me."
+	text "Trova la"
+	line "DRAGOSFERA nella"
+	para "grotta e"
+	line "portamela."
 	done
 	
 DragonsAreGreatText:
-	text "Being a DRAGON"
-	line "TRAINER requires"
-	para "more dedication"
-	line "than most types."
-	para "It is very much a"
-	line "way of life."
+	text "Essere un maestro"
+	line "del tipo DRAGO"
+	para "richiede molta"
+	line "dedizione."
+	para "È uno stile"
+	line "di vita."
 	done
 
 KobanHouse1ClairText:
-	text "yo sup"
+	text "Ehi!"
 	done
 
 KobanHouse1_MapEvents:
