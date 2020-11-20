@@ -53,17 +53,16 @@ MountFujiPokecenter1FCooltrainerMScript:
 	jumptextfaceplayer MountFujiPokecenter1FCooltrainerMText
 
 MountFujiPokecenter1FCooltrainerMText:
-	text "At the NIHON"
-	line "LEAGUE, you'll get"
+	text "Alla LEGA di"
+	line "NIHON, dovrai"
 
-	para "tested by the"
-	line "ELITE FOUR."
+	para "sfidare i"
+	line "SUPERQUATTRO."
 
-	para "You have to beat"
-	line "them all. If you"
+	para "Devi batterli"
+	line "tutti. Se perdi,"
 
-	para "lose, you have to"
-	line "start all over!"
+	para "devi ricominciare!"
 	done
 
 

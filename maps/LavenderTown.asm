@@ -45,41 +45,42 @@ FrostpointMartSignText:
 	jumpstd MartSignScript
 
 LavenderTownPokefanMText:
-	text "That's quite some"
-	line "building, eh?"
+	text "Bell'edificio,"
+	line "vero?"
 
-	para "It's SWISLANDS's RADIO"
-	line "TOWER."
+	para "È la TORRE di"
+	line "RADIO SUDOVEST."
 	done
 
 LavenderTownTeacherText:
-	text "SWISLANDS has many"
-	line "good radio shows."
+	text "Ci sono un sacco"
+	line "di programmi"
+	cont "sulla RADIO."
 	done
 
 LavenderTownGrampsText:
-	text "People come from"
-	line "all over to pay"
+	text "Gli allenatori"
+	line "vengono da ogni"
 
-	para "their respects to"
-	line "the departed souls"
-	cont "of #MON."
+	para "dove per onorare"
+	line "le anime dei #-"
+	cont "MON scomparsi."
 	done
 
 LavenderTownYoungsterText:
-	text "You need a #"
-	line "FLUTE to wake"
-	cont "sleeping #MON."
+	text "Ti serve il #"
+	line "FLAUTO per sve-"
+	cont "gliare i #MON."
 
-	para "Every trainer has"
-	line "to know that!"
+	para "Tutti gli alle-"
+	line "natori lo sanno!"
 	done
 
 LavenderTownSignText:
-	text "LAVENDER TOWN"
+	text "LAVANDONIA"
 
-	para "The Noble Purple"
-	line "Town"
+	para "Nobile città"
+	line "viola."
 	done
 
 SWIslandsRadioStationSignText:

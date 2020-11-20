@@ -87,52 +87,54 @@ KogasRoom_EnterMovement:
 	step_end
 
 KogaScript_KogaBeforeText:
-	text "Fwahahahaha!"
+	text "Ahahahah!"
 
-	para "I am KOGA of the"
-	line "ELITE FOUR."
+	para "Sono KOGA dei"
+	line "SUPERQUATTRO."
 
-	para "I live in shadows,"
-	line "a ninja!"
+	para "Sono un ninja, e"
+	line "vivo nell'ombra."
 
-	para "My intricate style"
-	line "will confound and"
-	cont "destroy you!"
+	para "Il mio stile"
+	line "ti confonderà,"
+	cont "distruggendoti!"
 
-	para "Confusion, sleep,"
-	line "poison…"
+	para "Confusione, sonno,"
+	line "veleno…"
 
-	para "Prepare to be the"
-	line "victim of my sin-"
-	cont "ister technique!"
+	para "Ti distruggerò con"
+	line "le mie infide"
+	cont "tecniche!"
 
-	para "Fwahahahaha!"
+	para "Ahahahah!"
 
-	para "#MON is not"
-	line "merely about brute"
+	para "Con i #MON la"
+	line "forza bruta non"
 
-	para "force--you shall"
-	line "see soon enough!"
+	para "basta: ora te lo"
+	line "dimostro!"
 	done
 
 KogaScript_KogaBeatenText:
 	text "Ah!"
-	line "You have proven"
-	cont "your worth!"
+	line "Mi hai mostrato"
+	cont "quanto vali!"
 	done
 
 KogaScript_KogaDefeatText:
-	text "I subjected you to"
-	line "everything I could"
-	cont "muster."
+	text "Ti ho attaccato"
+	line "con tutte le mie"
+	cont "tecniche."
 
-	para "But my efforts"
-	line "failed. I must"
-	cont "hone my skills."
+	para "Ma e stato tutto"
+	line "inutile. Dovrò"
+	para "perfezionare le"
+	line "tecniche."
 
-	para "Go on to the next"
-	line "room, and put your"
-	cont "abilities to test!"
+	para "Vai alla prossima"
+	line "stanza e metti"
+	para "alla prova le tue"
+	line "capacità."
 	done
 
 KogasRoom_MapEvents:

@@ -57,26 +57,22 @@ NagoCharmanderHouseTeacher:
 	end
 	
 UnknownText_0x7e355a:
-	text "<PLAYER> received"
+	text "<PLAYER> riceve"
 	line "CHARMANDER."
 	done
 	
 AlreadyGotCharmanderText:
-	text "My sweet"
-	line "CHARMANDER are my"
-	cont "favorite thing!"
+	text "Adoro i miei"
+	line "CHARMANDER!"
 	done
 	
 PartyFullCharmanderText:
-	text "You've already got"
-	line "too many #MON"
-	cont "with you!"
+	text "Hai troppi #-"
+	line "MON con te!"
 	done
 	
 NoCharmanderText:
-	text "Aw, you don't like"
-	line "them as much as I"
-	cont "do?"
+	text "Ooh, non ti piace?"
 	done
 	
 
@@ -85,21 +81,19 @@ NagoCharmanderHouseCharmanderText:
 	done
 	
 ILoveCharmanderText:
-	text "Oooh I just love"
+	text "Oooh, adoro i"
 	line "CHARMANDER!"
-	para "They're absolutely"
-	line "adorable!"
-	para "My goal in life is"
-	line "to share my love"
-	para "of CHARMANDER with"
-	line "the world."
-	para "Would you like"
-	line "one?"
+	para "Sono adorabili!"
+	para "Voglio trasmettere"
+	line "al mondo il mio"
+	para "amore per i"
+	line "CHARMANDER."
+	para "Ne vuoi uno?"
 	done
 	
 GiveCharmanderText:
-	text "Take good care of"
-	line "it, dearie!"
+	text "Prenditi cura di"
+	line "lui!"
 	done
 
 NagoCharmanderHouse_MapEvents:

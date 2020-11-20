@@ -21,16 +21,16 @@ KumeMart_CooltrainerF:
 	jumptextfaceplayer KumeMart_CooltrainerFText
 
 KumeMart_CooltrainerMText:
-	text "There's a guy here"
-	line "who specializes in"
-	para "ship building and"
-	line "ship repair."
+	text "C'è un tipo qui"
+	line "specializzato nel"
+	para "costruire e ripa-"
+	line "rare navi."
 	done
 
 KumeMart_CooltrainerFText:
-	text "There isn't really"
-	line "anything cool for"
-	cont "sale here."
+	text "Non c'è niente"
+	line "di interessante in"
+	cont "questo negozio."
 	done
 
 KumeMart_MapEvents:

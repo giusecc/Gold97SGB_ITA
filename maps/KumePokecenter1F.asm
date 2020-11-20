@@ -36,12 +36,13 @@ Chris:
 	end
 
 KumePokecenter1FTeacherText:
-	text "…Yeah, and he's"
-	line "not even a real"
-	cont "GYM LEADER!"
+	text "…Sì, non è"
+	line "nemmeno un"
+	cont "CAPOPALESTRA!"
 
-	para "…Yes? I'm on the"
-	line "phone. Go away!"
+	para "…Sì? Sono al"
+	line "telefono!"
+	cont "Vattene!"
 	done
 
 KumeJigglypuffText:
@@ -50,17 +51,18 @@ KumeJigglypuffText:
 	done
 
 KumePokecenter1FBugCatcherText:
-	text "Most #MON get"
-	line "drowsy if they"
+	text "I #MON si"
+	line "addormentano se"
 
-	para "hear a JIGGLYPUFF"
-	line "singing."
+	para "sentono cantare un"
+	line "JIGGLYPUFF."
 
-	para "There are several"
-	line "moves that can be"
+	para "Ci sono alcune"
+	line "mosse che possono"
 
-	para "used only while a"
-	line "#MON is asleep."
+	para "essere usate solo"
+	line "se il #MON è"
+	cont "addormentato."
 	done
 
 KumePokecenter1F_MapEvents:

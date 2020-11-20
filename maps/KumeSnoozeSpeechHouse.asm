@@ -10,11 +10,11 @@ KumeSnoozeSpeechHouseTeacherScript:
 	jumptextfaceplayer KumeSnoozeSpeechHouseTeacherText
 	
 KumeSnoozeSpeechHouseTeacherText:
-	text "Life is so"
-	line "peaceful here on"
-	cont "the ISLANDS."
-	para "I think I'll take"
-	line "a snooze…"
+	text "La vita è così"
+	line "tranquilla sulle"
+	cont "ISOLE."
+	para "Mi farò un"
+	line "pisolino…"
 	done
 	
 	

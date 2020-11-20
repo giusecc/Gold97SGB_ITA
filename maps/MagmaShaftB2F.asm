@@ -47,8 +47,8 @@ MagmaShaftB2FHiddenCarbos:
 	hiddenitem CARBOS, EVENT_MAGMA_SHAFT_B2F_HIDDEN_CARBOS
 
 MagmaShaftB2FBoulderText:
-	text "It's immovably"
-	line "imbedded in ice."
+	text "È bloccato nel"
+	line "ghiaccio."
 	done
 
 MagmaShaftB2F_MapEvents:

@@ -21,20 +21,18 @@ KobanMartCooltrainerMScript:
 	jumptextfaceplayer KobanMartCooltrainerMText
 
 KobanMartGrannyText:
-	text "I wish this MART"
-	line "had a better"
-	cont "selection."
-	para "It's hard to go"
-	line "elsewhere to shop."
+	text "Vorrei che questo"
+	line "#MON-MARKET"
+	cont "avesse più scelta."
+	para "Non ci sono altri"
+	line "negozi qui."
 	done
 
 KobanMartCooltrainerMText:
-	text "I'm going to get"
-	line "some HYPER POTIONs"
-	para "to use on my"
-	line "#MON when I go"
-	para "train them in the"
-	line "DRAGON'S MAW."
+	text "Mi servono delle"
+	line "IPERPOZIONI per"
+	para "allenarmi nella"
+	line "TANA DEL DRAGO."
 	done
 
 KobanMart_MapEvents:

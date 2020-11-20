@@ -28,22 +28,22 @@ NicknameHouseRadio:
 
 
 PagotaNicknameSpeechHouseTeacherText:
-	text "She uses the names"
-	line "of her favorite"
-	cont "things to eat."
+	text "Lei usa i nomi"
+	line "dei suoi cibi"
+	cont "preferiti."
 
-	para "For the nicknames"
-	line "she gives to her"
-	cont "#MON, I mean."
+	para "Per i soprannomi"
+	line "dei suoi #MON,"
+	cont "naturalmente."
 	done
 
 PagotaNicknameSpeechHouseLassText:
-	text "I call my PIDGEY"
-	line "STRAWBERRY!"
+	text "Ho chiamato il mio"
+	line "PIDGEY FRAGOLOSO!"
 	done
 
 PagotaNicknameSpeechHouseBirdText:
-	text "STRAWBERRY: Pijji!"
+	text "FRAGOLOSO: Piiiii!"
 	done
 
 PagotaNicknameSpeechHouse_MapEvents:

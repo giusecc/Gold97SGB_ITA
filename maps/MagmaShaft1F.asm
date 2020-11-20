@@ -35,7 +35,7 @@ EnteiEvent:
 	end
 	
 EnteiText:
-	text "Groroa!"
+	text "Groooa!"
 	done
 
 MagmaShaft1F_MapEvents:

@@ -20,24 +20,23 @@ RedsHouse1FBookshelf:
 	jumpstd PictureBookshelfScript
 
 RedsMomText1:
-	text "Hi!"
+	text "Ciao!"
 
-	para "My boy RED is the"
-	line "GYM LEADER here."
+	para "Mio figlio ROSSO è"
+	line "il CAPOPALESTRA."
 	
-	para "He also defeated"
-	line "the LEAGUE last"
-	cont "year."
+	para "Ha conquistato"
+	line "anche la LEGA."
 	
-	para "I'm so proud of"
-	line "what my boy has"
-	cont "accomplished."
+	para "Sono così"
+	line "orgogliosa di"
+	cont "lui."
 	done
 
 
 RedsHouse1FTVText:
-	text "I've never seen"
-	line "this show…"
+	text "Non ho mai visto"
+	line "questo programma…"
 	done
 
 RedsHouse1F_MapEvents:

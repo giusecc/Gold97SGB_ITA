@@ -18,21 +18,20 @@ OaksLabPC:
 	jumptext OaksLabPCText
 
 OaksLabPoster1Text:
-	text "Press START to"
-	line "open the MENU."
+	text "Premi START per"
+	line "aprire il MENU."
 	done
 
 OaksLabPoster2Text:
-	text "The SAVE option is"
-	line "on the MENU."
+	text "L'opzione SALVA è"
+	line "nel MENU."
 
-	para "Use it in a timely"
-	line "manner."
+	para "Usala quando"
+	line "serve."
 	done
 
 OaksLabPCText:
-	text "It isn't turned"
-	line "on…"
+	text "È spento…"
 	done
 
 OaksLab_MapEvents:
