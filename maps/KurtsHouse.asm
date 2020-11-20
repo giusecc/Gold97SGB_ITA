@@ -346,227 +346,220 @@ MovementData_0x18e46c:
 	step_end
 
 UnknownText_0x18e473:
-	text "Climb the 5 FLOOR"
-	line "TOWER."
-	para "It is a great test"
-	line "of your potential"
-	cont "as a trainer."
+	text "Sali in cima alla"
+	line "PENTATORRE."
+	para "È la tua grande"
+	line "sfida da"
+	cont "allenatore."
 	done
 
 UnknownText_0x18e615:
-	text "You have learned"
-	line "of the ways of"
-	cont "#MON."
-	para "I would be honored"
-	line "to provide"
-	cont "assistance to you."
-	para "I can build"
-	line "#BALLS. Special"
-	para "custom ones that"
-	line "may prove useful."
-	para "Here, I'll give"
-	line "one to you now."
+	text "Hai imparato molto"
+	line "sui #MON."
+	para "Voglio darti una"
+	line "mano."
+	para "Posso costruire"
+	line "delle #BALL"
+	para "speciali, che"
+	line "potrebbero esserti"
+	cont "utili."
+	para "Ecco, questa è"
+	line "una."
 	done
 
 KurtsHouseKurtBallsFromApricornsText:
-	text "KURT: I make BALLS"
-	line "from APRICORNS."
-
-	para "Collect them from"
-	line "trees and bring"
-	cont "'em to me."
-
-	para "I'll make BALLS"
-	line "out of them."
+	text "FRANZ: realizzo"
+	line "BALL dalle GHI-"
+	cont "COCCHE."
+	
+	para "Raccoglile dagli"
+	line "alberi e portale"
+	cont "a me."
+	
+	para "Ci costruirò"
+	line "delle BALL."
 	done
 
 KurtsHouseKurtAskYouHaveAnApricornText:
-	text "KURT: You have an"
-	line "APRICORN for me?"
+	text "FANZ: hai una"
+	line "GHICOCCA?"
 
-	para "Fine! I'll turn it"
-	line "into a BALL."
+	para "Bene, ci farò"
+	line "una BALL."
 	done
 
 KurtsHouseKurtItWillTakeADayText:
-	text "KURT: It'll take a"
-	line "day to make you a"
+	text "FRANZ: ci vorrà un"
+	line "giorno per la"
 
-	para "BALL. Come back"
-	line "for it later."
+	para "BALL. Torna più"
+	line "tardi."
 	done
 
 KurtsHouseKurtThatsALetdownText:
-	text "KURT: Oh…"
-	line "That's a letdown."
+	text "FRANZ: Oh…"
+	line "Che delusione."
 	done
 
 KurtsHouseKurtDontBotherMeText:
-	text "KURT: I'm working!"
-	line "Don't bother me!"
+	text "FRANZ: Sto lavo-"
+	line "rando! Non"
+	cont "disturbarmi!"
 	done
 
 KurtsHouseKurtJustFinishedYourBallText:
-	text "KURT: Ah, <PLAYER>!"
-	line "I just finished"
-	cont "your BALL. Here!"
+	text "FRANZ: Ah, <PLAYER>!"
+	line "Ho appena finito"
+	cont "la tua BALL. Ecco!"
 	done
 
 KurtsHouseKurtTurnedOutGreatText:
-	text "KURT: That turned"
-	line "out great."
+	text "FRANZ: È venuta"
+	line "bene."
 
-	para "Try catching"
-	line "#MON with it."
+	para "Usala per cat-"
+	line "turare i #MON."
 	done
 
 UnknownText_0x18e863:
-	text "I feel like I've"
-	line "improved at this,"
+	text "Credo di essere"
+	line "migliorato, ora"
 
-	para "and can work much"
-	line "faster than I used"
-	cont "to be able to."
+	para "riesco a lavorare"
+	line "più velocemente."
 	done
 
 UnknownText_0x18e8ab:
-	text "Wh-what is that?"
+	text "C-Cos'è questo?"
 
-	para "I've never seen"
-	line "one before."
+	para "Non ne ho mai"
+	line "vista una."
 
-	para "It looks a lot"
-	line "like a # BALL,"
+	para "Ha l'aspetto di"
+	line "una # BALL,"
 
-	para "but it appears to"
-	line "be something else."
+	para "ma sembra essere"
+	line "altro."
 
-	para "Let me check it"
-	line "for you."
+	para "Lascia che la"
+	line "guardi."
 	done
 
 UnknownText_0x18e934:
-	text "I'm checking it"
-	line "now."
+	text "Sto controllando."
 	done
 
 UnknownText_0x18e949:
-	text "Ah-ha! I see!"
-	line "So…"
+	text "Ah! Ecco!"
+	line "Dunque…"
 	done
 
 UnknownText_0x18e95c:
 	text "<PLAYER>!"
 
-	para "This BALL started"
-	line "to shake while I"
-	cont "was checking it."
+	para "Questa BALL si è"
+	line "mossa mentre la"
+	cont "controllavo."
 
-	para "There must be"
-	line "something to this!"
+	para "C'è qualcosa di"
+	line "strano!"
 	done
 
 
 
 KurtsHouseSlowpokeText:
 	text "SLOWPOKE: …"
-	line "Yawn?"
+	line "Ooouuh!"
 	done
 
 KurtsHouseOakPhotoText:
-	text "It's KURT standing"
-	line "in the tower with"
-	para "a SAGE and a man"
-	line "in a CAPTAIN's"
-	cont "hat."
+	text "È FRANZ nella"
+	line "TORRE con un"
+	para "SAGGIO e un tipo"
+	line "con un cappello"
+	cont "da CAPITANO."
 	done
 
 KurtsHouseLeafeonStatueText:
-	text "It's a statue of"
-	line "the forest's pro-"
-	cont "tector."
+	text "È la statua del"
+	line "protettore del"
+	cont "bosco."
 	done
 	
 FalknerGreets:
-	text "FALKNER: Well who"
-	line "might you be?"
-	para "<PLAYER>, hm?"
-	line "What brings you"
-	cont "here?"
-	para "Well, I'm sure"
-	line "it's because I'm"
-	para "not where I should"
-	line "be right now."
-	para "I'll get on back"
-	line "to the GYM so you"
-	para "can challenge me"
-	line "for a badge."
+	text "VALERIO: e tu"
+	line "chi sei?"
+	para "<PLAYER>, eh?"
+	line "Cosa ti porta"
+	cont "qui?"
+	para "Sono sicuro che"
+	line "sia perché non"
+	para "sono dove dovrei"
+	line "essere."
+	para "Tornerò alla"
+	line "PALESTRA così"
+	para "potrai sfidarmi!"
 	para "…"
-	para "Hm?"
-	para "You're not taking"
-	line "the #MON LEAGUE"
-	cont "challenge?"
-	para "What brings you"
-	line "to PAGOTA CITY?"
+	para "Eh?"
+	para "Non vuoi sfidare"
+	line "la LEGA #MON?"
+	para "Perché sei ad"
+	line "ANCESTRALIA?"
 	para "…"
-	para "Wow, it's very"
-	line "impressive that"
-	para "PROF.OAK has asked"
-	line "you to go out and"
-	para "help him research"
-	line "#MON."
-	para "But I see the"
-	line "glimmer in your"
-	cont "eye!"
-	para "If you feel the"
-	line "urge to start your"
-	para "own LEAGUE"
-	line "challenge,"
-	para "feel free to stop"
-	line "by to take me on!"
-	para "Anyways, I'll be"
-	line "on my way now."
-	para "I hope I'll be"
-	line "seeing you soon!"
+	para "È incredibile che"
+	line "il PROF.OAK ti"
+	para "abbia chiesto di"
+	line "aiutarlo con le"
+	cont "sue ricerche."
+	para "Ma vedo una luce"
+	line "nei tuoi occhi!"
+	para "Tu vuoi essere"
+	line "CAMPIONE della"
+	cont "LEGA!"
+	para "Quando vuoi, vieni"
+	line "a sfidarmi!"
+	para "Ora devo andare."
+	para "Spero di vederti"
+	line "presto!"
 	done
 	
 KurtTalks:
-	text "KURT: I could tell"
-	line "when you walked"
-	cont "in the room."
-	para "You have great"
-	line "potential as a"
-	cont "trainer."
-	para "FALKNER could tell"
-	line "as well."
-	para "I strongly suggest"
-	line "you take the"
-	para "LEAGUE challenge"
-	line "while traveling."
-	para "But apart from"
-	line "that, I want to"
-	para "help you with your"
-	line "research by"
-	para "providing you with"
-	line "something that can"
-	para "help you catch"
-	line "#MON."
-	para "But I request that"
-	line "you prove yourself"
-	cont "first."
-	para "PAGOTA CITY's 5"
-	line "FLOOR TOWER is a"
-	para "sacred place where"
-	line "I spent many years"
-	para "strengthening my"
-	line "understanding of"
-	para "the relationship"
-	line "between people and"
+	text "FRANZ: L'ho capito"
+	line "quando sei"
+	cont "entrato."
+	para "Hai un enorme"
+	line "potenziale come"
+	cont "allenatore."
+	para "Lo pensa anche"
+	line "VALERIO."
+	para "Dovresti davvero"
+	line "provare a"
+	para "conquistare la"
+	line "LEGA."
+	para "Ma a parte questo,"
+	line "voglio aiutarti"
+	para "con le tue"
+	line "ricerche dandoti"
+	para "qualcosa con cui"
+	line "catturare i"
 	cont "#MON."
-	para "I ask that you"
-	line "climb this tower."
-	para "Do this, then"
-	line "return to me."
+	para "Ma prima devi"
+	line "superare una"
+	cont "prova."
+	para "La PENTATORRE di"
+	line "ANCESTRALIA è"
+	para "un luogo sacro in"
+	line "cui ho trascorso"
+	para "molti anni per"
+	line "affinare le mie"
+	para "conoscenze sul"
+	line "legame tra persone"
+	cont "e #MON."
+	para "Ti chiedo di"
+	line "salire in cima"
+	cont "alla TORRE."
+	para "Fallo, poi torna"
+	line "da me."
 	done
 
 KurtsHouse_MapEvents:

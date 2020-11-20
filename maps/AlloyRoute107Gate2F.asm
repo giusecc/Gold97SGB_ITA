@@ -33,8 +33,7 @@ AlloyRoute107Gate2FSign:
 	
 AlloyRoute107Gate2FSignText:
 	text "<PLAYER> guarda"
-	line "dal"
-	cont "cannocchiale!"
+	line "dal binocolo!"
 	para "C'è una"
 	line "isoletta"
 	cont "in lontananza!"

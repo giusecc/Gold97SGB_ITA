@@ -18,21 +18,21 @@ Route101PagotaGateYoungsterScript:
 	jumptextfaceplayer Route101PagotaGateYoungsterText
 
 Route101PagotaGateYoungsterText:
-	text "Through this gate"
-	line "is PAGOTA CITY!"
+	text "Da qui si arriva"
+	line "ad ANCESTRALIA!"
 	done
 
 Route101PagotaGateOfficerText:
-	text "Hi there!"
-	line "Did you get to"
-	para "see PAGOTA CITY's"
-	line "5 FLOOR TOWER?"
+	text "Ehi!"
+	line "Sei venuto per"
+	para "la PENTATORRE"
+	line "di ANCESTRALIA?"
 	done
 
 Route101PagotaGateCooltrainerFText:
-	text "I came too far"
-	line "out. I'd better"
-	cont "phone home!"
+	text "Sono andato troppo"
+	line "lontano. Dovrei"
+	cont "chiamare a casa!"
 	done
 
 Route101PagotaGate_MapEvents:

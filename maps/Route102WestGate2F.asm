@@ -24,22 +24,20 @@ Route102WestGate2FFisherScript:
 	end
 
 Route102WestGate2FFisherText:
-	text "The WESTPORT DOCK"
-	line "has resumed taking"
-	para "ferries out to"
-	line "TEKNOS CITY."
-	para "You should check"
-	line "it out if you get"
-	cont "a chance."
+	text "Dal MOLO di"
+	line "PORTOVEST partono"
+	para "i traghetti per"
+	line "TECNOPOLI."
+	para "Dovresti provare"
+	line "a prenderne uno!"
 	done
 	
 DocksClosedText:
-	text "WESTPORT CITY has"
-	line "a dock where"
-	para "ferries depart for"
-	line "TEKNOS CITY, but"
-	para "it's closed right"
-	line "now."
+	text "Dal MOLO di"
+	line "PORTOVEST partono"
+	para "i traghetti per"
+	line "TECNOPOLI, ma"
+	para "ora è chiuso."
 	done
 	
 	
@@ -47,23 +45,22 @@ Route102WestGate2FSign:
 	jumptext Route102WestGate2FSignText
 	
 Route102WestGate2FSignText:
-	text "<PLAYER> peeked"
-	line "through the"
-	cont "telescope!"
-	para "I see a small"
-	line "desert town north"
-	cont "of here!"
+	text "<PLAYER> guarda"
+	line "attraverso il"
+	cont "binocolo!"
+	para "Si vede un'isola"
+	line "a nord di qui!"
 	done
 
 Route102WestGate2FSign2:
 	jumptext Route102WestGate2FSign2Text
 	
 Route102WestGate2FSign2Text:
-	text "<PLAYER> peeked"
-	line "through the"
-	cont "telescope!"
-	para "Is that WESTPORT"
-	line "CITY RADIO TOWER?"
+	text "<PLAYER> guarda"
+	line "attraverso il"
+	cont "binocolo!"
+	para "È la TORRE RADIO"
+	line "di PORTOVEST?"
 	done
 	
 Route102WestGate2F_MapEvents:

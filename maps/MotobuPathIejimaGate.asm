@@ -39,33 +39,31 @@ MotobuPathIejimaGateBikerScript:
 	end
 	
 BikersInGateText:
-	text "Woohoo!"
-	para "Let's get ready to"
-	line "roll out!"
+	text "Forza!"
+	para "Pronti a partire!"
 	done
 
 MotobuPathIejimaGateOfficerText:
-	text "IEJIMA TOWN's"
-	line "waterfall is such"
-	cont "a lovely sight!"
+	text "La cascata di"
+	line "IEJIMA è così"
+	cont "bella!"
 	done
 	
 MotobuPathIejimaGateOfficerText2:
-	text "What in the world"
-	line "could this group"
-	para "of BIKERs be up"
-	line "to?"
+	text "Cosa diamine"
+	line "vogliono fare"
+	para "quei teppisti?"
 	done
 
 MotobuPathIejimaGateOfficerText3:
-	text "A large group of"
-	line "BIKERs are causing"
-	para "problems in the"
-	line "HYDRO PLANT."
-	para "Seems like they"
-	line "closed the dam"
-	para "that feeds water"
-	line "into IEJIMA TOWN."
+	text "Un gruppo di"
+	line "teppisti sta"
+	para "causando problemi"
+	line "alla CENTRALE."
+	para "Sembra che abbiano"
+	line "chiuso la diga"
+	para "che porta l'acqua"
+	line "a IEJIMA."
 	done
 
 MotobuPathIejimaGate_MapEvents:

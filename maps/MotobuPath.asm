@@ -63,83 +63,81 @@ MotobuPathItemball:
 	itemball EARTHEN_CLAY
 	
 MotobuYoungsterText:
-	text "The strength of"
-	line "the trainers and"
-	para "wild #MON on"
-	line "the ISLANDS amazes"
-	cont "me!"
+	text "La forza degli"
+	line "allenatori e dei"
+	para "#MON delle"
+	line "isole è sorpren-"
+	cont "dente!"
 	done
 	
 CooltrainermLiamSeenText:
-	text "I've raised my"
-	line "team to be ready"
-	cont "for anything!"
-	para "Bring it!"
+	text "La mia squadra è"
+	line "pronta a tutto!"
+	para "Preparati!"
 	done
 	
 CooltrainermLiamBeatenText:
-	text "You brought it."
+	text "Eri preparato."
 	done
 	
 CooltrainermLiamAfterBattleText:
-	text "I think I might go"
-	line "for a swim…"
+	text "Credo che andrò"
+	line "a farmi un bagno…"
 	done
 
 SwimmerfJillSeenText:
-	text "The water is so"
-	line "nice and warm"
-	cont "around here!"
+	text "L'acqua è così"
+	line "bella qui!"
 	done
 
 SwimmerfJillBeatenText:
-	text "Kyah!"
+	text "Aah!"
 	done
 
 SwimmerfJillAfterBattleText:
-	text "Going to the"
-	line "#MON CENTER"
-	para "means I have to"
-	line "get out of the"
-	cont "water. Oh, well."
+	text "Per andare al"
+	line "CENTRO #MON"
+	para "devo uscire"
+	line "dall'acqua."
+	cont "E va bene."
 	done
 
 SwimmerfMarySeenText:
-	text "I'll swim circles"
-	line "around you!"
+	text "Ti nuoto intorno!"
 	done
 
 SwimmerfMaryBeatenText:
-	text "I'm dizzy!"
+	text "Mi gira la testa!"
 	done
 
 SwimmerfMaryAfterBattleText:
-	text "I think I'm"
-	line "getting some heat"
-	cont "stroke out here."
+	text "Credo di aver"
+	line "preso un colpo"
+	cont "di calore."
 	done
 
 SwimmerfKatieSeenText:
-	text "Ka-splash!"
+	text "Splash!"
 	done
 
 SwimmerfKatieBeatenText:
-	text "Washed out!"
+	text "Sospinto via!"
 	done
 
 SwimmerfKatieAfterBattleText:
-	text "Want to see how"
-	line "long I can hold"
-	cont "my breath?"
+	text "Vuoi vedere quanto"
+	line "a lungo posso"
+	para "trattenere il"
+	line "respiro?"
 	done
 
 MotobuPathSign:
 	jumptext MotobuPathSignText
 	
 MotobuPathSignText:
-	text "MOTOBU PATH"
-	para "NAGO VILLAGE -"
-	line "IEJIMA TOWN."
+	text "CAMMINO MOTOBU"
+	para "VILLAGGIO NAGO -"
+	line "IEJIMA"
 	done
 
 

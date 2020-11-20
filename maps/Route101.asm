@@ -218,95 +218,91 @@ DudeMovementData2b:
 	step_end
 	
 DebugSignText:
-	text "Debug sign"
+	text "Cartello debug"
 	done
 
 CatchingTutorialBoxFullText:
-	text "#MON hide in"
-	line "the grass. Who"
+	text "I #MON si"
+	line "nascondono"
+	cont "nell'erba alta."
 
-	para "knows when they'll"
-	line "pop out…"
+	para "Nessuno sa quando"
+	line "usciranno…"
 	done
 
 CatchingTutorialIntroText:
-	text "Well, hey now!"
+	text "Ehi!"
 
-	para "You sure look like"
-	line "a rookie trainer!"
+	para "Sembri un allena-"
+	line "tore alle prime"
+	cont "armi!"
 	
-	para "I bet you'll be"
-	line "wanting to catch"
-	cont "some #MON!"
+	para "Scommetto che vuoi"
+	line "catturare qualche"
+	cont "#MON!"
 
-	para "Would you like me"
-	line "to show you how to"
-	cont "catch #MON?"
+	para "Vuoi che ti mostri"
+	line "come fare?"
 	done
 
 CatchingTutorialDebriefText:
-	text "That's how you do"
-	line "it."
+	text "Si fa così!"
 
-	para "If you weaken them"
-	line "first, #MON are"
-	cont "easier to catch."
+	para "Se indebolisci un"
+	line "#MON, sarà più"
+	cont "facile prenderlo!"
 	done
 
 CatchingTutorialDeclinedText:
-	text "Oh. Fine, then."
+	text "Oh. Capisco."
 
-	para "Anyway, if you"
-	line "want to catch"
+	para "Se vuoi prendere"
+	line "tanti #MON"
 
-	para "#MON, you have"
-	line "to walk a lot."
+	para "dovrai camminare"
+	line "a lungo."
 	done
 
 CatchingTutorialRepeatText:
-	text "Huh? You want me"
-	line "to show you how to"
-	cont "catch #MON?"
+	text "Come? Vuoi che"
+	line "ti mostri come"
+	para "catturare i"
+	line "#MON?"
 	done
 
 Route101YoungsterText:
-	text "Yo. How are your"
-	line "#MON?"
+	text "Ciao! Come stanno"
+	line "i tuoi #MON?"
 
-	para "If they're weak"
-	line "and not ready for"
-
-	para "battle, keep out"
-	line "of the grass."
+	para "Se sono deboli,"
+	line "stai lontano"
+	cont "dall'erba alta."
 	done
 
 Route101TeacherText:
-	text "See those ledges?"
-	line "It's scary to jump"
-	cont "off them."
+	text "Vedi quei salti?"
+	line "Fanno un po' paura"
+	cont "ma ti permettono"
 
-	para "But you can jump"
-	line "down them as a"
-
-	para "shortcut in many"
-	line "places."
+	para "di trovare molte"
+	line "scorciatoie."
 	done
 
 Route101Sign1Text:
-	text "ROUTE 101"
+	text "PERCORSO 101"
 
-	para "SILENT TOWN -"
-	line "PAGOTA CITY"
+	para "BORGO SILENTE -"
+	line "ANCESTRALIA"
 	
-	para "SILENT HILLS"
-	line "in between."
+	para "PIANE SILENTI"
+	line "in mezzo."
 	done
 
 SilentHillsEntranceSignText:
-	text "SILENT HILLS"
+	text "PIANE SILENTI"
 	
-	para "Entrance to the"
-	line "left."
+	para "Ingresso a"
+	line "sinistra."
 	done
 
 Route101_MapEvents:

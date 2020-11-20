@@ -100,102 +100,93 @@ ManiasHouseUnusedBookshelf:
 	jumpstd PictureBookshelfScript
 
 ManiaText_AskLookAfterRinring:
-	text "I, I'm in shock!"
+	text "Che paura!"
 
-	para "A guy about your"
-	line "age with piercing"
+	para "Ho subito poco"
+	line "fa un furto!"
 
-	para "eyes and long hair"
-	line "came in."
+	para "Mi rimane solo un"
+	line "#MON, ma se"
+	cont "il ladro tornasse?"
 
-	para "He scared me into"
-	line "giving him my"
-	cont "prized #MON!"
+	para "Sembri forte,"
+	line "potresti badare"
 
-	para "I still have one"
-	line "left, but what if"
-	cont "he comes back?"
-
-	para "You look strong."
-	line "Could you look"
-
-	para "after my #MON"
-	line "for a while?"
+	para "a lui per un po'?"
 	done
 
 ManiaText_TakeCareOfRinring:
-	text "Oh, thank you!"
+	text "Oh, grazie!"
 
-	para "Take good care of"
-	line "it, please!"
+	para "Prenditi cura"
+	line "di lui!"
 	done
 
 ManiaText_GotRinring:
-	text "<PLAYER> received a"
+	text "<PLAYER> riceve un"
 	line "#MON."
 	done
 
 ManiaText_PartyFull:
-	text "Your #MON party"
-	line "is full."
+	text "La tua squadra è"
+	line "al completo."
 	done
 
 ManiaText_IfHeComesBack:
-	text "Oh, no… What'll"
-	line "I do if he comes"
-	cont "back?"
+	text "Oh, no… Cosa"
+	line "farò se tornerà?"
 	done
 
 ManiaText_CanIHaveMyMonBack:
-	text "Hi! How's my #-"
-	line "MON?"
+	text "Come sta il mio"
+	line "#MON?"
 
-	para "I think I'm safe"
-	line "now, so may I have"
-	cont "it back?"
+	para "Ora dovrei essere"
+	line "al sicuro. Posso"
+	cont "riaverlo?"
 	done
 
 ManiaText_ThankYou:
-	text "Thank you!"
+	text "Grazie!"
 	done
 
 ManiaText_RinringNotThere:
-	text "Hey, you don't"
-	line "have my #MON"
-	cont "with you."
+	text "Ehi! Non hai il"
+	line "mio #MON"
+	cont "con te."
 	done
 
 ManiaText_RinringLikesYou:
-	text "My #MON has"
-	line "come to like you."
+	text "Il mio #MON"
+	line "si è affezionato."
 
-	para "All right, you"
-	line "should keep it."
+	para "Va bene, puoi"
+	line "tenerlo."
 
-	para "But promise to"
-	line "be good to it!"
+	para "Ma promettimi"
+	line "di trattarlo"
+	cont "bene!"
 	done
 
 ManiaText_SameAsBeingRobbed:
-	text "Oh, no, no… That's"
-	line "the same as being"
-	cont "robbed."
+	text "Oh, no… È come"
+	line "essere rapinati."
 	done
 
 ManiaText_HappinessSpeech:
-	text "For #MON, hap-"
-	line "piness is being"
+	text "Per un #MON,"
+	line "la felicità è"
 
-	para "with a person who"
-	line "treats them well."
+	para "stare con qualcuno"
+	line "che lo tratti"
+	cont "bene."
 	done
 
 ManiaText_RinringIsYourLastMon:
-	text "If I take my #-"
-	line "MON back, what are"
+	text "Se riprendo il mio"
+	line "#MON con chi"
 
-	para "you going to use"
-	line "in battle?"
+	cont "lotterai?"
 	done
 
 ManiasHouse_MapEvents:

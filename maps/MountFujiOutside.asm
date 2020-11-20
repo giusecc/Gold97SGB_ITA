@@ -68,77 +68,75 @@ HealerLassScript:
 	end
 	
 LassIntroText:
-	text "We're already"
-	line "pretty high up the"
-	cont "mountain."
-	para "Hm? Yes, I'm a"
-	line "trainer, but I'm"
-	cont "taking a break."
-	para "I've brought"
-	line "plenty of medicine"
-	cont "with me."
-	para "If your #MON"
-	line "need restored, let"
-	para "me know, and I can"
-	line "help you out."
+	text "Siamo già ad"
+	line "alta quota."
+	para "Eh? Sì, sono un"
+	line "allenatore, ma"
+	cont "mi sto riposando."
+	para "Ho portato molti"
+	line "rimedi con me."
+	para "Se i tuoi #MON"
+	line "devono essere"
+	para "curati, lascia"
+	line "che ti aiuti."
 	done
 	
 LassAsksToHeal:
-	text "How about it?"
-	para "Your #MON need"
-	line "healed?"
+	text "Quindi?"
+	para "I tuoi #MON"
+	line "hanno bisogno"
+	cont "di una cura?"
 	done
 	
 NoHealThisTime:
-	text "Well, okay."
-	para "I'll be here a"
-	line "while, so stop by"
-	cont "if you need to."
+	text "Va bene."
+	para "Starò qui per un"
+	line "po'. Se ti serve"
+	cont "vieni qui."
 	done
 	
 LassHealTimeText:
-	text "Okay, let me see"
-	line "your #MON for"
-	cont "just a second…"
+	text "Ok, lascia che"
+	line "rimetta in sesto"
+	cont "la tua squadra…"
 	done
 	
 LassHealTimeText2:
-	text "There we are!"
-	para "Your team looks"
-	line "ready to go!"
+	text "Ecco a te!"
+	para "Pronti a lottare!"
 	done
 
 SportsmanArthurSeenText:
-	text "I think I can jog"
-	line "my way to the top."
+	text "Posso correre fino"
+	line "alla cima."
 	done
 
 SportsmanArthurBeatenText:
-	text "Out of breath!"
+	text "Senza fiato!"
 	done
 
 SportsmanArthurAfterBattleText:
-	text "I'm not much of a"
-	line "HIKER, after all."
+	text "Non sono un grande"
+	line "scalatore."
 	done
 
 HikerBenjaminSeenText:
-	text "Ah, it's good to"
-	line "be outside!"
-	cont "I feel so free!"
+	text "Che bello essere"
+	line "qua fuori!"
+	cont "Che libertà!"
 	done
 
 HikerBenjaminBeatenText:
-	text "Gahahah!"
+	text "Ahahah!"
 	done
 
 HikerBenjaminAfterBattleText:
-	text "It takes a long"
-	line "time to reach the"
-	cont "summit."
-	para "Stepping outside"
-	line "is a breath of"
-	cont "fresh air!"
+	text "Ci vuole molto"
+	line "tempo a salire"
+	cont "alla vetta."
+	para "Ci vuole una"
+	line "ventata di aria"
+	cont "fresca!"
 	done
 
 MountFujiOutside_MapEvents:

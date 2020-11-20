@@ -11,23 +11,23 @@ Route102WestGateOfficerScript:
 	jumptextfaceplayer Route102WestGateOfficerText
 
 Route102WestGateOfficerText:
-	text "WESTPORT CITY is a"
-	line "quickly growing"
-	para "metropolis that"
-	line "has many resources"
-	cont "for trainers."
+	text "PORTOVEST è una"
+	line "metropoli in"
+	para "espansione,"
+	line "perfetta per gli"
+	cont "allenatori."
 	done
 	
 Route102WestGateYoungsterScript:
 	jumptextfaceplayer Route102WestGateYoungsterText
 
 Route102WestGateYoungsterText:
-	text "Whew!"
-	para "The WESTPORT CITY"
-	line "DEPT. STORE has an"
-	para "underground level"
-	line "that's full of"
-	cont "tough trainers!"
+	text "Eh!"
+	para "Il CENTRO COMMER-"
+	line "CIALE di PORTOVEST"
+	para "è pieno di forti"
+	line "allenatori nei"
+	cont "sotterranei!"
 	done
 
 

@@ -12,44 +12,46 @@ Route101PagotaGate2FLassScript:
 	jumptextfaceplayer Route101PagotaGate2FLassText
 
 Route101PagotaGate2FLassText:
-	text "Have you heard of"
-	line "a man named KURT?"
-	para "If KURT takes an"
-	line "interest in you,"
-	cont "that's a big deal."
+	text "Hai mai sentito"
+	line "parlare di FRANZ?"
+	para "Se si interessa"
+	line "a te, c'è sotto"
+	para "qualcosa di"
+	line "importante."
 	done
 	
 Route101PagotaGate2FTwinScript:
 	jumptextfaceplayer Route101PagotaGate2FTwinText
 
 Route101PagotaGate2FTwinText:
-	text "Are you a tourist?"
-	para "If so, that's too"
-	line "bad… Not just"
-	para "anyone can enter"
-	line "the 5 FLOOR TOWER."
+	text "Sei un turista?"
+	para "Se lo sei è un"
+	line "peccato… Non"
+	para "tutti possono"
+	line "entrare nella"
+	cont "PENTATORRE."
 	done
 	
 Route101PagotaGate2FSign:
 	jumptext Route101PagotaGate2FSignText
 	
 Route101PagotaGate2FSignText:
-	text "<PLAYER> peeked"
-	line "through the"
-	cont "telescope!"
-	para "Whoa! A tall tower"
-	line "can be seen!"
+	text "<PLAYER> guarda"
+	line "attraverso"
+	cont "il binocolo!"
+	para "Uauh! Si vede uan"
+	line "TORRE altissima!"
 	done
 
 Route101PagotaGate2FSign2:
 	jumptext Route101PagotaGate2FSign2Text
 	
 Route101PagotaGate2FSign2Text:
-	text "<PLAYER> peeked"
-	line "through the"
-	cont "telescope!"
-	para "A river stretches"
-	line "into the distance."
+	text "<PLAYER> guarda"
+	line "attraverso"
+	cont "il binocolo!"
+	para "Si vede un fiume"
+	line "in lontananza."
 	done
 	
 Route101PagotaGate2F_MapEvents:

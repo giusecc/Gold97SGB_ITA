@@ -195,110 +195,107 @@ SlowpokeTailSalesmanScript:
 	
 
 Text_MillionDollarSlowpokeTail:
-	text "Hey, kid!"
-	para "How would you like"
-	line "to have this"
+	text "Ehi ragazzo!"
+	para "Che ne dici di"
+	line "un po' di gustosa"
 
-	para "tasty, nutritious"
-	line "SLOWPOKETAIL?"
+	para "e nutriente"
+	line "CODASLOWPOKE?"
 
-	para "For you right now,"
-	line "just ¥1,000,000!"
+	para "Solo per te a"
+	line "soli ¥1,000,000!"
 
-	para "You'll want this!"
+	para "La vuoi, vero?"
 	done
 
 Text_ThoughtKidsWereLoaded:
-	text "Tch! I thought"
-	line "kids these days"
-	cont "were loaded…"
+	text "Uff! Credevo che"
+	line "i giovani d'oggi"
+	cont "fossero ricchi…"
 	done
 
 Text_RefusedToBuySlowpokeTail:
-	text "You don't want it?"
-	line "Then scram. Shoo!"
+	text "Non la vuoi?"
+	line "Allora smamma!"
 	done
 
 CamperIvanSeenText:
-	text "I've been getting"
-	line "#MON data off"
-
-	para "my radio. I think"
-	line "I'm good."
+	text "Ascolto sempre"
+	line "la radio!"
 	done
 
 CamperIvanBeatenText:
-	text "I give!"
+	text "Ho perso!"
 	done
 
 CamperIvanAfterBattleText:
-	text "Music on the radio"
-	line "changes the moods"
-	cont "of wild #MON."
+	text "La musica della"
+	line "radio cambia"
+	para "l'umore dei"
+	line "#MON selvatici."
 	done
 
 
 
 PicnickerKimSeenText:
-	text "Have you been to"
-	line "any #MON GYMS?"
+	text "Sei mai stato in"
+	line "una PALESTRA?"
 	done
 
 PicnickerKimBeatenText:
-	text "Oh. I couldn't"
-	line "win…"
+	text "Oh. Non potevo"
+	line "vincere…"
 	done
 
 PicnickerKimAfterBattleText:
-	text "The GYM BADGES are"
-	line "pretty. I collect"
-	cont "them."
+	text "Le MEDAGLIE sono"
+	line "carine. Io le"
+	cont "colleziono."
 	done
 
 BirdKeeperBryanSeenText:
-	text "What kinds of"
-	line "BALLS do you use?"
+	text "Che tipo di"
+	line "BALL usi?"
 	done
 
 BirdKeeperBryanBeatenText:
-	text "Yikes! Not fast"
-	line "enough!"
+	text "Uffa! Troppo"
+	line "veloce!"
 	done
 
 BirdKeeperBryanAfterBattleText:
-	text "Some #MON flee"
-	line "right away."
+	text "Alcuni #MON"
+	line "scappano subito."
 
-	para "If you can get"
-	line "ahold of KURT's"
-	para "custom FAST BALLs,"
-	line "they're great for"
-	cont "quick #MON."
+	para "Con una RAPID"
+	line "BALL di FRANZ"
+	para "si possono"
+	line "catturare più"
+	cont "facilmente."
 	done
 
 JugglerIrwin1SeenText:
-	text "Behold my graceful"
-	line "BALL dexterity!"
+	text "Ammira la"
+	line "mia destrezza!"
 	done
 
 JugglerIrwin1BeatenText:
-	text "Whew! That was a"
-	line "jolt!"
+	text "Uno scossone!"
 	done
 
 JugglerIrwinAfterBattleText:
-	text "I was going to"
-	line "dazzle you with my"
-	cont "prize #MON."
+	text "Volevo sorprender-"
+	line "ti con i miei"
+	cont "#MON."
 
-	para "But your prowess"
-	line "electrified me!"
+	para "La tua abilità mi"
+	line "ha spiazzato!"
 	done
 
 Route103SignText:
-	text "ROUTE 103"
-	para "WESTPORT CITY -"
-	line "BIRDON TOWN"
+	text "PERCORSO 103"
+	para "PORTOVEST -"
+	line "AVIOPOLI"
 	done
 
 Route103_MapEvents:
