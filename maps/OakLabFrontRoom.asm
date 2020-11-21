@@ -154,7 +154,7 @@ DaisyStopsScript1:
 	end
 
 .mapcardname
-	db "MAP CARD@"
+	db "MAPPA@"
 	
 
 DaisyStopsScript2:
@@ -188,7 +188,7 @@ DaisyStopsScript2:
 	end
 
 .mapcardname
-	db "MAP CARD@"
+	db "MAPPA@"
 	
 DaisyScript_ReceiveTheBalls:
 	jumpstd ReceiveItemScript
@@ -227,147 +227,149 @@ OakLabFrontRoomSign:
 	jumptext OakLabFrontRoomSignText
 	
 WhatIsDexText:
-	text "What is this?"
-	para "Some sort of"
-	line "encyclopedia?"
+	text "Cos'è?"
+	para "Una specie di"
+	line "enciclopedia?"
 	done
 	
 OakLabFrontRoomSignText:
-	text "Remember to SAVE"
-	line "your progress!"
+	text "Ricordati di"
+	line "SALVARE i tuoi"
+	cont "progressi!"
 	done	
 	
 OakLabFrontRoomComputerText:
-	text "It's a paper on"
-	line "#MON habitats."
+	text "Una ricerca sugli"
+	line "habitat dei"
+	cont "#MON."
 	done
 	
 Text_RootingText:
-	text "I'll be rooting"
-	line "for you!"
+	text "Farò il tifo"
+	line "per te!"
 	done
 	
 DaisySpeechText:
-	text "The boy who"
-	line "brought you"
-	para "here is my little"
-	line "brother."
-	para "In other words…"
-	para "I'm PROF.OAK's"
-	line "granddaughter!"
-	para "Grandpa's a"
-	line "fantastic"
-	cont "researcher!"
-	para "…But he can be a"
-	line "little forgetful."
-	para "He was also"
-	line "supposed to give"
-	cont "you this!"
+	text "Il ragazzo che"
+	line "ti ha portato qui"
+	para "è mio fratello."
+	para "In poche parole…"
+	para "Sono la nipote"
+	line "del PROF.OAK!"
+	para "Il nonno è un"
+	line "ricercatore"
+	cont "illustre!"
+	para "…Ma è anche un"
+	line "po' smemorato."
+	para "Avrebbe dovuto"
+	line "darti anche"
+	cont "questa!"
 	done
 
 DaisySpeechText2:
-	text "A POTION helps"
-	line "restore your"
-	para "#MON's health"
-	line "if you're not at"
-	cont "a #MON CENTER!"
-	para "I'll also throw"
-	line "in a few"
-	para "# BALLS to"
-	line "help out."
+	text "Una POZIONE"
+	line "ristabilisce la"
+	para "salute di un #-"
+	line "MON, se non sei"
+	para "in un CENTRO"
+	line "#MON!"
+	para "Ti darò anche"
+	line "delle # BALL"
+	para "per aiutarti"
+	line "nella ricerca."
 	done
 
 DaisySpeechText3:
-	text "But like Grandpa"
-	line "said, if you need"
-	para "more # BALLS,"
-	line "you can find them"
-	para "at just about any"
-	line "MART."
-	para "Also, we can't"
-	line "have your family"
-	para "worrying, so make"
-	line "sure to say"
-	para "goodbye to your"
-	line "MOM and KEN before"
-	cont "you leave town!"
-	para "I'll be rooting"
-	line "for you!"
+	text "Come ha detto il"
+	line "nonno, se ti ser-"
+	para "vono delle #"
+	line "BALL, puoi trovar-"
+	para "le in qualsiasi"
+	line "#MON-MARKET."
+	para "Non lasciare la"
+	line "tua famiglia in"
+	para "pensiero, ricor-"
+	line "dati di salutare"
+	para "la MAMMA e KEN"
+	line "prima di lasciare"
+	cont "la città!"
+	para "Farò il tifo per"
+	line "te!"
 	done
 
 SilverEntranceWinText:
-	text "Wow! I thought my"
-	line "#MON would have"
-	para "been the best!"
+	text "Credevo che il"
+	line "mio #MON avreb-"
+	para "be avuto la"
+	line "meglio!"
 	done
 
 EntranceRivalText_YouLost:
-	text "<PLAYER>! I'm"
-	line "so ready to show"
-	para "the world how"
-	line "great my #MON"
-	cont "is!"
-	para "I'll see you"
-	line "around soon!"
+	text "<PLAYER>! Sono"
+	line "impaziente di"
+	para "mostrare al"
+	line "mondo quanto"
+	para "è forte il"
+	line "mio #MON!"
+	para "Ci si vede!"
 	done
 
 SilverEntranceLossText:
-	text "Alright! My"
-	line "#MON rules!"
+	text "Il mio #MON"
+	line "è più forte!"
 	done
 
 EntranceRivalText_YouWon:
-	text "<PLAYER>! I'm"
-	line "so ready to show"
-	para "the world how"
-	line "great my #MON"
-	cont "is!"
-	para "I'll see you"
-	line "around soon!"
+	text "<PLAYER>! Sono"
+	line "impaziente di"
+	para "mostrare al"
+	line "mondo quanto"
+	para "è forte il"
+	line "mio #MON!"
+	para "Ci si vede!"
 	done
 	
 TimeToBattle:
 	text "<PLAYER>!"
-	para "You're not getting"
-	line "off that easy!"
-	para "OAK gave us these"
-	line "#MON, so now"
-	para "we gotta battle"
-	line "them!"
-	para "I'm not gonna hold"
-	line "back!"
+	para "Non credere di"
+	line "andartene così!"
+	para "Il PROF.OAK ci ha"
+	line "dato un #MON,"
+	para "ora dobbiamo"
+	line "lottare!"
+	para "Non mi tirerò"
+	line "indietro!"
 	done
 	
 Text_InBack:
-	text "PROF.OAK just got"
-	line "back in. He's"
-	para "waiting for you"
-	line "in the back!"
+	text "Il PROF.OAK è"
+	line "appena rientrato."
+	para "Ti aspetta nel"
+	line "retro!"
 	done
 
 OakLabFrontRoomAideText:
-	text "If you're looking"
-	line "for PROF.OAK, he's"
-	para "usually in his"
-	line "back office."
+	text "Se stai cercando"
+	line "il PROF.OAK, di"
+	para "solito è nel suo"
+	line "ufficio nel retro."
 	done
 	
 DoorLockedText:
-	text "The door seems to"
-	line "be locked…"
+	text "La porta è"
+	line "chiusa…"
 	done
 	
 OakLabFrontRoomSilverText:
-	text "Yo <PLAYER>!"
+	text "Ehi, <PLAYER>!"
 	
-	para "Looks like PROF."
-	line "OAK isn't here!"
+	para "Sembra che il"
+	line "PROF. OAK non"
+	cont "sia qui!"
 	
-	para "I wonder when"
-	line "he would have"
-	
-	para "expected us to"
-	line "show up!"
+	para "Mi chiedo quando"
+	line "credesse che"
+	cont "arrivassimo!"
 	
 	done
 	

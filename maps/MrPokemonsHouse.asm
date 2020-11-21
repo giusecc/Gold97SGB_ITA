@@ -168,72 +168,74 @@ MrPokemonsHouse_OakExits:
 	step_end
 
 MrPokemonIntroText1:
-	text "Hello, hello! You"
-	line "must be <PLAYER>."
+	text "Ciao! Devi essere"
+	line "<PLAYER>."
 
-	para "PROF.OAK2 said that"
-	line "you would visit."
+	para "Il PROF.OAK mi ha"
+	line "detto del tuo"
+	cont "arrivo."
 	done
 
 MrPokemonIntroText2:
-	text "This is what I"
-	line "want PROF.OAK2 to"
-	cont "examine."
+	text "Ecco l'oggetto che"
+	line "vorrei che il"
+	para "PROF.OAK"
+	line "analizzasse."
 	done
 
 MrPokemonsHouse_GotEggText:
-	text "<PLAYER> received"
-	line "MYSTERY EGG."
+	text "<PLAYER> riceve"
+	line "l'UOVO MISTERO."
 	done
 
 MrPokemonIntroText3:
-	text "I know a couple"
-	line "who run a #MON"
-	cont "DAY-CARE service."
+	text "Conosco una coppia"
+	line "che dirige una"
+	cont "PENSIONE #MON."
 
-	para "They gave me that"
-	line "EGG."
+	para "Sono loro che mi"
+	line "hanno dato l'UOVO."
 
-	para "I was intrigued,"
-	line "so I sent mail to"
-	cont "PROF.OAK2."
+	para "Ero curioso, cosi"
+	line "mi sono rivolto al"
+	cont "PROF.OAK."
 
-	para "For #MON evolu-"
-	line "tion, PROF.OAK2 is"
-	cont "the authority."
+	para "Il PROF.OAK è il"
+	line "massimo esperto"
+	para "per l'evoluzione"
+	line "dei #MON."
 	done
 
 MrPokemonIntroText4:
-	text "Even PROF.OAK here"
+	text "Lo sanno tutti!"
 	line "recognizes that."
 	done
 
 MrPokemonIntroText5:
-	text "If my assumption"
-	line "is correct, PROF."
-	cont "OAK2 will know it."
+	text "Il PROF.OAK"
+	line "saprà certamente"
+	cont "di che si tratta."
 	done
 
 MrPokemonsHouse_MrPokemonHealText:
-	text "You are returning"
-	line "to PROF.OAK2?"
+	text "Stai tornando dal"
+	line "PROF.OAK?"
 
-	para "Here. Your #MON"
-	line "should have some"
-	cont "rest."
+	para "Allora il tuo"
+	line "#MON dovrà"
+	cont "riposarsi un po'."
 	done
 
 MrPokemonText_ImDependingOnYou:
-	text "I'm depending on"
-	line "you!"
+	text "Conto su di te!"
 	done
 
 MrPokemonText_AlwaysNewDiscoveries:
-	text "Life is delight-"
-	line "ful! Always, new"
+	text "Che bella la vita!"
 
-	para "discoveries to be"
-	line "made!"
+	para "Ogni giorno fai"
+	line "una nuova"
+	cont "scoperta!"
 	done
 
 MrPokemonsHouse_OakText1:

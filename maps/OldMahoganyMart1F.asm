@@ -155,67 +155,69 @@ OldMahoganyMart1FLanceGoDownStairsMovement:
 	step_end
 
 OldMahoganyMart1FRageCandyBarText: ; unreferenced
-	text "Hello, youngster!"
+	text "Ehi, tu!"
 
-	para "How would you like"
-	line "some RAGECANDYBAR?"
+	para "Che ne dici di"
+	line "un'IRAMELLA?"
 
-	para "It's the thing to"
-	line "eat in SANSKRIT!"
+	para "Si mangiano a"
+	line "VESTIGIA!"
 	done
 
 OldMahoganyMart1FPharmacistText_LanceEntered:
-	text "Arrgh… You found"
-	line "the secret stair-"
-	cont "way…"
+	text "Oh, no… Hai"
+	line "scoperto la scala"
+	cont "segreta…"
 	done
 
 OldMahoganyMart1FBlackBeltText:
-	text "Heheh! The experi-"
-	line "ment worked like a"
-	cont "charm."
+	text "Ehi, l'esperimento"
+	line "è perfettamente"
+	cont "riuscito!"
 
-	para "MAGIKARP are just"
-	line "worthless, but"
+	para "I MAGIKARP non"
+	line "servono a nulla,"
 
-	para "GYARADOS are big"
-	line "moneymakers."
+	para "ma con i GYARADOS"
+	line "si possono fare i"
+	cont "soldi."
 	done
 
 OldMahoganyMart1FBlackBeltText_LanceEntered:
-	text "Urrgh…"
+	text "Caspita…"
 
-	para "That guy's dragon"
-	line "#MON are tough…"
+	para "I #MON tipo"
+	line "DRAGO sono ossi"
+	cont "duri…"
 	done
 
 OldMahoganyMart1FLanceDragoniteHyperBeamText:
 	text "LANCE: DRAGONITE,"
-	line "HYPER BEAM."
+	line "IPER-RAGGIO."
 	done
 
 OldMahoganyMart1FLanceRadioText:
-	text "What took you,"
+	text "Benvenuto,"
 	line "<PLAYER>?"
 
-	para "Just as I thought,"
-	line "that strange radio"
+	para "Come pensavo,"
+	line "quello strano"
 
-	para "signal is coming"
-	line "from here."
+	para "segnale radio"
+	line "proviene da qui."
 	done
 
 OldMahoganyMart1FLanceStairsText:
-	text "The stairs are"
-	line "right here."
+	text "Le scale sono"
+	line "proprio qui."
 	done
 
 OldMahoganyMart1FLanceSplitUpText:
-	text "LANCE: <PLAYER>, we"
-	line "should split up to"
+	text "LANCE: <PLAYER>,"
+	line "dobbiamo separarci"
 
-	para "check this place."
-	line "I'll go first."
+	para "per perlustrare"
+	line "la zona."
 	done
 
 OldMahoganyMart1F_MapEvents:

@@ -236,146 +236,151 @@ Movement_NinjaSpin:
 JanineText_DisappointYou:
 	text "Fufufufu…"
 
-	para "I'm sorry to dis-"
-	line "appoint you…"
+	para "Non vorrei"
+	line "deluderti, ma…"
 
-	para "I'm only joking!"
+	para "Sto scherzando!"
 
-	para "I'm the real deal!"
+	para "Sono quella vera!"
 
-	para "JANINE of STAND"
-	line "GYM, that's me!"
+	para "Sono NINA di"
+	line "INERTOPOLI!"
 	done
 
 JanineText_ToughOne:
-	text "JANINE: You're a"
-	line "tough one. You"
-	cont "definitely won…"
+	text "NINA: Sei un"
+	line "tipo in gamba: hai"
+	cont "vinto…"
 
-	para "Here's SOULBADGE."
-	line "Take it."
+	para "Eccoti la MEDAGLIA"
+	line "ANIMA."
 	done
 
 Text_ReceivedSoulBadge:
-	text "<PLAYER> received"
-	line "SOULBADGE."
+	text "<PLAYER> riceve la"
+	line "MEDAGLIA ANIMA."
 	done
 
 JanineText_ToxicSpeech:
-	text "JANINE: You're so"
-	line "tough! I have a"
-	cont "special gift!"
+	text "NINA: Sei cosi"
+	line "forte che voglio"
+	para "darti un dono"
+	line "speciale."
 
-	para "It's TOXIC, a pow-"
-	line "erful poison that"
+	para "È TOSSINA, un"
+	line "potente veleno che"
 
-	para "steadily saps the"
-	line "victim's HP."
+	para "progressivamente"
+	line "esaurisce i PS"
+	cont "della vittima."
 	done
 
 JanineText_ApplyMyself:
-	text "JANINE: I'm going"
-	line "to really apply"
+	text "NINA: Mi dovrò"
+	line "davvero impegnare"
 
-	para "myself and improve"
-	line "my skills."
+	para "per migliorare le"
+	line "mie capacità."
 
-	para "I want to become"
-	line "better than both"
-	cont "Father and you!"
+	para "Voglio superare"
+	line "sia mio padre che"
+	cont "te!"
 	done
 
 LassAliceBeforeText:
 	text "Fufufu!"
 
-	para "I'm JANINE, the"
-	line "GYM LEADER!"
+	para "Sono NINA, la"
+	line "CAPOPALESTRA!"
 
-	para "No, I'm not!"
-	line "Gotcha, sucker!"
+	para "Non è vero! Ci sei"
+	line "cascato, poppante!"
 	done
 
 LassAliceBeatenText:
-	text "I had you fooled…"
+	text "T'avevo preso in"
+	line "giro…"
 	done
 
 LassAliceAfterText:
-	text "How will you dis-"
-	line "tinguish our real"
-	cont "LEADER?"
+	text "Non è facile"
+	line "distinguere il"
+	cont "vero CAPOPALESTRA!"
 	done
 
 LassLindaBeforeText:
-	text "Fooled you!"
-	line "Hahaha!"
+	text "T'ho preso in"
+	line "giro! Ahahah!"
 	done
 
 LassLindaBeatenText:
-	text "Ooh… I lost…"
-	line "You're not weak…"
+	text "Ooh… Ho perso…"
+	line "Non sei male…"
 	done
 
 LassLindaAfterText:
-	text "Well? Wasn't my"
-	line "disguise perfect?"
+	text "Ma il mio trave-"
+	line "stimento era"
+	cont "perfetto, vero?"
 	done
 
 PicnickerCindyBeforeText:
-	text "I'm JANINE!"
+	text "Sono io NINA!"
 
-	para "How did you know I"
-	line "was real?"
+	para "Come hai fatto a"
+	line "capire che ero"
+	cont "quella vera?"
 
-	para "Let's battle!"
+	para "Lottiamo!"
 	done
 
 PicnickerCindyBeatenText:
-	text "Darn it!"
-	line "I wanted to win!"
+	text "Accidenti!"
+	line "Volevo vincere!"
 	done
 
 PicnickerCindyAfterText:
-	text "You must be"
-	line "getting tired."
+	text "Prima o poi ti"
+	line "dovrai stancare!"
 	done
 
 CamperBarryBeforeText:
-	text "Wahahaha!"
+	text "Ahahahahah!"
 
-	para "You betcha, dude."
-	line "I'm JANINE!"
+	para "Sono io NINA, puoi"
+	line "scommetterci!"
 	done
 
 CamperBarryBeatenText:
-	text "My disguise was"
-	line "right on! Dang!"
+	text "Ma il mio trave-"
+	line "stimento era ok!"
 	done
 
 CamperBarryAfterText:
-	text "Hey, dude. Was my"
-	line "disguise cute or"
-	cont "what, huh?"
+	text "Ehi, amico! Il mio"
+	line "travestimento era"
+	cont "carino, vero?"
 	done
 
 OldFuchsiaGymGuyText:
-	text "Yo, CHAMP in"
-	line "making!"
+	text "Ehi, CAMPIONE in"
+	line "erba!"
 
-	para "Whoops! Take a"
-	line "good look around"
+	para "Guardati un po' in"
+	line "giro: gli allena-"
 
-	para "you. The trainers"
-	line "all look like the"
-	cont "LEADER, JANINE."
+	para "tori sono tutti"
+	line "identici al CAPO-"
+	cont "PALESTRA, NINA."
 
-	para "Which of them is"
-	line "the real JANINE?"
+	para "Chi sarà la vera"
+	line "NINA?"
 	done
 
 OldFuchsiaGymGuyWinText:
-	text "That was a great"
-	line "battle, trainer"
-	cont "from NIHON!"
+	text "E stata una gran"
+	line "bella lotta, alle-"
+	cont "natore di NIHON!"
 	done
 
 OldFuchsiaGym_MapEvents:

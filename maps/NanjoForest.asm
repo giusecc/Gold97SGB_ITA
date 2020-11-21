@@ -171,109 +171,104 @@ NanjoForestSign2:
 	jumptext NanjoForestSign2Text
 	
 NanjoForestSignText:
-	text "'NO LITTERING'"
-	para "Please pick up"
-	line "after yourself."
+	text "NON GETTARE"
+	line " I RIFIUTI "
+	para "Portali con te."
 	done
 	
 NanjoForestSign2Text:
-	text "Exit here for"
-	line "GREAT EAST STRAIT"
+	text "Uscita per"
+	line "STRETTO ORIENTALE"
 	done
 	
 NanjoForestSilverBefore:
-	text "<RIVAL>: Hey,"
+	text "<RIVAL>: Ehi,"
 	line "<PLAYER>!"
-	para "It's been a while!"
-	para "I'm here out on"
-	line "the ISLANDS to"
-	para "continue training"
-	line "and bonding with"
-	cont "my #MON."
-	para "I've learned more"
-	line "about how to work"
-	para "with them as a"
-	line "team."
-	para "We've grown a lot"
-	line "closer recently."
-	para "But we've also"
-	line "grown a lot"
-	cont "stronger!"
-	para "You know what that"
-	line "means!"
+	para "Quanto tempo!"
+	para "Sono venuto sulle"
+	line "ISOLE per conti-"
+	para "nuare l'allena-"
+	line "mento e rafforzare"
+	para "il legame con i"
+	line "#MON."
+	para "Ho imparato molto"
+	line "sul lavoro di"
+	cont "squadra."
+	para "Siamo migliorati"
+	line "molto."
+	para "E siamo anche"
+	line "diventati più"
+	cont "forti!"
+	para "Sai cosa intendo!"
 	done
 	
 NanjoForestSilverTextWin:
-	text "You got me!"
+	text "Mi hai sconfitto!"
 	done
 	
 NanjoForestSilverTextLoss:
-	text "Alright!"
+	text "E va bene!"
 	done
 	
 NanjoForestSilverAfter:
-	text "Whew, that was a"
-	line "great battle."
-	para "I think I'm about"
-	line "done training"
-	cont "here."
-	para "Maybe I'll catch"
-	line "you around some-"
-	cont "place else!"
+	text "È stata una bella"
+	line "lotta."
+	para "Credo di aver"
+	line "concluso il"
+	cont "mio allenamento."
+	para "Forse ci troveremo"
+	line "altrove!"
 	done
 	
 WhatDoesWisdomOrbDoText:
-	text "I wonder what it"
-	line "came from."
-	para "Could it have been"
-	line "a #MON?"
+	text "Mi chiedo da"
+	line "dove venga."
+	para "Che sia di un"
+	line "#MON?"
 	done
 	
 HeresWisdomOrbText:
-	text "Hey, check this"
-	line "out!"
-	para "It's some sort"
-	line "of ball?"
-	para "Not sure what it"
-	line "is, but you can"
-	cont "have it!"
+	text "Ehi! Guarda qua!"
+	para "È una specie di"
+	line "sfera."
+	para "Non so cosa sia,"
+	line "ma puoi tenerla!"
 	done
 	
 AlreadyGaveWisdomOrbText:
-	text "You never know"
-	line "what you'll find"
-	cont "here."
+	text "Non sai mai cosa"
+	line "puoi trovare da"
+	cont "queste parti."
 	done
 	
 NoWisdomOrbYetText:
-	text "I'm looking for"
-	line "interesting things"
-	para "that wash up on"
-	line "the shore."
-	para "I find lots of"
-	line "items like POTIONS"
-	cont "and FULL HEALS."
-	para "Once I even found"
-	line "a NUGGET!"
-	para "You can find some"
-	line "cool stuff here."
-	para "Come back and"
-	line "check with me"
-	cont "sometime."
-	para "I'll share some-"
-	line "thing I find"
-	cont "with you."
+	text "Vado alla ricerca"
+	line "di oggetti inte-"
+	para "ressanti sulla"
+	line "riva."
+	para "Trovo un sacco di"
+	line "strumenti come"
+	para "POZIONI e"
+	line "CURE TOTALI."
+	para "Una volta ho tro-"
+	line "vato una PEPITA!"
+	para "Puoi trovare"
+	line "di tutto qui."
+	para "Vieni da me"
+	line "ogni tanto."
+	para "Potrei darti"
+	line "qualcosa che"
+	cont "ho trovato."
 	done
 	
 WisdomOrbBugCatcherText:
-	text "My brother and I"
-	line "find lots of cool"
-	para "things that wash"
-	line "up on the shore!"
-	para "We don't think of"
-	line "it as trash,"
-	para "because sometimes"
-	line "we find treasure!"
+	text "Io e mio fratello"
+	line "troviamo tanta"
+	para "roba sulla riva!"
+	para "Per noi non è"
+	line "spazzatura, perché"
+	para "talvolta troviamo"
+	line "dei tesori!"
 	done	
 
 NanjoForest_MapEvents:
