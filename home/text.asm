@@ -379,14 +379,14 @@ TrainerCharText:: db "ALLENATORE@"
 PCCharText::      db "PC@"
 RocketCharText::  db "ROCKET@"
 PlacePOKeText::   db "POKé@"
-KougekiText::     db "こうげき@"
+KougekiText::     db "@"
 SixDotsCharText:: db "……@"
 EnemyText::       db " nemico@"
 PlacePKMNText::   db "<PK><MN>@"
 PlacePOKEText::   db "<PO><KE>@"
 String_Space::    db ", @"
 ; These strings have been dummied out.
-PlaceJPRouteText::
+PlaceJPRouteText:: db "PERCORSO"
 PlaceWatashiText::
 PlaceKokoWaText:: db "@"
 

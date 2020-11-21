@@ -334,8 +334,8 @@ Executive6FAfterBattleText:
 	done
 	
 RadioTower6FDirectorsOfficeSignText:
-	text "6F DIRECTOR'S"
-	line "   OFFICE"
+	text "P5 UFFICIO DEL"
+	line "   DIRETTORE"
 	done
 	
 RadioTower6FClefableText:

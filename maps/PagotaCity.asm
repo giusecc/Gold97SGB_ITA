@@ -115,92 +115,94 @@ KurtsDoorLockedText:
 
 	
 PagotaCityLassText:
-	text "Ghosts are rumored"
-	line "to appear in"
-	cont "5 FLOOR TOWER."
+	text "Si dice che nella"
+	line "PENTATORRE"
+	para "appaiano degli"
+	line "spettri."
 
-	para "They said normal-"
-	line "type #MON moves"
+	para "Pare che le mosse"
+	line "normali non"
 
-	para "had no effect on"
-	line "ghosts."
+	para "abbiano effetto"
+	line "sugli spettri."
 	done
 
 PagotaCitySuperNerdText:
-	text "Hey, you're a"
-	line "#MON trainer?"
+	text "Sei un allenatore"
+	line "di #MON?"
 
-	para "If you beat the"
-	line "GYM LEADER here,"
+	para "Il CAPOPALESTRA"
+	line "sarà la tua prova"
 
-	para "you'll be ready"
-	line "for prime time!"
+	para "per vedere se sei"
+	line "un fuoriclasse."
 	done
 
 PagotaCityGrampsText:
-	text "FALKNER, from the"
-	line "PAGOTA CITY"
+	text "VALERIO della"
+	line "PALESTRA di"
 
-	para "GYM, is a fine"
-	line "trainer!"
+	para "ANCESTRALIA è un"
+	line "buon allenatore!"
 
-	para "His FLYING-TYPE"
-	line "bird #MON are"
-	para "trained to perform"
-	line "in parades and"
-	cont "other events."
+	para "I suoi #MON"
+	line "di tipo VOLANTE"
+	para "si allenano per"
+	line "esibirsi anche"
+	cont "nelle parate."
 	done
 
 PagotaCityYoungsterTextTree:
-	text "Behind me is the"
-	line "5 FLOOR TOWER!"
-	para "But getting to it"
-	line "can be difficult"
-	para "because of this"
-	line "tree that's in the"
-	cont "way."
+	text "Qua dietro c'è"
+	line "la PENTATORRE!"
+	para "È difficile"
+	line "raggiungerla a"
+	para "causa di questo"
+	line "albero."
 	done
 	
 PagotaCityYoungsterTextNoTree:
-	text "Cool! Now that the"
-	line "tree is gone, I"
-	para "can go play in the"
-	line "tower!"
+	text "Fantastico! Senza"
+	line "l'albero posso"
+	para "andare a giocare"
+	line "nella torre!"
 	done
 
 PagotaCitySignText:
-	text "PAGOTA CITY"
+	text "ANCESTRALIA"
 
-	para "Timeless as the"
-	line "stars above."
+	para "Eterna come il"
+	line "cielo stellato."
 	done
 
 PagotaGymSignText:
-	text "PAGOTA CITY"
-	line "#MON GYM"
-	cont "LEADER: FALKNER"
+	text "ANCESTRALIA"
+	line "CAPOPALESTRA:"
+	cont "VALERIO"
 
-	para "The Elegant Master"
-	line "of Flying #MON"
+	para "L'elegante maestro"
+	line "dei #MON"
+	cont "volanti."
 	done
 
 FiveFloorTowerSignText:
-	text "5 FLOOR TOWER"
+	text "PENTATORRE"
 
-	para "Experience the"
-	line "Way of #MON"
+	para "Scopri la Via"
+	line "dei #MON"
 	done
 
 EarlsPokemonAcademySignText:
-	text "EARL'S ART HOUSE"
+	text "GALLERIA D'ARTE"
+	line "DI PRIMO"
 	done
 	
 KurtsHouseSignText:
-	text "KURT'S HOUSE"
+	text "CASA DI FRANZ"
 	done
 	
 EarlsMuseumSign2Text:
-	text "BILL'S HOUSE"
+	text "CASA DI BILL"
 	done
 	
 

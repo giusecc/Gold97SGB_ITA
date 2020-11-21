@@ -87,7 +87,7 @@ RadioTower4fSuperNerd:
 	end
 
 .mapcardname
-	db "MAP CARD@"
+	db "MAPPA@"
 	
 
 	
@@ -142,148 +142,148 @@ TrainerGruntM28:
 	
 
 GruntM28SeenText:
-	text "Surprise!"
+	text "Sorpresa!"
 	done
 	
 GruntM28BeatenText:
-	text "You were prepared"
-	line "for this…"
+	text "Eri ben preparato…"
 	done
 	
 GruntM28AfterBattleText:
-	text "I'm sure you're"
-	line "used to seeing"
-	para "TEAM ROCKET grunts"
-	line "by now."
+	text "Credo che tu ti"
+	line "sia abituato alle"
+	para "reclute del"
+	line "TEAM ROCKET."
 	done
 
 KenGiveMapInTower:
-	text "KEN: Hey, bro!"
-	line "I did it!"
-	para "I'm a DJ now!"
-	para "And the research"
-	line "you've been doing"
-	para "for PROF.OAK is"
-	line "super useful for"
-	cont "my radio show!"
-	para "I owe ya one!"
-	para "…Oh, wait!"
-	line "I never had a"
-	para "chance to give"
-	line "this to you!"
+	text "KEN: Ehi!"
+	line "Ce l'ho fatta!"
+	para "Sono un DJ ora!"
+	para "Le ricerche che"
+	line "fai per il PROF."
+	para "OAK sono molto"
+	line "utili per il"
+	cont "mio programma!"
+	para "Sono in debito"
+	line "con te!"
+	para "…Oh, aspetta!"
+	line "Non ti ho mai"
+	para "dato questo!"
 	done
 	
 KenGiveMapInTower2:
-	text "How did you make"
-	line "it this far with-"
-	para "out a map and not"
-	line "get lost?"
+	text "Come hai fatto"
+	line "ad arrivare fin"
+	para "qui senza"
+	line "perderti?"
 	done
 	
 GruntM27SeenText:
-	text "Going to the top?"
-	para "I don't think so!"
+	text "Vai in cima?"
+	para "Non credo!"
 	done
 	
 GruntM27BeatenText:
-	text "I hear the view"
-	line "is lovely up"
-	cont "there."
+	text "Dicono che la"
+	line "vista sia"
+	cont "incredibile."
 	done
 	
 GruntM27AfterBattleText:
-	text "You can beat me,"
-	line "but you can't beat"
-	cont "GIOVANNI!"
+	text "Puoi battere me,"
+	line "ma non GIOVANNI!"
 	done
 
 	
 ScientistMarcSeenText:
-	text "My research shows"
-	line "we have a brat!"
+	text "Le mie ricerche"
+	line "mostrano che"
+	cont "devi andartene!"
 	done
 	
 ScientistMarcBeatenText:
-	text "Oh, dear."
+	text "Oh, peccato."
 	done
 	
 ScientistMarcAfterBattleText:
-	text "You stand in the"
-	line "way of science!"
+	text "Stai ostacolando"
+	line "la scienza!"
 	done
 	
 RadioTower4fTeacherText:
-	text "MARY: Be sure to"
-	line "tune in to KEN's"
-	cont "#MON TALK,"
-	para "daily after 10"
-	line "in the morning!"
+	text "LORI: sintonizzati"
+	line "sul #MON TALK"
+	cont "di KEN, ogni"
+	para "giorno dopo le"
+	line "10 del mattino!"
 	done
 	
 RadioTower4fTeacherTextTakeover:
-	text "MARY: I should've"
-	line "stayed home today!"
+	text "LORI: Sarei dovuta"
+	line "restare a casa!"
 	done
 	
 RadioTower4fBurglarText:
-	text "Hiya, kid!"
-	para "I'm the production"
-	line "manager for KEN's"
-	cont "#MON TALK!"
-	para "Be sure to tune in"
-	line "to our show!"
+	text "Ehi, ragazzo!"
+	para "Sono il produttore"
+	line "del #MON TALK"
+	cont "di KEN!"
+	para "Ascoltalo, mi"
+	line "raccomando!"
 	done
 	
 RadioTower4fBurglarTextTakeover:
-	text "This isn't part of"
-	line "the production"
-	cont "plan!"
+	text "Questo non fa"
+	line "parte del piano"
+	cont "di produzione!"
 	done
 
 RadioTower4fRockerText:
-	text "I listened to the"
-	line "radio while I was"
-	cont "at SANSKRIT RUINS."
-	para "I heard a strange"
-	line "broadcast there."
+	text "Ascoltando la"
+	line "radio alle ROVINE"
+	cont "VESTIGIA, ho"
+	para "sentito una strana"
+	line "trasmissione."
 	done
 	
 RadioTower4fRockerTextTakeover:
-	text "All our regular"
-	line "shows are"
-	cont "currently off-air!"
+	text "Tutti i nostri"
+	line "programmi non sono"
+	cont "in onda!"
 	done
 	
 	
 RadioTower4fSuperNerdText:
-	text "KEN: Hey, bro!"
-	line "I did it!"
-	para "I'm a DJ now!"
-	para "And the research"
-	line "you've been doing"
-	para "for PROF.OAK is"
-	line "super useful for"
-	cont "my radio show!"
-	para "I owe ya one!"
+	text "KEN: Ehi!"
+	line "Ce l'ho fatta!"
+	para "Sono un DJ ora!"
+	para "Le ricerche che"
+	line "fai per il PROF."
+	para "OAK sono molto"
+	line "utili per il"
+	cont "mio programma!"
+	para "Sono in debito"
+	line "con te!"
 	done
 	
 RadioTower4fSuperNerdTextTakeover:
-	text "KEN: Bro! What are"
-	line "you doing here!?"
-	para "Stay safe!"
+	text "KEN: Ehi! Cosa"
+	line "ci fai qui!?"
+	para "Stai attento!"
 	done
 	
 RadioTower4fSuperNerdTextAfter:
-	text "KEN: Did you kick"
-	line "those ROCKETS out"
-	cont "of here?"
-	para "Bro, you and your"
-	line "#MON are"
-	cont "seriously strong!"
+	text "KEN: Hai mandato"
+	line "via il TEAM"
+	cont "ROCKET?"
+	para "Tu e i tuoi"
+	line "#MON siete"
+	cont "incredibili!"
 	done
 	
 RadioTower4FStudio2SignText:
-	text "4F STUDIO 2"
+	text "P3 STUDIO 2"
 	done
 
 RadioTower4F_MapEvents:

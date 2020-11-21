@@ -149,7 +149,7 @@ RadioTower1FRadioCardWomanScript:
 	end
 
 .RadioCardText:
-	db "RADIO CARD@"
+	db "SCHEDA RADIO@"
 
 .ReceiveItem:
 	jumpstd ReceiveItemScript
@@ -203,66 +203,67 @@ MovementData_0x5ce74:
 	step_end
 	
 GruntM12SeenText:
-	text "Welcome to the"
-	line "RADIO TOWER!"
-	para "I'm sure TEAM"
-	line "ROCKET can provide"
-	para "everything you"
-	line "might be looking"
-	cont "to see today!"
+	text "Benvenuto alla"
+	line "TORRE RADIO!"
+	para "Il TEAM ROCKET"
+	line "ti darà tutto"
+	para "ciò di cui hai"
+	line "bisogno!"
 	done
 	
 GruntM12BeatenText:
-	text "Losing a battle"
-	line "isn't what I was"
-	cont "talking about…"
+	text "Non intendevo"
+	line "perdere la lotta…"
 	done
 	
 GruntM12AfterBattleText:
-	text "TEAM ROCKET is"
-	line "working on making"
-	para "ourselves feel"
-	line "right at home!"
+	text "Il TEAM ROCKET"
+	line "sta lavorando per"
+	para "farci sentire"
+	line "a casa qui!"
 	done
 
 ReceptionistTakeoverText:
-	text "Hello."
-	para "We are not holding"
-	line "any events or"
-	para "tours while the"
-	line "current situation"
-	cont "unfolds."
+	text "Ciao."
+	para "Non abbiamo eventi"
+	line "in programma,"
+	para "finché non si"
+	line "risolve la"
+	cont "situazione."
 	done
 
 UnknownText_0x5ce77:
-	text "Welcome!"
+	text "Benvenuto!"
 	done
 
 
 
 UnknownText_0x5ceba:
-	text "Hi, are you here"
-	line "for the LUCKY NUM-"
-	cont "BER SHOW?"
+	text "Ciao, sei qui per"
+	line "lo SHOW del NUMERO"
+	cont "FORTUNATO?"
 
-	para "Want me to check"
-	line "the ID numbers of"
-	cont "your #MON?"
+	para "Puoi vincere con i"
+	line "Numeri d'Identità"
+	cont "dei tuoi #MON."
 
-	para "If you get lucky,"
-	line "you win a prize."
+	para "Se hai fortuna"
+	line "puoi vincere"
+	cont "un bel premio."
 	done
 
 UnknownText_0x5cf3a:
-	text "This week's ID"
-	line "number is @"
+	text "Il Numero d'Iden-"
+	line "tità di questa"
+	para "settimana è"
+	line "@"
 	text_ram wStringBuffer3
 	text "."
 	done
 
 UnknownText_0x5cf5a:
-	text "Let's see if you"
-	line "have a match."
+	text "Vediamo se"
+	line "corrisponde."
 	done
 
 UnknownText_0x5cf79:
@@ -271,193 +272,199 @@ UnknownText_0x5cf79:
 	done
 
 UnknownText_0x5cf7e:
-	text "Please come back"
-	line "next week for the"
-	cont "next LUCKY NUMBER."
+	text "Torna la prossima"
+	line "settimana, per il"
+	para "prossimo NUMERO"
+	line "FORTUNATO."
 	done
 
 UnknownText_0x5cfb5:
-	text "Wow! You have a"
-	line "perfect match of"
-	cont "all five numbers!"
+	text "Incredibile! Tutti"
+	line "i cinque numeri"
+	cont "corrispondono!"
 
-	para "We have a grand"
-	line "prize winner!"
+	para "Sei il vincitore"
+	line "del primo premio!"
 
-	para "You have won a"
+	para "Hai vinto una"
 	line "MASTER BALL!"
 	done
 
 UnknownText_0x5d023:
-	text "Hey! You've"
-	line "matched the last"
-	cont "three numbers!"
+	text "Grande! Gli ultimi"
+	line "tre numeri"
+	cont "corrispondono!"
 
-	para "You've won second"
-	line "prize, an EXP."
-	cont "SHARE!"
+	para "Hai vinto il"
+	line "secondo premio,"
+	cont "CONDIV. ESP.!"
 	done
 
 UnknownText_0x5d076:
-	text "Ooh, you've"
-	line "matched the last"
-	cont "two numbers."
+	text "Oh, i due ultimi"
+	line "numeri"
+	cont "corrispondono."
 
-	para "You've won third"
-	line "prize, a PP UP."
+	para "Hai vinto il terzo"
+	line "premio, PP-SU."
 	done
 
 UnknownText_0x5d0c0:
-	text "Nope, none of your"
-	line "ID numbers match."
+	text "Peccato, neppure"
+	line "un numero"
+	cont "corrisponde."
 	done
 
 UnknownText_0x5d0e6:
-	text "You've got no room"
-	line "for your prize."
+	text "Non hai posto per"
+	line "ricevere"
+	cont "il premio."
 
-	para "Make room and come"
-	line "back right away."
+	para "Libera uno spazio"
+	line "e poi torna qui."
 	done
 
 UnknownText_0x5d12d:
-	text "We have a special"
-	line "quiz campaign on"
-	cont "right now."
+	text "Partecipa al quiz"
+	line "che si sta svol-"
+	cont "gendo proprio ora!"
 
-	para "Answer five ques-"
-	line "tions correctly to"
-	cont "win a RADIO CARD."
+	para "Se rispondi"
+	line "correttamente a"
+	para "5 domande vinci"
+	line "una SCHEDA RADIO."
 
-	para "Slide it into your"
-	line "#GEAR to play"
+	para "Se la inserisci"
+	line "nel #GEAR,"
+	para "puoi ascoltare la"
+	line "radio quando vuoi."
 
-	para "the radio anytime,"
-	line "anywhere."
-
-	para "Would you like to"
-	line "take the quiz?"
+	para "Vuoi partecipare"
+	line "al quiz?"
 	done
 
 UnknownText_0x5d1f2:
-	text "Question 1:"
+	text "Domanda 1:"
 
-	para "Is there a #MON"
-	line "that appears only"
-	cont "in the morning?"
+	para "C'è un #MON"
+	line "che appare solo"
+	cont "di mattina?"
 	done
 
 UnknownText_0x5d231:
-	text "Correct!"
-	line "Question 2:"
+	text "Esatto!"
+	line "Domanda 2:"
 
-	para "Is this statement"
-	line "correct?"
+	para "Questa frase è"
+	line "esatta?"
 
-	para "You can't buy a"
-	line "BERRY at a MART."
+	para "Non puoi comprare"
+	line "BACCHE in un"
+	cont "#MON-MARKET."
 	done
 
 UnknownText_0x5d282:
-	text "Bull's-eye!"
-	line "Question 3:"
+	text "Giusto!"
+	line "Domanda 3:"
 
-	para "Does HM01 contain"
-	line "the move FLASH?"
+	para "La MN01 contiene"
+	line "la mossa FLASH?"
 	done
 
 UnknownText_0x5d2bc:
-	text "So far so good!"
-	line "Question 4:"
+	text "Finora è tutto ok!"
+	line "DOMANDA 4:"
 
-	para "Is FALKNER the"
-	line "PAGOTA CITY GYM"
-	para "LEADER who uses"
-	line "bird #MON?"
+	para "VALERIO, il"
+	line "CAPOPALESTRA di"
+	para "ANCESTRALIA usa"
+	line "#MON VOLANTE?"
 	done
 
 UnknownText_0x5d30e:
-	text "Wow! Right again!"
-	line "Here's the final"
-	cont "question:"
+	text "Hai indovinato"
+	line "ancora! E adesso"
+	cont "la domanda finale:"
 
-	para "Is the route north"
-	line "of WESTPORT CITY"
-	cont "named ROUTE 102?"
+	para "La strada a nord"
+	line "di PORTOVEST è il"
+	cont "PERCORSO 102?"
 	done
 
 UnknownText_0x5d37b:
-	text "Bingo! You got it!"
-	line "Congratulations!"
+	text "Ce l'hai fatta!!!"
+	line "Complimenti!"
 
-	para "Here's your prize,"
-	line "a RADIO CARD!"
+	para "Hai vinto una"
+	line "SCHEDA RADIO!"
 	done
 
 UnknownText_0x5d3c0:
-	text "<PLAYER>'s #GEAR"
-	line "can now double as"
-	cont "a radio!"
+	text "Il #GEAR di"
+	line "<PLAYER> ora può"
+	para "funzionare come"
+	line "una RADIO."
 	done
 
 UnknownText_0x5d3e5:
-	text "Please tune in to"
-	line "our radio shows."
+	text "Ascolta i nostri"
+	line "programmi!"
 	done
 
 UnknownText_0x5d409:
-	text "Oh, dear."
-	line "Sorry, but you"
+	text "Peccato!"
+	line "Mi dispiace, hai"
 
-	para "got it wrong."
-	line "Please try again!"
+	para "sbagliato."
+	line "Riprova!"
 	done
 
 UnknownText_0x5d443:
-	text "Oh. I see. Please"
-	line "see me if you"
-	cont "change your mind."
+	text "Come vuoi. Se"
+	line "cambi idea, noi"
+	cont "siamo qui."
 	done
 
 RadioTower1FLassText:
-	text "KEN is a fabulous"
-	line "DJ."
+	text "KEN è un DJ"
+	line "favoloso."
 
-	para "His voice is"
-	line "seriously so cool."
+	para "La sua voce è"
+	line "incredibile."
 	done
 
 RadioTower1FYoungsterText:
-	text "I love MARY, from"
+	text "Adoro LORI del"
 	line "#MON TALK."
 
-	para "I've met her in"
-	line "person. She's"
-	cont "really friendly!"
+	para "L'ho conosciuta"
+	line "di persona. È"
+	cont "incredibile!"
 	done
 
 
 RadioTower1FDirectoryText:
-	text "1F RECEPTION"
-	line "2F STUDIO 1"
+	text "PT RECEPTION"
+	line "P1 STUDIO 1"
 
-	para "3F PERSONNEL"
-	line "4F STUDIO 2"
+	para "P2 PERSONALE"
+	line "P3 STUDIO 2"
 
-	para "5F STUDIO 3"
-	line "6F DIRECTOR'S"
-	cont "   OFFICE"
+	para "P4 STUDIO 3"
+	line "P5 UFFICIO DEL"
+	cont "   DIRETTORE"
 	done
 
 RadioTower1FLuckyChannelSignText:
-	text "LUCKY CHANNEL!"
+	text "RADIO FORTUNA!"
 
-	para "Win with #MON"
-	line "ID numbers!"
+	para "Vinci con Numeri"
+	line "d'Identità dei"
+	cont "tuoi #MON."
 
-	para "Trade your #MON"
-	line "to collect differ-"
-	cont "ent ID numbers!"
+	para "Scambia i #MON"
+	line "per avere più"
+	cont "Numeri d'Identità!"
 	done
 
 RadioTower1F_MapEvents:
