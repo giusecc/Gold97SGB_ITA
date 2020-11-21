@@ -126,7 +126,7 @@ SpeechTextbox::
 	jp Textbox
 
 GameFreakText:: ; unreferenced
-	text "ゲームフりーク！" ; "GAMEFREAK!"
+	text "" ; "GAMEFREAK!"
 	done
 
 RadioTerminator::
@@ -237,28 +237,28 @@ ENDM
 	cp FIRST_REGULAR_TEXT_CHAR
 	jr nc, .place
 
-	cp "パ"
+	cp ""
 	jr nc, .handakuten
 
 .dakuten
 	cp FIRST_HIRAGANA_DAKUTEN_CHAR
 	jr nc, .hiragana_dakuten
-	add "カ" - "ガ"
+	add "" - ""
 	jr .katakana_dakuten
 .hiragana_dakuten
-	add "か" - "が"
+	add "" - ""
 .katakana_dakuten
 	ld b, "ﾞ" ; dakuten
 	call Diacritic
 	jr .place
 
 .handakuten
-	cp "ぱ"
+	cp ""
 	jr nc, .hiragana_handakuten
-	add "ハ" - "パ"
+	add "" - ""
 	jr .katakana_handakuten
 .hiragana_handakuten
-	add "は" - "ぱ"
+	add "" - ""
 .katakana_handakuten
 	ld b, "ﾟ" ; handakuten
 	call Diacritic
@@ -331,16 +331,32 @@ PlaceEnemysName::
 	cp RIVAL2
 	jr z, .rival
 
-	ld de, wOTClassName
+;	ld de, wOTClassName
+;	call PlaceString
+;	ld h, b
+;	ld l, c
+;	ld de, String_Space
+;	call PlaceString
+;	push bc
+;	callfar Battle_GetTrainerName
+;	pop hl
+;	ld de, wStringBuffer1
+
+;ADDED PART -----------------
+	push bc
+	callfar Battle_GetTrainerName
+	pop hl
+	ld de, wStringBuffer1
 	call PlaceString
 	ld h, b
 	ld l, c
 	ld de, String_Space
 	call PlaceString
-	push bc
-	callfar Battle_GetTrainerName
-	pop hl
-	ld de, wStringBuffer1
+	ld h, b
+	ld l, c
+	ld de, wOTClassName
+;----------------------------
+
 	jr PlaceCommandCharacter
 
 .rival
@@ -368,7 +384,7 @@ SixDotsCharText:: db "……@"
 EnemyText::       db " nemico@"
 PlacePKMNText::   db "<PK><MN>@"
 PlacePOKEText::   db "<PO><KE>@"
-String_Space::    db " @"
+String_Space::    db ", @"
 ; These strings have been dummied out.
 PlaceJPRouteText::
 PlaceWatashiText::
