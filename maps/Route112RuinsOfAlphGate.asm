@@ -18,30 +18,31 @@ Route112RuinsOfAlphGateYoungsterScript:
 	jumptextfaceplayer Route112RuinsOfAlphGateYoungsterText
 
 Route112RuinsOfAlphGateOfficerText:
-	text "RUINS OF ALPH"
+	text "ROVINE D'ALFA"
 
-	para "A Look-and-Touch"
-	line "Tourist Site"
+	para "Luogo turistico da"
+	line "vedere e toccare!"
 
-	para "Try the sliding"
-	line "stone panels!"
+	para "Prova i pannelli"
+	line "mobili di pietra!"
 	done
 
 Route112RuinsOfAlphGatePokefanMText:
-	text "You're studying"
-	line "the RUINS?"
+	text "Stai studiando"
+	line "le ROVINE?"
 
-	para "I see a scientist"
-	line "in the making."
+	para "Sembri proprio"
+	line "uno scienziato."
 	done
 
 Route112RuinsOfAlphGateYoungsterText:
-	text "There are drawings"
-	line "on stone panels."
+	text "Ci sono pannelli"
+	line "di pietra con"
+	cont "strani disegni."
 
-	para "I tried moving"
-	line "them. I wonder"
-	cont "what they are."
+	para "Si possono"
+	line "spostare. Chissà"
+	cont "cosa significano?"
 	done
 
 Route112RuinsOfAlphGate_MapEvents:

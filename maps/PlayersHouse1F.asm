@@ -207,174 +207,176 @@ MomWalksBackMovement:
 	step_end
 	
 GearIsActiveText1:
-	text "That's it!"
-	para "I think it's all"
-	line "working!"
+	text "Ecco!"
+	para "Credo sia tutto"
+	line "a posto!"
 	done
 	
 GearIsActiveText2:
-	text "<PLAYER>'s #GEAR"
-	line "is now set up!"
+	text "Il #GEAR di"
+	line "<PLAYER> è"
+	cony "funzionante!"
 	done
 
 FinalMomText:
-	text "That's right,"
-	line "<RIVAL> is"
-	cont "his name!"
+	text "Capisco,"
+	line "si chiama"
+	cont "<RIVAL>!"
 	
-	para "Well he's probably"
-	line "still close by."
+	para "Dev'essere ancora"
+	line "qui vicino."
 	
-	para "I'm sure you'll"
-	line "bump into him"
-	cont "soon."
+	para "Sono sicuro che"
+	line "lo troverai."
 	done
 
 Oak2sLookingForYouText:
 	text "Oh, <PLAYER>…!"
-	line "Your new #MON"
+	line "Il tuo #MON"
 
-	para "GEAR isn't set up"
-	line "yet!"
+	para "GEAR non è"
+	line "impostato!"
 	
-	para "Let's get that"
-	line "done before you"
-	cont "head out!"
+	para "Meglio farlo"
+	line "prima di partire!"
 	done
 
 MomGivesPokegearText:
-	text "#MON GEAR, or"
-	line "just #GEAR."
+	text "Il #MON"
+	line "GEAR, detto anche"
+	cont "#GEAR:"
 
-	para "It's essential if"
-	line "you want to be a"
-	cont "good trainer."
+	para "è essenziale per"
+	line "diventare un buon"
+	cont "allenatore."
 
-	para "The day of the"
-	line "week isn't set."
+	para "Ah, non è inserito"
+	line "il giorno."
 
-	para "You mustn't forget"
-	line "that!"
+	para "Non bisogna mai"
+	line "dimenticarsene!"
 	done
 
 IsItDSTText:
-	text "Is it Daylight"
-	line "Saving Time now?"
+	text "È in vigore"
+	line "l'ora legale?"
 	done
 
 ComeHomeForDSTText:
-	text "Come home to"
-	line "adjust your clock"
+	text "Se vuoi regolare"
+	line "l'orologio per"
 
-	para "for Daylight"
-	line "Saving Time."
+	para "l'ora legale, devi"
+	line "tornare a case."
 
-	para "By the way, do you"
-	line "know how to use"
-	cont "the PHONE?"
+	para "Ah, sai come si"
+	line "usa il TELEFONO?"
 	done
 
 KnowTheInstructionsText:
-	text "Don't you just"
-	line "turn the #GEAR"
+	text "Devi soltanto"
+	line "aprire il #GEAR"
 
-	para "on and select the"
-	line "PHONE icon?"
+	para "e selezionare"
+	line "l'icona TELEFONO."
 	done
 
 DontKnowTheInstructionsText:
-	text "I'll read the"
-	line "instructions."
+	text "Ora ti leggo le"
+	line "istruzioni."
 
-	para "Turn the #GEAR"
-	line "on and select the"
-	cont "PHONE icon."
+	para "Accendere il #-""
+	line "GEAR e selezionare"
+	cont "l'icona TELEFONO."
 	done
 
 InstructionsNextText:
-	text "Phone numbers are"
-	line "stored in memory."
+	text "I numeri sono"
+	line "registrati in"
 
-	para "Just choose a name"
-	line "you want to call."
+	para "meoria. Selezio-"
+	line "nare il numero da"
+	cont "chiamare."
 
-	para "Gee, isn't that"
-	line "convenient?"
+	para "Sembra davvero"
+	line "comodo!"
 	
-	para "By the way, that"
-	line "friend of yours"
+	para "Comunque, poco"
+	line "fa è passato un"
 	
-	para "stopped by looking"
-	line "for you."
+	para "tuo amico a"
+	line "cercarti."
 	
-	para "I can't remember"
-	line "his name though…"
+	para "Non riesco a"
+	line "ricordarmi il"
+	cont "suo nome…"
 	
 	
 	done
 
 HurryUpOak2IsWaitingText:
-	text "PROF.OAK told me"
-	line "he wanted to talk"
+	text "Il PROF.OAK mi"
+	line "ha detto che"
 	
-	para "to you. You should"
-	line "go see him when"
-	cont "you get a chance."
+	para "voleva parlarti."
+	line "Vai da lui il"
+	cont "prima possibile."
 
 	done
 
 SoWhatWasProfOak2sErrandText:
-	text "So, what was PROF."
-	line "OAK's request?"
+	text "Cosa voleva il"
+	line "PROF.OAK?"
 
 	para "…"
 
-	para "That does sound"
-	line "challenging."
+	para "È una bella"
+	line "responsabilità!"
 
-	para "But, you should be"
-	line "proud that people"
-	cont "rely on you."
+	para "Devi essere orgo-"
+	line "glioso di tutta"
+	cont "questa fiducia."
 	done
 
 ImBehindYouText:
-	text "<PLAYER>, do it!"
+	text "<PLAYER>, coraggio!"
 
-	para "I'm behind you all"
-	line "the way!"
+	para "Io ti sarò sempre"
+	line "vicina!"
 	done
 
 
 StoveText:
-	text "Mom's specialty!"
+	text "La specialità"
+	line "della mamma!"
 
-	para "SUNPOINT VOLCANO"
-	line "BURGER!"
+	para "MINESTRONE DI"
+	line "ELIOPOLI!"
 	done
 
 SinkText:
-	text "The sink is spot-"
-	line "less. Mom likes it"
-	cont "clean."
+	text "Il lavandino"
+	line "brilla: la mamma"
+	cont "ama la pulizia."
 	done
 
 FridgeText:
-	text "Let's see what's"
-	line "in the fridge…"
+	text "Vediamo cosa"
+	line "c'è in frigo…"
 
-	para "FRESH WATER and"
-	line "tasty LEMONADE!"
+	para "ACQUA FRESCA e"
+	line "LEMONSUCCO!"
 	done
 
 TVText:
-	text "There's a movie on"
-	line "TV: Stars dot the"
+	text "Un film alla TV:"
+	line "due ragazzi in"
 
-	para "sky as two boys"
-	line "ride on a train…"
+	para "treno nella"
+	line "notte stellata…"
 
-	para "I'd better get"
-	line "rolling too!"
+	para "Anch'io devo"
+	line "andare!"
 	done
 
 PlayersHouse1F_MapEvents:

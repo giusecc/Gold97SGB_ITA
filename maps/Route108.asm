@@ -55,127 +55,127 @@ Route108FruitTree:
 	fruittree FRUITTREE_ROUTE_108
 
 BirdKeeperTobySeenText:
-	text "Fly high into the"
-	line "sky, my beloved"
-	cont "bird #MON!"
+	text "Volate alti"
+	line "nel cielo, miei"
+	para "amati #MON"
+	line "uccello!"
 	done
 
 BirdKeeperTobyBeatenText:
-	text "I feel like just"
-	line "flying away now."
+	text "Penso che"
+	line "m'involerò."
 	done
 
 BirdKeeperTobyAfterBattleText:
-	text "I plan to train in"
-	line "ALLOY CITY at"
-	cont "the FIGHTING DOJO."
-	para "FLYING #MON are"
-	line "strong against"
-	cont "FIGHTING TYPE."
-	para "…Is that an"
-	line "unfair advantage?"
+	text "Voglio allenarmi"
+	line "nel DOJO KARATE"
+	cont "di DESMOPOLI."
+	para "I #MON VOLANTI"
+	line "sono forti contro"
+	cont "il tipo LOTTA."
+	para "…È un vantaggio"
+	line "scorretto?"
 	done
 
 
 UnknownText_0x1a200e:
-	text "I have to take so"
-	line "many tests, I"
+	text "Devo fare così"
+	line "tanti compiti che"
 
-	para "don't have much"
-	line "time for #MON."
+	para "non ho mai tempo"
+	line "per i #MON."
 
-	para "So when I do get"
-	line "to play, I really"
-	cont "concentrate."
+	para "Così, quando mi"
+	line "capita di giocare"
+	para "mi concentro"
+	line "molto."
 	done
 
 LassDana1SeenText:
-	text "You seem to be"
-	line "good at #MON."
+	text "Sei bravo come"
+	line "allenatore?"
 
-	para "If you are, how"
-	line "about giving me"
-	cont "some advice?"
+	para "Potresti darmi"
+	line "qualche"
+	cont "consiglio?"
 	done
 
 LassDana1BeatenText:
-	text "I see. So you can"
-	line "battle that way."
+	text "Capisco, quindi"
+	line "lotti così."
 	done
 
 UnknownText_0x1a20ec:
-	text "I know something"
-	line "good!"
+	text "Vuoi sapere una"
+	line "cosa?"
 
-	para "MOOMOO MILK is"
-	line "a nutritious drink"
-	cont "for #MON!"
-	para "You can buy it"
-	line "over in STAND"
-	cont "CITY."
+	para "Il LATTE MUMU è"
+	line "fantastico per"
+	cont "i #MON!"
+	para "Lo puoi comprare"
+	line "a INERTOPOLI."
 	done
 
 
 SailorHarrySeenText:
-	text "I've been over-"
-	line "seas, so I know"
+	text "Sono stato oltre-"
+	line "mare, perciò"
 
-	para "about all sorts of"
-	line "#MON!"
+	para "conosco #MON"
+	line "di ogni tipo!"
 	done
 
 SailorHarryBeatenText:
-	text "Your skill is"
-	line "world class!"
+	text "La tua classe è"
+	line "mondiale!"
 	done
 
 SailorHarryAfterBattleText:
-	text "All kinds of peo-"
-	line "ple around the"
+	text "Tutti i popoli"
+	line "del mondo vivono"
 
-	para "world live happily"
-	line "with #MON."
+	para "felici con i"
+	line "#MON."
 	done
 
 BeautyOliviaSeenText:
-	text "Don't you think my"
-	line "#MON and I are"
-	cont "beautiful?"
+	text "I miei #MON"
+	line "sono stupendi,"
+	cont "vero?"
 	done
 
 BeautyOliviaBeatenText:
-	text "I keep my #MON"
-	line "prim and proper."
+	text "Tengo i #MON"
+	line "al meglio."
 	done
 
 BeautyOliviaAfterBattleText:
-	text "Have you ever had"
-	line "your #MON's"
-	para "hair cut in"
-	line "WESTPORT CITY?"
+	text "Hai fatto"
+	line "tagliare i"
+	para "capelli ai"
+	line "tuoi #MON?"
 	done
 
 Route108SignText:
-	text "ROUTE 108"
+	text "PERCORSO 108"
 
-	para "ALLOY CITY -"
-	line "BLUE FOREST"
+	para "DESMOPOLI -"
+	line "BIANCASELVA"
 	done
 
 Route108TrainerTipsText:
-	text "TRAINER TIPS"
+	text "CONSIGLI UTILI"
 
-	para "If a #MON is"
-	line "trying to evolve,"
-	cont "you can stop it."
+	para "Quando un #MON"
+	line "si sta evolvendo,"
+	cont "puoi bloccarlo."
 
-	para "Press the B But-"
-	line "ton during evolu-"
-	cont "tion."
+	para "Premi B durante"
+	line "l'evoluzione."
 
-	para "That startles the"
-	line "#MON and stops"
-	cont "its evolution."
+	para "Così facendo,"
+	line "l'evoluzione del"
+	cont "#MON si blocca."
 	done
 
 Route108_MapEvents:

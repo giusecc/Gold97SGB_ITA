@@ -7,10 +7,10 @@ VictoryRoadEntranceSign:
 	jumptext VictoryRoadEntranceSignText
 
 VictoryRoadEntranceSignText:
-	text "#MON LEAGUE"
+	text "LEGA #MON"
 
-	para "VICTORY ROAD"
-	line "ENTRANCE"
+	para "VIA VITTORIA"
+	line "INGRESSO"
 	done
 
 RouteU7U_MapEvents:

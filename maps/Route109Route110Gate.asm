@@ -10,16 +10,16 @@ Route109Route110GateOfficerScript:
 	jumptextfaceplayer Route109Route110GateOfficerText
 
 Route109Route110GateOfficerText:
-	text "Where did you say"
-	line "you're from?"
+	text "Da dove vieni?"
 
-	para "SILENT TOWN?"
+	para "BORGO SILENTE?"
 
-	para "PROF.OAK moved"
-	line "over there, right?"
+	para "Il PROF.OAK si è"
+	line "trasferito lì,"
+	cont "vero?"
 
-	para "You've come a long"
-	line "way to get here."
+	para "Ne hai fatta di"
+	line "strada."
 	done
 
 Route109Route110Gate_MapEvents:

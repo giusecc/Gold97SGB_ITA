@@ -110,175 +110,179 @@ Route109HiddenNugget:
 	
 
 BugCatcherEdSeenText:
-	text "You use any bug"
-	line "#MON?"
+	text "Hai dei #MON"
+	line "COLEOTTERO?"
 	done
 
 BugCatcherEdBeatenText:
-	text "Bugs are all I"
-	line "use!"
+	text "Uso solo i"
+	line "COLEOTTERI!"
 	done
 
 BugCatcherEdAfterBattleText:
-	text "Every trainer"
-	line "should have some"
-	cont "bug #MON!"
+	text "Ogni allenatore"
+	line "dovrebbe avere"
+	para "dei #MON"
+	line "COLEOTTERO."
 	done
 
 
 PokefanmDerekSeenText:
-	text "This is a good"
-	line "time to brag about"
-	cont "my PIKACHU!"
+	text "È così bello"
+	line "girare con il"
+	cont "mio PIKACHU!"
 	done
 
 PokefanmDerekBeatenText:
-	text "I had no time to"
-	line "show off PIKACHU…"
+	text "Non ho avuto tempo"
+	line "per mostrare il"
+	cont "mio PIKACHU…"
 	done
 
 PokefanMDerekText_NotBragging:
-	text "I'm not listening"
-	line "to your bragging!"
+	text "Non ti sentirò"
+	line "se ti vanti!"
 
-	para "We # FANS have"
-	line "a policy of not"
+	para "Noi # FANATICI"
+	line "non possiamo"
 
-	para "listening to other"
-	line "people brag!"
+	para "ascoltare altri"
+	line "vantarsi!"
 	done
 
 PokefanfRuthSeenText:
-	text "Such darling"
+	text "Che bei"
 	line "#MON."
 
-	para "Let's show our"
-	line "#MON together"
-	cont "at the same time."
+	para "Mostriamo i nostri"
+	line "#MON insieme"
+	cont "allo stesso tempo."
 	done
 
 PokefanfRuthBeatenText:
-	text "I don't mind"
-	line "losing."
+	text "Non mi importa"
+	line "perdere."
 	done
 
 PokefanfRuthAfterBattleText:
-	text "Do you know about"
-	line "baby #MON?"
+	text "Conosci i cuccioli"
+	line "di #MON?"
 
-	para "They're all so"
-	line "adorable!"
+	para "Sono così"
+	line "adorabili!"
 	done
 
 PokefanMDerekPikachuIsItText:
-	text "PIKACHU is it!"
-	line "Don't you agree?"
+	text "PIKACHU lo è!"
+	line "Concordi?"
 	done
 
 PsychicNormanSeenText:
-	text "Let me see what"
-	line "your #MON are"
-	cont "capable of."
+	text "Fammi vedere di"
+	line "cosa sono capaci"
+	cont "i tuoi #MON."
 	done
 
 PsychicNormanBeatenText:
-	text "Ooh, your #MON"
-	line "have potential."
+	text "Oh, i tuoi #MON"
+	line "hanno del"
+	cont "potenziale."
 	done
 
 PsychicNormanAfterBattleText:
-	text "You know how #-"
-	line "MON have different"
-	cont "abilities?"
+	text "Sapevi che i"
+	line "#MON hanno"
+	cont "abilità diverse?"
 
-	para "People are like"
-	line "that too. Every-"
-	cont "one has different"
-	cont "potential."
+	para "Anche le persone."
+	line "Tutti hanno"
+	cont "diverse capacità!"
 	done
 
 PokefanfJaimeHopeItGetsDarkText:
-	text "Ufufufu… I hope it"
-	line "gets dark soon."
+	text "Hehe… Spero faccia"
+	line "buio presto."
 	done
 
 PokefanfJaimeSeenText:
-	text "You came at just"
-	line "the right time."
+	text "Sei arrivato al"
+	line "momento giusto."
 
-	para "Let's battle."
+	para "Lottiamo."
 	done
 
 PokefanfJaimeBeatenText:
-	text "Oh, how disap-"
-	line "pointing…"
+	text "Oh, che"
+	line "disdetta…"
 	done
 
 PokefanfJaimeAfterBattleText:
-	text "I met my PONYTA at"
-	line "night, right here"
-	cont "on ROUTE 109."
+	text "Ho incontrato"
+	line "PONYTA di notte,"
+	cont "sul PERCORSO 109."
 
-	para "I'm not sure why,"
-	line "but it seems to"
+	para "Non so perché,"
+	line "ma sembra che"
 
-	para "like it when I"
-	line "train here."
+	para "gli piaccia"
+	line "venire qui."
 
-	para "It seems to become"
-	line "friendlier by"
+	para "Diventa più"
+	line "amichevole quando"
 
-	para "training here than"
-	line "anywhere else."
+	cont "ci alleniamo qui."
 	done
 
 
 BeautyValerieSeenText:
-	text "Hi! Aren't you a"
-	line "cute trainer!"
+	text "Ciao! Sei"
+	line "carino!"
 
-	para "May I see your"
-	line "#MON?"
+	para "Posso vedere"
+	line "i tuoi #MON?"
 	done
 
 BeautyValerieBeatenText:
-	text "I'm glad I got to"
-	line "see your #MON!"
+	text "Che bello vedere"
+	line "i tuoi #MON!"
 	done
 
 BeautyValerieAfterBattleText:
-	text "When I see #-"
-	line "MON, it seems to"
-	cont "soothe my nerves."
+	text "Se vedo un #-"
+	line "MON, mi si"
+	cont "calmano i nervi."
 	done
 	
 	
 
 Route109SignText:
-	text "ROUTE 39"
+	text "PERCORSO 109"
 
-	para "ALLOY CITY -"
-	line "TEKNOS CITY"
+	para "DESMOPOLI -"
+	line "TECNOPOLI"
 	done
 
 MoomooFarmSignText:
-	text "Heal Your #MON!"
-	line "#MON CENTER"
+	text "Cura i #MON!"
+	line "CENTRO #MON"
 	done
 
 Route109TrainerTipsText:
-	text "TRAINER TIPS"
+	text "CONSIGLI UTILI"
 
-	para "Use HEADBUTT on"
-	line "trees to shake"
-	cont "#MON out."
+	para "Usa BOTTINTESTA"
+	line "per scovare #-"
+	para "MON tra gli"
+	line "alberi."
 
-	para "Different kinds of"
-	line "#MON drop out"
-	cont "of trees."
+	para "Sono molti i"
+	line "#MON che si"
+	para "nascondono tra"
+	line "gli alberi."
 
-	para "Use HEADBUTT on"
-	line "any tree you see!"
+	para "Usa BOTTINTESTA su"
+	line "un qualsiasi al-"
+	cont "bero, e vedrai!"
 	done
 
 Route109_MapEvents:

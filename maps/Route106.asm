@@ -236,157 +236,156 @@ Route113MovementData_DayCareManWalksBackInside_WalkAroundPlayer:
 	step_end
 	
 BugCatcherRobSeenText:
-	text "Did you see any"
-	line "cool bugs in the"
-	cont "FOREST?"
+	text "Hai trovato dei"
+	line "bei coleotteri"
+	cont "BOSCO?"
 	done
 	
 BugCatcherRobBeatenText:
-	text "My bugs are down!"
+	text "Distrutto!"
 	done
 	
 BugCatcherRobAfterBattleText:
-	text "That was a trick"
-	line "question."
-	para "All bugs are cool."
+	text "Era una domanda"
+	line "trabocchetto."
+	para "Tutti i #MON"
+	line "COLEOTTERO sono"
+	cont "belli."
 	done
 
 
 SchoolboyChad1SeenText:
-	text "I'm studying rare"
-	line "#MON."
+	text "Studio i #MON"
+	line "rari."
 	done
 
 SchoolboyChad1BeatenText:
-	text "I didn't study"
-	line "enough, I guess."
+	text "Non ho studiato"
+	line "abbastanza."
 	done
 
 SchoolboyChadSoManyTestsText:
-	text "Have you ever"
-	line "heard of EEVEE?"
-	para "Rumor has it they"
-	line "live right here!"
-	para "I've never seen"
-	line "one though."
-	para "I'd definitely"
-	line "let you know if"
-	cont "I ever saw any."
+	text "Hai mai sentito"
+	line "parlare di EEVEE?"
+	para "Dicono che ce ne"
+	line "siano qui vicino!"
+	para "Io non ne ho"
+	line "mai visti."
+	para "Ti farò sapere"
+	line "se ne vedrò"
+	cont "qualcuno."
 	done
 
 FledglingPaulsonSeenText:
-	text "I battle right"
-	line "by the #MON"
-	cont "CENTER."
-	para "That way it's easy"
-	line "to heal after I"
-	cont "lose."
+	text "Lotto vicino"
+	line "al CENTRO #MON."
+	para "Così posso"
+	line "curarli se perdo."
 	done
 
 FledglingPaulsonBeatenText:
-	text "Not again!"
+	text "Non di nuovo!"
 	done
 
 FledglingPaulsonAfterText:
-	text "My #MON are"
-	line "getting stronger,"
-	cont "slowly but surely."
+	text "I miei #MON"
+	line "si rafforzano,"
+	para "anche se"
+	line "lentamente."
 	done
 	
 
 
 Route106CooltrainerMText:
-	text "Have you ever used"
-	line "a #MON DAYCARE?"
-	para "The friendly old"
-	line "couple in that"
-	para "house will raise"
-	line "your #MON."
+	text "Sei mai stato"
+	line "alla PENSIONE?"
+	para "Possono allevare"
+	line "i tuoi #MON."
 	done
 
 BugCatcherWade1SeenText:
-	text "I caught a bunch"
-	line "of #MON. Let me"
-	cont "battle with you!"
+	text "Ho catturati dei"
+	line "#MON. Lascia"
+	cont "che lotti con te!"
 	done
 
 BugCatcherWade1BeatenText:
-	text "Awwwww…"
+	text "Oooooh…"
 	done
 
 BugCatcherWade1AfterText:
-	text "You can catch"
-	line "#MON even if"
+	text "Puoi prendere un"
+	line "#MON anche se"
 
-	para "you have six with"
-	line "you."
+	para "ne hai già sei"
+	line "con te."
 
-	para "If you catch one,"
-	line "it'll go to your"
-	cont "BOX automatically."
+	para "Se ne catturi uno"
+	line "andrà automatica-"
+	cont "mente nel BOX."
 	done
 
 
 Route106YoungsterText:
-	text "I found a good"
-	line "#MON in JADE"
-	cont "FOREST."
+	text "Ho preso un"
+	line "#MON nel BOSCO"
+	cont "GIADA."
 
-	para "I'm going to raise"
-	line "it to take on"
+	para "Lo allenerò per"
+	line "sfidare"
 	cont "JASMINE."
 
-	para "She's the leader"
-	line "of ALLOY CITY's"
-	cont "GYM."
+	para "È la capopalestra"
+	line "di DESMOPOLI."
 	done
 
 Route106SignText:
-	text "ROUTE 106"
+	text "PERCORSO 106"
 
-	para "ALLOY CITY -"
-	line "BIRDON TOWN"
+	para "DESMOPOLI -"
+	line "AVIOPOLI"
 	done
 
 DarkCaveSignText:
-	text "#MON DAYCARE"
-	para "Let us raise your"
-	line "#MON!"
+	text "PENSIONE #MON"
+	para "Facciamo crescere"
+	line "i vostri #MON!"
 	done
 
 JadeSignText:
-	text "JADE FOREST"
-	para "Entrance to the"
-	line "right."
+	text "BOSCO GIADA"
+	para "Entrata a destra."
 	done
 
 HikerAnthony2SeenText:
-	text "I came through the"
-	line "forest, but I"
+	text "Ho attraversato"
+	line "il BOSCO, ma"
 
-	para "still have plenty"
-	line "of energy left."
+	para "sono ancora pieno"
+	line "di energie."
 	done
 
 HikerAnthony2BeatenText:
-	text "Whoa! You've got"
-	line "more zip than me!"
+	text "Hai molte più"
+	line "energie di me!"
 	done
 
 HikerAnthony2AfterText:
-	text "We HIKERS are at"
-	line "our best when"
-	para "we're free to"
-	line "explore endlessly."
+	text "Noi ESPLORATORI"
+	line "siamo i migliori"
+	para "quando possiamo"
+	line "esplorare"
+	cont "liberamente."
 	done
 
 HikerAnthonyParaText:
-	text "Hey, did you get"
-	line "an EEVEE?"
+	text "Ehi! Hai preso"
+	line "un EEVEE?"
 
-	para "I caught one too."
+	para "Ne ho preso uno"
+	line "anche io!"
 
-	para "They're so fluffy!"
+	para "Sono così morbidi!"
 	done
 
 Route106_MapEvents:

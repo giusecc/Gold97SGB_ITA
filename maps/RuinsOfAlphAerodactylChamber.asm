@@ -44,17 +44,17 @@ RuinsOfAlphAerodactylChamberDescriptionSign:
 	jumptext RuinsOfAlphAerodactylChamberDescriptionText
 
 RuinsOfAlphAerodactylChamberAncientReplicaText:
-	text "It's a replica of"
-	line "an ancient #-"
-	cont "MON."
+	text "È la riproduzione"
+	line "di un #MON"
+	cont "antico."
 	done
 
 RuinsOfAlphAerodactylChamberDescriptionText:
-	text "This flying #-"
-	line "MON attacked its"
+	text "Questo #MON"
+	line "volante attaccava"
 
-	para "prey with saw-like"
-	line "fangs."
+	para "le prede con denti"
+	line "fatti a sega."
 	done
 
 RuinsOfAlphAerodactylChamber_MapEvents:

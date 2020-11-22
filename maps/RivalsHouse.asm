@@ -18,23 +18,19 @@ RivalsHouseBookshelf:
 	jumpstd DifficultBookshelfScript
 
 RivalsMomText:
-	text "Hi, <PLAYER>! My"
-	line "son's always so"
-	cont "energetic."
-	para "When he gets his"
-	line "mind set on"
-	para "something, he'll"
-	line "just go at it,"
-	cont "full speed ahead."
+	text "Ciao, <PLAYER>!"
+	line "Mio figlio è"
+	cont "così energico."
+	para "Quando si mette"
+	line "qualcosa in testa"
+	para "non si riesce"
+	line "più a fermarlo."
 	done
 
 RivalsBrotherText:
-	text "When I grow up,"
-	line "I'm going to be"
-	cont "a #MON breeder!"
-
-	para "I'll raise all"
-	line "the #MON!"
+	text "Da grande voglio"
+	line "fare l'allevatore"
+	cont "di #MON!"
 	done
 
 

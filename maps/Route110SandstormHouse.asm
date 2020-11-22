@@ -40,57 +40,56 @@ SandstormHouseBookshelf:
 	jumpstd MagazineBookshelfScript
 
 SandstormHouseWomanText1:
-	text "What is the"
-	line "ultimate goal for"
-	para "you and your"
-	line "#MON?"
+	text "Qual è l'obiettivo"
+	line "per te e i tuoi"
+	cont "#MON?"
 
-	para "NIHON LEAGUE?"
+	para "La LEGA di NIHON?"
 
-	para "Are your #MON"
-	line "loyal enough for"
-	cont "you to win?"
+	para "I tuoi #MON"
+	line "si fidano di te?"
 
-	para "Let me see…"
+	para "Fammi vedere…"
 	done
 
 SandstormHouseWomanLoyalText:
-	text "Ah! Your #MON"
-	line "trusts you very"
-	cont "much."
+	text "Ah! I tuoi #MON"
+	line "hanno molta"
+	cont "fiducia in te."
 
-	para "It's nice to see a"
-	line "good trainer."
+	para "È fantastico"
+	line "vedere un alle-"
+	cont "natore come te"
 
-	para "Here. A gift for"
-	line "your journey."
+	para "Ecco. Un dono per"
+	line "il tuo viaggio."
 	done
 
 SandstormHouseSandstormDescription:
-	text "TM37 happens to be"
-	line "SANDSTORM."
+	text "La MT37 contiene"
+	line "TERREMPESTA."
 
-	para "It's a move that"
-	line "inflicts damage on"
-	cont "both battlers."
+	para "È una mossa che"
+	line "danneggia entrambi"
+	cont "i #MON."
 
-	para "It's for advanced"
-	line "trainers only."
+	para "È solo per allena-"
+	line "tori abili."
 
-	para "Use it if you"
-	line "dare. Good luck!"
+	para "Usala se ne hai il"
+	line "coraggio! Auguri!"
 	done
 
 SandstormHouseWomanDisloyalText:
-	text "If it doesn't come"
-	line "to trust you some"
+	text "Se non c'è fiducia"
+	line "può diventare"
 
-	para "more, it could be"
-	line "tough going."
+	para "tutto più"
+	line "difficile."
 
-	para "Trust is the tie"
-	line "that binds #MON"
-	cont "and trainers."
+	para "La fiducia è ciò"
+	line "che lega i #MON"
+	cont "agli allenatori."
 	done
 
 Route110SandstormHouse_MapEvents:

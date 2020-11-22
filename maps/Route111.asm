@@ -40,46 +40,45 @@ Route111HiddenMaxEther:
 	hiddenitem MAX_ETHER, EVENT_ROUTE_111_HIDDEN_MAX_ETHER
 
 Route111WhirlIslandSignText:
-	text "WHIRL ISLAND"
-	line "ENTRANCE"
+	text "ISOLE VORTICOSE"
+	line "ENTRATA"
 	done
 
 SwimmerfKayleeSeenText:
-	text "I bet you're only"
-	line "riding on a"
-	para "#MON because"
-	line "you can't handle"
-	cont "the cold water!"
+	text "Stai nuotando"
+	line "con un"
+	para "#MON perché"
+	line "non sopporti"
+	cont "l'acqua fredda!"
 	done
 
 SwimmerfKayleeBeatenText:
-	text "Is that how you do"
-	line "it?"
+	text "Ah, è così?"
 	done
 
 SwimmerfKayleeAfterBattleText:
-	text "It honestly might"
-	line "be dangerous to"
-	para "stay in this water"
-	line "for too long."
+	text "Potrebbe essere"
+	line "pericoloso stare"
+	para "immersi qui per"
+	line "troppo tempo."
 	done
 	
 SwimmermMathewSeenText:
 	text "Brr!"
-	para "The cold water"
-	line "builds character!"
+	para "L'acqua gelida"
+	line "ti tempra!"
 	done
 
 SwimmermMathewBeatenText:
-	text "Ooh, you've got"
-	line "great endurance!"
+	text "Ooh, hai una"
+	line "grande resistenza!"
 	done
 
 SwimmermMathewAfterBattleText:
-	text "I can't swim any"
-	line "farther north."
-	para "The waters get too"
-	line "dangerous."
+	text "Non riesco a nuo-"
+	line "tare più a nord."
+	para "Le acque sono"
+	line "troppo pericolose."
 	done
 
 

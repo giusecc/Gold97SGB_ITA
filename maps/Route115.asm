@@ -468,196 +468,197 @@ LeaveMovement:
 	step_end
 	
 Route115FisherLoveThisJobText:
-	text "Wahaha!"
+	text "Ahaha!"
 	
-	para "I love this job!"
+	para "Amo questo lavoro!"
 	done
 	
 Route115LookieText:
-	text "Oh! Looky there!"
+	text "Oh! Guarda qua!"
 	
-	para "Looks like some"
-	line "-thing was inside"
-	cont "that boulder."
+	para "Sembra che ci"
+	line "fosse qualcosa"
+	cont "in quel masso."
 
-	para "Why don't you take"
-	line "take it?"
+	para "Perché non lo"
+	line "prendi?"
 	done
 	
 Route115ThatWasGreatText:
-	text "That was great!"
+	text "Grandioso!"
 	
-	para "The path to"
-	line "SILENT TOWN is"
-	cont "finally clear."
+	para "La strada per"
+	line "BORGO SILENTE è"
+	cont "finalmente libera!"
 
-	para "Well, take care,"
-	line "kid!"
+	para "Stammi bene,"
+	line "ragazzo!"
 	done
 
 	
 Route115FisherSettingUpText:
-	text "These rocks have"
-	line "been blocking the"
-	cont "path to SILENT"
-	cont "TOWN for months!"
+	text "Queste rocce"
+	line "bloccano la strada"
+	para "per BORGO SILENTE"
+	line "da mesi!"
+		
+	para "Tranquillo!"
+	line "Presto le"
+	cont "farò sparire!"
 	
-	para "But don't worry,"
-	line "I will blast em'"
-	cont "away soon!"
+	para "Devo solo"
+	line "piazzare gli"
+	cont "esplosivi."
 	
-	para "I just need some"
-	line "time to set up"
-	cont "the explosives."
-	
-	para "Why don't you go"
-	line "challenge the GYM"
-	cont "in KANTO while"
-	cont "you wait?"
+	para "Perché non vai"
+	line "alla PALESTRA di"
+	cont "KANTO nel"
+	cont "frattempo?"
 	done
 	
 Route115FisherReadyToBlowText:
-	text "Ah, just in time!"
+	text "Giusto in tempo!"
 	
-	para "These rocks are"
-	line "ready to blow!"
+	para "Le rocce sono"
+	line "pronte a saltare"
+	cont "in aria!"
 	
-	para "We need to get to"
-	line "a safe distance!"
+	para "Dobbiamo"
+	line "allontanarci!"
 	done
 	
 Route115FisherRocksGoneText:
-	text "What a nice clear"
-	line "path this is!"
+	text "Che bella strada"
+	line "ripulita!"
 	done
 	
 IFoundThisInTheRubble2:
-	text "I'm so glad the"
-	line "path is clear."
-	para "Sometimes, if you"
-	line "want something"
-	para "done, you gotta"
-	line "do it yourself!"
+	text "Sono così contento"
+	line "che la strada"
+	cont "sia libera."
+	para "A volte se ti"
+	line "serve qualcosa,"
+	para "ti basta farla"
+	line "da solo!"
 	done
 
 CooltrainermBlakeSeenText:
-	text "You look pretty"
-	line "strong."
-	cont "Let me battle you!"
+	text "Sembri forte!"
+	line "Lottiamo."
 	done
 
 CooltrainermBlakeBeatenText:
-	text "Yow!"
+	text "Ouch!"
 	done
 
 CooltrainermBlakeAfterBattleText:
-	text "You making your"
-	line "way to MT.FUJI?"
+	text "Andrai al"
+	line "MONTE FUJI?"
 	done
 
 CooltrainermBrianSeenText:
-	text "Hm? You're good,"
-	line "aren't you?"
+	text "Eh? Sei bravo,"
+	line "vero?"
 	done
 
 CooltrainermBrianBeatenText:
-	text "Just as I thought!"
+	text "Proprio come"
+	line "pensavo!"
 	done
 
 CooltrainermBrianAfterBattleText:
-	text "A good trainer can"
-	line "recognize other"
-	cont "good trainers."
+	text "Un bravo allena-"
+	line "tore sa riconosce-"
+	cont "re gli altri."
 	done
 
 CooltrainerfReenaSeenText:
-	text "You shouldn't"
-	line "underestimate the"
+	text "Non devi"
+	line "sottovalutare i"
 
-	para "wild #MON in"
-	line "these parts."
+	para "#MON selvatici"
+	line "da queste parti."
 	done
 
 CooltrainerfReenaBeatenText:
-	text "Oh! You're much"
-	line "too strong!"
+	text "Oh! Sei troppo"
+	line "forte!"
 	done
 
 CooltrainerfReenaAfterBattleText:
-	text "You're just a kid,"
-	line "but you're not to"
-
-	para "be underestimated"
-	line "either."
+	text "Sei un ragazzo,"
+	line "ma non dovevo"
+	cont "sottovalutarti."
 	done
 
 CooltrainerfMeganSeenText:
-	text "What brings you"
-	line "out here?"
-	para "Are you training"
-	line "on your own?"
+	text "Cosa ti porta"
+	line "qui?"
+	para "Ti stai allenando"
+	line "da solo?"
 	done
 
 CooltrainerfMeganBeatenText:
-	text "Oh! You're really"
-	line "strong!"
+	text "Oh! Sei molto"
+	line "forte!"
 	done
 
 CooltrainerfMeganAfterBattleText:
-	text "I'm checking out"
-	line "pre- and post-"
-	cont "evolution #MON."
+	text "Sto osservando i"
+	line "#MON prima e"
+	cont "dopo l'evoluzione."
 
-	para "Evolution really"
-	line "does make #MON"
-	cont "stronger."
+	para "L'evoluzione li"
+	line "rende molto più"
+	cont "forti."
 
-	para "But evolved forms"
-	line "also learn moves"
-	cont "later on."
+	para "Ma le forme"
+	line "evolute imparano"
+	para "le mosse più"
+	line "tardi."
 	done
 
 PsychicGilbertSeenText:
-	text "Don't say a thing!"
+	text "Non dire niente!"
 
-	para "Let me guess what"
-	line "you're thinking."
+	para "Fammi indovinare"
+	line "quello che pensi."
 
 	para "Mmmmmmm…"
 
-	para "I got it! You're"
-	line "on the #MON"
-	cont "LEAGUE challenge!"
+	para "Ci sono! Vuoi"
+	line "conquistare la"
+	cont "LEGA #MON!"
 	done
 
 PsychicGilbertBeatenText:
-	text "You're too much!"
+	text "Troppo forte!"
 	done
 
 PsychicGilbertAfterBattleText:
-	text "With your skills,"
-	line "you'll do well at"
-	cont "the LEAGUE."
+	text "Con le tue abilità"
+	line "non avrai problemi"
+	cont "alla LEGA."
 
-	para "That's what my"
-	line "premonition says."
+	para "Questo è quello"
+	line "che prevedo."
 	done
 
 BirdKeeperJose2SeenText:
-	text "Tweet! Tweet!"
-	line "Tetweet!"
+	text "Cip! Cip!"
+	line "Cipcip!"
 	done
 
 BirdKeeperJose2BeatenText:
-	text "Tweet!"
+	text "Cip!"
 	done
 
 BirdKeeperJose2AfterBattleText:
-	text "BIRD KEEPERS like"
-	line "me mimic bird"
+	text "Gli AVICOLTORI"
+	line "come me imitano"
 
-	para "whistles to com-"
-	line "mand #MON."
+	para "i versi degli"
+	line "uccelli."
 	done
 
 

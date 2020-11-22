@@ -33,46 +33,46 @@ RouteU8USign:
 	jumptext RouteU8USignText
 
 BirdKeeperBorisSeenText:
-	text "If you're looking"
-	line "for #MON, you"
+	text "Se cerchi dei"
+	line "#MON, devi"
 
-	para "have to look in"
-	line "the tall grass."
+	para "andare nell'erba"
+	line "alta."
 	done
 
 BirdKeeperBorisBeatenText:
-	text "Ayieee!"
+	text "Eeeehi!"
 	done
 
 BirdKeeperBorisAfterBattleText:
-	text "Since you're so"
-	line "strong, it must be"
-	cont "fun to battle."
+	text "Sei forte! È stato"
+	line "divertente"
+	cont "lottare."
 	done
 
 BirdKeeperBobSeenText:
-	text "CYCLING ROAD is a"
-	line "quick shortcut to"
-	cont "KANTO."
+	text "La PISTA CICLABILE"
+	line "è una scorciatoia"
+	cont "per KANTO."
 	done
 
 BirdKeeperBobBeatenText:
-	text "…Whew!"
+	text "…Ehi!"
 	done
 
 BirdKeeperBobAfterBattleText:
-	text "If you don't have"
-	line "a BICYCLE, you're"
+	text "Senza una"
+	line "BICICLETTA non"
 
-	para "not allowed to use"
-	line "the shortcut."
+	para "puoi percorrere"
+	line "la scorciatoia."
 	done
 
 RouteU8USignText:
-	text "ROUTE 18"
+	text "PERCORSO 18"
 
-	para "KANTO REGION -"
-	line "STAND CITY"
+	para "KANTO -"
+	line "INERTOPOLI"
 	done
 
 RouteU8U_MapEvents:

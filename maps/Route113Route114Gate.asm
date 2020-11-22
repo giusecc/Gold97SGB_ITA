@@ -42,39 +42,38 @@ Route113Route114GateLassScript:
 
 
 Route113Route114GateTeacherText:
-	text "Isn't the air so"
-	line "fresh around here?"
-	para "#MON love sweet"
-	line "air."
-	para "Certain #MON"
-	line "can make the air"
-	cont "sweet."
-	para "Did you know?"
+	text "L'aria è così"
+	line "fresca qui!"
+	para "#MON adorano"
+	line "l'aria profumata."
+	para "Alcuni #MON"
+	line "emettono un"
+	cont "buon odore."
+	para "Lo sapevi?"
 	done
 
 Route113Route114GateTeacher_GotSweetScent:
-	text "It's SWEET SCENT."
+	text "È PROFUMINO."
 
-	para "Use it wherever"
-	line "#MON appear."
+	para "Usa questa MT dove"
+	line "possono esserci"
+	cont "#MON!"
 
-	para "#MON will be"
-	line "enticed by it."
+	para "Vedrai come ne"
+	line "saranno attratti."
 	done
 
 
 
 Route113Route114GateButterfreeText:
-	text "BUTTERFREE: Freeh!"
+	text "BUTTERFREE: Friii!"
 	done
 
 Route113Route114GateLassText:
-	text "Where are you"
-	line "from?"
-	para "SILENT TOWN?"
-	para "That's actually"
-	line "not too far from"
-	cont "here."
+	text "Da dove arrivi?"
+	para "BORGO SILENTE?"
+	para "Non è molto"
+	line "lontano da qui."
 	done
 
 Route113Route114Gate_MapEvents:

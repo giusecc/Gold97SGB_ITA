@@ -223,213 +223,215 @@ Route103NationalParkGatePlayerEnterParkMovement:
 	step_end
 
 Route103NationalParkGateOfficer1AskToParticipateText:
-	text "Today's @"
+	text "Oggi è @"
 	text_ram wStringBuffer3
 	text "."
-	line "That means the"
+	line "Ciò significa che"
 
-	para "Bug-Catching Con-"
-	line "test is on today."
+	para "oggi c'è la Gara"
+	line "Pigliamosche!"
 
-	para "The rules are sim-"
-	line "ple."
+	para "Le regole?"
+	line "Semplicissime."
 
-	para "Using one of your"
-	line "#MON, catch a"
+	para "Usando uno dei"
+	line "tuoi #MON,"
 
-	para "bug #MON to be"
-	line "judged."
+	para "cattura un #MON"
+	line "COLEOTTERO che"
+	cont "sarà giudicato."
 
-	para "Would you like to"
-	line "give it a try?"
+	para "Vuoi provare?"
 	done
 
 Route103NationalParkGateOfficer1GiveParkBallsText:
-	text "Here are the PARK"
-	line "BALLS for the"
-	cont "Contest."
+	text "Ecco qui le PARK"
+	line "BALL per la"
+	cont "Gara."
 	done
 
 Route103NationalParkGatePlayerReceivedParkBallsText:
-	text "<PLAYER> received"
-	line "20 PARK BALLS."
+	text "<PLAYER> riceve"
+	line "20 PARK BALL."
 	done
 
 Route103NationalParkGateOfficer1ExplainsRulesText:
-	text "The person who"
-	line "gets the strong-"
-	cont "est bug #MON"
-	cont "is the winner."
+	text "Vince chi cattura"
+	line "il #MON"
+	cont "COLEOTTERO più"
+	cont "forte."
 
-	para "You have 20"
-	line "minutes."
+	para "Hai 20 minuti di"
+	line "tempo."
 
-	para "If you run out of"
-	line "PARK BALLS, you're"
-	cont "done."
+	para "Se finisci le"
+	line "PARK BALL, termina"
+	cont "anche la gara."
 
-	para "You can keep the"
-	line "last #MON you"
-	cont "catch as your own."
+	para "Potrai tenere"
+	line "l'ultimo #MON"
+	cont "che catturerai."
 
-	para "Go out and catch"
-	line "the strongest bug"
+	para "Vai, e cerca di"
+	line "prendere il #-"
 
-	para "#MON you can"
-	line "find!"
+	para "MON COLEOTTERO"
+	line "più forte!"
 	done
 
 Route103NationalParkGateOfficer1AskToUseFirstMonText:
-	text "Uh-oh…"
+	text "Ah…"
 
-	para "You have more than"
-	line "one #MON."
+	para "Vedo che hai più"
+	line "di un #MON."
 
-	para "You'll have to use"
+	para "Dovrai usare"
 	line "@"
 	text_ram wStringBuffer3
-	text ", the"
+	text ", il"
 
-	para "first #MON in"
-	line "your party."
+	para "primo #MON"
+	line "in squadra."
 
-	para "Is that OK with"
-	line "you?"
+	para "Ti va bene?"
 	done
 
 Route103NationalParkGateOfficer1WellHoldYourMonText:
-	text "Fine, we'll hold"
-	line "your other #MON"
-	cont "while you compete."
+	text "Ti terremo noi gli"
+	line "altri #MON"
+	cont "durante la gara."
 	done
 
 Route103NationalParkGatePlayersMonLeftWithHelperText:
-	text "<PLAYER>'s #MON"
-	line "were left with the"
-	cont "CONTEST HELPER."
+	text "I #MON di"
+	line "<PLAYER> sono stati"
+	para "lasciati con"
+	line "l'ASSISTENTE GARA."
 	done
 
 Route103NationalParkGateOfficer1ChooseMonAndComeBackText:
-	text "Please choose the"
-	line "#MON to be used"
+	text "Scegli il #MON"
+	line "che vuoi usare per"
 
-	para "in the Contest,"
-	line "then come see me."
+	para "la Gara, e poi"
+	line "ritorna qui."
 	done
 
 Route103NationalParkGateOfficer1TakePartInFutureText:
-	text "OK. We hope you'll"
-	line "take part in the"
-	cont "future."
+	text "Come vuoi. Sarà"
+	line "per la prossima"
+	cont "volta."
 	done
 
 Route103NationalParkGateOfficer1FirstMonCantBattleText:
-	text "Uh-oh…"
-	line "The first #MON"
+	text "Oh…"
+	line "Il primo #MON"
 
-	para "in your party"
-	line "can't battle."
+	para "della tua squadra"
+	line "non può lottare."
 
-	para "Please switch it"
-	line "with the #MON"
+	para "Scambialo di posto"
+	line "con il #MON che"
 
-	para "you want to use,"
-	line "then come see me."
+	para "intendi usare, e"
+	line "poi torna qui."
 	done
 
 Route103NationalParkGateOfficer1MakeRoomText:
-	text "Uh-oh…"
-	line "Both your party"
+	text "Oh…"
+	line "Sia la tua squadra"
 
-	para "and your PC BOX"
-	line "are full."
+	para "che il BOX del tuo"
+	line "PC sono pieni."
 
-	para "You have no room"
-	line "to put the bug"
-	cont "#MON you catch."
+	para "Non hai spazio per"
+	line "il #MON che"
+	cont "catturerai."
 
-	para "Please make room"
-	line "in your party or"
+	para "Fai spazio nella"
+	line "tua squadra o nel"
 
-	para "your PC BOX, then"
-	line "come see me."
+	para "BOX del PC e poi"
+	line "torna a trovarmi!"
 	done
 
 Route103NationalParkGateOfficer1EggAsFirstMonText:
-	text "Uh-oh…"
-	line "You have an EGG as"
+	text "Oh…"
+	line "Il tuo primo"
 
-	para "the first #MON"
-	line "in your party."
+	para "#MON è un"
+	line "UOVO."
 
-	para "Please switch it"
-	line "with the #MON"
+	para "Sostituiscilo con"
+	line "il #MON che"
 
-	para "you want to use,"
-	line "then come see me."
+	para "intendi usare, e"
+	line "poi torna qui."
 	done
 
 Route103NationalParkGateOfficer1WantToFinishText:
-	text "You still have @"
+	text "Hai ancora @"
 	text_ram wStringBuffer3
 	text_start
-	line "minute(s) left."
+	line "minuti(o)."
 
-	para "Do you want to"
-	line "finish now?"
+	para "Vuoi terminare"
+	line "ora?"
 	done
 
 Route103NationalParkGateOfficer1WaitAtNorthGateText:
-	text "OK. Please wait at"
-	line "the North Gate for"
+	text "Come vuoi. Attendi"
+	line "l'annuncio dei"
 
-	para "the announcement"
-	line "of the winners."
+	para "vincitori all'"
+	line "Ingresso Nord."
 	done
 
 Route103NationalParkGateOfficer1OkGoFinishText:
-	text "OK. Please get"
-	line "back outside and"
-	cont "finish up."
+	text "Bene, allora torna"
+	line "fuori e concludi"
+	cont "la Gara."
 	done
 
 Route103NationalParkGateOfficer1ContestIsOverText:
-	text "Today's Contest is"
-	line "over. We hope you"
+	text "La Gara di oggi è"
+	line "terminata. Spero"
 
-	para "will participate"
-	line "in the future."
+	para "che parteciperai"
+	line "in futuro."
 	done
 
 Route103NationalParkGateOfficer1WeHoldContestsText:
-	text "We hold Contests"
-	line "regularly in the"
+	text "In determinati"
+	line "giorni si svolgono"
 
-	para "PARK. You should"
-	line "give it a shot."
+	para "delle Gare al"
+	line "PARCO. Dovresti"
+	cont "partecipare!"
 	done
 
 Route103NationalParkGateYoungsterText:
-	text "When is the next"
-	line "Bug-Catching Con-"
-	cont "test going to be?"
+	text "Quando ci sarà la"
+	line "prossima Gara"
+	cont "Pigliamosche?"
 	done
 
 BugCatchingContestExplanationText:
-	text "The Bug-Catching"
-	line "Contest is held on"
+	text "Le Gare"
+	line "Pigliamosche si"
 
-	para "Tuesday, Thursday"
-	line "and Saturday."
+	para "svolgono martedì,"
+	line "giovedì e sabato."
 
-	para "Not only do you"
-	line "earn a prize just"
+	para "Non solo vinci un"
+	line "premio per aver"
 
-	para "for participating,"
-	line "you also get to"
+	para "partecipato, ma"
+	line "puoi anche tenere"
 
-	para "keep a bug #MON"
-	line "that you catch."
+	para "un #MON"
+	line "COLEOTTERO che hai"
+	cont "catturato."
 	done
 
 Route103NationalParkGate_MapEvents:

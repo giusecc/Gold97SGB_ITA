@@ -100,100 +100,100 @@ SilverGoesThroughGateMovement:
 	
 SilverAtTheGateText:
 	text "<PLAYER>!"
-	para "You made it out of"
-	line "SILENT HILLS!"
-	para "I wasn't sure you"
-	line "could do it!"
-	para "I already caught"
-	line "some super awesome"
+	para "Hai superato le"
+	line "PIANE SILENTI!"
+	para "Non ero sicuro"
+	line "ce la facessi!"
+	para "Ho già catturato"
+	line "un sacco di"
 	cont "#MON!"
-	para "You better stay on"
-	line "top of your game"
-	para "if you want to"
-	line "keep up with me!"
-	para "Anyways, see ya!"
+	para "Devi stare sempre"
+	line "sul pezzo se vuoi"
+	para "restare al mio"
+	line "livello!"
+	para "Ci si vede!"
 	done
 	
 FledglingHugoSeenText:
-	text "Um…"
-	para "Are you a new"
-	line "trainer too?"
+	text "Ehm…"
+	para "Anche tu sei"
+	line "un novellino?"
 	done
 
 FledglingHugoBeatenText:
-	text "Wow, you don't"
-	line "seem new…"
+	text "Non sembri un"
+	line "principiante…"
 	done
 
 FledglingHugoAfterBattleText:
-	text "How did you get"
-	line "so good?"
+	text "Come fai a essere"
+	line "così bravo?"
 	done
 
 
 Route101FisherText:
-	text "I wanted to take a"
-	line "break, so I saved"
+	text "Volevo prendermi"
+	line "una pausa, quindi"
 
-	para "to record my"
-	line "progress."
+	para "ho salvato i"
+	line "miei progressi."
 	done
 
 ; unused
 Text_WaitingForDay:
-	text "I'm waiting for"
-	line "#MON that"
+	text "Aspetto i"
+	line "#MON che"
 
-	para "appear only in the"
-	line "daytime."
+	para "compaiono solo"
+	line "di giorno."
 	done
 
 Route101CooltrainerMText_WaitingForNight:
-	text "I'm waiting for"
-	line "#MON that"
+	text "Aspetto i"
+	line "#MON che"
 
-	para "appear only at"
-	line "night."
+	para "compaiono solo"
+	line "di notte."
 	done
 
 Route101CooltrainerMText_WaitingForMorning:
-	text "I'm waiting for"
-	line "#MON that"
+	text "Aspetto i"
+	line "#MON che"
 
-	para "appear only in the"
-	line "morning."
+	para "compaiono solo"
+	line "di mattina."
 	done
 
 
 Route101Sign2Text:
-	text "TRAINER TIPS"
+	text "CONSIGLI UTILI"
 
-	para "No stealing other"
-	line "people's #MON!"
+	para "Mai rubare i #-"
+	line "MON degli altri!"
 
-	para "# BALLS are to"
-	line "be thrown only at"
-	cont "wild #MON!"
+	para "Le # BALL vanno"
+	line "lanciate contro"
+	cont "#MON selvatici!"
 	done
 
 
 TeacherColetteSeenText:
-	text "My CHIX is the"
-	line "cutest in the"
-	cont "world."
+	text "Il mio CHIX è"
+	line "il più bello"
+	cont "del mondo."
 	done
 
 TeacherColetteBeatenText:
-	text "My CHIX!"
+	text "Povero CHIX!"
 	done
 
 TeacherColetteAfterBattleText:
-	text "Look how adorable"
-	line "my CHIX acts!"
+	text "Guarda quanto"
+	line "è adorabile!"
 
-	para "Isn't it cute"
-	line "enough to make"
-	cont "your heart melt?"
+	para "Non ti si"
+	line "scioglie il"
+	cont "cuore?"
 	done
 
 

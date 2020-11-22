@@ -85,69 +85,67 @@ TrainerEngineerMarkson:
 	end
 
 FirebreatherOtisSeenText:
-	text "Ah! The weather's"
-	line "as fine as ever."
+	text "Ah! Il clima è"
+	line "bello come sempre."
 	done
 
 FirebreatherOtisBeatenText:
-	text "It's sunny, but"
-	line "I'm all wet…"
+	text "C'è il sole, ma"
+	line "sono fradicio…"
 	done
 
 FirebreatherOtisAfterBattleText:
-	text "When it rains,"
-	line "it's hard to get"
-	cont "ignition…"
+	text "Quando piove è"
+	line "dura accendere"
+	cont "il fuoco…"
 	done
 
 YoungsterWarrenSeenText:
-	text "Hmmm… This tree is"
-	line "kinda interesting…"
+	text "Hmmm… Questo albero"
+	line "è interessante…"
 	done
 
 YoungsterWarrenBeatenText:
-	text "I knew I'd lose…"
+	text "Sapevo che avrei"
+	line "perso…"
 	done
 
 YoungsterWarrenAfterBattleText:
-	text "You looked strong."
+	text "Sembravi forte."
 
-	para "I was afraid to"
-	line "take you on…"
+	para "Avevo paura di"
+	line "lottare…"
 	done
 
 YoungsterJimmySeenText:
-	text "I can run like the"
-	line "wind!"
+	text "Corro come il"
+	line "vento!"
 	done
 
 YoungsterJimmyBeatenText:
-	text "Blown away!"
+	text "Spazzato via!"
 	done
 
 YoungsterJimmyAfterBattleText:
-	text "I wear shorts the"
-	line "whole year round."
+	text "Indosso pantalon-"
+	line "cini tutto l'anno."
 
-	para "That's my fashion"
-	line "policy."
+	para "È il mio stile."
 	done
 
 
 
 EngineerMarksonSeenText:
-	text "Have you seen"
-	line "my wrench?"
+	text "Hai visto la mia"
+	line "chiave inglese?"
 	done
 
 EngineerMarksonBeatenText:
-	text "Oh! It's right"
-	line "here!"
+	text "Oh! Eccola qui!"
 	done
 
 EngineerMarksonAfterText:
-	text "That was"
-	line "embarassing…"
+	text "Che imbarazzo…"
 	done
 
 Route117_MapEvents:

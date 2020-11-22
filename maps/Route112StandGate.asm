@@ -193,33 +193,29 @@ R36GSilverWalksToYou:
 	step_end
 	
 Route102GSilverWinText:
-	text "What? Again!?"
+	text "Cosa? Di nuovo!?"
 	done
 	
 Route102GSilverLossText:
-	text "Haha! Yes!"
+	text "Haha! Si!"
 	done
 	
 Route102GRivalAfterText:
-	text "Wow, you actually"
-	line "seem to be raising"
-	para "your #MON to be"
-	line "pretty strong!"
-	para "I gotta step it up"
-	line "even more!"
-	para "Also, be careful"
-	line "if you're heading"
-	cont "into STAND CITY."
-	para "There seems to be"
-	line "some sort of"
-	para "#MON illness"
-	line "going around."
-	para "Don't want your"
-	line "#MON getting"
-	para "sick if you want"
-	line "them to be strong!"
-	para "Anyways, I'm off!"
-	line "see you around!"
+	text "Stai diventando"
+	line "molto forte!"
+	para "Devo migliorare"
+	line "ancora!"
+	para "Fai attenzione se"
+	line "vai a INERTOPOLI."
+	para "Sembra che ci sia"
+	line "una malattia tra"
+	cont "i #MON."
+	para "Non fare ammalare"
+	line "i tuoi #MON"
+	para "se vuoi che siano"
+	line "in forma!"
+	para "Ora devo andare!"
+	line "Ci si vede!"
 	done
 	
 R36GSilverGreets:
@@ -227,31 +223,26 @@ R36GSilverGreets:
 	done
 	
 R36GSilverGreets2:
-	text "Long time no see!"
-	para "How have your"
-	line "travels been"
-	cont "going?"
-	para "Wait, hold on!"
-	para "I don't really"
-	line "care about that!"
-	para "What I want to"
-	line "know is how strong"
-	para "your team has"
-	line "gotten!"
-	para "My #MON are so"
-	line "strong!"
-	para "I'm almost ready"
-	line "to take on the"
-	cont "LEAGUE!"
-	para "Here, let me show"
-	line "you!"
+	text "Quanto tempo!"
+	para "Come va il tuo"
+	line "viaggio?"
+	para "Aspetta!"
+	para "Non mi interessa"
+	line "davvero!"
+	para "Quello che mi"
+	line "interessa è"
+	cont "la tua squadra!"
+	para "La mia è molto"
+	line "forte!"
+	para "Sono quasi pronto"
+	line "per la LEGA!"
+	para "Ti faccio vedere!"
 	done
 	
 R36GSilverGreets3:
-	text "Oh, wait!"
-	para "Let me make sure"
-	line "we're okay to"
-	cont "battle in here!"
+	text "Oh, aspetta!"
+	para "Assicuriamoci di"
+	line "poter lottare qui!"
 	done
 	
 R36GSilverGreets3_5:
@@ -259,32 +250,33 @@ R36GSilverGreets3_5:
 	done
 	
 R36GSilverGreets4:
-	text "Okay!"
-	para "He says we're good"
-	line "as long as we're"
-	cont "careful!"
-	para "Here I come!"
+	text "Ok!"
+	para "Dice che va bene"
+	line "finché stiamo"
+	cont "attenti!"
+	para "Eccomi!"
 	done
 	
 StandCityIsDoingBetterText:
-	text "I'm glad all of"
-	line "the #MON are"
-	cont "feeling better."
+	text "Sono contento che"
+	line "i #MON stiano"
+	cont "meglio."
 	done
 
 Route112StandGateOfficerText:
-	text "STAND CITY is"
-	line "known for its"
-	para "beautiful greenery"
-	line "and parks."
+	text "INERTOPOLI è"
+	line "conosciuta per i"
+	para "suoi bellissimi"
+	line "parchi."
 	done
 
 StandCitySomethingIsUpText:
-	text "Something is going"
-	line "on in STAND CITY."
-	para "I swear I've seen"
-	line "men who look like"
-	para "members of TEAM"
+	text "Sta succedendo"
+	line "qualcosa a"
+	cont "INERTOPOLI."
+	para "Sono sicuro di"
+	line "aver visto dei"
+	para "membri del TEAM"
 	line "ROCKET."
 	done
 

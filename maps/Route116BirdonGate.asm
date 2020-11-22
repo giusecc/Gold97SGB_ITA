@@ -40,41 +40,37 @@ Route116BirdonGateScientistScript:
 	
 Route116BirdonGateRocket1Text:
 	text "Fufufufu…"
-	para "Our SLOWPOKE team"
-	line "should be back"
-	para "with the next"
-	line "batch of TAILs"
-	cont "soon…"
+	para "Il prossimo lotto"
+	line "di CODASLOWPOKE"
+	para "dovrebbe arrivare"
+	line "presto…"
 	done
 	
 Route116BirdonGateRocket2Text:
 	text "Hehehehe…"
-	para "No one will even"
-	line "notice the TAILs"
-	para "missing from those"
-	line "SLOWPOKE until"
-	cont "it's too late…"
+	para "Nessuno si"
+	line "accorgerà delle"
+	para "CODE mancanti"
+	line "prima che sia"
+	cont "troppo tardi…"
 	done
 
 Route116BirdonGateScientistText:
-	text "These men look"
-	line "like members of"
+	text "Questi sembrano"
+	line "membri del"
 	cont "TEAM ROCKET."
-	para "Could they really"
-	line "be?"
-	para "I wish they'd stop"
-	line "blocking the gate,"
-	para "but they kind of"
-	line "scare me…"
+	para "Lo sono davvero?"
+	para "Vorrei dirgli di"
+	line "andarsene, ma"
+	para "mi ho paura…"
 	done
 	
 Route116BirdonGateScientistTextNoRockets:
-	text "Past here is a"
-	line "winding maze of"
-	para "trees and a tough"
-	line "cave to traverse."
-	para "Make sure you're"
-	line "prepared!"
+	text "Qui fuori c'è"
+	line "un labirinto di"
+	para "alberi e grotte"
+	line "da attraversare."
+	para "Preparati!"
 	done
 
 Route116BirdonGate_MapEvents:

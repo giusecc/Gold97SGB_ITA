@@ -96,42 +96,41 @@ Route114HiddenEther:
 	hiddenitem ETHER, EVENT_ROUTE_114_HIDDEN_ETHER
 	
 SportsmanJacobSeenText:
-	text "I'm taking a break"
-	line "after a long jog"
-	cont "here."
+	text "Mi prendo una"
+	line "pausa dalla corsa."
 	done
 	
 SportsmanJacobBeatenText:
-	text "Now that's not"
-	line "what I expected."
+	text "Non era quello che"
+	line "mi aspettavo."
 	done
 	
 SportsmanJacobAfterBattleText:
-	text "Jogging with"
-	line "#MON is a good"
-	cont "way to train."
+	text "Correre con i"
+	line "#MON è un ot-"
+	cont "timo allenamento."
 	done
 
 CamperDeanSeenText:
-	text "Have you ever been"
-	line "to KANTO?"
+	text "Sei mai stato"
+	line "a KANTO?"
 	done
 
 CamperDeanBeatenText:
-	text "Whoa! Danger, man."
+	text "Pericolo!"
 	done
 
 CamperDeanAfterBattleText:
-	text "I prefer camping"
-	line "in JADE FOREST."
+	text "Preferisco il"
+	line "BOSCO GIADA."
 	done
 
 PicnickerHeidiSeenText:
-	text "Have you ever been"
-	line "to a picnic?"
+	text "Hai mai fatto"
+	line "un picnic?"
 
-	para "They're so much"
-	line "fun!"
+	para "Sono così"
+	line "divertenti!"
 	done
 
 PicnickerHeidiBeatenText:
@@ -139,87 +138,88 @@ PicnickerHeidiBeatenText:
 	done
 
 PicnickerHeidiAfterBattleText:
-	text "We bake lots of"
-	line "goodies and share"
+	text "Cuociamo di tutto"
+	line "e lo condividiamo"
 
-	para "them all around."
-	line "They're delicious!"
+	para "tra di noi."
+	line "È tutto delizioso!"
 	done
 
 CamperSidSeenText:
-	text "Hey, you!"
-	line "Don't litter!"
+	text "Ehi, tu!"
+	line "Non gettare"
+	cont "rifiuti!"
 	done
 
 CamperSidBeatenText:
-	text "I was just point-"
-	line "ing out…"
+	text "Te lo stavo solo"
+	line "ricordando…"
 	done
 
 CamperSidAfterBattleText:
-	text "Sorry. You weren't"
-	line "littering. It was"
-	cont "my mistake."
+	text "Scusa, non stavi"
+	line "gettando rifiuti."
+	cont "Errore mio."
 	done
 
 PicnickerEdnaSeenText:
-	text "People shouldn't"
-	line "leave any litter"
-	cont "behind."
+	text "Nessuno dovrebbe"
+	line "gettare rifiuti"
+	cont "in giro."
 	done
 
 PicnickerEdnaBeatenText:
-	text "Ohh… I lost…"
+	text "Ohh… Ho perso…"
 	done
 
 PicnickerEdnaAfterBattleText:
-	text "Conserving energy"
-	line "is important, but"
+	text "È importante"
+	line "conservare le"
 
-	para "the environment is"
-	line "even more vital."
+	para "energie, ma"
+	line "l'ambiente è"
+	cont "più importante."
 	done
 
 HikerTimSeenText:
-	text "She'll be coming"
-	line "'round MT.FUJI"
-	cont "when she comes…"
+	text "Scenderà dal"
+	line "MONTE FUJI…"
 	done
 
 HikerTimBeatenText:
-	text "I was too busy"
-	line "singing…"
+	text "Ero troppo impe-"
+	line "gnato a cantare…"
 	done
 
 HikerTimAfterBattleText:
-	text "Battles are about"
-	line "concentration."
+	text "La lotta è"
+	line "concentrazione."
 	done
 
 HikerSidneySeenText:
-	text "I'll tell you a"
-	line "secret."
+	text "Ti dirò un"
+	line "segreto."
 
-	para "But first, we"
-	line "battle!"
+	para "Ma prima,"
+	line "lottiamo!"
 	done
 
 HikerSidneyBeatenText:
-	text "Oh, dang!"
-	line "I lost that…"
+	text "Oh, uffa!"
+	line "Ho perso…"
 	done
 
 HikerSidneyAfterBattleText:
-	text "I was just kidding"
-	line "about the secret."
-	para "I don't know any-"
-	line "thing interesting."
+	text "Stavo scherzando"
+	line "sul segreto."
+	para "Non so niente di"
+	line "interessante."
 	done
 
 Route114SignText:
-	text "ROUTE 114"
+	text "PERCORSO 114"
 
-	para "STAND CITY -"
+	para "INERTOPOLI -"
 	line "KANTO"
 	done
 

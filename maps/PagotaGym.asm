@@ -86,33 +86,32 @@ PostRematchScriptFalkner:
 	end
 
 FalknerRematchText:
-	text "I was told you"
-	line "won at the"
-	cont "#MON LEAGUE."
-	para "Congratulations!"
+	text "Ho saputo che hai"
+	line "conquistato la"
+	cont "LEGA #MON."
+	para "Complimenti!"
 	
-	para "I've been doing"
-	line "lots of training"
-	para "here at the"
-	line "PAGOTA GYM."
+	para "Mi sto allenando"
+	line "molto qui nella"
+	cont "PALESTRA."
 	
-	para "Let's see if you"
-	line "can still beat"
-	cont "me!"
+	para "Vediamo se puoi"
+	line "ancora battermi!"
 	done
 
 FalknerRematchWinText:
-	text "It's no wonder"
-	line "you won!"
+	text "Niente da fare,"
+	line "hai vinto!"
 	done
 
 FalknerAfterRematchText:
-	text "I'm glad I was"
-	line "your first"
-	para "stepping stone"
-	line "to greatness!"
+	text "Sono contento"
+	line "di essere stato"
+	para "il tuo primo"
+	line "passo per la"
+	cont "gloria!"
 	
-	para "Keep on fighting!"
+	para "Continua così!"
 	done
 
 
@@ -184,188 +183,189 @@ PagotaGymStatue:
 	jumpstd GymStatue2Script
 
 FalknerIntroText:
-	text "I knew you'd be"
-	line "showing up here"
-	cont "sometime soon!"
+	text "Lo sapevo che"
+	line "saresti venuto"
+	cont "qui presto!"
 	
-	para "It's always great"
-	line "to see a new"
-	para "trainer take on"
-	line "the LEAGUE."
+	para "È sempre bello"
+	line "vedere un nuovo"
+	para "allenatore!"
 
-	para "But are you ready"
-	line "to take me on?"
+	para "Ma sei pronto a"
+	line "sfidarmi?"
 
-	para "I'll show you the"
-	line "real power of the"
+	para "Ti mostrerò la"
+	line "bellezza dei miei"
 
-	para "magnificent bird"
-	line "#MON!"
+	para "#MON uccello!"
 	done
 
 FalknerWinLossText:
-	text "…Darn! My dad's"
-	line "cherished bird"
-	cont "#MON…"
+	text "…No! Gli"
+	line "amati #MON"
+	cont "di mio padre…"
 
-	para "All right."
-	line "Take this."
+	para "E va bene. Devo"
+	line "darti qualcosa!"
 
-	para "It's the official"
-	line "#MON LEAGUE"
-	cont "ZEPHYRBADGE."
+	para "Hai la MEDAGLIA"
+	line "ZEFIRO della LEGA"
+	cont "#MON."
 	done
 
 ReceivedZephyrBadgeText:
-	text "<PLAYER> received"
-	line "ZEPHYRBADGE."
+	text "<PLAYER> riceve la"
+	line "MEDAGLIA ZEFIRO."
 	done
 
 FalknerZephyrBadgeText:
-	text "ZEPHYRBADGE"
-	line "raises the attack"
-	cont "power of #MON."
+	text "La MEDAGLIA ZEFIRO"
+	line "migliora l'attacco"
+	cont "dei #MON."
 
-	para "It also enables"
-	line "#MON to use"
+	para "Inoltre, permette"
+	line "ai #MON che"
 
-	para "CUT, if they"
-	line "have it, anytime."
+	para "hanno TAGLIO di"
+	line "usarlo quando"
+	cont "preferiscono."
 
-	para "Here--take this"
-	line "too."
+	para "Puoi avere anche"
+	line "questo: tieni!"
 	done
 
 FalknerTMMudSlapText:
-	text "By using a TM, a"
-	line "#MON will"
+	text "Se usi una MT, i"
+	line "#MON potranno"
 
-	para "instantly learn a"
-	line "new move."
+	para "subito imparare"
+	line "una nuova mossa."
 
-	para "Think before you"
-	line "act--a TM can be"
-	cont "used only once."
+	para "Attenzione, però:"
+	line "ogni MT si usa"
+	cont "solo na volta!"
 
-	para "TM31 contains"
-	line "MUD-SLAP."
+	para "La MT31 contiene"
+	line "FANGOSBERLA."
 
-	para "It reduces the"
-	line "enemy's accuracy"
+	para "Danneggia il"
+	line "nemico e ne"
 
-	para "while it causes"
-	line "damage."
+	para "riduce la"
+	line "precisione."
 
-	para "In other words, it"
-	line "is both defensive"
-	cont "and offensive."
+	para "Quindi è un'arma"
+	line "sia offensiva che"
+	cont "difensiva."
 	done
 
 FalknerFightDoneText:
-	text "There are #MON"
-	line "GYMS in cities and"
-	cont "towns ahead."
+	text "Incontrarai molte"
+	line "PALESTRE #MON"
+	cont "sulla tua strada."
 
-	para "You should test"
-	line "your skills at"
-	cont "these GYMS."
+	para "Metti alla prova"
+	line "le tue capacità"
+	cont "nelle PALESTRE."
 
-	para "I'm going to train"
-	line "harder to become"
+	para "Io devo allenarmi"
+	line "sodo per diventare"
 
-	para "the greatest bird"
-	line "master!"
+	para "il più grande"
+	line "allenatore di"
+	cont "#MON uccello."
 	done
 
 BirdKeeperRodSeenText:
-	text "The keyword is"
-	line "guts!"
+	text "Fegato è la parola"
+	line "d'ordine!"
 
-	para "Those here are"
-	line "training night and"
+	para "Qui ci si allena"
+	line "giorno e notte per"
 
-	para "day to become bird"
-	line "#MON masters."
+	para "diventare maestri"
+	line "di #MON"
+	cont "uccello."
 
-	para "Come on!"
+	para "Fatti sotto!"
 	done
 
 BirdKeeperRodBeatenText:
-	text "Gaaah!"
+	text "Aaah!"
 	done
 
 BirdKeeperRodAfterBattleText:
-	text "FALKNER's skills"
-	line "are for real!"
+	text "La qualità di"
+	line "VALERIO non sono"
+	cont "da sottovalutare."
 
-	para "Don't get cocky"
-	line "just because you"
-	cont "beat me!"
+	para "Non ti esaltare"
+	line "troppo per aver"
+	cont "battuto me!"
 	done
 
 BirdKeeperAbeSeenText:
-	text "Let me see if you"
-	line "are good enough to"
-	cont "face FALKNER!"
+	text "Vediamo se hai la"
+	line "stoffa per sfidare"
+	cont "VALERIO!"
 	done
 
 BirdKeeperAbeBeatenText:
-	text "This can't be"
-	line "true!"
+	text "No, non ci posso"
+	line "credere!"
 	done
 
 BirdKeeperAbeAfterBattleText:
-	text "This is pathetic,"
-	line "losing to some"
-	cont "rookie trainer…"
+	text "Perdere contro un"
+	line "principiante è"
+	cont "patetico…"
 	done
 
 PagotaGymGuyText:
-	text "Hey! I'm no train-"
-	line "er but I can give"
-	cont "some advice!"
+	text "Ciao, io non sono"
+	line "un allenatore, ma"
+	cont "ho un consiglio."
 
-	para "Believe me!"
-	line "If you believe, a"
+	para "Però devi credere:"
+	line "solo così il tuo"
 
-	para "championship dream"
-	line "can come true."
+	para "sogno di CAMPIONE"
+	line "potrà avverarsi."
 
-	para "You believe?"
-	line "Then listen."
+	para "Mi credi? Allora"
+	line "ascolta qui:"
 
-	para "The grass-type is"
-	line "weak against the"
+	para "il tipo erba è"
+	line "debole contro il"
 
-	para "flying-type. Keep"
-	line "this in mind."
+	para "tipo volante. Non"
+	line "dimenticarlo!"
 	done
 
 PagotaGymGuyTextNotHere:
-	text "Hey! Are you here"
-	line "to challenge"
-	cont "FALKNER?"
+	text "Ehi! Sei qui"
+	line "per sfidare"
+	cont "VALERIO?"
 	
-	para "I hate to tell you"
-	line "this, but he's not"
-	cont "here!"
+	para "Odio dovertelo"
+	line "dire, ma non"
+	cont "è qui!"
 	
-	para "FALKNER's gone out"
-	line "somewhere right"
-	cont "now."
+	para "VALERIO è uscito"
+	line "poco fa."
 	
-	para "Maybe look around"
-	line "town for him."
-	para "He couldn't have"
-	line "gone far."
+	para "Forse lo puoi"
+	line "trovare in città."
+	para "Non dev'essere"
+	line "andato lontano."
 	done
 
 PagotaGymGuyWinText:
-	text "Nice battle! Keep"
-	line "it up, and you'll"
+	text "Bene: continua"
+	line "così e"
 
-	para "be the CHAMP in no"
-	line "time at all!"
+	para "sarai presto"
+	line "CAMPIONE!"
 	done
 
 PagotaGym_MapEvents:

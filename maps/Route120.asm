@@ -132,104 +132,100 @@ Route120FruitTree:
 	fruittree FRUITTREE_ROUTE_120
 	
 Route120GrampsText:
-	text "Oh, good! You're"
-	line "here!"
-	para "Please help me"
-	line "out."
-	para "My granddaughter"
-	line "could be trapped"
-	cont "in there!"
+	text "Oh! Sei qui!"
+	para "Dammi una"
+	line "mano."
+	para "Mia nipote potreb-"
+	line "be essere intrap-"
+	cont "polata qui!"
 	done
 	
 
 LassConnie1SeenText:
-	text "I don't know why"
-	line "I hang out with"
-	cont "DUDLEY or JOEY."
+	text "Non so perché"
+	line "vado in giro con"
+	para "FIORENZO o"
+	line "GENNARO."
 
-	para "You're probably"
-	line "cooler than either"
-	cont "of them!"
+	para "Sei molto più"
+	line "ganzo di loro due!"
 	done
 
 LassConnie1BeatenText:
-	text "Aaack! My #MON!"
+	text "Aaah! I miei"
+	line "#MON!"
 	done
 
 LassConnie1AfterBattleText:
-	text "Well, I lost, but"
-	line "that battle was"
-	para "more fun than"
-	line "anything those"
-	para "two could be up"
-	line "to."
+	text "Ho perso, ma è"
+	line "stato più"
+	para "divertente che"
+	line "stare con"
+	cont "quei due."
 	done
 
 	
 SchoolboyDudleySeenText:
-	text "This route is"
-	line "where all of my"
-	para "friends meet after"
-	line "school!"
+	text "Qui ci vediamo"
+	line "io e i miei amici"
+	cont "dopo la scuola!"
 	done
 
 SchoolboyDudleyBeatenText:
-	text "Whoo! Good stuff."
+	text "Bella mossa."
 	done
 
 SchoolboyDudleyAfterBattleText:
-	text "I did my best."
-	line "I have no regrets."
+	text "Ho fatto del mio"
+	line "meglio. Nessun"
+	cont "rimpianto."
 	done
 	
 YoungsterJoey1SeenText:
-	text "It's fun to play"
-	line "in the MINE."
-	para "But don't tell"
-	line "our parents!"
+	text "È divertente"
+	line "giocare nella"
+	cont "CAVA."
+	para "Ma non dirlo ai"
+	line "nostri genitori!"
 	done
 
 YoungsterJoey1BeatenText:
-	text "Ack! I lost!"
-	line "Doggone it!"
+	text "Aah! Ho perso!"
 	done
 
 YoungsterJoey1AfterText:
-	text "Do I have to have"
-	line "more #MON in"
+	text "Ho altri #MON"
+	line "per lottare"
+	cont "meglio?"
 
-	para "order to battle"
-	line "better?"
-
-	para "No! I'm sticking"
-	line "with this one no"
-	cont "matter what!"
+	para "No! Continuerò"
+	line "con questo"
+	cont "nonostante tutto!"
 	done
 
 
 YoungsterJoeyText_GiveHPUpAfterBattle:
-	text "I lost again…"
-	line "Gee, you're tough!"
+	text "Ho perso di nuovo…"
+	line "Sei forte!"
 
-	para "Oh yeah, I almost"
-	line "forgot that I had"
-	cont "to give you this."
+	para "Oh si, mi ero"
+	line "dimenticato di"
+	cont "darti questo."
 
-	para "Use it to get even"
-	line "tougher, OK?"
+	para "Usalo per essere"
+	line "ancora più forte!"
 
-	para "I'm going to get"
-	line "tougher too."
+	para "Anch'io sarò"
+	line "più forte."
 	done
 
 Route120BoulderMineSignText:
-	text "BOULDER MINE"
-	para "Dangerous mining"
-	line "area!"
-	para "Please do not"
-	line "enter without"
-	para "#MON for"
-	line "protection."
+	text "CAVA ROCCIOSA"
+	para "Zona pericolosa!"
+	para "Non entrare"
+	line "senza #MON"
+	para "che ti"
+	line "proteggano."
 	done
 
 Route120_MapEvents:

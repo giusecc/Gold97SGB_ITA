@@ -104,115 +104,116 @@ Route113HiddenSuperPotion:
 
 
 CamperTodd1SeenText:
-	text "I'm confident in"
-	line "my ability to"
-	cont "raise #MON."
+	text "Credo nelle mie"
+	line "capacità come"
+	para "allenatore di"
+	line "#MON."
 
-	para "Want to see?"
+	para "Vuoi vedere?"
 	done
 
 CamperTodd1BeatenText:
-	text "Did I screw up my"
-	line "training?"
+	text "Ho sbagliato"
+	line "allenamento?"
 	done
 
 CamperTodd1AfterText:
-	text "Maybe I should"
-	line "start a special"
-	cont "training schedule."
+	text "Forse dovrei"
+	line "iniziare un alle-"
+	cont "namento speciale."
 	done
 
 
 
 OfficerKeithSeenText:
-	text "Who goes there?"
-	line "You're not one of"
-	para "those TEAM ROCKET"
-	line "members, right?"
+	text "Chi va la?"
+	line "Non sei un membro"
+	para "del TEAM ROCKET,"
+	line "vero?"
 	done
 
 OfficerKeithWinText:
-	text "You're a tough"
-	line "little kid."
+	text "Sei un ragazzo"
+	line "forte."
 	done
 
 OfficerKeithAfterText:
-	text "Yep, I see nothing"
-	line "wrong today. We"
-	para "had some problems"
-	line "with TEAM ROCKET"
-	para "recently, but they"
-	line "seem to be gone."
+	text "Già, niente di"
+	line "strano oggi."
+	para "Abbiamo avuto"
+	line "problemi con TEAM"
+	para "ROCKET di recente,"
+	line "ma sembra che se"
+	cont "ne siano andati."
 	done
 
 OfficerKeithDaytimeText:
-	text "I'm on patrol for"
-	line "suspicious indi-"
-	cont "viduals."
+	text "Sto cercando"
+	line "degli individui"
+	cont "sospetti."
 	done
 
 PokefanmBrandonSeenText:
-	text "I think I could"
-	line "be strong enough"
-	para "to take on the"
-	line "LEAGUE someday."
+	text "Credo che un"
+	line "giorno sarò"
+	para "abbastanza forte"
+	line "da conquistare"
+	cont "la LEGA."
 	done
 
 PokefanmBrandonBeatenText:
-	text "Why does it end"
-	line "this way?"
+	text "Perché è andata"
+	line "così?"
 	done
 
 PokefanmBrandonAfterText:
-	text "I don't think I"
-	line "have enough"
-	para "motivation to go"
-	line "through with a"
-	cont "LEAGUE CHALLENGE."
+	text "Credo di non"
+	line "avere la giusta"
+	para "motivazione per"
+	line "conquistare la"
+	cont "LEAGA."
 	done
 
 
 Route113JadeForestSignText:
 ; unused
-	text "JADE FOREST"
-	line "THROUGH THE GATE"
+	text "BOSCO GIADA"
+	line "OLTRE IL PASSAGGIO"
 	done
 
 Route113SignText:
-	text "ROUTE 113"
+	text "PERCORSO 113"
 
-	para "STAND CITY -"
+	para "INERTOPOLI -"
 	line "KANTO"
 	done
 
 Route113TrainerTipsText:
-	text "TRAINER TIPS"
+	text "CONSIGLI UTILI"
 
-	para "BERRY trees grow"
-	line "new BERRIES"
-	cont "every day."
+	para "Le piante di"
+	line "BACCHE fanno ogni"
+	para "giorno nuovi"
+	line "frutti."
 
-	para "Make a note of"
-	line "which trees bear"
-	cont "which BERRIES."
+	para "Ogni tipo di"
+	line "pianta produce"
+	cont "una diversa BACCA."
 	done
 	
 SoldierGeraldSeenText:
-	text "You need to stop"
-	line "here and challenge"
-	cont "me to a battle!"
-	para "And that's an"
-	line "order!"
+	text "Fermati e lotta!"
+	para "È un ordine!"
 	done	
 	
 SoldierGeraldBeatenText:
-	text "Dismissed!"
+	text "Liquidato!"
 	done
 	
 SoldierGeraldAfterText:
-	text "A good battle"
-	line "always raises"
-	cont "one's spirits!"
+	text "Una bella lotta"
+	line "solleva gli"
+	cont "spiriti!"
 	done
 
 

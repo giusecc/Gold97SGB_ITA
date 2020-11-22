@@ -38,74 +38,71 @@ BlueScriptRI:
 	end
 	
 BlueWinLossText:
-	text "It's all over!"
+	text "È finita!"
 	
-	para "That was a battle"
-	line "for the history"
-	para "books, no doubt"
-	line "about it!"
+	para "Una lotta degna"
+	line "dei libri di"
+	para "storia, senza"
+	line "dubbio!"
 	done
 
 BlueSeenText:
-	text "Hi, <PLAYER>!"
-	para "I'm here studying"
-	line "the many species"
-	para "of #MON that"
-	line "live on this"
+	text "Ciao, <PLAYER>!"
+	para "Sono qui per"
+	line "studiare le"
+	para "specie di #MON"
+	line "che vivono su"
 	cont "island."
 	
 	
-	para "But I see you have"
-	line "a fire in your"
-	cont "eyes."
+	para "Vedo una luce"
+	line "nei tuoi occhi."
 	
-	para "I know that"
-	line "feeling well."
+	para "Conosco quello"
+	line "sguardo."
 	
-	para "It was what drove"
-	line "me to become the"
-	cont "CHAMPION."
+	para "È lo stesso che"
+	line "mi ha spinto a"
+	para "diventare"
+	line "CAMPIONE."
 	
-	para "Well… There's"
-	line "only one thing"
-	para "I could imagine"
-	line "you'd want!"
+	para "Dunque… C'è"
+	line "una sola cosa"
+	para "che vuoi fare,"
+	line "vero?"
 	
 	para "<PLAYER>!"
 	
-	para "As the former"
-	line "CHAMPION of the"
-	para "#MON LEAGUE,"
-	line "I challenge you!"
+	para "In qualità di"
+	line "EX CAMPIONE della"
+	para "LEGA #MON,"
+	line "ti sfido!"
 	done
 	
 BlueLeavesText:
-	text "Whew…"
+	text "Uff…"
 	
-	para "I haven't had"
-	line "someone give me a"
-	para "run for my money"
-	line "like that since"
-	para "I fought my old"
-	line "pal when I was"
-	cont "CHAMPION!"
+	para "Nessuno mi aveva"
+	line "dato così tanto"
+	para "filo da torcere"
+	line "da quando ho"
+	para "lottato contro"
+	line "il mio amico"
+	cont "da CAMPIONE!"
 	
-	para "Man… That still"
-	line "feels like it was"
-	cont "just yesterday…"
+	para "Eh… Sembra quasi"
+	line "ieri…"
 	
-	para "Welp! I guess it's"
-	line "time for me to"
-	para "wrap up my"
-	line "research tour."
+	para "Bene! Credo sia"
+	line "giunta ora di"
+	para "concludere il"
+	line "mio viaggio."
 	
-	para "What a time it's"
-	line "been!"
 	
-	para "<PLAYER>! I guess"
-	line "I'll…"
+	para "<PLAYER>! Credo"
+	line "che…"
 	
-	para "Smell ya later!"
+	para "Ci vediamo!"
 	done
 
 RainbowIsland_MapEvents:

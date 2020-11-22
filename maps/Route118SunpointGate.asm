@@ -98,7 +98,7 @@ DollSalesmanTuesdayMenu:
 	db "CHARMANDER  ¥5000@"
 	db "DIGLETT     ¥5000@"
 	db "STARYU      ¥5000@"
-	db "CANCEL@"
+	db "ESCI@"
 	
 DollSalesmanTuesday_FinishScript:
 	waitsfx
@@ -121,61 +121,60 @@ DollSalesmanTuesdayNoMoney:
 	end
 	
 SendItemToPCTextDollTuesday:
-	text "Send this DOLL to"
-	line "your bedroom PC?"
+	text "Inviare BAMBOLA"
+	line "al tuo PC?"
 	done
 
 AlreadyHaveDecorItemTextSalesmanTuesday:
-	text "You already have"
-	line "this DOLL!"
+	text "Hai già questa"
+	line "BAMBOLA!"
 	done
 
 DollSalesmanTuesday_HereYouGoText:
-	text "Here you go!"
+	text "Ecco a te!"
 	done
 	
 DollSalesmanTuesdayComeAgain:
-	text "Hope to see you"
-	line "again somewhere!"
+	text "Spero di vederti"
+	line "presto!"
 	done
 	
 DollSalesmanTuesdayNoMoneyText:
-	text "Sorry, you'll"
-	line "need more money!"
+	text "Mi spiace, ti"
+	line "servono più"
+	cont "soldi!"
 	done
 	
 DollSalesmanTextTuesday:
-	text "Hiya!"
-	para "I'm a traveling"
-	line "DOLL salesman!"
-	para "What does that"
-	line "mean?"
-	para "It means that I'm"
-	line "who you talk to"
-	para "if you want to"
-	line "deck out your"
-	cont "bedroom!"
-	para "My stock and my"
-	line "location change"
-	para "daily, so keep an"
-	line "eye out for me!"
+	text "Ehi!"
+	para "Sono un venditore"
+	line "di BAMBOLE!"
+	para "Cosa significa?"
+	para "Significa che devi"
+	line "parlare con me se"
+	para "vuoi decorare la"
+	line "tua camera!"
+	para "La mia merce e"
+	line "la mia posizione"
+	para "cambiano ogni"
+	line "giorno!"
 	done
 	
 DollSalesmanTextTuesday_AskWhichPrizeText:
-	text "Now which DOLL"
-	line "would you like?"
+	text "Ora, quale"
+	line "BAMBOLA vuoi?"
 	done
 	
 ;---------------------------------
 
 Route118SunpointGuardSeriousText:
-	text "SUNPOINT CITY is a"
-	line "major trade hub"
-	para "for goods coming"
-	line "into NIHON."
-	para "The DOCKS north of"
-	line "town are always"
-	cont "busy."	
+	text "ELIOPOLI è un"
+	line "grande centro di"
+	para "scambio per le"
+	line "merci che arrivano"
+	cont "a NIHON."
+	para "I MOLI a nord sono"
+	line "sempre trafficati."
 	done
 
 Route118SunpointGate_MapEvents:

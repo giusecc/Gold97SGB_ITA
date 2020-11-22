@@ -180,65 +180,62 @@ PlayerWalksToDirector:
 	step_end
 	
 DirectorThanksText:
-	text "Oh, dear!"
-	para "Where have those"
-	line "nasty TEAM ROCKET"
-	cont "members gone?"
-	para "Have they left?"
-	para "Hello, kid!"
-	line "Did you get rid"
-	cont "of them?"
-	para "Oh, you did?"
-	line "I am forever"
-	cont "grateful!"
-	para "They had kicked me"
-	line "out of my office,"
-	para "and my poor"
-	line "CLEFABLE was left"
-	cont "behind!"
-	para "I had no way to"
-	line "battle my way"
-	cont "back up!"
-	para "I must give you"
-	line "something to show"
-	cont "my gratitude!"
-	para "Here, take this!"
+	text "Oh!"
+	para "Dove sono finiti"
+	line "quei farabutti?"
+	para "Se ne sono andati?"
+	para "Ragazzo! Ti"
+	line "sei liberato di"
+	cont "loro?"
+	para "Davvero?"
+	line "Ti sarò per sempre"
+	cont "riconoscente!"
+	para "Mi hanno buttato"
+	line "fuori dall'ufficio"
+	para "e hanno lasciato"
+	line "qui CLEFABLE!"
+	para "Non potevo"
+	line "lottare!"
+	para "Devo darti"
+	line "qualcosa per"
+	cont "sdebitarmi!"
+	para "Ecco, tieni!"
 	done
 	
 DirectorThanksText2:
-	text "With that move,"
-	line "your #MON can"
-	para "break rocks you"
-	line "may find blocking"
-	cont "certain locations."
-	para "I'm sure you'd"
-	line "get more use out"
-	cont "of it than me!"
-	para "I don't ever want"
-	line "to leave this"
-	cont "office again!"
+	text "Con questa mossa,"
+	line "i tuoi #MON"
+	para "possono distrug-"
+	line "gere le rocce sul"
+	cont "tuo cammino."
+	para "Ne farai un uso"
+	line "migliore di me!"
+	para "Non voglio più"
+	line "andarmene da"
+	cont "questo ufficio!"
 	done
 	
 GiovanniExitingText:
-	text "I tell you now."
-	para "The world has not"
-	line "seen the end of"
-	cont "TEAM ROCKET."
-	para "We rose from the"
-	line "ashes before, and"
-	para "one day, we shall"
-	line "do it again!"
+	text "Devo dirtelo."
+	para "Il mondo non ha"
+	line "ancora visto la"
+	para "fine di"
+	line "TEAM ROCKET."
+	para "Siamo risorti"
+	line "dalle nostre"
+	para "ceneri, e lo"
+	line "rifaremo!"
 	done
 	
 GiovanniWinText:
-	text "No! Not again!"
+	text "No! Non di nuovo!"
 	
-	para "My plans…"
+	para "I miei piani…"
 	
-	para "My efforts…"
+	para "I miei sforzi…"
 	
-	para "Was it all for"
-	line "naught!?"
+	para "Tutto ciò per"
+	line "nulla!?"
 	done
 	
 GiovanniLossText:
@@ -247,90 +244,89 @@ GiovanniLossText:
 	
 GiovanniGreeting:
 	text "Ah."
-	para "I assume you are"
-	line "one of the two"
-	para "children I've been"
-	line "hearing about."
-	para "Are you <RIVAL>?"
-	para "No, you must be"
+	para "Voi due siete i"
+	line "ragazzini di cui"
+	para "ho sentito"
+	line "parlare."
+	para "Tu sei <RIVAL>?"
+	para "No, devi essere"
 	line "<PLAYER>."
-	para "Well, <PLAYER>,"
-	line "do you understand"
-	para "why you stand here"
-	line "before me?"
-	para "I know why."
+	para "Bene, <PLAYER>,"
+	line "sai perché ti"
+	para "trovi qui di"
+	line "fronte a me?"
+	para "Lo so il perché."
 	
-	para "It is because you"
-	line "are very brave…"
-	para "Or very foolish."
+	para "È perchè sei"
+	line "coraggioso…"
+	para "O molto sciocco."
 	
-	para "I am the leader of"
+	para "Sono il capo del"
 	line "TEAM ROCKET."
 	
-	para "I have endured"
-	line "much to restore"
-	cont "my organization to"
-	cont "its former glory."
+	para "Ho sofferto molto"
+	line "per riportare la"
+	para "mia organizzazione"
+	line "al vecchio"
+	cont "splendore."
 	
-	para "And you, remind me"
-	line "of another certain"
-	cont "child I once"
-	cont "faced."
+	para "E tu mi ricordi"
+	line "di un altro"
+	cont "ragazzo che ho"
+	cont "affrontato."
 
 	para "…"
 	
-	para "It truly angers"
-	line "me."
+	para "Che rabbia."
 
-	para "I know exactly"
-	line "what your flawed"
-	cont "intentions are."
+	para "So benissimo quali"
+	line "sono le tue"
+	cont "intenzioni."
 	
-	para "You wish to stop"
-	line "my plans."
+	para "Vuoi fermare i"
+	line "miei piani."
 	
-	para "Well I won't allow"
-	line "it."
+	para "Non te lo"
+	line "permetterò."
 	
-	para "Not again!"
+	para "Non di nuovo!"
 	
-	para "I, GIOVANNI the"
-	line "mighty LEADER of"
+	para "Io, GIOVANNI il"
+	line "CAPO del"
 	cont "TEAM ROCKET,"	
-	cont "will crush you!"	
+	cont "ti distruggerò!"	
 	done
 	
 
 	
 Executive6FSeenText:
-	text "EXECUTIVE: No!"
+	text "GENERALE: No!"
 
-	para "You will go no"
-	line "further!"
+	para "Non andrai oltre!"
 	
-	para "Brats like you do"
-	line "not deserve an"
-	cont "audience with our"
-	cont "leader!"
+	para "I marmocchi come"
+	line "te non meritano"
+	para "di incontrare"
+	line "il capo!"
 	
-	para "This ends here!"
+	para "Fermati qui!"
 	done
 	
 Executive6FBeatenText:
 	text "No!"
 	
 	para "GIOVANNI,"
-	line "forgive me!"
+	line "perdonami!"
 	done
 	
 Executive6FAfterBattleText:
 	text "…"
-	para "I have no anger"
-	line "left for you."
-	para "If you would like"
-	line "to see GIOVANNI,"
-	para "he's right over"
-	line "there."
+	para "Non posso più"
+	line "fare nulla."
+	para "Se vuoi vedere"
+	line "GIOVANNI, si"
+	para "trova più"
+	line "avanti."
 	done
 	
 RadioTower6FDirectorsOfficeSignText:
@@ -349,42 +345,37 @@ ClefableScaredText:
 	done
 	
 ClefableScaredText2:
-	text "It seems to be"
-	line "frightened…"
-	para "Also there's no"
-	line "way to talk to"
-	para "the scared cleffa,"
-	line "so you never see"
-	cont "this text…"
+	text "Sembra"
+	line "impaurito…"
 	done
 
 RadioTower6fTeacherText:
-	text "This is the office"
-	line "of the DIRECTOR"
-	para "in charge of this"
-	line "whole operation!"
+	text "Questo è l'ufficio"
+	line "del DIRETTORO"
+	para "a capo di questa"
+	line "operazione!"
 	done
 	
 RadioTower6fTeacherTextTakeover:
-	text "Where'd the"
-	line "DIRECTOR go?"
-	para "I hope he's okay!"
+	text "Dove è finito il"
+	line "DIRETORE?"
+	para "Spero stia bene!"
 	done
 
 RadioTower6fGentlemanText:
-	text "I started the JOPM"
-	line "RADIO COMPANY to"
-	para "share my love of"
-	line "#MON!"
-	para "I hope people and"
-	line "#MON alike"
-	cont "enjoy our shows."
+	text "Ho aperto la"
+	line "COMPAGNIA RADIO"
+	para "per condividere"
+	line "l'amore per i"
+	cont "#MON!"
+	para "Spero che alle-"
+	line "natori e #MON"
+	para "apprezzino i"
+	line "nostri programmi."
 	done
 	
 RadioTower6fGentlemanTextTakeover:
-	text "I am missing right"
-	line "now, so you never"
-	cont "see this text"
+	text "…"
 	done
 	
 

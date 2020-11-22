@@ -21,22 +21,22 @@ Route106Pokecenter1FCooltrainerMScript:
 
 
 Route106Pokecenter1FCooltrainerFText:
-	text "What should I make"
-	line "my #MON hold?"
+	text "Quale strumento"
+	line "dovrei dare al"
+	cont "mio #MON?"
 
-	para "Maybe an item that"
-	line "increases ATTACK"
-	cont "power…"
+	para "Forse uno che"
+	line "aumenti ATTACCO…"
 	done
 	
 Route106Pokecenter1FCooltrainerMText:
-	text "It's so convenient"
-	line "that this #MON"
-	cont "CENTER is here."
-	para "JADE FOREST is"
-	line "a tough trek and"
-	para "I'm glad my #-"
-	line "MON can rest."
+	text "È grandioso avere"
+	line "un CENTRO #MON"
+	cont "proprio qui."
+	para "È difficile"
+	line "affrontare il"
+	para "BOSCO GIADA"
+	line "senza riposo."
 	done
 
 Route106Pokecenter1F_MapEvents:

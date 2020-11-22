@@ -50,26 +50,26 @@ Route105HiddenPotion:
 
 
 YoungsterMikeySeenText:
-	text "You're a #MON"
-	line "trainer, right?"
+	text "Sei un allenatore,"
+	line "giusto?"
 
-	para "Then you have to"
-	line "battle!"
+	para "Allora devi"
+	line "lottare!"
 	done
 
 YoungsterMikeyBeatenText:
-	text "That's strange."
-	line "I won before."
+	text "Che strano."
+	line "Prima ho vinto."
 	done
 
 YoungsterMikeyAfterText:
-	text "Becoming a good"
-	line "trainer is really"
-	cont "tough."
+	text "È difficile"
+	line "diventare un bravo"
+	cont "allenatore."
 
-	para "I'm going to bat-"
-	line "tle other people"
-	cont "to get better."
+	para "Continuerò a"
+	line "lottare per"
+	cont "migliorare."
 	done
 
 

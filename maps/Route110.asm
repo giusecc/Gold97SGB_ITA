@@ -99,98 +99,100 @@ Route110HiddenHyperPotion:
 	hiddenitem HYPER_POTION, EVENT_ROUTE_110_HIDDEN_HYPER_POTION
 
 EngineerRicardoSeenText:
-	text "The air here is"
-	line "buzzing with"
-	cont "energy!"
+	text "L'aria vibra"
+	line "di energia!"
 	done
 
 EngineerRicardoBeatenText:
-	text "I'm zapped!"
+	text "Folgorato!"
 	done
 
 EngineerRicardoAfterText:
-	text "The sting of cold"
-	line "air reminds me of"
-	para "the sting of an"
-	line "electric shock."
+	text "L'aria fredda mi"
+	line "ricorda una"
+	cont "scossa elettrica."
 	done
 
 SwimmermSimonSeenText:
-	text "I wish the water"
-	line "was warmer here."
+	text "Speravo che"
+	line "l'acqua fosse"
+	cont "più calda."
 	done
 
 SwimmermSimonBeatenText:
-	text "OK! Uncle! I give!"
+	text "Ok, mi arrendo!"
 	done
 
 SwimmermSimonAfterBattleText:
-	text "Constantly moving"
-	line "helps keep body"
-	cont "temperature up."
+	text "Muoversi aiuta"
+	line "a scaldare il"
+	cont "corpo."
 	done
 
 Route110Lass1Text:
-	text "Have you ever"
-	line "looked for #MON"
-	cont "in snowy grass?"
+	text "Hai mai cercato"
+	line "un #MON"
+	para "nell'erba"
+	line "innevata?"
 	done
 
 Route110PokefanMText:
-	text "There's a strange"
-	line "lady who lives in"
-	para "that house on the"
-	line "water."
+	text "C'è una strana"
+	line "ragazza che vive"
+	para "su quella casa"
+	line "in acqua."
 	done
 
 
 MeetMonicaText:
-	text "MONICA: Glad to"
-	line "meet you. I'm"
+	text "LUANA: Felice di"
+	line "incontrarti, sono"
 
-	para "MONICA of Monday."
+	para "LUANA del lunedì."
 	done
 
 MonicaGivesGiftText:
-	text "As a token of our"
-	line "friendship, I have"
-	cont "a gift for you!"
+	text "In segno della"
+	line "nostra amicizia"
+	cont "ti darò un regalo!"
 	done
 
 MonicaGaveGiftText:
-	text "MONICA: It's an"
-	line "item that raises"
+	text "LUANA: È uno"
+	line "strumento che"
 
-	para "the power of fly-"
-	line "ing-type moves."
+	para "aumenta"
+	line "l'efficacia delle"
+	para "mosse di tipo"
+	line "volante."
 
-	para "You should equip a"
-	line "bird #MON with"
-	cont "that item."
+	para "Dovresti darlo ad"
+	line "un #MON"
+	cont "uccello."
 	done
 
 MonicaMondayText:
-	text "MONICA: My broth-"
-	line "ers and sisters"
+	text "LUANA: I miei"
+	line "fratelli e le"
 
-	para "are all over the"
-	line "place."
+	para "mie sorelle sono"
+	line "tutti in giro."
 
-	para "See if you could"
-	line "find them all!"
+	para "Vedi se riesci"
+	line "a trovarli!"
 	done
 
 MonicaNotMondayText:
-	text "MONICA: I don't"
-	line "think today is"
-	cont "Monday. How sad…"
+	text "LUANA: Non mi"
+	line "pare che sia"
+	cont "lunedì, peccato!"
 	done
 
 Route110SignText:
-	text "ROUTE 110"
+	text "PERCORSO 110"
 
-	para "ALLOY CITY -"
-	line "BLUE FOREST"
+	para "DESMOPOLI -"
+	line "BIANCASELVA"
 	done
 
 Route110_MapEvents:

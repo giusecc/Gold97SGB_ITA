@@ -101,7 +101,7 @@ DollSalesmanWednesdayMenu:
 	db "SQUIRTLE    ¥5000@"
 	db "MAGIKARP    ¥5000@"
 	db "ODDISH      ¥5000@"
-	db "CANCEL@"
+	db "ESCI@"
 	
 DollSalesmanWednesday_FinishScript:
 	waitsfx
@@ -124,69 +124,67 @@ DollSalesmanWednesdayNoMoney:
 	end
 	
 SendItemToPCTextDollWednesday:
-	text "Send this DOLL to"
-	line "your bedroom PC?"
+	text "Inviare BAMBOLA"
+	line "al tuo PC?"
 	done
 
 AlreadyHaveDecorItemTextSalesmanWednesday:
-	text "You already have"
-	line "this DOLL!"
+	text "Possiedi già"
+	line "questa BAMBOLA!"
 	done
 
 DollSalesmanWednesday_HereYouGoText:
-	text "Here you go!"
+	text "Ecco a te!"
 	done
 	
 DollSalesmanWednesdayComeAgain:
-	text "Hope to see you"
-	line "again somewhere!"
+	text "Spero di rivederti"
+	line "presto!"
 	done
 	
 DollSalesmanWednesdayNoMoneyText:
-	text "Sorry, you'll"
-	line "need more money!"
+	text "Mi spiace, ti"
+	line "servono più soldi!"
 	done
 	
 DollSalesmanTextWednesday:
-	text "Hiya!"
-	para "I'm a traveling"
-	line "DOLL salesman!"
-	para "What does that"
-	line "mean?"
-	para "It means that I'm"
-	line "who you talk to"
-	para "if you want to"
-	line "deck out your"
-	cont "bedroom!"
-	para "My stock and my"
-	line "location change"
-	para "daily, so keep an"
-	line "eye out for me!"
+	text "Ehi!"
+	para "Sono un venditore"
+	line "di BAMBOLE!"
+	para "Cosa significa?"
+	para "Significa che devi"
+	line "parlare con me se"
+	para "vuoi decorare la"
+	line "tua camera!"
+	para "La mia merce e"
+	line "la mia posizione"
+	para "cambiano ogni"
+	line "giorno!"
 	done
 	
 DollSalesmanTextWednesday_AskWhichPrizeText:
-	text "Now which DOLL"
-	line "would you like?"
+	text "Ora, quale"
+	line "BAMBOLA vuoi?"
 	done
 	
 ;---------------------------------
 
 
 Route105Route106GateOfficerText:
-	text "JADE FOREST is"
-	line "a mysterious area."
-	para "Be sure to treat"
-	line "it with respect."
+	text "BOSCO GIADA è una"
+	line "zona misteriosa."
+	para "Trattala con"
+	line "rispetto."
 	done
 
 Route105Route106GateRockerText:
-	text "I like going for"
-	line "peaceful walks in"
-	cont "JADE FOREST."
-	para "It's a lot less"
-	line "scary in there"
-	para "once you know your"
-	line "way around."
+	text "Mi piace passeg-"
+	line "giare nel"
+	cont "BOSCO GIADA."
+	para "È molto meno"
+	line "spaventoso se"
+	para "sai come"
+	line "orientarti."
 	done
 
 Route105Route106Gate_MapEvents:

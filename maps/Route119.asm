@@ -198,160 +198,164 @@ TrainerSportsmanBryson:
 
 
 FisherChrisSeenText:
-	text "Let me demonstrate"
-	line "the power of the"
-	cont "#MON I caught!"
+	text "Lascia che ti"
+	line "mostri la forza"
+	para "dei #MON"
+	line "che ho catturato!"
 	done
 
 FisherChrisBeatenText:
-	text "What? That's not"
-	line "right."
+	text "Cosa? Non è"
+	line "giusto."
 	done
 
 FisherChrisAfterBattleText:
-	text "I want to become"
-	line "the trainer CHAMP"
+	text "Voglo diventare"
+	line "un CAMPIONE"
 
-	para "using the #MON"
-	line "I caught."
+	para "con i #MON"
+	line "che ho catturato."
 
-	para "That's the best"
-	line "part of fishing!"
+	para "È questo il bello"
+	line "della pesca!"
 	done
 	
 
 SportsmanBrysonSeenText:
-	text "Whew!"
+	text "Uff!"
 
-	para "Nothing like a"
-	line "good jog along the"
-	cont "beach!"
+	para "Niente è meglio"
+	line "di una corsetta"
+	cont "in spiaggia!"
 	done
 
 SportsmanBrysonBeatenText:
-	text "Sand in my shoe!"
+	text "Sabbia nelle"
+	line "scarpe!"
 	done
 
 SportsmanBrysonAfterText:
-	text "Sand isn't really"
-	line "the best surface"
-	cont "to run on."
+	text "Non è il massimo"
+	line "correre sulla"
+	cont "sabbia."
 	done
 
 FisherJustinSeenText:
-	text "Whoa!"
+	text "No!"
 
-	para "You made me lose"
-	line "that fish!"
+	para "Mi hai fatto"
+	line "perdere un pesce!"
 	done
 
 FisherJustinBeatenText:
-	text "Sploosh!"
+	text "Splash!"
 	done
 
 FisherJustinAfterText:
-	text "Calm, collected…"
-	line "The essence of"
+	text "Calma…"
+	line "L'essenza della"
 
-	para "fishing and #-"
-	line "MON is the same."
+	para "pesca è la stessa"
+	line "di quella delle"
+	cont "lotte #MON."
 	done
 
 FisherRalph1SeenText:
-	text "I'm really good at"
-	line "both fishing and"
-	cont "#MON."
+	text "Sono bravo a"
+	line "pescare e a"
+	cont "lottare."
 
-	para "I'm not about to"
-	line "lose to any kid!"
+	para "Non perderò con"
+	line "un ragazzino!"
 	done
 
 FisherRalph1BeatenText:
-	text "Tch! I tried to"
-	line "rush things…"
+	text "Ho rischiato"
+	line "troppo…"
 	done
 
 FisherRalphAfterText:
-	text "Fishing is a life-"
-	line "long passion."
+	text "Pescare è una"
+	line "scelta di vita."
 
-	para "#MON are life-"
-	line "long friends!"
+	para "I #MON sono"
+	line "compagni di vita!"
 	done
 
 FisherRalphSwarmText:
-	text "One, two, three…"
-	line "Muahahaha, what a"
+	text "Uno, due, tre…"
+	line "Ahahaha, che bel"
 
-	para "great haul!"
-	line "I'm done! Go ahead"
+	para "bottino!"
+	line "Ho finito!"
 
-	para "and catch as many"
-	line "as you can, kid!"
+	para "Prendine quanti"
+	line "ne vuoi, ragazzo!"
 	done
 
 Route119CrownPathSignText:
-	text "ROUTE 119"
-	para "East to TEKNOS"
-	line "CITY"
+	text "PERCORSO 119"
+	para "TECNOPOLI a est"
 	done
 
 Route119LockedDoorText:
-	text "Go through gate"
-	line "to SUNPOINT CITY."
+	text "Passaggio per"
+	line "ELIOPOLI."
 	done
 	
 Route119Rocket1Text:
 	text "Fufufufu…"
-	para "Why are we even"
-	line "stationed here?"
+	para "Perché siamo"
+	line "qui?"
 	done
 	
 Route119Rocket2Text:
 	text "Hehehehe…"
-	para "I don't think the"
-	line "boss likes us"
-	cont "very much…"
+	para "Non credo che"
+	line "il capo ci"
+	cont "rispetti molto…"
 	done
 	
 MeetWesleyText:
-	text "WESLEY: Well, how"
-	line "do you do?"
+	text "ERCOLE: Come te"
+	line "la passi?"
 
-	para "Seeing as how it's"
-	line "Wednesday today,"
+	para "Oggi è mercoledì"
+	line "e guarda caso, io"
 
-	para "I'm WESLEY of"
-	line "Wednesday."
+	para "sono ERCOLE del"
+	line "mercoledì."
 	done
 
 WesleyGivesGiftText:
-	text "Pleased to meet"
-	line "you. Please take a"
-	cont "souvenir."
+	text "Piacere di"
+	line "conoscerti. Eccoti"
+	cont "un ricordino."
 	done
 
 WesleyGaveGiftText:
-	text "WESLEY: BLACKBELT"
-	line "beefs up the power"
-	cont "of fighting moves."
+	text "ERCOLE: CINTURA-"
+	line "NERA potenzia le"
+	para "mosse di tipo"
+	line "lotta."
 	done
 
 WesleyWednesdayText:
-	text "WESLEY: Since you"
-	line "found me, you must"
+	text "ERCOLE: Se hai"
+	line "trovato me, avrai"
 
-	para "have met my broth-"
-	line "ers and sisters."
+	para "conosciuto i miei"
+	line "fratelli e"
+	cont "sorelle."
 
-	para "Or did you just"
-	line "get lucky?"
+	para "O mi hai trovato"
+	line "per caso?"
 	done
 
 WesleyNotWednesdayText:
-	text "WESLEY: Today's"
-	line "not Wednesday."
-	cont "That's too bad."
+	text "ERCOLE: Oggi non è"
+	line "mercoledì."
+	cont "Peccato."
 	done
 
 

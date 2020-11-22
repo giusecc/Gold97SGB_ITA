@@ -345,225 +345,228 @@ Route102RivalBattleExitMovement:
 	step_end
 	
 Route102SilverWinText:
-	text "Wow! Looks like"
-	line "you've been"
-	para "working hard to"
-	line "raise your"
-	cont "#MON!"
+	text "Ehi! Ti sei"
+	line "allenato molto"
+	para "con i tuoi"
+	line "#MON!"
 	done
 	
 Route102SilverLossText:
-	text "My team is the"
-	line "best!"
+	text "La mia squadra"
+	line "è più forte!"
 	done
 	
 Route102RivalBeforeText:
 	text "<PLAYER>!"
-	para "You gotta check"
-	line "out WESTPORT CITY!"
-	para "There's a giant"
-	line "MART and a RADIO"
-	cont "TOWER, and…"
-	para "Oh, yeah!"
-	para "I've started the"
-	line "LEAGUE challenge!"
-	para "I heard you have,"
-	line "too, <PLAYER>!"
-	para "This will be a"
-	line "great way to show"
-	para "the world how"
-	line "my team is the"
-	para "strongest there"
-	line "is!"
-	para "I've also been out"
-	line "catching some"
-	cont "#MON!"
-	para "Have you? Let's"
-	line "battle to see"
-	cont "whose are better!"
+	para "Devi andare a"
+	line "PORTOVEST!"
+	para "C'è un #MON-"
+	line "MARKET enorme"
+	para "e la TORRE"
+	line "RADIO e…"
+	para "Oh, giusto!"
+	para "Ho iniziato a"
+	line "sfidare le"
+	cont "PALESTRE!"
+	para "Anche tu lo stai"
+	line "facendo, <PLAYER>!"
+	para "Sarà un ottimo"
+	line "modo per mostrare"
+	para "al mondo quanto"
+	line "è forte la mia"
+	cont "squadra!"
+	para "Ho anche catturato"
+	line "altri #MON!"
+	para "Anche tu? Lottiamo"
+	line "per vedere quali"
+	cont "sono i migliori!"
 	done
 	
 Route102RivalAfterText:
-	text "Whew! It was good"
-	line "catching up with"
-	cont "you, <PLAYER>!"
-	para "I'm heading back"
-	line "into the city!"
-	para "See you around!"
+	text "È stato bello"
+	line "incontrarti,"
+	cont "<PLAYER>!"
+	para "Io torno in"
+	line "città!"
+	para "Ci si vede!"
 	done
 
 
 Route102LassText:
-	text "A small tree is"
-	line "blocking the way"
-	cont "to WESTPORT CITY."
+	text "Un alberello"
+	line "blocca la strada"
+	cont "per PORTOVEST."
 
-	para "If you need to"
-	line "get through, a"
-	para "#MON could"
-	line "probably CUT the"
-	cont "tree."
+	para "Se devi passare,"
+	line "ti potrebbe"
+	para "servire un #MON"
+	line "con TAGLIO."
 	done
 
 PsychicMarkSeenText:
-	text "I'm going to read"
-	line "your thoughts!"
+	text "Leggerò i tuoi"
+	line "pensieri!"
 	done
 
 PsychicMarkBeatenText:
-	text "I misread you!"
+	text "Ho letto male!"
 	done
 
 PsychicMarkAfterBattleText:
-	text "I'd be strong if"
-	line "only I could tell"
+	text "Sarei più forte"
+	line "se sapessi"
 
-	para "what my opponent"
-	line "was thinking."
+	para "cosa pensa il"
+	line "mio avversario."
 	done
 
 SchoolboyAlan1SeenText:
-	text "Thanks to my stud-"
-	line "ies, I'm ready for"
-	cont "any #MON!"
+	text "Grazie ai miei"
+	line "studi, sono pronto"
+	cont "a tutto!"
 	done
 
 SchoolboyAlan1BeatenText:
-	text "Oops! Computation"
-	line "error?"
+	text "Oops! Errore"
+	line "di calcolo?"
 	done
 
 SchoolboyAlanBooksText:
-	text "Darn. I study five"
-	line "hours a day too."
+	text "Studio cinque"
+	line "ore al giorno."
 
-	para "There's more to"
-	line "learning than just"
-	cont "reading books."
+	para "C'è molto più da"
+	line "imparare rispetto"
+	cont "ai libri."
 	done
 
 MeetArthurText:
-	text "ARTHUR: Who are"
-	line "you?"
+	text "GIORGIO: Chi"
+	line "sei?"
 
-	para "I'm ARTHUR of"
-	line "Thursday."
+	para "Io sono GIORGIO"
+	line "del giovedì."
 	done
 
 ArthurGivesGiftText:
-	text "Here. You can have"
-	line "this."
+	text "Tieni, prendi"
+	line "questo."
 	done
 
 ArthurGaveGiftText:
-	text "ARTHUR: A #MON"
-	line "that uses rock-"
+	text "GIORGIO: Dovrebbe"
+	line "tenerlo un"
+	para "#MON"
+	line "che usa attacchi"
+	cont "di tipo ROCCIA."
 
-	para "type moves should"
-	line "hold on to that."
-
-	para "It pumps up rock-"
-	line "type attacks."
+	para "Migliora proprio"
+	line "questi attacchi."
 	done
 
 ArthurThursdayText:
-	text "ARTHUR: I'm ARTHUR"
-	line "of Thursday. I'm"
+	text "GIORGIO: Sono"
+	line "GIORGIO del"
+	para "giovedì, il"
+	line "secondo di"
 
-	para "the second son out"
-	line "of seven children."
+	para "sette fratelli"
+	line "e sorelle."
 	done
 
 ArthurNotThursdayText:
-	text "ARTHUR: Today's"
-	line "not Thursday. How"
-	cont "disappointing."
+	text "GIORGIO: Ma oggi"
+	line "non è giovedì,"
+	cont "che peccato."
 	done
 
 Route102SignText:
-	text "ROUTE 102"
-	para "PAGOTA CITY -"
-	line "WESTPORT CITY"
+	text "PERCORSO 102"
+	para "ANCESTRALIA -"
+	line "PORTOVEST"
 	done
 
 RuinsOfAlphNorthSignText:
-	text "RUINS OF ALPH"
-	line "NORTH ENTRANCE"
+	text "ROVINE D'ALFA"
+	line "ENTRATA NORD"
 	done
 
 Route102TrainerTips1Text:
-	text "TRAINER TIPS"
+	text "CONSIGLI UTILI"
 
-	para "#MON stats"
-	line "vary--even within"
-	cont "the same species."
+	para "Le statistiche dei"
+	line "#MON variano"
+	para "anche nella stessa"
+	line "specie."
 
-	para "Their stats may be"
-	line "similar at first."
+	para "Le statistiche"
+	line "sono simili,"
+	cont "all'inizio."
 
-	para "However, differ-"
-	line "ences will become"
+	para "Ma le differenze"
+	line "verranno fuori"
 
-	para "pronounced as the"
-	line "#MON grow."
+	para "quando i #MON"
+	line "cresceranno."
 	done
 
 Route102TrainerTips2Text:
-	text "TRAINER TIPS"
+	text "CONSIGLI UTILI"
 
-	para "Use DIG to return"
-	line "to the entrance of"
-	cont "any place."
+	para "Con FOSSA puoi"
+	line "tornare all'"
+	para "ingresso di"
+	line "qualsiasi posto."
 
-	para "It is convenient"
-	line "for exploring"
+	para "È utile quando"
+	line "si esplorano"
 
-	para "caves and other"
-	line "landmarks."
+	para "grotte o altri"
+	line "luoghi."
 	done
 	
 Route102GameHouseText:
-	text "Come and take a"
-	line "break!"
-	para "GAME HOUSE"
+	text "Vieni a fare"
+	line "una pausa!"
+	para "SALA GIOCHI"
 	done
 	
 
 
 YoungsterSamuelSeenText:
-	text "This is where I do"
-	line "my training!"
+	text "Io mi alleno"
+	line "qui!"
 	done
 
 YoungsterSamuelBeatenText:
-	text "Beaten by a"
-	line "passing stranger!"
+	text "Battuto da uno"
+	line "straniero!"
 	done
 
 YoungsterSamuelAfterText:
-	text "I'm going to train"
-	line "even harder."
+	text "Mi allenerò"
+	line "ancora di più."
 
-	para "After all, I'm"
-	line "trying to become"
-	cont "a GYM LEADER."
+	para "Dopotutto voglio"
+	line "diventare un"
+	cont "CAPOPALESTRA."
 	done
 
 YoungsterIanSeenText:
-	text "I'm the best in my"
-	line "class at #MON."
-	para "It's honestly not"
-	line "even close."
+	text "Sono il primo"
+	line "della classe"
+	cont "sui #MON."
 	done
 
 YoungsterIanBeatenText:
-	text "No! There are bet-"
-	line "ter trainers…"
+	text "No! Ci sono"
+	line "allenatori più"
+	cont "forti…"
 	done
 
 YoungsterIanAfterText:
-	text "I guess I gotta"
-	line "try even harder."
+	text "Dovrò allenarmi"
+	line "ancora di più."
 	done
 	
 WateredWeirdTreeScript::

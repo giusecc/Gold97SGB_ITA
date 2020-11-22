@@ -80,7 +80,7 @@ PlayersHouse2F_Ken:
 	end
 
 .mapcardname
-	db "MAP CARD@"
+	db "MAPPA@"
 	
 
 
@@ -160,134 +160,133 @@ PlayersDollScript:
 	end
 	
 PlayersRadioText5:
-	text "Looks like it"
-	line "isn't on…"
+	text "Sembra che"
+	line "sia spenta…"
 	done
 	
 KenGreeting:
-	text "KEN: Hey bro!"
-	para "That shiny thing"
-	line "on your wrist…"
-	para "You finally got"
-	line "a #GEAR!"
-	para "Sweet! But since"
-	line "it's new and all,"
-	para "you can't really"
-	line "do much with it"
-	cont "yet…"
-	para "Have MOM help you"
-	line "set it up!"
-	para "Maybe I'll get you"
-	line "the MAP CARD"
-	cont "upgrade!"
-	para "You know, if there"
-	line "was ever a reason"
-	cont "you'd need it."
-	para "Come see me later"
-	line "before you head"
-	cont "out anywhere!"
-	para "Oh, yeah!"
-	para "I think I saw that"
-	line "you got a new"
-	cont "e-mail on your PC."
-	para "You might want to"
-	line "check that before"
-	cont "you leave."
+	text "KEN: Fratellino!"
+	para "Quella roba che"
+	line "hai al polso…"
+	para "Finalmente hai"
+	line "un #GEAR!"
+	para "Fantastico! Ma"
+	line "essendo nuovo, non"
+	para "puoi ancora farci"
+	line "molto…"
+	para "Vai dalla MAMMA"
+	line "per fartelo"
+	cont "regolare!"
+	para "Forse potrei"
+	line "trovarti una"
+	cont "SCHEDA MAPPA!"
+	para "Sai, in caso"
+	line "dovesse servirti."
+	para "Passa qui prima"
+	line "di andare da"
+	cont "qualche parte!"
+	para "Oh, giusto!"
+	para "Credo ti sia"
+	line "arrivata una"
+	cont "e-mail sul PC."
+	para "Dovresti leggerla"
+	line "prima di uscire."
 	done
 	
 KenGreeting2:
-	text "Come see me later"
-	line "before you head"
-	cont "out anywhere!"
+	para "Passa qui prima"
+	line "di andare da"
+	cont "qualche parte!"
 	done
 	
 KenGreeting3:
-	text "KEN: Hey, bro!"
-	para "PROF.OAK asked you"
-	line "to help him make"
-	cont "a new #DEX?"
-	para "Wow, good thing I"
-	line "got this for you!"
+	text "KEN: Fratellino!"
+	para "Il PROF.OAK ti"
+	line "ha chiesto di"
+	para "aiutarlo con il"
+	line "#DEX?"
+	para "Grandioso! Tieni"
+	line "questo!"
 	done
 	
 KenGreeting4:
-	text "Now your #GEAR"
-	line "can help you keep"
-	para "track of where you"
-	line "are at!"
-	para "You'll never get"
-	line "lost with this!"
-	para "Also, guess what?"
-	para "I got an interview"
-	line "for a job as a"
-	para "radio DJ in"
-	line "WESTPORT CITY!"
-	para "I could be on the"
-	line "radio, bro!"
-	para "Listen for me in"
-	line "the future!"
-	para "And good luck out"
-	line "there!"
+	text "Ora il tuo #-"
+	line "GEAR può tenere"
+	para "traccia della"
+	line "tua posizione!"
+	para "Con questa non"
+	line "ti perderai mai!"
+	para "Sai una cosa?"
+	para "Mi hanno offerto"
+	line "un lavoro come"
+	para "DJ alla radio di"
+	line "PORTOVEST!"
+	para "Potrei essere in"
+	line "radio, fratellino!"
+	para "Potresti sentirmi"
+	line "in futuro!"
+	para "Buona fortuna per"
+	line "il viaggio!"
 	done
 	
 KenGreeting5:
-	text "I got an interview"
-	line "for a job as a"
-	para "radio DJ in"
-	line "WESTPORT CITY!"
-	para "I could be on the"
-	line "radio, bro!"
-	para "Listen for me in"
-	line "the future!"
-	para "And good luck out"
-	line "there!"
+	para "Mi hanno offerto"
+	line "un lavoro come"
+	para "DJ alla radio di"
+	line "PORTOVEST!"
+	para "Potrei essere in"
+	line "radio, fratellino!"
+	para "Potresti sentirmi"
+	line "in futuro!"
+	para "Buona fortuna per"
+	line "il viaggio!"
 	done
 
 PlayersDollText:
-	text "It's a doll you"
-	line "got as a Christmas"
-	para "present from a"
-	line "relative in KANTO."
+	text "È una bambola"
+	line "che ti ha regalato"
+	para "un parente di"
+	line "KANTO per Natale."
 	done
 
 PlayersRadioText1:
-	text "<PLAYER> turned"
-	line "on the radio."
+	text "<PLAYER> accende"
+	line "la radio."
 	
 	para "…"
 
-	para "You're listening"
-	line "to JOPM, the"
-	para "#MON broadcast"
-	line "station!"
+	para "State ascoltando"
+	line "JOPM, la stazione"
+	cont "radio #MON!"
 	
-	para "Coming up next is"
-	line "#MON News!"
+	para "Tra poco,"
+	line "Notizie #MON!"
 	
-	para "… World famous"
-	line "#MON researcher"
-	para "PROF. OAK has"
-	line "disappeared from"
+	para "… Il famoso"
+	line "scienziato #MON"
+	para "OAK è"
+	line "scomparso da"
 	cont "KANTO!"
 	
-	para "Although some"
-	line "consider he may"
-	para "have moved in"
-	line "search of a new"
-	para "place to study,"
-	line "there is also"
-	para "the possibility"
-	line "he was involved"
-	para "in some sort of"
-	line "incident."
+	para "Secondo alcuni"
+	line "si è trasferito"
+	para "alla ricerca di"
+	line "un nuovo luogo"
+	para "per i suoi studi,"
+	line "ma non si può"
+	para "escludere che"
+	line "sia stato coinvol-"
+	para "to in un"
+	line "incidente."
 	
-	para "Concerned parties"
-	line "are very worried."
+	para "Le parti interes-"
+	line "sate sono"
+	cont "preoccupate."
 	
 	para "…"
 	
-	para "And that was"
-	line "#MON News."
+	para "Questo è tutto per"
+	line "Notizie #MON."
 	
 	para "…"
 	
@@ -296,37 +295,34 @@ PlayersRadioText1:
 	done
 
 PlayersRadioText2:
-	text "<PLAYER> turned"
-	line "on the PC."
+	text "<PLAYER> accende"
+	line "il PC."
 	
-	para "What's this?"
-	line "A new email?"
+	para "Cos'è?"
+	line "Una e-mail?"
 	
 	para "…"
 	
-	para "I hope you'll"
-	line "excuse the sudden"
-	para "email, but there's"
-	line "something that I"
-	para "would like to"
-	line "entrust you with."
+	para "Scusa per la"
+	line "e-mail improvvisa,"
+	para "ma ho una cosa"
+	line "da affidarti."
 	
-	para "Won't you come by"
-	line "to collect it?"
+	para "Puoi venire a"
+	line "prenderla?"
 	
-	para "#MON researcher"
-	line "OAK"
+	para "PROF.OAK"
 	
 	done
 
 PlayersRadioText3:
-	text "This is DJ MARY,"
-	line "your co-host!"
+	text "Qui DJ LORI,"
+	line "la presentatrice!"
 	done
 
 PlayersRadioText4:
 	text "#MON!"
-	line "#MON CHANNEL…"
+	line "RADIO #MON…"
 	done
 
 PlayersHouse2F_MapEvents:

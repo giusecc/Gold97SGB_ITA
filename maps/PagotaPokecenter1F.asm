@@ -56,7 +56,7 @@ PagotaPokecenter1F_Oak2sAideScript:
 	end
 
 .eggname
-	db "EGG@"
+	db "UOVO@"
 
 .AideGivesEgg:
 	jumpstd ReceiveTogepiEggScript
@@ -110,17 +110,17 @@ MovementData_AideFinishesLeavingPokecenter:
 	step_end
 
 UnknownText_0x69555:
-	text "<PLAYER>, long"
-	line "time, no see."
+	text "<PLAYER>, ne è"
+	line "passato del tempo."
 
-	para "PROF.OAK asked me"
-	line "to find you."
+	para "Il PROF.OAK mi ha"
+	line "detto di cercarti."
 
-	para "He has another"
-	line "favor to ask."
+	para "Deve chiederti"
+	line "un altro favore."
 
-	para "Would you take"
-	line "this #MON EGG?"
+	para "Puoi portare con"
+	line "te l'UOVO #MON?"
 	
 	para "It would benefit"
 	line "our research to"
@@ -136,107 +136,106 @@ UnknownText_0x69555:
 	done
 
 UnknownText_0x695c5:
-	text "What's in the egg?"
-	para "Well, we thought"
-	line "we'd keep that a"
-	cont "surprise!"
-	para "I'm sure it could"
-	line "be a helpful"
-	para "addition to your"
-	line "party!"
-	para "Consider it a"
-	line "gift!"
-	para "Also, did you hear"
-	line "that BILL is in"
-	cont "town?"
-	para "If you don't know,"
-	line "BILL created the"
-	cont "PC storage system!"
-	para "He's highly"
-	line "respected among"
-	para "#MON"
-	line "researchers."
-	para "You should pay him"
-	line "a visit if you've"
-	cont "got a chance."
-	para "Anyways, I'm off!"
-	line "See you around!"
+	text "Cosa contiene?"
+	para "Volevamo mantenere"
+	line "la sorpresa!"
+	para "Sono sicuro che"
+	line "sarà molto utile"
+	para "per la tua"
+	line "squadra!"
+	para "Consideralo un"
+	line "regalo!"
+	para "Hai saputo che"
+	line "BILL è in città?"
+	para "BILL ha creato il"
+	line "Sistema Memoria"
+	cont "#MON!"
+	para "Gode di grande"
+	line "rispetto tra gli"
+	cont "scienziati."
+	para "Dovresti fargli"
+	line "visita quando"
+	cont "puoi."
+	para "Ora devo andare!"
+	line "Ci si vede!"
 	done
 
 UnknownText_0x69693:
-	text "Oh, no. You can't"
-	line "carry any more"
-	cont "#MON with you."
+	text "No, non puoi"
+	line "portare con te"
+	cont "altri #MON."
 
-	para "I'll wait here"
-	line "while you make"
-	cont "room for the EGG."
+	para "Aspetterò che tu"
+	line "faccia spazio per"
+	cont "l'UOVO."
 	done
 
 UnknownText_0x696f2:
-	text "B-but… PROF.OAK"
-	line "asked for you…"
+	text "Ma… Il PROF.OAK"
+	line "ha chiesto di te…"
 	done
 
 UnknownText_0x69712:
-	text "<PLAYER>, will you"
-	line "take the EGG?"
+	text "<PLAYER>, vuoi"
+	line "portare l'UOVO con"
+	cont "te?"
 	done
 
 UnknownText_0x6972d:
-	text "I've been thinking"
-	line "it'd be great to"
+	text "Sarebbe grandioso"
+	line "poter lottare"
 
-	para "be able to link up"
-	line "and battle with my"
-
-	para "friends who live"
-	line "far away."
+	para "con i miei amici"
+	line "lontani."
 	done
 
 UnknownText_0x69791:
-	text "I just battled a"
-	line "friend in SUNPOINT"
-	cont "over a link."
+	text "Ho appena lottato"
+	line "con un amico di"
+	cont "ELIOPOLI via link."
 
-	para "If you connect a"
-	line "MOBILE ADAPTER,"
+	para "Con un MOBILE"
+	line "ADAPTER, puoi"
 
-	para "you can link with"
-	line "a friend far away."
+	para "collegarti anche"
+	line "con amici lontani."
 	done
 
 PagotaPokecenter1FGameboyKidText:
-	text "A guy named BILL"
-	line "made the #MON"
-	cont "PC storage system."
+	text "Un tipo di nome"
+	line "BILL ha creato il"
+	para "Sistema Memoria"
+	line "#MON."
 	done
 
 PagotaPokecenter1FGentlemanText:
-	text "It was around"
-	line "a year or so ago."
+	text "Un anno fa, ce la"
+	line "siamo vista"
+	cont "brutta."
 
-	para "TEAM ROCKET was up"
-	line "to no good with"
-	cont "#MON."
+	para "TEAM ROCKET stava"
+	line "per fare del male"
+	cont "ai #MON."
 
-	para "But justice pre-"
-	line "vailed--a young"
-	cont "kid broke 'em up."
+	para "Poi però, grazie a"
+	line "un ragazzino, la"
+	para "giustizia ha"
+	line "trionfato."
 	done
 
 PagotaPokecenter1FYoungsterText:
-	text "#MON are smart."
-	line "They won't obey a"
+	text "I #MON sono"
+	line "intelligenti. Non"
 
-	para "trainer they don't"
-	line "respect."
+	para "obbediscono ad un"
+	line "allenatore che non"
+	cont "rispettano."
 
-	para "Without the right"
-	line "GYM BADGES, they"
+	para "Senza le MEDAGLIE"
+	line "giuste faranno"
 
-	para "will just do as"
-	line "they please."
+	para "solo ciò che"
+	line "vogliono."
 	done
 
 PagotaPokecenter1F_MapEvents:

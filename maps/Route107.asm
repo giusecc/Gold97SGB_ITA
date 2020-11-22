@@ -69,81 +69,80 @@ TrainerSwimmermGeorge:
 	end
 	
 SwimmermGeorgeSeenText:
-	text "Go! My all-star"
-	line "water team!"
+	text "Affronta la mia"
+	line "squadra stellare!"
 	done
 
 SwimmermGeorgeBeatenText:
-	text "The stars have"
-	line "fallen!"
+	text "Dalle stelle"
+	line "alle stalle!"
 	done
 
 SwimmermGeorgeAfterBattleText:
-	text "Your team is"
-	line "clearly an all-"
-	cont "star ensemble!"
+	text "La tua squadra"
+	line "è splendente!"
 	done
 
 SwimmermSethSeenText:
-	text "Land ho! Gotta"
-	line "keep going!"
+	text "Terra!"
+	line "Andiamo!"
 	done
 
 SwimmermSethBeatenText:
-	text "Glug…"
+	text "Glub…"
 	done
 
 SwimmermSethAfterBattleText:
-	text "One day I'd like"
-	line "to train with the"
-	para "DRAGON MASTER in"
-	line "KOBAN ISLAND."
+	text "Un giorno vorrei"
+	line "allenarmi con"
+	para "il MAESTRO del"
+	line "tipo DRAGO."
 	done
 	
 SwimmermCharlieSeenText:
-	text "Are you not"
-	line "strong enough to"
-	cont "swim on your own?"
+	text "Non sei forte"
+	line "abbastanza da"
+	cont "nuotare da solo?"
 	done
 
 SwimmermCharlieBeatenText:
-	text "I was wrong!"
+	text "Mi sbagliavo!"
 	done
 
 SwimmermCharlieAfterBattleText:
-	text "Your #MON are"
-	line "definitely strong!"
+	text "I tuoi #MON"
+	line "sono forti!"
 	done
 
 SwimmerfNikkiSeenText:
-	text "If I win, you have"
-	line "to help me with my"
-	cont "suntan lotion!"
+	text "Se vinco dovrai"
+	line "aiutarmi con la"
+	cont "crema solare!"
 	done
 
 SwimmerfNikkiBeatenText:
-	text "I'm worried about"
-	line "sunburn…"
+	text "Ho paura delle"
+	line "scottature…"
 	done
 
 SwimmerfNikkiAfterBattleText:
-	text "I have to watch"
-	line "out for blemishes"
-	cont "caused by the sun."
+	text "Devo fare atten-"
+	line "zione alle macchi"
+	cont "causate dal sole."
 	done
 
 FisherArnoldSeenText:
-	text "I'm bored by fish-"
-	line "ing. Let's battle!"
+	text "Mi sto annoiando!"
+	line "Lottiamo!"
 	done
 
 FisherArnoldBeatenText:
-	text "Utter failure…"
+	text "Che disfatta…"
 	done
 
 FisherArnoldAfterBattleText:
-	text "I'll just go back"
-	line "to fishing…"
+	text "Tornerò a"
+	line "pescare…"
 	done
 
 Route107_MapEvents:
