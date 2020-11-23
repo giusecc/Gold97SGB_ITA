@@ -22,7 +22,7 @@ SuicuneEvent:
 	end
 	
 SuicuneText:
-	text "Groroa!"
+	text "Groooa!"
 	done
 
 

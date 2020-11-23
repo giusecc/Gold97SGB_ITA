@@ -97,60 +97,57 @@ SlowpokeWellB1FSilverScript:
 ;<……>
 BurnedTowerSilver_BeforeText:
 	text "<PLAYER>!"
-	para "PROF.OAK and BLUE"
-	line "are waiting for"
-	para "us deeper in the"
-	line "well."
-	para "But I wanted to"
-	line "wait here, cause"
-	para "I knew you'd be"
-	line "showing up soon!"
-	para "My team is so"
-	line "much stronger than"
-	para "it was last time"
-	line "I saw you."
-	para "Here! Let me show"
-	line "you!"
+	para "BLU e il PROF.OAK"
+	line "ci aspettano più"
+	cont "avanti nel pozzo."
+	para "Volevo aspettarti"
+	line "qui perché sapevo"
+	para "che saresti"
+	line "arrivato presto!"
+	para "La mia squadra è"
+	line "molto più forte"
+	cont "dell'ultima volta."
+	para "Ecco! Lascia che"
+	line "te lo mostri!"
 	done
 
 BurnedTowerSilver_WinText:
-	text "Huh."
+	text "Oh."
 
-	para "I've raised my"
-	line "team to be the"
-	para "strongest, but"
-	line "still I lose…"
+	para "Ho allenato i"
+	line "miei #MON"
+	para "duramente, ma"
+	line "ho perso…"
 	done
 BurnedTowerSilver_AfterText1:
-	text "Ah, whatever."
-	para "I just gotta make"
-	line "them even stronger"
-	cont "than they are now!"
-	para "Anyways, we should"
-	line "probably go on"
-	para "ahead to meet up"
-	line "with the others!"
+	text "Ah, non importa."
+	para "Devo farli"
+	line "diventare ancora"
+	cont "più forti!"
+	para "Comunque, dobbiamo"
+	line "andare avanti"
+	para "per incontrarci"
+	line "con gli altri!"
 	done
 
 BurnedTowerSilver_LossText:
-	text "Yeah!"
-	para "I'm the best!"
+	text "Sì!"
+	para "Sono il migliore!"
 	done
 
 BurnedTowerSilver_AfterText2:
-	text "Humph!"
+	text "Uff!"
 
-	para "What are you doing"
-	line "falling into a"
+	para "Cosa credi di"
+	line "fare cadendo in"
 
-	para "hole? Some genius"
-	line "you are!"
+	para "un buco?"
 
-	para "Serves you right!"
+	para "Ti sta bene!"
 	done
 	
 Text_RivalGreets:
-	text "yo"
+	text "Ehi!"
 	done
 
 

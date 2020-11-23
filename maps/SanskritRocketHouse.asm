@@ -121,130 +121,124 @@ SanskritRocketHouseReferenceLibrary:
 
 SanskritRocketHouseReceptionistText:
 	text "Ha!"
-	para "Supplies are"
-	line "rolling in fast"
-	para "over at the SUN-"
-	line "POINT DOCKS!"
-	para "We've almost got"
-	line "everything we need"
-	para "to begin the next"
-	line "phase of our plan!"
-	para "The crew over in"
-	line "STAND CITY will be"
-	para "so impressed with"
-	line "our work here!"
+	para "Sta arrivando"
+	line "una sacco di merce"
+	para "dai MOLI di"
+	line "ELIOPOLI!"
+	para "Abbiamo tutto"
+	line "quello che ci"
+	para "serve per la"
+	line "prossima fase!"
+	para "La squadra di"
+	line "INERTOPOLI sarà"
+	para "impressionata dal"
+	line "nostro lavoro!"
 	done
 
 SanskritRocketHouseOfficerText:
-	text "MURKROW: KRAWW!"
+	text "MURKROW: CRAAA!"
 	done
 
 SanskritRocketHouseSuperNerd1Text:
-	text "GAME CORNERs are"
-	line "always reliable"
-	cont "sources of income!"
-	para "Remember that!"
+	text "I CASINÒ sono"
+	line "sempre una buona"
+	cont "fonte di denaro!"
+	para "Ricordatelo!"
 	done
 	
 SanskritRocketHouseSuperNerd1TextKey:
-	text "Hm? A key?"
-	para "Nah, I don't have"
-	line "that."
-	para "But why would you"
-	line "want it?"
-	para "Stay out of TEAM"
-	line "ROCKET's way, kid!"
+	text "Hm? Una chiave?"
+	para "No, non ce l'ho!"
+	line "Ma perché la"
+	cont "vuoi?"
+	para "Stai alla larga"
+	line "ragazzino!"
 	done
 
 SanskritRocketHouseGentlemanText:
-	text "Some kid has been"
-	line "messing with our"
-	cont "plans."
-	para "First the AQUARIUM"
-	line "heist, then the"
-	cont "SLOWPOKE WELL…"
-	para "But it doesn't"
-	line "matter!"
-	para "Minor setbacks,"
-	line "those were!"
+	text "Un moccioso si"
+	line "sta intromettendo"
+	para "con i nostri"
+	line "piani."
+	para "Prima all'"
+	line "ACQUARIO, poi al"
+	cont "POZZO SLOWPOKE…"
+	para "Ma non importa!"
+	para "Cose di poco"
+	line "conto!"
 	para "HA!"
 	done
 
 SanskritRocketHouseGentlemanTextKey:
-	text "What key?"
-	line "I don't have any"
-	cont "keys."
-	para "Hey!"
-	para "I hope you're not"
-	line "that kid that's"
-	para "been messing with"
-	line "our plans!"
-	para "Cut it out, if"
-	line "you know what's"
-	cont "good for you!"
+	text "Che chiave?"
+	line "Non ho nessuna"
+	cont "chiave."
+	para "Ehi!"
+	para "Spero che tu non"
+	line "sia quello che"
+	para "sta ostacolando i"
+	line "nostri piani!"
+	para "Smettila, se"
+	line "tieni alla pelle!"
 	done
 
 
 SanskritRocketHouseSuperNerd2Text:
-	text "Just a bit longer"
-	line "until we can show"
-	para "the world what"
-	line "TEAM ROCKET is"
-	cont "truly capable of!"
+	text "Tra un po' potremo"
+	line "mostrare al"
+	para "mondo di cosa"
+	line "è capace il"
+	cont "TEAM ROCKET!"
 	done
 
 SanskritRocketHouseSuperNerd2TextKey:
-	text "Nah, I don't have"
-	line "any keys."
-	para "The CAPTAIN"
-	line "doesn't trust me"
-	cont "with any of those."
+	text "No, non ho"
+	line "chiavi."
+	para "Il CAPITANO non"
+	line "si fida di me."
 	done
 
 SanskritRocketHouseSuperNerd2Text_GotExpnCard:
-	text "Hey there!"
+	text "Ehi amico!"
 
-	para "I am the super"
-	line "MUSIC DIRECTOR!"
+	para "Sono il super DI-"
+	line "RETTORE MUSICALE."
 
-	para "I'm responsible"
-	line "for the gorgeous"
+	para "Sono responsabile"
+	line "di tutta la"
 
-	para "melodies that go"
-	line "out over the air."
+	para "musica che passa"
+	line "per radio."
 
-	para "Don't be square."
-	line "Grab your music"
-	cont "off the air!"
+	para "Vuoi fare una"
+	line "buona azione? Ruba"
+	para "la musica dalla"
+	line "nostra stazione!"
 	done
 
 SanskritRocketHouseDirectoryText:
-	text "All #MON exist"
-	line "for the glory of"
+	text "I #MON esistono"
+	line "per la gloria del"
 	cont "TEAM ROCKET!"
 	done
 
 SanskritRocketHousePokeFluteSignText:
-	text "It's a rerun…"
+	text "Tutto si ripete…"
 	done
 
 SanskritRocketHouseReferenceLibraryText:
-	text "Wow! A full rack"
-	line "of #MON CDs and"
-	cont "videos."
-
-	para "This must be the"
-	line "reference library."
+	text "È pieno di CD"
+	line "di #MON."
 	done
 	
 SanskritRocketHouseReceptionistTextKeyTime:
-	text "A SHIP KEY?"
-	para "Maybe I have it."
-	line "What's it to you?"
+	text "Una CHIAVE?"
+	para "Forse ce l'ho."
+	line "A cosa ti serve?"
 	done
 
 RocketKey_WinText:
-	text "What!?"
+	text "Cosa!?"
 	done
 	
 RocketKey_LossText:
@@ -252,17 +246,17 @@ RocketKey_LossText:
 	done
 	
 RocketKey_AfterText:
-	text "Oh no, the CAPTAIN"
-	line "will have my head"
-	cont "for this!"
+	text "Oh no, il CAPITANO"
+	line "vorrà la mia testa"
+	cont "per questo!"
 	done
 
 RocketKey_AfterText2:
-	text "Get out of here!"
+	text "Vattene!"
 	done
 	
 RocketKey_Afterwards:
-	text "Don't talk to me!"
+	text "Non parlarmi!"
 	done
 
 SanskritRocketHouse_MapEvents:

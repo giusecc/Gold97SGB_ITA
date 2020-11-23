@@ -79,10 +79,10 @@ RyukyuMagnetTrainSpeechHouseYoungsterScript:
 	jumptextfaceplayer RyukyuMagnetTrainSpeechHouseYoungsterText
 	
 RyukyuMagnetTrainSpeechHouseYoungsterText:
-	text "This place is"
-	line "neat!"
-	para "GRASS #MON seem"
-	line "to love it here!"
+	text "Questo posto è"
+	line "splendido!"
+	para "I #MON ERBA"
+	line "lo adorano!"
 	done
 	
 RyukyuMagnetTrainParasText:
@@ -101,59 +101,50 @@ RyukyuMagnetTrainOddishText:
 	done
 	
 UnknownText_0x7e355ab:
-	text "<PLAYER> received"
+	text "<PLAYER> riceve"
 	line "BULBASAUR."
 	done
 	
 AlreadyGotBulbasaurText:
-	text "I have many tree"
-	line "species from"
-	cont "around NIHON!"
+	text "Qui ci sono"
+	line "alberi da"
+	cont "tutta NIHON!"
 	done
 	
 PartyFullBulbasaurText:
-	text "You've already got"
-	line "too many #MON"
-	cont "with you!"
+	text "Hai troppi"
+	line "#MON con te!"
 	done
 	
 NoBulbasaurText:
-	text "I understand."
-	para "I'll be here if"
-	line "you change your"
-	cont "mind!"
+	text "Capisco."
+	para "Se cambi idea"
+	line "io sono qui!"
 	done
 	
 
 ILoveBulbasaurText:
-	text "Hi there!"
-	para "I'm running an"
-	line "arboretum."
-	para "That means I take"
-	line "care of trees!"
-	para "This building is"
-	line "full of windows"
-	para "that let light in"
-	line "for the trees."
-	para "It's also full of"
-	line "grass #MON to"
-	cont "take care of them!"
-	para "I can only keep so"
-	line "many #MON here,"
-	cont "though."
-	para "I've got a"
-	line "BULBASAUR that I"
-	para "need to find a"
-	line "good home for."
-	para "Would you be"
-	line "willing to take"
-	cont "it?"
+	text "Ciao!"
+	para "Gestisco questo"
+	line "giardino botanico."
+	para "Mi prendo cura"
+	line "degli alberi!"
+	para "C'è bisogno di"
+	line "molta luce qui."
+	para "Ci sono anche"
+	line "molti #MON ERBA"
+	cont "da accudire!"
+	para "C'è un"
+	line "BULBASAUR a cui"
+	para "devo trovare"
+	line "una casa."
+	para "Vuoi prenderlo?"
 	done
 	
 GiveBulbasaurText:
-	text "I'm sure you'll"
-	line "take great care"
-	cont "of it!"
+	text "Sono sicuro che"
+	line "lo tratterai"
+	cont "bene!"
 	done
 
 

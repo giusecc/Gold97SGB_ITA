@@ -820,7 +820,7 @@ Text_OakIsOld:
 
 Oak2Text_Intro:
 	text "OAK: <PLAYER>!"
-	line "Ecco a te!"
+	line "Eccoti!"
 
 	done
 

@@ -38,49 +38,45 @@ SanskritGamblerManHouseGamblerManScript:
 
 
 SanskritGamblerManHouseGamblerManText_Question:
-	text "SANSKRIT TOWN has"
-	line "never had a high-"
-	cont "profile venue for"
-	cont "entertainment."
-	para "That is, until the"
-	line "GAME CORNER opened"
-	cont "near here."
-	para "I've spent way too"
-	line "much time there."
-	para "It actually might"
-	line "be becoming a bit"
-	cont "of an issue."
-	para "Here! You should"
-	line "take this from me!"
+	text "VESTIGIA non ha"
+	line "mai avuto un"
+	cont "luogo adatto per"
+	cont "il gioco."
+	para "O almeno finché"
+	line "il CASINÒ non"
+	cont "ha aperto."
+	para "Ho passato troppo"
+	line "tempo qui."
+	para "Potrebbe essere"
+	line "un problema."
+	para "Ecco! Tieniti"
+	line "questo!"
 	done
 
 SanskritGamblerManHouseGamblerManText_Yes:
-	text "Great! Maybe you"
-	line "will be more"
-	para "responsible than"
-	line "me!"
+	text "Grandioso! Forse"
+	line "sarai più"
+	cont "responsabile!"
 	done
 
 SanskritGamblerManHouseGamblerManText_GiveCoinCase:
-	text "The GAME CORNER"
-	line "is tons of fun!"
-	para "But be careful,"
-	line "and don't let it"
-	para "become too much"
-	line "fun."
+	text "Il CASINÒ è pieno"
+	line "di giochi!"
+	para "Ma non farla"
+	line "diventare una"
+	cont "dipendenza."
 	done
 
 SanskritGamblerManHouseGamblerManText_No:
-	text "Oh. I guess I"
-	line "should work on my"
-	para "own self-restraint"
-	line "instead…"
+	text "Oh. Credo che"
+	line "dovrei lavorare"
+	para "sul mio"
+	line "autocontrollo…"
 	done
 
 SanskritGamblerManHouseGamblerManText_After:
-	text "Ah, a burden has"
-	line "been lifted from"
-	cont "me."
+	text "Ah, mi sono tolto"
+	line "un bel peso."
 	done
 
 

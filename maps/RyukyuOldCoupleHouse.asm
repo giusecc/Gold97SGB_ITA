@@ -34,23 +34,23 @@ RyukyuOldCoupleHouseZubatScript:
 	end
 
 RyukyuOldCoupleHouseGrannyText:
-	text "My husband lives"
-	line "happily with #-"
-	cont "MON he got through"
-	cont "trades."
+	text "Mio marito è"
+	line "felice con i #-"
+	cont "MON che ha ottenu-"
+	cont "to con gli scambi."
 	done
 
 RyukyuOldCoupleHouseGrampsText:
-	text "Ah… I'm so happy…"
+	text "Ah… Che gioia…"
 	done
 
 RyukyuOldCoupleHouseRhydonText:
-	text "KANGASKHAN: Garu"
-	line "garuu."
+	text "KANGASKHAN: Karu"
+	line "karuu."
 	done
 
 RyukyuOldCoupleHouseZubatText:
-	text "ZUBAT: Zuba zubaa."
+	text "ZUBAT: Zuba zuba."
 	done
 
 RyukyuOldCoupleHouse_MapEvents:

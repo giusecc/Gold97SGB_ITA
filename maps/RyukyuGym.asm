@@ -204,7 +204,7 @@ RyukyuGymPokefanMScript:
 	end
 	
 .eggname2
-	db "EGG@"
+	db "UOVO@"
 	
 Trainer1Scene:
 	playmusic MUSIC_BEAUTY_ENCOUNTER
@@ -342,301 +342,294 @@ RyukyuGymGuyScript:
 	end
 
 GymGuyFakeGymAfterText:
-	text "It's always fun to"
-	line "face off against"
-	para "a GYM, whether or"
-	line "not you actually"
-	cont "get a BADGE."
+	text "È sempre bello"
+	line "affrontare una"
+	para "PALESTRA, anche"
+	line "senza una"
+	para "MEDAGLIA da"
+	line "vincere."
 	done
 	
 GymGuyFireText:
-	text "What's this?"
-	para "A #MON GYM?"
-	para "Well, not quite."
-	para "BAILEY here has"
-	line "always wanted to"
-	cont "be a GYM LEADER."
-	para "It's a long and"
-	line "difficult process"
-	para "to make it"
-	line "official, though."
-	para "But we're here,"
-	line "playing the part"
-	para "until he can do it"
-	line "for real!"
-	para "Oh, yeah. He uses"
-	line "FIRE #MON."
-	para "I'm sure you know"
-	line "what you'd need to"
-	cont "do to win."
+	text "Cos'è questa?"
+	para "Una PALESTRA?"
+	para "Non proprio."
+	para "PAT ha sempre"
+	line "sognato di essere"
+	cont "un CAPOPALESTRA."
+	para "Tuttavia, è molto"
+	line "difficile rendere"
+	para "il tutto"
+	line "ufficiale."
+	para "Ma noi facciamo"
+	line "la nostra parte,"
+	para "finché non sarà"
+	line "realtà!"
+	para "Oh, sì. PAT usa"
+	line "#MON FUOCO."
+	para "Di sicuro sai"
+	line "cosa ti serve"
+	cont "per vincere."
 	done
 	
 GymGuyWaterText:
-	text "What's this?"
-	para "A #MON GYM?"
-	para "Well, not quite."
-	para "TREVOR here has"
-	line "always wanted to"
-	cont "be a GYM LEADER."
-	para "It's a long and"
-	line "difficult process"
-	para "to make it"
-	line "official, though."
-	para "But we're here,"
-	line "playing the part"
-	para "until he can do it"
-	line "for real!"
-	para "Oh, yeah. He uses"
-	line "WATER #MON."
-	para "I'm sure you know"
-	line "what you'd need to"
-	cont "do to win."
+	text "Cos'è questa?"
+	para "Una PALESTRA?"
+	para "Non proprio."
+	para "SAVERIO ha sempre"
+	line "sognato di essere"
+	cont "un CAPOPALESTRA."
+	para "Tuttavia, è molto"
+	line "difficile rendere"
+	para "il tutto"
+	line "ufficiale."
+	para "Ma noi facciamo"
+	line "la nostra parte,"
+	para "finché non sarà"
+	line "realtà!"
+	para "Oh, sì. SAVERIO"
+	line "usa #MON ACQUA."
+	para "Di sicuro sai"
+	line "cosa ti serve"
+	cont "per vincere."
 	done
 	
 GymGuyGrassText:
-	text "What's this?"
-	para "A #MON GYM?"
-	para "Well, not quite."
-	para "CARTER here has"
-	line "always wanted to"
-	cont "be a GYM LEADER."
-	para "It's a long and"
-	line "difficult process"
-	para "to make it"
-	line "official, though."
-	para "But we're here,"
-	line "playing the part"
-	para "until he can do it"
-	line "for real!"
-	para "Oh, yeah. He uses"
-	line "GRASS #MON."
-	para "I'm sure you know"
-	line "what you'd need to"
-	cont "do to win."
+	text "Cos'è questa?"
+	para "Una PALESTRA?"
+	para "Non proprio."
+	para "GERMANO ha sempre"
+	line "sognato di essere"
+	cont "un CAPOPALESTRA."
+	para "Tuttavia, è molto"
+	line "difficile rendere"
+	para "il tutto"
+	line "ufficiale."
+	para "Ma noi facciamo"
+	line "la nostra parte,"
+	para "finché non sarà"
+	line "realtà!"
+	para "Oh, sì. GERMANO"
+	line "usa #MON ERBA."
+	para "Di sicuro sai"
+	line "cosa ti serve"
+	cont "per vincere."
 	done
 	
 RyukyuGymLassText:
-	text "Isn't this fun?"
-	para "It's just like a"
-	line "real GYM!"
+	text "Non è divertente?"
+	para "È proprio come"
+	line "una PALESTRA!"
 	done
 	
 Trainer2AfterFireText:
-	text "BAILEY has always"
-	line "wanted to be a GYM"
-	cont "LEADER."
-	para "But it's tough to"
-	line "get the proper"
-	cont "accreditation."
+	text "PAT ha sempre"
+	line "voluto essere un"
+	cont "CAPOPALESTRA."
+	para "Ma è difficile"
+	line "avere la giusta"
+	cont "autorizzazione."
 	done
 	
 Trainer2AfterGrassText:
-	text "CARTER has always"
-	line "wanted to be a GYM"
-	cont "LEADER."
-	para "But it's tough to"
-	line "get the proper"
-	cont "accreditation."
+	text "SAVERIO ha sempre"
+	line "voluto essere un"
+	cont "CAPOPALESTRA."
+	para "Ma è difficile"
+	line "avere la giusta"
+	cont "autorizzazione."
 	done
 	
 Trainer2AfterWaterText:
-	text "TREVOR has always"
-	line "wanted to be a GYM"
-	cont "LEADER."
-	para "But it's tough to"
-	line "get the proper"
-	cont "accreditation."
+	text "GERMANO ha sempre"
+	line "voluto essere un"
+	cont "CAPOPALESTRA."
+	para "Ma è difficile"
+	line "avere la giusta"
+	cont "autorizzazione."
 	done
 
 TakeGoodCareOfStarter2:
-	text "Take good care of"
-	line "that #MON!"
-	para "It's one of my"
-	line "favorite kinds!"
+	text "Prenditi cura di"
+	line "quel #MON!"
+	para "È del mio tipo"
+	line "preferito!"
 	done
 	
 HaveStarter2Egg:
-	text "Wow! That was a"
-	line "great battle!"
-	para "I feel like a real"
-	line "GYM LEADER, even"
-	cont "though I lost."
-	para "I can't give you"
-	line "a badge, but I've"
-	para "got an EGG of a"
-	line "rare #MON of"
-	cont "my favorite type!"
-	para "Here, have this!"
+	text "Che bella lotta!"
+	para "Mi sento un vero"
+	line "CAPOPALESTRA,"
+	cont "anche se ho perso."
+	para "Non posso darti"
+	line "una MEDAGLIA, ma"
+	para "ho un UOVO di un"
+	line "#MON raro del mio"
+	cont "tipo preferito!"
+	para "Ecco, tieni!"
 	done
 	
 NoRoomForStarter2:
-	text "Oh, wait! You need"
-	line "to make room!"
+	text "Oh, aspetta! Ti"
+	line "serve più spazio!"
 	done
 	
 	
 PokefanMBeforeTextWater:
-	text "Hey there!"
-	para "Welcome to my GYM!"
-	para "…Well, it's not"
-	line "an official one."
-	para "But one day!"
-	para "I'm going to be a"
-	line "GYM LEADER!"
-	para "As for now though,"
-	line "I can at least act"
-	cont "the part."
-	para "And there's"
-	line "nothing more I"
-	para "love than a good"
-	line "battle!"
-	para "WATER type #MON"
-	line "are my favorite!"
-	para "They'll drench you"
-	line "if you take them"
-	cont "on!"
-	para "Are you ready?"
+	text "Salve!"
+	para "Benvenuto nella"
+	line "mia PALESTRA!"
+	para "…Beh, non è"
+	line "ufficiale."
+	para "Ma lo sarà!"
+	para "Diventerò un"
+	line "CAPOPALESTRA!"
+	para "Per ora posso solo"
+	line "recitare la parte."
+	para "Non c'è niente di"
+	line "meglio di una"
+	cont "bella lotta!"
+	para "I #MON ACQUA"
+	line "sono i miei"
+	cont "preferiti!"
+	para "Sei pronto?"
 	done
 
 PokefanMLossTextFake:
-	text "I'm good at this!"
+	text "Sono bravo, però!"
 	done
 	
 PokefanMWinTextFake:
-	text "Bahah! What a good"
-	line "time that was!"
+	text "Ahah! Che bella"
+	line "lotta!"
 	done
 
 	
 PokefanMBeforeTextGrass:
-	text "Hey there!"
-	para "Welcome to my GYM!"
-	para "…Well, it's not"
-	line "an official one."
-	para "But one day!"
-	para "I'm going to be a"
-	line "GYM LEADER!"
-	para "As for now though,"
-	line "I can at least act"
-	cont "the part."
-	para "And there's"
-	line "nothing more I"
-	para "love than a good"
-	line "battle!"
-	para "GRASS type #MON"
-	line "are my favorite!"
-	para "Their vines and"
-	line "leaves will beat"
-	cont "you down!"
-	para "Are you ready?"
+	text "Salve!"
+	para "Benvenuto nella"
+	line "mia PALESTRA!"
+	para "…Beh, non è"
+	line "ufficiale."
+	para "Ma lo sarà!"
+	para "Diventerò un"
+	line "CAPOPALESTRA!"
+	para "Per ora posso solo"
+	line "recitare la parte."
+	para "Non c'è niente di"
+	line "meglio di una"
+	cont "bella lotta!"
+	para "I #MON ERBA"
+	line "sono i miei"
+	cont "preferiti!"
+	para "Sei pronto?"
 	done
 
 
 	
 PokefanMBeforeTextFire:
-	text "Hey there!"
-	para "Welcome to my GYM!"
-	para "…Well, it's not"
-	line "an official one."
-	para "But one day!"
-	para "I'm going to be a"
-	line "GYM LEADER!"
-	para "As for now though,"
-	line "I can at least act"
-	cont "the part."
-	para "And there's"
-	line "nothing more I"
-	para "love than a good"
-	line "battle!"
-	para "FIRE type #MON"
-	line "are my favorite!"
-	para "They'll burn you"
-	line "if you take them"
-	cont "on!"
-	para "Are you ready?"
+	text "Salve!"
+	para "Benvenuto nella"
+	line "mia PALESTRA!"
+	para "…Beh, non è"
+	line "ufficiale."
+	para "Ma lo sarà!"
+	para "Diventerò un"
+	line "CAPOPALESTRA!"
+	para "Per ora posso solo"
+	line "recitare la parte."
+	para "Non c'è niente di"
+	line "meglio di una"
+	cont "bella lotta!"
+	para "I #MON FUOCO"
+	line "sono i miei"
+	cont "preferiti!"
+	para "Sei pronto?"
 	done
 	
 YoungsterTextBeforeWater:
-	text "You ever been"
-	line "swimming?"
-	para "My #MON have."
+	text "Tu nuoti?"
+	line "I miei #MON"
+	para "sì."
 	done
 	
 YoungsterLossTextWater:
-	text "Wahoo!"
+	text "Yahoo!"
 	done
 	
 YoungsterWinTextWater:
-	text "Looks like you can"
-	line "tread water!"
+	text "Sembra che tu"
+	line "sappia camminare"
+	cont "sulle acque!"
 	done
 
 YoungsterTextBeforeFire:
-	text "Can you handle the"
-	line "heat in here?"
+	text "Puoi sopportare"
+	line "il calore?"
 	done
 	
 YoungsterLossTextFire:
-	text "Wahoo!"
+	text "Yahoo!"
 	done
 	
 YoungsterWinTextFire:
-	text "Looks like I got"
-	line "scorched!"
+	text "Mi sono"
+	line "bruciato!"
 	done
 
 YoungsterTextBeforeGrass:
-	text "Don't trip over"
-	line "my #MON's"
-	cont "vines!"
+	text "Non ti inciampare"
+	line "sulle liane!"
 	done
 	
 YoungsterLossTextGrass:
-	text "Wahoo!"
+	text "Yahoo!"
 	done
 	
 YoungsterWinTextGrass:
-	text "I stumbled!"
+	text "Sono caduto!"
 	done
 	
 LassTextBeforeGrass:
-	text "Isn't it lovely"
-	line "in here?"
-	para "I brought snacks"
-	line "for a picnic!"
+	text "Non è bellissimo"
+	line "qui?"
+	para "Ho portato qual-"
+	line "cosa per fare"
+	cont "un picnic!"
 	done
 	
 LassLossTextGrass:
-	text "Wahoo!"
+	text "Yahoo!"
 	
 LassWinTextGrass:
-	text "At least the air"
-	line "is still sweet."
+	text "L'aria è ancora"
+	line "profumata."
 	done
 	
 LassTextBeforeWater:
-	text "Careful, the floor"
-	line "can get slick!"
+	text "Attento, il"
+	line "pavimento è"
+	cont "bagnato!"
 	done
 	
 LassLossTextWater:
-	text "Wahoo!"
+	text "Yahoo!"
 	
 LassWinTextWater:
-	text "I slipped!"
+	text "Sono scivolato!"
 	done
 	
 LassTextBeforeFire:
-	text "Nothing is better"
-	line "for a hot room"
-	cont "than a hot battle!"
+	text "Niente meglio di"
+	line "un stanza calda"
+	cont "per una lotta!"
 	done
 	
 LassLossTextFire:
-	text "Wahoo!"
+	text "Yahoo!"
 	
 LassWinTextFire:
-	text "Too hot!"
+	text "Troppo calda!"
 	done
 	
 RyukyuGym_MapEvents:

@@ -88,52 +88,53 @@ WillsRoom_EnterMovement:
 	step_end
 
 WillScript_WillBeforeText:
-	text "Welcome to the"
-	line "NIHON LEAGUE,"
+	text "Benvenuto alla"
+	line "LEGA #MON,"
 	cont "<PLAYER>."
 
-	para "Allow me to intro-"
-	line "duce myself. I am"
-	cont "WILL."
+	para "Permettimi di"
+	line "presentarmi: mi"
+	cont "chiamo PINO."
 
-	para "I have trained all"
-	line "around the world,"
+	para "Mi sono allenato"
+	line "in tutto il mondo,"
 
-	para "making my psychic"
-	line "#MON powerful."
+	para "per potenziare i"
+	line "miei #MON"
+	cont "di tipo psico."
 
-	para "And, at last, I've"
-	line "been accepted into"
-	cont "the ELITE FOUR."
+	para "Infine sono stato"
+	line "ammesso tra i"
+	cont "SUPERQUATTRO."
 
-	para "I can only keep"
-	line "getting better!"
+	para "Qui non potrò che"
+	line "migliorare!"
 
-	para "Losing is not an"
-	line "option!"
+	para "Che io perda è"
+	line "impensabile!"
 	done
 
 WillScript_WillBeatenText:
-	text "I… I can't…"
-	line "believe it…"
+	text "Io… non…"
+	line "posso crederci…"
 	done
 
 WillScript_WillDefeatText:
-	text "Even though I was"
-	line "defeated, I won't"
-	cont "change my course."
+	text "Nonostante la"
+	line "sconfitta, non"
+	cont "posso demordere."
 
-	para "I will continue"
-	line "battling until I"
+	para "Continuerò a"
+	line "lottare finché"
 
-	para "stand above all"
-	line "trainers!"
+	para "non sarò il più"
+	line "grande!"
 
-	para "Now, <PLAYER>, move"
-	line "on and experience"
+	para "Ora, <PLAYER>,"
+	line "proverai tutta"
 
-	para "the true ferocity"
-	line "of the ELITE FOUR."
+	para "la potenza dei"
+	line "SUPERQUATTRO."
 	done
 
 WillsRoom_MapEvents:

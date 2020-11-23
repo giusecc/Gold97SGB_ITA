@@ -221,239 +221,240 @@ MovementData_0x59276:
 	step_end
 	
 GotUnownDollText:
-	text "<PLAYER> got"
-	line "UNOWN DOLL!"
+	text "<PLAYER> riceve"
+	line "BAMBOLA UNOWN!"
 	done
 	
 RuinsOfAlphResearchCenterScientist2Text_GetDoll:
-	text "Wow! You got every"
-	line "kind of UNOWN!"
-	para "Here's a small"
-	line "gift to celebrate"
-	cont "the occasion!"
+	text "Hai trovato tutti"
+	line "i tipi di UNOWN!"
+	para "Ecco un regalo"
+	line "per festeggiare!"
 	done
 	
 RuinsOfAlphResearchCenterScientist2Text_GetDoll2:
-	text "It's a decorative"
-	line "UNOWN DOLL."
-	para "Set it up in your"
-	line "bedroom!"
+	text "È una BAMBOLA"
+	line "UNOWN."
+	para "Mettila nella"
+	line "tua cameretta!"
 	done
 	
 RuinsOfAlphResearchCenterComputer2Text:
-	text "It's a computer"
-	line "displaying images"
-	cont "of strange glyphs."
+	text "È un computer."
+	line "Ci sono degli"
+	cont "strani simboli."
 	done
 	
 RuinsOfAlphResearchCenterModifiedDexBeforeText:
 	text "Ah!"
-	line "There you are!"
-	para "Here, let me see"
-	line "your #DEX for"
-	cont "a second."
+	line "Eccoti!"
+	para "Lasciami il tuo"
+	line "#DEX per un"
+	cont "attimo."
 	done
 
 RuinsOfAlphResearchCenterModifiedDexText:
-	text "Done!"
+	text "Fatto!"
 
-	para "I modified your"
-	line "#DEX."
+	para "Ho modificato"
+	line "il tuo #DEX."
 
-	para "I added an"
-	line "optional #DEX"
+	para "Ho aggiunto un"
+	line "#DEX opzionale"
 
-	para "to store UNOWN"
-	line "data."
+	para "per registrare i"
+	line "dati degli UNOWN."
 
-	para "It records them in"
-	line "the sequence that"
-	cont "they were caught."
+	para "Li registra nell'"
+	line "ordine in cui sono"
+	cont "stati catturati."
 	done
 
 RuinsOfAlphResearchCenterDexUpgradedText:
-	text "<PLAYER>'s #DEX"
-	line "was upgraded."
+	text "Il #DEX di"
+	line "<PLAYER> è stato"
+	cont "modificato."
 	done
 
 RuinsOfAlphResearchCenterScientist3Text:
-	text "The UNOWN you"
-	line "catch will all be"
-	cont "recorded."
+	text "Ogni UNOWN che"
+	line "catturi sarà"
+	cont "registrato."
 
-	para "Check to see how"
-	line "many kinds exist."
+	para "Vedrai quanti tipi"
+	line "ne esistono."
 	done
 
 RuinsOfAlphResearchCenterScientist3_PrinterAvailable:
-	text "You caught all the"
-	line "UNOWN variations?"
+	text "Hai catturato"
+	line "tutti i tipi di"
+	cont "UNOWN?"
 
-	para "That's a great"
-	line "achievement!"
+	para "È un grande"
+	line "risultato!"
 
-	para "I've set up the"
-	line "printer here for"
-	cont "handling UNOWN."
+	para "Ho impostato la"
+	line "stampante per"
+	cont "gli UNOWN."
 
-	para "Feel free to use"
-	line "it anytime."
+	para "Usala quando"
+	line "ne hai voglia."
 	done
 
 RuinsOfAlphResearchCenterScientist1Text:
-	text "The RUINS are"
-	line "about 1500 years"
-	cont "old."
+	text "Le ROVINE hanno"
+	line "circa 1500 anni."
 
-	para "But it's not known"
-	line "why they were"
-	cont "built--or by whom."
+	para "Ma nessuno sa né"
+	line "quando né da chi"
+	cont "furono costruite."
 	done
 
 RuinsOfAlphResearchCenterScientist1Text_GotUnownDex:
-	text "I wonder how many"
-	line "kinds of #MON"
-	cont "are in the RUINS?"
+	text "Chissà quanti tipi"
+	line "di #MON ci"
+	cont "sono nelle ROVINE!"
 	done
 
 RuinsOfAlphResearchCenterScientist1Text_UnownAppeared:
-	text "#MON appeared"
-	line "in the RUINS?"
+	text "Sono apparsi dei"
+	line "#MON nelle"
+	cont "ROVINE?"
 
-	para "That's incredible"
-	line "news!"
+	para "Ma è una notizia"
+	line "sensazionale!"
 
-	para "We'll need to"
-	line "investigate this."
+	para "Dobbiamo assoluta-"
+	line "mente indagare!"
 	done
 
 RuinsOfAlphResearchCenterScientist1Text_GotAllUnown:
-	text "Our investigation,"
-	line "with your help, is"
+	text "Le nostre indagini"
+	line "e il tuo aiuto ci"
 
-	para "giving us insight"
-	line "into the RUINS."
+	para "stanno facendo"
+	line "scoprire molte"
+	cont "cose sulle ROVINE."
 
-	para "The RUINS appear"
-	line "to have been built"
+	para "Sembra che siano"
+	line "state costruite"
 
-	para "as a habitat for"
-	line "#MON."
+	para "come habitat per"
+	line "i #MON."
 	done
 
 RuinsOfAlphResearchCenterScientist2Text:
-	text "There are odd pat-"
-	line "terns drawn on the"
+	text "Sulle pareti delle"
+	line "ROVINE ci sono"
 
-	para "walls of the"
-	line "RUINS."
+	para "degli strani"
+	line "segni."
 
-	para "They must be the"
-	line "keys for unravel-"
-	cont "ing the mystery"
-	cont "of the RUINS."
+	para "Quei disegni"
+	line "devono essere la"
+	para "chiave per svelare"
+	line "il mistero delle"
+	cont "ROVINE."
 	done
 
 RuinsOfAlphResearchCenterScientist2Text_UnownAppeared:
-	text "The strange #-"
-	line "MON you saw in the"
-	cont "RUINS?"
+	text "Gli strani #MON"
+	line "che hai visto"
+	cont "nelle ROVINE?"
 
-	para "They appear to be"
-	line "very much like the"
+	para "Somigliano molto"
+	line "ai disegni che si"
 
-	para "drawings on the"
-	line "walls there."
+	para "trovano sulle"
+	line "pareti."
 
-	para "Hmm…"
+	para "Quindi…"
 
-	para "That must mean"
-	line "there are many"
-	cont "kinds of them…"
+	para "Ciò significa che"
+	line "ne esistono molti"
+	cont "tipi diversi…"
 	done
 
 RuinsOfAlphResearchCenterUnusedText1:
 ; unused
-	text "We think something"
-	line "caused the cryptic"
+	text "Crediamo che ci"
+	line "sia qualcosa"
 
-	para "patterns to appear"
-	line "in the RUINS."
+	para "dietro i disegni"
+	line "delle ROVINE."
 
-	para "We've focused our"
-	line "studies on that."
+	para "Stiamo facendo"
+	line "studi a riguardo."
 	done
 
 RuinsOfAlphResearchCenterUnusedText2:
 ; unused
-	text "According to my"
-	line "research…"
+	text "Secondo le mie"
+	line "ricerche…"
 
-	para "Those mysterious"
-	line "patterns appeared"
+	para "Quei disegni sono"
+	line "apparsi quando"
 
-	para "when the #COM"
-	line "CENTER was built."
+	para "sono iniziate le"
+	line "trasmissioni"
+	cont "radio."
 
-	para "It must mean that"
-	line "radio waves have"
-
-	para "some sort of a"
-	line "link…"
+	para "Dev'esserci un"
+	line "legame…"
 	done
 
 RuinsOfAlphResearchCenterScientist2Text_GotAllUnown:
-	text "Why did those"
-	line "ancient patterns"
+	text "Perché ci sono"
+	line "questi disegni"
 
-	para "appear on the wall"
-	line "now?"
+	para "sui muri"
+	line "adesso?"
 
-	para "The mystery"
-	line "deepens…"
+	para "Il mistero si"
+	line "infittisce…"
 	done
 
 RuinsOfAlphResearchCenterComputerText:
-	text "RUINS OF ALPH"
+	text "ROVINE D'ALFA"
 
-	para "Exploration"
-	line "Year 10"
+	para "Esplorazione"
+	line "Anno 10"
 	done
 
 RuinsOfAlphResearchCenterComputerText_GotAllUnown:
-	text "Mystery #MON"
-	line "Name: UNOWN"
+	text "#MON misterioso"
+	line "Nome: UNOWN"
 
-	para "A total of 26"
-	line "kinds found."
+	para "Trovati 26"
+	line "in totale."
 	done
 
 RuinsOfAlphResearchCenterPrinterText_DoesntWork:
-	text "This doesn't seem"
-	line "to work yet."
+	text "Pare che non"
+	line "funzioni ancora."
 	done
 
 RuinsOfAlphResearchCenterUnownPrinterText:
-	text "UNOWN may be"
-	line "printed out."
+	text "UNOWN può essre"
+	line "stampato."
 	done
 
 RuinsOfAlphResearchCenterProfSilktreePhotoText:
 ; unused
-	text "It's a photo of"
-	line "the RESEARCH"
+	text "È una foto del"
+	line "fondatore del"
 
-	para "CENTER'S founder,"
+	para "CENTRO RICERCHE,"
 	line "PROF.SILKTREE."
 	done
 
 RuinsOfAlphResearchCenterAcademicBooksText:
-	text "There are many"
-	line "academic books."
+	text "Ci sono molti"
+	line "libri accademici."
 
-	para "Ancient Ruins…"
-	line "Mysteries of the"
-	cont "Ancients…"
+	para "Rovine Antiche…"
+	line "Misteri degli"
+	cont "Antichi…"
 	done
 
 RuinsOfAlphResearchCenter_MapEvents:

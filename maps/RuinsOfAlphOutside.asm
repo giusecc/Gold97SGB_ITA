@@ -148,72 +148,74 @@ MovementData_0x580c5:
 	step_end
 
 RuinsOfAlphOutsideScientistText:
-	text "Hm? That's a #-"
-	line "DEX, isn't it?"
-	cont "May I see it?"
+	text "Ehi, ma questo è"
+	line "un #DEX!"
+	cont "Posso vederlo?"
 
-	para "There are so many"
-	line "kinds of #MON."
+	para "Ci sono così tanti"
+	line "tipi di #MON!"
 
-	para "Hm? What's this?"
+	para "E questo cos'è?"
 
-	para "What is this"
-	line "#MON?"
+	para "Che #MON"
+	line "è questo qui?"
 
-	para "It looks like the"
-	line "strange writing on"
+	para "Somiglia alle"
+	line "strane iscrizioni"
 
-	para "the walls of the"
-	line "RUINS."
+	para "sulle pareti delle"
+	line "ROVINE."
 
-	para "If those drawings"
-	line "are really #-"
-	cont "MON, there should"
-	cont "be many more."
+	para "Se questi disegni"
+	line "sono davvero #-"
+	para "MON, devono"
+	line "essercene molti"
+	cont "altri."
 
-	para "I know! Let me up-"
-	line "grade your #-"
+	para "Ho capito! Ora ti"
+	line "modifico il #-"
 	cont "DEX."
 	
-	para "Come visit me in"
-	line "the lab just down"
-	cont "in SANSKRIT TOWN."
+	para "Vieni nel mio"
+	line "laboratorio vicino"
+	cont "a VESTIGIA."
 	done
 
 SuperNerdStanSeenText:
-	text "What do you want?"
-	line "I'm studying--"
-	cont "don't disturb me!"
+	text "Cosa vuoi? Sto"
+	line "studiando, non"
+	cont "disturbarmi!"
 	done
 
 SuperNerdStanBeatenText:
-	text "Sorry…"
-	line "I'm frustrated by"
+	text "Scusa…"
+	line "È frustrante"
 
-	para "our lack of real"
-	line "understanding…"
+	para "pensare a quanto"
+	line "poco sappiamo…"
 	done
 
 SuperNerdStanAfterBattleText:
-	text "The RUINS are from"
-	line "about 1500 years"
-	cont "ago."
+	text "Le ROVINE"
+	line "risalgono a 1500"
+	cont "anni fa."
 
-	para "Nobody knows who"
-	line "built them."
+	para "Non si sa chi le"
+	line "abbia  costruite."
 
-	para "It's also not"
-	line "known if the #-"
-	cont "MON statues have"
-	cont "any meaning."
+	para "Non si sa neppure"
+	line "se le statue dei"
+	cont "#MON abbiano"
+	cont "un significato."
 
-	para "It's all one big"
-	line "mystery…"
+	para "È davvero un"
+	line "grande mistero…"
 	done
 
 PsychicNathanSeenText:
-	text "Hmmm… This is a"
-	line "strange place."
+	text "Hmmm… È"
+	line "proprio uno"
+	cont "strano posto."
 	done
 
 PsychicNathanBeatenText:
@@ -221,58 +223,58 @@ PsychicNathanBeatenText:
 	done
 
 PsychicNathanAfterBattleText:
-	text "I like thinking"
-	line "here."
+	text "Mi piace pensare"
+	line "qui."
 	done
 
 
 RuinsOfAlphSignText:
-	text "SANSKRIT RUINS"
-	line "OBSERVATION CENTER"
+	text "ROVINE VESTIGIA"
+	line "CENTRO DI"
+	cont "OSSERVAZIONE"
 	done
 
 RuinsOfAlphResearchCenterSignText:
-	text "SANSKRIT RUINS"
-	line "RESEARCH CENTER"
+	text "ROVINE VESTIGIA"
+	line "CENTRO RICERCHE"
 	done
 
 RuinsOfAlphOutsideFisherText1:
-	text "While exploring"
-	line "the RUINS, we"
+	text "Esplorando le"
+	line "ROVINE abbiamo"
 
-	para "suddenly noticed"
-	line "an odd presence."
+	para "notato una"
+	line "strana presenza."
 
-	para "We all got scared"
-	line "and ran away."
+	para "Siamo corsi via"
+	line "per la paura."
 
-	para "You should be"
-	line "careful too."
+	para "Stai attento."
 	done
 
 RuinsOfAlphOutsideFisherText2:
-	text "The RUINS hide a"
-	line "huge secret!"
+	text "Le ROVINE celano"
+	line "un grande segreto!"
 
-	para "…I think…"
+	para "…Credo…"
 	done
 
 RuinsOfAlphOutsideYoungster1Text:
-	text "There are many"
-	line "kinds of UNOWN, so"
+	text "Ci sono molti"
+	line "tipi di UNOWN."
 
-	para "we use them for"
-	line "our secret codes."
+	para "Li usiamo per i"
+	line "messaggi segreti."
 	done
 
 RuinsOfAlphOutsideYoungster2Text:
-	text "A… H… E… A… D…"
+	text "A… H… E…"
 	line "Hmm…"
 
-	para "What?"
+	para "Cosa?"
 
-	para "I'm decoding this"
-	line "message!"
+	para "Sto decifrando"
+	line "il messaggio!"
 	done
 
 RuinsOfAlphOutside_MapEvents:

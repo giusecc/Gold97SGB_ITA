@@ -361,127 +361,128 @@ Movement_PlayerTurnsHead:
 	step_end
 	
 Text_Study101:
-	text "…And if we spend"
-	line "just a few more"
-	para "days observing the"
-	line "#MON living in"
-	para "ROUTE 101…"
+	text "…Se passiamo"
+	line "un po' di tempo"
+	para "a osservare i"
+	line "#MON nel"
+	para "PERCORSO 101…"
 	
 	para "…"
-	para "He seems to be"
-	line "completely"
-	cont "occupied…"
+	para "Sembra"
+	line "occupato…"
 	
 	done
 
 Text_GearIsImpressive:
-	text "Wow, your #GEAR"
-	line "is impressive!"
+	text "Il tuo #GEAR"
+	line "è stupendo!"
 
-	para "Did your mom get"
-	line "it for you?"
+	para "Te l'ha dato"
+	line "tua mamma?"
 	done
 
 Text_WaitPlayer:
-	text "Wait! Stop!"
+	text "Aspetta! Fermo!"
 	done
 
 Text_WhatDoYouThinkYoureDoing:
-	text "What do you think"
-	line "you're doing?"
+	text "Che cosa pensi"
+	line "di fare?"
 	done
 
 Text_ItsDangerousToGoAlone:
-	text "It's dangerous to"
-	line "go out without a"
+	text "È pericoloso"
+	line "girare senza un"
 	cont "#MON!"
 
-	para "Wild #MON"
-	line "jump out of the"
+	para "Ci sono #MON"
+	line "selvatici che"
 
-	para "grass on the way"
-	line "to the next town."
+	para "sbucano dall'erba"
+	line "sulla strada verso"
+	cont "la prossima città"
 	
-	para "You need your own"
-	line "#MON for"
-	cont "protection!"
+	para "Ti serve un"
+	line "#MON per"
+	cont "proteggerti!"
 	
-	para "Ah! Wait, are you"
-	line "perhaps…?"
+	para "Ah! Aspetta, ma"
+	line "tu sei…?"
 	
-	para "…Come with me!"
+	para "…Seguimi!"
 	done
 
 Text_YourMonIsAdorable:
-	text "Oh! Your #MON"
-	line "is adorable!"
-	cont "I wish I had one!"
+	text "Oh! Il tuo #MON"
+	line "è adorabile! Lo"
+	cont "voglio anch'io!"
 	done
 
 Text_TellMomIfLeaving:
-	text "Hi, <PLAYER>!"
-	line "Leaving again?"
+	text "Ciao, <PLAYER>!"
+	line "Di nuovo in"
+	cont "partenza?"
 
-	para "You should tell"
-	line "your mom if you"
-	cont "are leaving."
+	para "Hai detto a tua"
+	line "mamma che stai"
+	cont "partendo?"
 	done
 
 Text_CallMomOnGear:
-	text "Call your mom on"
-	line "your #GEAR to"
+	text "Chiama tua mamma"
+	line "con il #GEAR"
 
-	para "let her know how"
-	line "you're doing."
+	para "e dille come te la"
+	line "passi."
 	done
 
 Text_Oak2DiscoveredNewMon:
-	text "Yo, <PLAYER>!"
+	text "Ciao, <PLAYER>!"
 
-	para "I hear PROF.OAK"
-	line "discovered some"
-	cont "new #MON."
+	para "So che il PROF.OAK"
+	line "ha scoperto dei"
+	cont "nuovi #MON."
 	done
 
 SilentTownRivalText1:
-	text "<RIVAL>: Hey,"
+	text "<RIVAL>: Ehi,"
 	line "<PLAYER>!"
-	para "There's something"
-	line "I gotta brag to"
-	cont "you about!"
+	para "Devo dirti una"
+	line "cosa!"
 	
-	para "I got an email"
-	line "from PROF.OAK!"
+	para "Ho ricevuto una"
+	line "mail dal PROF.OAK!"
 
-	para "Yeah, the famous"
-	line "one!"
+	para "Sì! Quello"
+	line "famoso!"
 	done
 
 SilentTownRivalText2:
-	text "You got one too?!"
-	line "Man, that's no"
-	cont "fun! Hmph!"
+	text "Anche tu?!"
+	line "Uffa, che"
+	cont "noia!"
 	
-	para "Well, I'm off to"
-	line "OAK's!"
-	cont "See you there!"
+	para "Io vado da"
+	line "OAK!"
+	cont "Ci si vede!"
 	done
 
 SilentTownSignText:
-	text "Forever Peaceful"
-	line "SILENT TOWN"
+	text "BORGO SILENTE"
+	line "Pacifico in eterno"
 	done
 
 SilentTownPlayersHouseSignText:
-	text "<PLAYER>'s House"
+	text "CASA DI <PLAYER>"
 	done
 
 SilentTownOakLabBackRoomSignText:
-	text "OAK #MON LAB"
+	text "LABORATORIO #-"
+	line "MON DEL PROF.OAK"
 	done
 
 SilentTownRivalsHouseSignText:
-	text "<RIVAL>'s House"
+	text "CASA DI <RIVAL>"
 	done
 
 SilentTown_MapEvents:

@@ -55,11 +55,11 @@ SilentPokecenterMonScript:
 	end
 	
 NoPokemonText:
-	text "Hello!"
-	para "In order to use a"
-	line "#MON CENTER,"
-	para "you need at least"
-	line "one #MON."
+	text "Ciao!"
+	para "Per usare un"
+	line "CENTRO #MON,"
+	para "ti serve almeno"
+	line "un #MON."
 	done
 	
 SilentPokecenterMonText:
@@ -68,45 +68,43 @@ SilentPokecenterMonText:
 	done
 	
 SilentPokecenter1FCooltrainerMText:
-	text "It's true!"
-	para "The TIME CAPSULE"
-	line "upstairs allows"
-	para "you to trade"
-	line "#MON with the"
-	cont "past!"
+	text "È vero!"
+	para "La TEMPOCAPSULA"
+	line "al piano di sopra"
+	para "ti permette di"
+	line "scambiare #MON"
+	cont "con il passato!"
 	done
 
 SilentPokecenter1FCooltrainerMText2:
-	text "I heard the"
-	line "machine they're"
+	text "Dicono che il"
+	line "macchinario"
 	
-	para "in the middle of"
-	line "setting up is"
-	cont "really amazing!"
+	para "che stanno"
+	line "realizzando sia"
+	cont "fantastico!"
 	
-	para "Apparently it can"
-	line "leap through time"
-	cont "to trade #MON!"
-	para "I wonder if it's"
-	line "true?"
+	para "Sembra che possa"
+	line "viaggiare nel"
+	para "tempo per scambia-"
+	line "re i #MON."
 	done
 
 SilentPokecenter1FCooltrainerFText:
-	text "If you're a"
-	line "trainer, you can"
-	para "use that PC over"
-	line "there anytime for"
-	cont "free!"
-	para "Thoughtful of"
-	line "them, isn't it?"
+	text "Se sei un allena-"
+	line "tore puoi usare"
+	para "quel PC quando"
+	line "vuoi!"
+	para "Grandioso, non"
+	line "è vero?"
 	done
 
 
 SilentPokecenter1FBugCatcherText:
-	text "This is HOUNDOOM!"
-	para "It's a #MON"
-	line "of a completely"
-	cont "new type."
+	text "È un HOUNDOOM!"
+	para "È un #MON"
+	line "di un nuovo"
+	cont "tipo."
 	done
 
 SilentPokecenter1F_MapEvents:

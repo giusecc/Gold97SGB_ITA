@@ -61,58 +61,56 @@ SanskritTownPokecenterSign:
 	jumpstd PokecenterSignScript
 	
 SanskritTownLassText:
-	text "I love the"
-	line "atmosphere of this"
-	cont "town."
-	para "It almost makes me"
-	line "feel as though"
-	para "I've traveled back"
-	line "in time."
+	text "Adoro l'atmosfera"
+	line "di questa città."
+	para "Mi sembra sempre"
+	line "di essere tornato"
+	para "indietro nel"
+	line "tempo."
 	done
 	
 SanskritTownYoungsterText:
-	text "This fountain is"
-	line "so mysterious."
-	para "No one knows who"
-	line "built it."
-	para "But it's clear"
-	line "that it's from the"
-	para "same era as the"
-	line "RUINS just north"
-	cont "of town."
+	text "Questa fontana"
+	line "è un mistero."
+	para "Nessuno sa chi"
+	line "l'ha costruita."
+	para "Ma è ovvio che"
+	line "è dello stesso"
+	para "periodo delle"
+	line "ROVINE a nord"
+	cont "di qui."
 	done
 
 SanskritTownMonsterText:
-	text "DONPHAN: PHYUUU!"
+	text "DONPHAN: FUUU!"
 	done
 
 SanskritTownCooltrainermText:
-	text "My DONPHAN doesn't"
-	line "listen to me."
-	para "I got him in a"
-	line "trade from a pal,"
-	para "but I don't have"
-	line "enough BADGEs for"
-	cont "him to obey me."
+	text "Il mio DONPHAN"
+	line "non mi ascolta."
+	para "L'ho ottenuto con"
+	line "uno scambio, ma"
+	para "non ho abbastanza"
+	line "MEDAGLIE perché"
+	cont "mi obbedisca."
 	done
 
 SanskritTownSignText:
-	text "SANSKRIT TOWN"
+	text "VESTIGIA"
 
-	para "A link to NIHON's"
-	line "past."
+	para "Un legame col"
+	line "passato di NIHON."
 	done
 
 SanskritTownRagecandybarSignText:
-	text "While visiting"
-	line "SANSKRIT TOWN, try"
-	cont "a RAGECANDYBAR!"
+	text "Mentre visiti"
+	line "VESTIGIA, gustati"
+	cont "un'IRAMELLA!"
 	done
 
 SanskritResearchSignText:
-	text "SANSKRIT TOWN"
-	line "RUINS RESEARCH"
-	cont "CENTER"
+	text "VESTIGIA"
+	line "CENTRO RICERCHE"
 	done
 
 SanskritTown_MapEvents:

@@ -72,69 +72,68 @@ GrassStarterTest:
 	jumptext GrassStarterTestText
 	
 GrassStarterTestText:
-	text "grass"
+	text "erba"
 	done
 
 WaterStarterTestText:
-	text "water"
+	text "acqua"
 	done
 	
 FireStarterTestText:
-	text "fire"
+	text "fuoco"
 	done
 	
 RyukyuCitySignText:
-	text "RYUKYU CITY -"
-	para "The SOUTHWEST"
-	line "ISLANDS' shining"
-	cont "gem."
+	text "CITTÀ DI RYU KYU -"
+	para "Gemma delle isole"
+	line "SUDOCCIDENTALI."
 	done
 
 RyukyuTeacherText:
-	text "Now now, children."
-	para "Don't just run off"
-	line "into the ocean!"
+	text "Calma bambini."
+	para "Non correte"
+	line "nell'oceano!"
 	done
 	
 RyukyuPokefanMText:
-	text "The weather is"
-	line "perfect here, if a"
-	cont "bit humid."
+	text "Il clima è"
+	line "perfetto qui,"
+	cont "anche se umido."
 	done
 	
 RyukyuBugCatcherText:
-	text "I wanna go"
-	line "swimming!"
+	text "Voglio"
+	line "nuotare!"
 	done
 	
 RyukyuTwinText:
-	text "Let's get some"
-	line "ice cream!"
+	text "Voglio un"
+	line "gelato!"
 	done
 	
 RyukyuCooltrainerMText:
-	text "I think I'll go"
-	line "out on a boat"
-	cont "today."
+	text "Credo che mi"
+	line "farò un giro"
+	cont "in barca."
 	done
 	
 RyukyuLassText:
-	text "Many of the people"
-	line "you see in this"
-	para "city don't live"
-	line "here."
+	text "Molti di quelli"
+	line "che vedi in"
+	para "città non sono"
+	line "di qui."
 	done
 	
 RyukyuSwimmerGuyText:
-	text "I come here on"
-	line "vacation whenever"
-	cont "I get the chance!"
+	text "Passo le mie"
+	line "vacanze qui da"
+	cont "sempre!"
 	done
 	
 RyukyuSwimmerGirlText:
-	text "There's nowhere"
-	line "better to relax"
-	cont "than right here!"
+	text "Non ci sono posti"
+	line "migliori di questo"
+	cont "per rillasrsi!"
 	done
 
 RyukyuCity_MapEvents:

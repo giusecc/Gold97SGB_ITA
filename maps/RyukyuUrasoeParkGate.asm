@@ -88,7 +88,7 @@ DollSalesmanSaturdayMenu:
 	db 3 ; items
 	db "MACHOP      ¥5000@"
 	db "TENTACOOL   ¥5000@"
-	db "CANCEL@"
+	db "ESCI@"
 	
 DollSalesmanSaturday_FinishScript:
 	waitsfx
@@ -111,49 +111,47 @@ DollSalesmanSaturdayNoMoney:
 	end
 	
 SendItemToPCTextDollSaturday:
-	text "Send this DOLL to"
-	line "your bedroom PC?"
+	text "Inviare BAMBOLA"
+	line "al tuo PC?"
 	done
 
 AlreadyHaveDecorItemTextSalesmanSaturday:
-	text "You already have"
-	line "this DOLL!"
+	text "Possiedi già"
+	line "questa BAMBOLA!"
 	done
 
 DollSalesmanSaturday_HereYouGoText:
-	text "Here you go!"
+	text "Ecco a te!"
 	done
 	
 DollSalesmanSaturdayComeAgain:
-	text "Hope to see you"
-	line "again somewhere!"
+	text "Spero di rivederti"
+	line "presto!"
 	done
 	
 DollSalesmanSaturdayNoMoneyText:
-	text "Sorry, you'll"
-	line "need more money!"
+	text "Mi spiace, ti"
+	line "servono più soldi!"
 	done
 	
 DollSalesmanTextSaturday:
-	text "Hiya!"
-	para "I'm a traveling"
-	line "DOLL salesman!"
-	para "What does that"
-	line "mean?"
-	para "It means that I'm"
-	line "who you talk to"
-	para "if you want to"
-	line "deck out your"
-	cont "bedroom!"
-	para "My stock and my"
-	line "location change"
-	para "daily, so keep an"
-	line "eye out for me!"
+	text "Ehi!"
+	para "Sono un venditore"
+	line "di BAMBOLE!"
+	para "Cosa significa?"
+	para "Significa che devi"
+	line "parlare con me se"
+	para "vuoi decorare la"
+	line "tua camera!"
+	para "La mia merce e"
+	line "la mia posizione"
+	para "cambiano ogni"
+	line "giorno!"
 	done
 	
 DollSalesmanTextSaturday_AskWhichPrizeText:
-	text "Now which DOLL"
-	line "would you like?"
+	text "Ora, quale"
+	line "BAMBOLA vuoi?"
 	done
 	
 ;---------------------------------
@@ -161,11 +159,11 @@ DollSalesmanTextSaturday_AskWhichPrizeText:
 
 
 Route101NRyukyuGuardWelcomeText:
-	text "Somedays I wish"
-	line "I could leave my"
-	para "guard post and go"
-	line "relax out on the"
-	cont "beach."
+	text "A volte vorrei"
+	line "lasciare il mio"
+	para "posto di guardia"
+	line "e riposarmi"
+	cont "sulla spiaggia."
 	done
 
 

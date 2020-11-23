@@ -21,31 +21,27 @@ SanskritMartCooltrainerMScript:
 	jumptextfaceplayer SanskritMartCooltrainerMText
 
 SanskritMartLassText:
-	text "I'm not really"
-	line "interested in the"
-	cont "RUINS."
-	para "There's never been"
-	line "much around town"
-	cont "for me to do."
-	para "That is, until the"
-	line "new BOARDWALK and"
-	para "GAME CORNER opened"
-	line "south of town!"
-	para "You should check"
-	line "it out if you"
-	cont "haven't been yet."
+	text "Non mi interessano"
+	line "le ROVINE."
+	para "Non ho molto da"
+	line "fare in questa"
+	cont "città."
+	para "Cioè, era così"
+	line "prima che apris-"
+	cont "sero il CASINÒ!"
+	para "Dovresti andarci"
+	line "se non ci sei mai"
+	cont "stato."
 	done
 
 SanskritMartCooltrainerMText:
-	text "Have you been to"
-	line "SUNPOINT CITY?"
+	text "Sei mai stato a"
+	line "ELIOPOLI?"
 
-	para "It's a major"
-	line "shipping hub for"
-	para "bringing in goods"
-	line "that come from"
-	para "countries north of"
-	line "NIHON."
+	para "È un centro di"
+	line "scambio per le"
+	para "merci che arrivano"
+	line "da nord."
 	done
 
 SanskritMart_MapEvents:

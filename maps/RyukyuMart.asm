@@ -21,19 +21,18 @@ RyukyuMartCooltrainerFScript:
 	jumptextfaceplayer RyukyuMartCooltrainerFText
 
 RyukyuMartCooltrainerMText:
-	text "There's a guy in"
-	line "this town who"
-	para "wants to be a"
-	line "GYM LEADER."
-	para "Have you given"
-	line "him a challenge"
-	cont "yet?"
+	text "C'è un tipo"
+	line "in città che"
+	para "vuole essere un"
+	line "CAPOPALESTRA."
+	para "L'hai già"
+	line "sfidato?"
 	done
 
 RyukyuMartCooltrainerFText:
-	text "This city has the"
-	line "warmest climate on"
-	cont "the ISLANDS."
+	text "Questa città è"
+	line "la più calda"
+	cont "delle ISOLE."
 	done
 
 RyukyuMart_MapEvents:
