@@ -21,24 +21,24 @@ SunpointMartSuperNerdScript:
 	jumptextfaceplayer SunpointMartSuperNerdText
 
 SunpointMartYoungsterText:
-	text "Hi! Check out my"
+	text "Guarda che bel"
 	line "GYARADOS!"
 
-	para "I raised it from a"
-	line "MAGIKARP. I can't"
+	para "L'ho fatto"
+	line "evolvere da"
 
-	para "believe how strong"
-	line "it has become."
+	para "MAGIKARP. Ora"
+	line "è fortissimo!"
 	done
 
 SunpointMartSuperNerdText:
-	text "Whew!"
-	para "It's exceptionally"
-	line "hot outside today!"
-	para "I've come into the"
-	line "MART just to get"
-	para "away from all of"
-	line "the heat."
+	text "Oh!"
+	para "Fa caldissimo"
+	line "fuori!"
+	para "Sono entrato qui"
+	line "solo per"
+	para "rinfrescarmi"
+	line "un po'."
 	done
 
 SunpointMart_MapEvents:

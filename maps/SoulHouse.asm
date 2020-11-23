@@ -22,52 +22,53 @@ SoulHouseGrannyScript:
 	jumptextfaceplayer SoulHouseGrannyText
 
 MrFujiText:
-	text "MR.FUJI: Welcome."
+	text "MR.FUJI:"
+	line "Benvenuto."
 
-	para "Hmm… You appear to"
-	line "be raising your"
+	para "Bene… Vedo che"
+	line "stai allenando i"
 
-	para "#MON in a kind"
-	line "and loving manner."
+	para "#MON con amore"
+	line "e responsabilità."
 
-	para "#MON lovers"
-	line "come here to pay"
+	para "Qui si viene per"
+	line "onorare le anime"
 
-	para "their respects to"
-	line "departed #MON."
+	para "dei #MON"
+	line "scomparsi."
 
-	para "Please offer con-"
-	line "dolences for the"
+	para "Vuoi rendere omag-"
+	line "gio anche tu alle"
 
-	para "souls of the de-"
-	line "parted #MON."
+	para "anime dei #MON"
+	line "scomparsi?"
 
-	para "I'm sure that will"
-	line "make them happy."
+	para "Ne saranno"
+	line "senz'altro felici."
 	done
 
 SoulHouseTeacherText:
-	text "There are other"
-	line "graves of #MON"
-	cont "here, I think."
+	text "Qui ci sono altre"
+	line "tombe di #MON,"
+	cont "credo."
 
-	para "There are many"
-	line "chambers that only"
-	cont "MR.FUJI may enter."
+	para "Ci sono stanze in"
+	line "cui solo MR.FUJI"
+	cont "può entrare."
 	done
 
 SoulHouseLassText:
-	text "I came with my Mom"
-	line "to visit #MON"
-	cont "graves…"
+	text "Io e la mamma"
+	line "visitiamo le tombe"
+	cont "dei #MON…"
 	done
 
 SoulHouseGrannyText:
-	text "The #MON that"
-	line "lived with me…"
+	text "I #MON che"
+	line "vivevano con me…"
 
-	para "I loved them like"
-	line "my grandchildren…"
+	para "Erano come dei"
+	line "nipotini per me…"
 	done
 
 SoulHouse_MapEvents:

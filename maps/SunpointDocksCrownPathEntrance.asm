@@ -10,11 +10,11 @@ SunpointDocksCrownPathEntranceTeacherScript:
 	jumptextfaceplayer SunpointDocksCrownPathEntranceTeacherText
 
 SunpointDocksCrownPathEntranceTeacherText:
-	text "Many cities in"
-	line "NIHON have long"
+	text "Molte città di"
+	line "NIHON hanno una"
 
-	para "histories. I'd"
-	line "love to visit!"
+	para "lunga storia."
+	line "Vorrei visitarle!"
 	done
 
 SunpointDocksCrownPathEntrance_MapEvents:

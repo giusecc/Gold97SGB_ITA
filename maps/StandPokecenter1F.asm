@@ -65,53 +65,51 @@ StandPokecenter1FJanineImpersonatorScript:
 	end
 
 StandPokecenter1FCooltrainerMText:
-	text "I'm worried about"
-	line "my #MON getting"
-	cont "sick."
+	text "Ho paura che i"
+	line "miei #MON siano"
+	cont "ammalati."
 	done
 	
 StandPokecenter1FCooltrainerMText2:
-	text "The staff for the"
-	line "STAND CITY ZOO do"
-	para "a lot of work"
-	line "making sure the"
-	para "#MON are"
-	line "healthy."
+	text "Il personale dello"
+	line "ZOO lavora un"
+	para "sacco per mante-"
+	line "nere i #MON in"
+	cont "salute."
 	done
 
 StandPokecenter1FCooltrainerFText:
-	text "What's going on in"
-	line "this town right"
-	cont "now?"
-	para "Things are usually"
-	line "so peaceful."
+	text "Cosa sta succeden-"
+	line "do in città?"
+	para "Di solito è così"
+	line "tranquilla."
 	done
 	
 StandPokecenter1FCooltrainerFText2:
-	text "You have a lot of"
-	line "GYM BADGES!"
-	para "Have you taken on"
-	line "the LEAGUE?"
-	para "One day I want to"
-	line "climb MT.FUJI"
-	cont "myself."
+	text "Hai molte"
+	line "MEDAGLIE!"
+	para "Hai già sfidato"
+	line "la LEGA #MON?"
+	para "Un giorno voglio"
+	line "scalare il"
+	cont "MONTE FUJI."
 	done
 
 StandPokecenter1FJanineImpersonatorText1:
-	text "I came to visit"
-	line "STAND CITY to see"
-	para "the NATIONAL PARK"
-	line "and all of the"
+	text "Sono venuto a"
+	line "INERTOPOLI per"
+	para "il PARCO NAZIONALE"
+	line "e tutti i suoi"
 	cont "#MON."
-	para "I'm kind of upset"
-	line "I can't do any of"
-	cont "that right now…"
+	para "Mi dispiace non"
+	line "poter fare nulla"
+	cont "di tutto ciò…"
 	done
 
 StandPokecenter1FJanineImpersonatorText2:
-	text "STAND CITY has so"
-	line "many interesting"
-	cont "things to see!"
+	text "INERTOPOLI è"
+	line "piena di cose"
+	cont "da fare!"
 	done
 
 StandPokecenter1F_MapEvents:

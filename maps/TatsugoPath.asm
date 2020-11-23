@@ -24,25 +24,21 @@ TrainerSailorEugene:
 
 
 SailorEugeneSeenText:
-	text "I just got back"
-	line "from sea."
+	text "Sono tornato"
+	line "dal mare."
 
-	para "So how about a"
-	line "#MON battle?"
+	para "Che ne dici di"
+	line "una lotta?"
 	done
 
 SailorEugeneBeatenText:
-	text "Awaaargh!"
+	text "Aaaaah!"
 	done
 
 SailorEugeneAfterBattleText:
-	text "My #MON were"
-	line "caught and raised"
-	cont "overseas."
-
-	para "They're my compan-"
-	line "ions on those long"
-	cont "voyages."
+	text "Ho catturato i"
+	line "miei #MON"
+	cont "in viaggio."
 	done
 
 
@@ -59,20 +55,20 @@ TrainerTeacherHolly:
 	
 
 TeacherHollySeenText:
-	text "Um, excuse me"
-	line "but this is a"
-	cont "private date!"
+	text "Uhm, scusa, ma"
+	line "è una cosa"
+	cont "privata!"
 	done
 
 TeacherHollyBeatenText:
-	text "Buzz off twerp!"
+	text "Vattene via!"
 	done
 
 TeacherHollyAfterBattleText:
-	text "As if I don't"
-	line "have to deal"
-	para "with enough kids"
-	line "at work already!"
+	text "Come se non"
+	line "dovessi già"
+	para "sopportare i"
+	line "bambini al lavoro!"
 	done
 
 
@@ -89,22 +85,21 @@ TrainerInstrMoshe:
 	
 
 InstrMosheSeenText:
-	text "If you're looking"
-	line "for tutoring, then"
-	para "you've come at"
-	line "the wrong time!"
+	text "Se stai cercando"
+	line "un istruttore, sei"
+	para "arrivato nel"
+	line "momento sbagliato!"
 	done
 
 InstrMosheBeatenText:
-	text "Ah, come on!"
+	text "Oh, ma dai!"
 	done
 
 InstrMosheAfterBattleText:
-	text "It's typical that"
-	line "I can't even go"
-	para "on a date without"
-	line "being pestered by"
-	cont "some kid."
+	text "Non posso neanche"
+	line "andare a un"
+	para "appuntamento senza"
+	line "essere disturbato!"
 	done
 
 TrainerSNNorton:
@@ -120,23 +115,22 @@ TrainerSNNorton:
 	
 
 SNNortonSeenText:
-	text "I hang around at"
-	line "HEART POND every"
-	cont "day!"
-	para "So why can't I"
-	line "find a girlfriend?"
+	text "Vado ogni giorno"
+	line "al LAGO CUORE!"
+	para "Perché sono"
+	line "ancora solo?"
 	done
 
 SNNortonBeatenText:
-	text "The life of a NERD"
-	line "is a tough one."
+	text "Che amarezza"
+	line "la vita."
 	done
 
 SNNortonAfterBattleText:
-	text "Would bathing in"
-	line "the HEART POND"
-	para "help my chances"
-	line "at all?"
+	text "Fare un bagno"
+	line "nel laghetto mi"
+	para "potrebbe"
+	line "servire?"
 	done
 	
 TatsugoPathHiddenPPUP:
@@ -150,20 +144,20 @@ HeartPondSign:
 	jumptext HeartPondSignText
 	
 HeartPondSignText:
-	text "HEART POND"
-	para "A place where"
-	line "lovers meet."
+	text "LAGO CUORE"
+	para "Dove si trovano"
+	line "gli innamorati."
 	done
 
 KikaiStraitSign:
 	jumptext KikaiStraitSignText
 	
 KikaiStraitSignText:
-	text "TATSUGO PATH -"
-	line "KIKAI STRAIT"
+	text "CAMMINO TATSUGO -"
+	line "STRETTO ARCANO"
 	
-	para "KIKAI VILLAGE"
-	line "AHEAD"
+	para "Per il VILLAGGIO"
+	line "ARCANO"
 	done
 
 TatsugoPath_MapEvents:

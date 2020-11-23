@@ -36,72 +36,60 @@ SunpointPokecenter1FSuperNerdScript:
 	jumptextfaceplayer SunpointPokecenter1FSuperNerdText
 
 SunpointPokecenter1FLassText:
-	text "Don't you get the"
-	line "urge to show off"
+	text "Non senti il"
+	line "bisogno di far"
 
-	para "your #MON to"
-	line "friends?"
-	para "I always brag"
-	line "about my beautiful"
-	cont "BELLRING."
+	para "vedere i tuoi"
+	line "#MON agli"
+	cont "amici?"
+	para "Io mi vanto sempre"
+	line "del mio BELLRING."
 	done
 
 StandGymGuyText:
-	text "Did you go up to"
-	line "the DOCKS?"
-	para "Something fishy is"
-	line "going on up there."
+	text "Sei andato ai"
+	line "MOLI?"
+	para "Sta succedendo"
+	line "qualcosa laggiù."
 	done
 
 StandGymGuyWinText:
-	text "Those were TEAM"
-	line "ROCKET members at"
-	cont "the docks?"
-	para "I can't believe"
-	line "they showed their"
-	cont "faces again!"
+	text "Membri del TEAM"
+	line "ROCKET ai moli?"
+	para "Non riesco a"
+	line "crederci!"
 	done
 
 SunpointPokecenter1FUnusedText1:
 ; unreferenced
-	text "Don't you get the"
-	line "urge to show off"
+	text "Non senti il"
+	line "bisogno di far"
 
-	para "your #MON to"
-	line "friends?"
+	para "vedere i tuoi"
+	line "#MON agli"
+	cont "amici?"
 
-	para "I wish I could"
-	line "show the #MON I"
-
-	para "raised to my pal"
-	line "in PAGOTA."
+	para "Vorrei mostrarli"
+	line "al mio amico di"
+	cont "ANCESTRALIA."
 	done
 
 SunpointPokecenter1FUnusedText2:
 ; unreferenced
-	text "I've been battling"
-	line "my pal in PAGOTA"
+	text "Ho sfidato il mio"
+	line "amico di"
 
-	para "using a MOBILE"
-	line "ADAPTER link."
-
-	para "I'm down 5-7"
-	line "against him. I've"
-	cont "gotta crank it up!"
+	para "ANCESTRALIA con"
+	line "un MOBILE"
+	cont "ADAPTER."
 	done
 
 SunpointPokecenter1FSuperNerdText:
-	text "I love showing off"
-	line "the #MON that"
+	text "Adoro mostrare"
+	line "i #MON che"
 
-	para "I've raised."
-	line "Don't you?"
-
-	para "I'm going to get"
-	line "into a bunch of"
-
-	para "battles, and show"
-	line "off my #MON!"
+	para "ho allenato."
+	line "Anche tu?"
 	done
 
 SunpointPokecenter1F_MapEvents:

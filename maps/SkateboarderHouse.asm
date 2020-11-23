@@ -38,35 +38,32 @@ SkateboarderHouseBookshelf:
 	jumpstd MagazineBookshelfScript
 
 SkateboarderHouseSkateboarderDudeText:
-	text "Woah dude!"
-	para "You still riding"
-	line "around on a bike?"
-	para "Get with the"
-	line "times!"
-	para "And it's time for"
-	line "you to shred!"
-	para "Here, take this!"
+	text "Ehi, amico!"
+	para "Vai ancora in"
+	line "giro in bici?"
+	para "Stai al passo"
+	line "coi tempo!"
+	para "Ecco, tieni!"
 	done
 	
 SkateboarderHouseSkateboarderDudeText2:
-	text "Woah dude!"
-	para "With that board,"
-	line "you can get around"
-	para "quickly in even"
-	line "more places than"
-	cont "on a bike!"
+	text "Amico!"
+	para "Con questa tavola"
+	line "puoi andare veloce"
+	para "in molti più posti"
+	line "rispetto alla"
+	cont "bici!"
 	done
 	
 SkateboarderHouseSkateboarderDudeTextNoBike:
-	text "Woah dude!"
-	para "What are you doing"
-	line "walking around"
-	cont "on your feet?"
-	para "If you're not used"
-	line "to riding a bike,"
-	para "there's no way"
-	line "you're ready to"
-	cont "shred!"
+	text "Ehi, amico!"
+	para "Vai ancora in"
+	line "giro a piedi?"
+	para "Se non ti va di"
+	line "andare in bici,"
+	para "sicuramente ti"
+	line "piacerà"
+	cont "questo!"
 	done
 	
 

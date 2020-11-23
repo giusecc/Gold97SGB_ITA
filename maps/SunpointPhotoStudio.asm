@@ -29,35 +29,32 @@ SunpointPhotoStudioFishingGuruScriptbackup:
 	end
 
 SunpointPhotoStudioFishingGuruText_Question:
-	text "You have magnifi-"
-	line "cent #MON with"
-	cont "you."
+	text "Hei dei #MON"
+	line "magnifici con te."
 
-	para "How about a photo"
-	line "for a souvenir?"
+	para "Che ne dici di una"
+	line "foto ricordo?"
 	done
 
 SunpointPhotoStudioFishingGuruText_Yes:
-	text "OK! Big smile now!"
+	text "Ok! Un attimo!"
 	done
 
 SunpointPhotoStudioFishingGuruText_No:
-	text "Oh, that's too"
-	line "bad. I thought it"
+	text "Oh, come mi"
+	line "dispiace! Una foto"
 
-	para "would be a great"
-	line "memento…"
+	para "sarebbe stata un"
+	line "bel ricordo…"
 	done
 
 SunpointFishGuruText:
-	text "The MAGMA SHAFT"
-	line "on the west side"
-	para "of town is"
-	line "dangerously hot"
-	cont "inside."
-	para "FIRE #MON are"
-	line "said to be"
-	cont "attracted to it."
+	text "Il POZZO LAVA a"
+	line "ovest è perico-"
+	cont "losamente caldo."
+	para "I #MON FUOCO"
+	line "sono attratti da"
+	cont "quel posto."
 	done
 
 SunpointPhotoStudio_MapEvents:

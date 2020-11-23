@@ -47,33 +47,35 @@ StandMartCooltrainerFScript:
 	end
 
 StandMartFisherText:
-	text "I wonder how much"
-	line "the local MART is"
-	para "affected by the"
-	line "ZOO closure…"
+	text "Mi chiedo se la"
+	line "chiusura dello"
+	para "ZOO influirà su"
+	line "questo #MON-"
+	cont "MARKET…"
 	done
 	
 StandMartFisherText2:
-	text "I was hoping to"
-	line "buy STAND CITY"
-	cont "ZOO souvenirs,"
-	para "but this shop"
-	line "doesn't sell any."
+	text "Speravo di poter"
+	line "comprare dei"
+	para "souvenir dello"
+	line "ZOO di INERTOPOLI,"
+	para "ma questo negozio"
+	line "non ne vende."
 	done
 
 StandMartCooltrainerFText:
-	text "Have you faced"
-	line "OKERA?"
-	para "He's a moody"
-	line "teenager, but a"
-	cont "very good battler."
+	text "Hai affrontato"
+	line "ANGELO?"
+	para "È un ragazzo"
+	line "cupo, ma è un"
+	cont "ottimo lottatore."
 	done
 
 StandMartCooltrainerFText2:
-	text "Oh, wow, the"
-	line "DUSKBADGE!"
-	para "Was it a tough"
-	line "battle?"
+	text "Oh! La MEDAGLIA"
+	line "CREPUSCOLO!"
+	para "È stata una"
+	line "dura lotta?"
 	done
 
 StandMart_MapEvents:

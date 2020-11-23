@@ -33,35 +33,33 @@ StandPokeNurse2Script:
 	jumptextfaceplayer StandPokeNurse2Text
 	
 StandPokeNurse2Text:
-	text "This is the"
-	line "medical center for"
-	para "the STAND CITY"
-	line "ZOO."
-	para "Fortunately, all"
-	line "of our #MON are"
-	cont "feeling healthy!"
+	text "Questo è il centro"
+	line "medico dello ZOO"
+	cont "di INERTOPOLI."
+	para "Fortunatamente i"
+	line "nostri #MON"
+	para "sono tutti in"
+	line "salute!"
 	done
 	
 	
 ClefairyWeakText:
-	text "CLEFAIRY: …Fairy…"
+	text "CLEFAIRY: …Clef…"
 	done
 	
 StandPokeItsCryIsWeakText:
-	text "Its cry is weak…"
+	text "Sembra debole…"
 	done
 
 
 StandPokeNurse1Text:
-	text "This CLEFAIRY"
-	line "is feeling ill."
-	para "We've got the"
-	line "other #MON from"
-	para "the ZOO in the"
-	line "back."
-	para "Hopefully they can"
-	line "all feel better"
-	cont "soon."
+	text "Questo CLEFAIRY"
+	line "sta male."
+	para "Gli altri #MON"
+	line "dello ZOO sono"
+	cont "sul retro."
+	para "Spero che stiano"
+	line "tutti bene presto."
 	done
 
 StandPoke_MapEvents:
