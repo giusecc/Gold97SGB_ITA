@@ -300,176 +300,167 @@ Route112Worker2Script:
 	jumptextfaceplayer Route112Worker2Text
 
 Route112OfficerText:
-	text "A recent storm"
-	line "blew a large"
-	para "amount of snow"
-	line "down the hill and"
-	cont "into this gate."
-	para "The storm had"
-	line "damaged the doors"
-	para "and broken the"
-	line "windows."
-	para "We're working on"
-	line "getting it"
-	cont "repaired."
+	text "Il maltempo ha"
+	line "fatto cadere"
+	para "molta neve."
+	para "Ha danneggiato"
+	line "le porte e"
+	para "rotto le"
+	line "finestre."
+	para "Stiamo cercando"
+	line "di ripararle."
 	done
 	
 Route112Worker1Text:
-	text "Whew!"
-	para "STAND CITY is at"
-	line "a much lower"
-	para "altitude than"
-	line "BLUE FOREST."
-	para "Snow mixed with"
-	line "strong winds from"
-	para "a storm blowing"
-	line "down this hill was"
-	para "too much for this"
-	line "gate to handle!"
+	text "Già!"
+	para "INERTOPOLI è"
+	line "molto più in"
+	para "basso di"
+	line "BIANCASELVA."
+	para "La neve e i forti"
+	line "venti che soffiano"
+	para "dall'alto sono"
+	line "troppo per questo"
+	cont "passaggio!"
 	done
 	
 Route112Worker2Text:
-	text "Be careful, kid!"
-	para "There might be"
-	line "broken glass"
-	cont "around here."
-	para "You should stay"
-	line "back until we're"
-	cont "done with repairs."
+	text "Fai attenzione!"
+	para "Potrebbero"
+	line "esserci pezzi"
+	cont "di vetro in giro."
+	para "Dovresti tornare"
+	line "quando abbiamo"
+	cont "finito i lavori."
 	done
 
 YoungsterGordonSeenText:
-	text "I found some good"
-	line "#MON in the"
-	cont "grass!"
-
-	para "I think they'll do"
-	line "it for me!"
+	text "Ho trovato molti"
+	line "#MON nell'erba!"
 	done
 
 YoungsterGordonBeatenText:
-	text "Darn. I thought I"
-	line "could win."
+	text "Uffa. Credevo di"
+	line "poter vincere."
 	done
 
 YoungsterGordonAfterText:
-	text "The grass is full"
-	line "of clingy things."
+	text "L'erba è piena"
+	line "di sorprese."
 	done
 
 CamperRolandSeenText:
-	text "I'm spending my"
-	line "day camping at"
-	para "the base of this"
-	line "snowy hill."
+	text "Passo il tempo"
+	line "campeggiando alla"
+	para "base di questo"
+	line "colle innevato."
 	done
 
 CamperRolandBeatenText:
-	text "Hmmm. This is"
-	line "disappointing."
+	text "Oooh. Che"
+	line "disdetta."
 	done
 
 CamperRolandAfterText:
-	text "A snowy hill is"
-	line "such a pleasant"
-	cont "camping location!"
+	text "I luoghi innevati"
+	line "sono i migliori"
+	cont "per il campeggio!"
 	done
 
 PicnickerLiz1SeenText:
-	text "Uh-huh. Yeah, and"
-	line "you know…"
+	text "Oh, certo. Lo"
+	line "sai che…"
 
-	para "Pardon? Battle?"
-	line "I'm on the phone."
+	para "Scusa? Una lotta?"
+	line "Sono al telefono."
 
-	para "Oh, all right. But"
-	line "make it fast."
+	para "Oh, va bene. Ma"
+	line "fai veloce."
 	done
 
 PicnickerLiz1BeatenText:
-	text "Oh! I've got to"
-	line "relieve my anger!"
+	text "Oh! Devo contenere"
+	line "la rabbia!"
 	done
 
 PicnickerLiz1AfterText:
-	text "I was having a"
-	line "nice chat too."
+	text "Era una bella"
+	line "chiamata."
 	done
 
 
 
 MeetFriedaText:
-	text "FRIEDA: Yahoo!"
-	line "It's Friday!"
+	text "VERONICA: Sììì!"
+	line "È venerdì!"
 
-	para "I'm FRIEDA of"
-	line "Friday!"
+	para "E io sono VERONICA"
+	line "del venerdì!"
 
-	para "Nice to meet you!"
+	para "Piacere!"
 	done
 
 FriedaGivesGiftText:
-	text "Here's a POISON"
-	line "BARB for you!"
+	text "Eccoti un"
+	line "VELENACULEO!"
 	done
 
 FriedaGaveGiftText:
-	text "FRIEDA: Give it to"
-	line "a #MON that has"
-	cont "poison-type moves."
+	text "VERONICA: Dallo ad"
+	line "un #MON con"
+	cont "mosse veleno."
 
 	para "Oh!"
 
-	para "It's wicked!"
+	para "È terribile!"
 
-	para "You'll be shocked"
-	line "how good it makes"
-	cont "poison moves!"
+	para "Vedrai come"
+	line "migliorerà le"
+	cont "mosse veleno!"
 	done
 
 FriedaFridayText:
-	text "FRIEDA: Hiya! What"
-	line "day do you like?"
+	text "VERONICA: Quale"
+	line "giorno preferisci?"
 
-	para "I love Friday. No"
-	line "doubt about it!"
+	para "Io il venerdì,"
+	line "senza dubbio!"
 
-	para "Don't you think"
-	line "it's great too?"
+	para "Non pensi anche tu"
+	line "che sia stupendo?"
 	done
 
 FriedaNotFridayText:
-	text "FRIEDA: Isn't it"
-	line "Friday today?"
+	text "VERONICA: Oggi è"
+	line "venerd', vero?"
 
-	para "It's so boring"
-	line "when it's not!"
+	para "Gli altri giorni"
+	line "mi annoiano!"
 	done
 
 Route112SignText:
-	text "ROUTE 112"
+	text "PERCORSO 112"
 
-	para "BLUE FOREST -"
-	line "STAND CITY"
+	para "BIANCASELVA -"
+	line "INERTOPOLI"
 	done
 	
 
 PicnickerGina1SeenText:
-	text "Are you a trainer?"
+	text "Sei un allenatore?"
 
-	para "Let's have a"
-	line "practice battle."
+	para "Allora lottiamo!"
 	done
 
 PicnickerGina1BeatenText:
-	text "Oh, no! I just"
-	line "can't win…"
+	text "Oh, no! Non"
+	line "potevo vincere…"
 	done
 
 PicnickerGina1AfterText:
-	text "You're too strong"
-	line "to be a practice"
-	cont "partner."
+	text "Sei troppo forte"
+	line "per essere un"
+	cont "principiante."
 	done
 
 

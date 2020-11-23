@@ -203,55 +203,52 @@ Route104TMEndure:
 
 
 Route104LassText:
-	text "Pant, pant…"
+	text "Uff, uff…"
 
-	para "It's a long walk"
-	line "just to get this"
-	cont "far."
-	para "But there's still"
-	line "a long way to go"
-	cont "to ALLOY CITY."
-	para "JADE FOREST is a"
-	line "maze."
-	para "I need to make"
-	line "sure I'm ready."
+	para "È stata lunga"
+	line "fino a qui."
+	para "Ma c'è ancora"
+	line "molta strada prima"
+	cont "di DESMOPOLI."
+	para "BOSCO GIADA è un"
+	line "labirinto."
+	para "Devo prepararmi."
 	done
 
 Route104TeacherText:
-	text "I'm confused."
-	para "I came through"
-	line "this route by"
-	para "hopping down this"
-	line "ledge."
-	para "But I can't figure"
-	line "out my way back"
-	cont "to BIRDON TOWN."
-	para "There's got to be"
-	line "a way around…"
+	text "C'è qualcosa che"
+	line "non mi torna."
+	para "Non riesco a"
+	line "capire come"
+	para "tornare indietro"
+	line "verso AVIOPOLI."
+	para "Non ci capisco"
+	line "niente…"
 	done
 
 DontStepFlowers:
-	text "Hey!"
-	para "Don't step there!"
-	para "I work really hard"
-	line "getting my garden"
-	para "to look nice in"
-	line "such a dry area!"
-	para "Don't trample my"
-	line "flowers!"
+	text "Ehi!"
+	para "Non stare lì!"
+	para "Lavoro duramente"
+	line "per curare il"
+	para "mio giardino in"
+	line "una zona così"
+	cont "arida!"
+	para "Non calpestare"
+	line "i miei fiori!"
 	done
 
 LaDiDa:
 	text "La-Di-Da!"
-	para "Oh, how I enjoy"
-	line "tending to my"
-	cont "garden!"
+	para "Che bello"
+	line "curare il mio"
+	cont "giardino!"
 	done
 
 
 SupernerdSamSeenText:
-	text "Do you collect"
-	line "rare #MON?"
+	text "Collezioni #MON"
+	line "rari?"
 	done
 
 SupernerdSamBeatenText:
@@ -259,153 +256,150 @@ SupernerdSamBeatenText:
 	done
 
 SupernerdSamAfterBattleText:
-	text "I collect rare"
-	line "#MON."
-	para "Or at least, I"
-	line "wish I did."
+	text "Io colleziono"
+	line "#MON rari."
+	para "O almeno,"
+	line "vorrei farlo."
 	done
 	
 HikerDanielSeenText:
-	text "I'm setting out"
-	line "on a long hike."
-	para "Let's see how"
-	line "prepared I am!"
+	text "Mi sto preparando"
+	line "per una scalata."
+	para "Vediamo quanto"
+	line "sono pronto!"
 	done
 
 HikerDanielBeatenText:
-	text "Foot cramps!"
+	text "Crampi ai piedi!"
 	done
 
 HikerDanielAfterBattleText:
-	text "Looks like I need"
-	line "to make sure I'm"
-	para "up for the long"
-	line "journey."
+	text "Sembra che io"
+	line "non sia ancora"
+	cont "pronto."
 	done
 
 FirebreatherBurtSeenText:
-	text "Can you take the"
-	line "heat that I'm"
-	cont "about to give?"
+	text "Senti il calore?"
 	done
 
 FirebreatherBurtBeatenText:
-	text "Ow, hot!"
+	text "Oh, caldo!"
 	done
 
 FirebreatherBurtAfterBattleText:
-	text "This ROUTE is too"
-	line "hot!"
+	text "Questo PERCORSO è"
+	line "troppo caldo!"
 	done
 
 
 CamperElliotSeenText:
-	text "I'm on my way"
-	line "to go camping"
-	cont "in the FOREST!"
+	text "Andrò in"
+	line "campeggio nel"
+	cont "BOSCO!"
 	done
 
 CamperElliotBeatenText:
-	text "I'm beat!"
+	text "Battuto!"
 	done
 
 CamperElliotAfterBattleText:
-	text "This area is"
-	line "pretty dry."
-	para "But the FOREST up"
-	line "ahead is a lot"
-	cont "less arid."
+	text "Quest'area è"
+	line "molto arida."
+	para "Ma il BOSCO qui"
+	line "vicino è molto"
+	cont "meno secco."
 	done
 	
 
 OfficerDirkSeenText:
-	text "Danger lurks in"
-	line "the night!"
+	text "Il pericolo si"
+	line "cela nella notte!"
 	done
 
 OfficerDirkBeatenText:
-	text "Whoops!"
+	text "Ops!"
 	done
 
 OfficerDirkAfterBattleText:
-	text "You know, night-"
-	line "time is fun in its"
-	cont "own ways."
+	text "Sai, anche la"
+	line "notte può essere"
+	cont "divertente."
 
-	para "But don't overdo"
-	line "it, OK?"
+	para "Ma non esagerare!"
 	done
 
 OfficerDirkPrettyToughText:
-	text "Your #MON look"
-	line "pretty tough."
+	text "I tuoi #MON"
+	line "sono forti."
 
-	para "You could go any-"
-	line "where safely."
+	para "Puoi andare in"
+	line "giro senza"
+	cont "problemi."
 	done
 
 Route104SignText:
-	text "GEOFFREY the"
-	line "Gardener's house"
+	text "Casa di GOFFREDO"
+	line "il Giardiniere"
 	done
 	
 Route104SignActualText:
-	text "ROUTE 104"
-	line "BIRDON TOWN -"
-	cont "ALLOY CITY"
+	text "PERCORSO 104"
+	line "AVIOPOLI -"
+	cont "DESMOPOLI"
 	done
 	
 
 MeetTuscanyText:
-	text "TUSCANY: I do be-"
-	line "lieve that this is"
+	text "MARTA: Credo"
+	line "proprio che sia la"
 
-	para "the first time"
-	line "we've met?"
+	para "prima volta che ci"
+	line "incontriamo?"
 
-	para "Please allow me to"
-	line "introduce myself."
+	para "Permettimi di pre-"
+	line "sentarmi, sono"
 
-	para "I am TUSCANY of"
-	line "Tuesday."
+	para "MARTA del"
+	line "martedì."
 	done
 
 TuscanyGivesGiftText:
-	text "By way of intro-"
-	line "duction, please"
+	text "Accetta questo"
+	line "FIOCCO ROSA in"
 
-	para "accept this gift,"
-	line "a PINK BOW."
+	para "ricordo di questo"
+	line "incontro."
 	done
 
 TuscanyGaveGiftText:
-	text "TUSCANY: Wouldn't"
-	line "you agree that it"
-	cont "is most adorable?"
+	text "MARTA: Non lo"
+	line "trovi davvero"
+	cont "adorabile?"
 
-	para "It strengthens"
-	line "normal-type moves."
+	para "Potenzia le mosse"
+	line "di tipo normale."
 
-	para "I am certain it"
-	line "will be of use."
+	para "Sono certa che ti"
+	line "sarà utile."
 	done
 
 TuscanyTuesdayText:
-	text "TUSCANY: Have you"
-	line "met MONICA, my"
-	cont "older sister?"
+	text "MARTA: Conosci"
+	line "già mia sorella"
+	cont "maggiore, LUANA?"
 
-	para "Or my younger"
-	line "brother, WESLEY?"
+	para "E mio fratello mi-"
+	line "nore, ERCOLE?"
 
-	para "I am the second of"
-	line "seven children."
+	para "Io sono la seconda"
+	line "di sette fratelli."
 	done
 
 TuscanyNotTuesdayText:
-	text "TUSCANY: Today is"
-	line "not Tuesday. That"
-	cont "is unfortunate…"
+	text "MARTA: Oggi non"
+	line "è martedì, vero?"
+	cont "Che disdetta…"
 	done
 
 Route104_MapEvents:

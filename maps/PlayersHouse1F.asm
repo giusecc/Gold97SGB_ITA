@@ -215,7 +215,7 @@ GearIsActiveText1:
 GearIsActiveText2:
 	text "Il #GEAR di"
 	line "<PLAYER> è"
-	cony "funzionante!"
+	cont "funzionante!"
 	done
 
 FinalMomText:
@@ -285,7 +285,7 @@ DontKnowTheInstructionsText:
 	text "Ora ti leggo le"
 	line "istruzioni."
 
-	para "Accendere il #-""
+	para "Accendere il #-"
 	line "GEAR e selezionare"
 	cont "l'icona TELEFONO."
 	done

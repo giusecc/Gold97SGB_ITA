@@ -148,7 +148,7 @@ PokemonFanClubChairmanRapidashText:
 	cont "straordinario…"
 	cont "Vedi… è troppo…"
 	cont "forte… e… bello…"
-	cpmt "insomma…"
+	cont "insomma…"
 	cont "Lo adoro!"
 
 	para "Se lo abbracci…"
