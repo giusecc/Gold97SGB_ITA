@@ -238,170 +238,168 @@ SlowpokeWellB2FGymGuyScript:
 	end
 	
 ElderAsksToSeeYou:
-	text "Oho!"
-	para "It seems those"
-	line "men are no longer"
-	para "hurting our poor"
+	text "Oh!"
+	para "Sembra che non"
+	line "vogliano più"
+	para "infastidire gli"
 	line "SLOWPOKE!"
-	para "In my younger days"
-	line "I would have taken"
-	cont "care of it myself!"
-	para "But I'm too old"
-	line "for such things"
-	cont "any more."
-	para "So I must thank"
-	line "you for your help!"
-	para "Please, come by my"
-	line "house to see me,"
-	para "I'll have a gift"
-	line "for you."
+	para "Ai miei tempi me"
+	line "ne sarei occupato"
+	cont "io stesso!"
+	para "Ma ora sono troppo"
+	line "vecchio per queste"
+	cont "cose."
+	para "Grazie per il"
+	line "tuo aiuto!"
+	para "Passa a trovarmi"
+	line "più tardi, ti"
+	para "darò una"
+	line "ricompensa."
 	done
 
 SlowpokeWellB2FGymGuyText:
-	text "I'm waiting to see"
-	line "SLOWPOKE's moment"
-	cont "of evolution."
+	text "Voglio vedere"
+	line "l'evoluzione degli"
+	cont "SLOWPOKE."
 
-	para "Through observa-"
-	line "tion, I made a new"
-	cont "discovery."
+	para "Sai, ho fatto una"
+	line "grande scoperta."
 
-	para "A SLOWPOKE with a"
-	line "KING'S ROCK often"
+	para "Uno SLOWPOKE con"
+	line "ROCCIA DI RE"
 
-	para "gets bitten by a"
-	line "TURBAN."
+	para "viene morso da"
+	line "un TURBAN."
 
-	para "Here, I'll share a"
-	line "KING'S ROCK with"
-	cont "you."
+	para "Ecco, tieni una"
+	line "ROCCIA DI RE."
 	done
 
 SlowpokeWellB2FGymGuyText_GotKingsRock:
-	text "I'm going to be"
-	line "like SLOWPOKE."
+	text "Voglio essere"
+	line "come SLOWPOKE."
 
-	para "I'll wait patient-"
-	line "ly, so I can see"
-	cont "one evolve."
+	para "Aspetterò pazien-"
+	line "temente per vedere"
+	cont "uno evolversi."
 	done
 	
 OakSpeechText:
-	text "OAK: Well…"
+	text "OAK: Bene…"
 	
-	para "This research trip"
-	line "didn't go as"
-	cont "planned…"
+	para "Il viaggio non"
+	line "è andato come"
+	cont "precisto…"
 	
-	para "Regardless…"
+	para "Tuttavia…"
 	
-	para "We have rescued"
-	line "the SLOWPOKE."
+	para "Abbiamo salvato"
+	line "gli SLOWPOKE."
 	
-	para "Now they can live"
-	line "without losing"
-	para "their TAILs to"
+	para "Ora possono vivere"
+	line "lontano dalle"
+	para "grinfie del"
 	line "TEAM ROCKET."
 	
-	para "But TEAM ROCKET"
-	line "returning…"
+	para "Ma il loro"
+	line "ritorno…"
 	
-	para "It can't be a"
-	line "good thing."
+	para "È un bel"
+	line "problema."
 	
-	para "BLUE, we best re"
-	line "-turn to the lab"
-	cont "and investigate."
+	para "BLU, meglio torna-"
+	line "re al laboratorio"
+	cont "e indagare."
 	
 	para "<PLAYER>, <RIVAL>!"
-	line "You two should go"	
-	para "ahead and continue"
-	line "your journey."
+	line "Voi due dovreste"	
+	para "continuare il"
+	line "vostro viaggio."
 	
-	para "If you need me,"
-	line "you know where"
-	cont "I'll be."
+	para "Se avete bisogno"
+	line "di me, sapete"
+	cont "dove trovarmi."
 	done
 	
 BlueOutText:
-	text "BLUE: Thanks for"
-	line "your help today,"
-	cont "guys."
+	text "BLU: Grazie per"
+	line "il vostro aiuto,"
+	cont "ragazzi."
 	done
 	
 SilverOutText:
-	text "<RIVAL>: See ya"
-	line "around, <PLAYER>!"
-	para "Don't fall too far"
-	line "behind!"
+	text "<RIVAL>: Ci si"
+	line "vede, <PLAYER>!"
+	para "Non rimanere"
+	line "troppo indietro!"
 	done
 
 RocketsPlan:
-	text "This doesn't"
-	line "really matter."
-	para "TEAM ROCKET is"
-	line "already so far"
-	para "along with our"
-	line "plan that small"
-	para "setbacks like this"
-	line "mean nothing!"
-	para "You'll soon see"
-	line "the fruits of our"
-	para "labor when all"
-	line "#MON are under"
-	cont "our control!"
-	para "Team, retreat!"
+	text "Non importa."
+	para "Il TEAM ROCKET è"
+	line "già a buon punto"
+	cont "con il suo piano."
+	line "Contrattempi come"
+	para "questo sono"
+	line "insignificanti!"
+	para "Vedrai!"
+	line "Presto tutti i"
+	para "#MON saranno"
+	line "sotto il nostro"
+	cont "controllo!"
+	para "Squadra! Ritirata!"
 	done
 
 GruntM4SeenText:
-	text "ARGH! Beaten by"
-	line "children?"
+	text "AAH! Battuto da"
+	line "ragazzini?"
 	done
 
 GruntM4BeatenText:
-	text "Ha! Told ya!"
+	text "Ah! Che botta!"
 	done
 
 WeDoWhatWeWantText:
-	text "TEAM ROCKET will"
-	line "do what it wants!"
-	para "You can't stop us!"
+	text "Il TEAM ROCKET"
+	line "fa quel che vuole!"
+	para "Non potete"
+	line "fermarci!"
 	done
 	
 WeAreAllTrainersText:
-	text "<RIVAL>: BLUE,"
-	line "<PLAYER>, and I"
-	cont "are trainers!"
-	para "We sure could stop"
-	line "you!"
-	para "My #MON are"
-	line "stronger than"
-	cont "anyone else's!"
+	text "<RIVAL>: BLU,"
+	line "<PLAYER>, e IO"
+	cont "siamo allenatori!"
+	para "Certo che possiamo"
+	line "fermarvi!"
+	para "I miei #MON"
+	line "sono più forti di"
+	para "quelli di"
+	line "chiunque altro!"
 	done
 	
 WellSeeText:
 	text "Ha!"
-	para "We'll see about"
-	line "that!"
+	para "Lo vedremo!"
 	done
 
 BlueProblemText:
-	text "BLUE: <PLAYER>!"
-	line "It's a good thing"
-	para "you and <RIVAL>"
-	line "showed up!"
-	para "We've got a"
-	line "problem!"
+	text "BLU: <PLAYER>!"
+	line "Meno male che"
+	para "tu e <RIVAL>"
+	line "siete arrivati!"
+	para "Abbiamo un"
+	line "problema!"
 	done
 
 OakStopThisText:
-	text "OAK: You people"
-	line "are hurting these"
-	cont "innocent SLOWPOKE!"
-	para "It's not right to"
-	line "cut their TAILs"
-	para "off to sell them"
-	line "for profit!"
+	text "OAK: State facendo"
+	line "del male a questi"
+	cont "povere SLOWPOKE!"
+	para "È sbagliato"
+	line "tagliare la loro"
+	para "CODA per trarne"
+	line "profitto!"
 	done
 
 SlowpokeWellB2F_MapEvents:

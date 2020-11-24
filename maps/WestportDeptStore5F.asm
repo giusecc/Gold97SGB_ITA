@@ -145,64 +145,65 @@ WestportDeptStore5FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 UnknownText_0x56143:
-	text "Hello. Oh, your"
+	text "Ciao! Ah, il tuo"
 	line "#MON…"
 	done
 
 UnknownText_0x5615a:
-	text "It's very attached"
-	line "to you."
+	text "Sembra davvero"
+	line "affezionato e te."
 
-	para "This move should"
-	line "be perfect for a"
-	cont "pair like you."
+	para "Questa mossa è"
+	line "proprio adatta ad"
+	para "una coppia affia-"
+	line "tata come voi!"
 	done
 
 UnknownText_0x561a6:
-	text "It's adorable!"
+	text "È adorabile!"
 
-	para "You should teach"
-	line "it good TM moves."
+	para "Insegnagli delle"
+	line "buone mosse MT."
 	done
 
 UnknownText_0x561d8:
-	text "It looks evil. How"
-	line "about this TM for"
-	cont "it?"
+	text "Sembra arrabbiato."
+	line "Che ne dici di"
+	cont "dargli questa MT?"
 	done
 
 UnknownText_0x56202:
-	text "There are sure to"
-	line "be TMs that are"
+	text "Troverai di"
+	line "sicuro le MT più"
 
-	para "just perfect for"
-	line "your #MON."
+	para "adatte al tuo"
+	line "#MON."
 	done
 
 UnknownText_0x56241:
-	text "MYSTERY GIFT."
+	text "DONO SEGRETO."
 
-	para "With just a"
-	line "little beep, you"
-	cont "get a gift."
+	para "Vuoi un regalo?"
+	line "Basta un bip!"
 	done
 
 UnknownText_0x56279:
-	text "The MYSTERY GIFT"
-	line "option requires a"
-	cont "Game Boy Color."
+	text "Per l'opzione DONO"
+	line "SEGRETO ci vuole"
+	cont "un Game Boy Color."
 	done
 
 WestportDeptStore5FLassText:
-	text "Some #MON can"
-	line "evolve into many"
-	cont "forms, like EEVEE."
-	para "My POLIWRATH"
-	line "evolved from a"
+	text "Alcuni #MON"
+	line "si evolvono in"
+	para "più modi, come"
+	line "EEVEE."
+	para "Il mio POLIWRATH"
+	line "si è evoluto da"
 	cont "POLIWHIRL."
-	para "But I also could"
-	line "have evolved it"
-	cont "into POLITOED."
+	para "Ma si sarebbe"
+	line "potuto evolvere"
+	cont "in POLITOED."
 	done
 
 WestportDeptStore5FPoliText:
@@ -212,10 +213,10 @@ WestportDeptStore5FPoliText:
 
 
 WestportDeptStore5FDirectoryText:
-	text "Customize Your"
-	line "#MON"
+	text "Personalizziamo i"
+	line "tuoi #MON"
 
-	para "5F TM CORNER"
+	para "P4 ANGOLO MT"
 	done
 
 WestportDeptStore5F_MapEvents:

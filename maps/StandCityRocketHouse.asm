@@ -320,123 +320,121 @@ SilverRunsIntoStairsMovement:
 	step_end
 	
 SilverActuallyShowsUpNow1:
-	text "Wait for me!"
+	text "Aspettatemi!"
 	done
 	
 SilverActuallyShowsUpNow2:
-	text "<RIVAL>: I'm"
-	line "strong, too!"
-	para "It's time for me"
-	line "to show TEAM"
-	cont "ROCKET who's boss!"
+	text "<RIVAL>: Anche"
+	line "io sono forte!"
+	para "Voglio mostrare"
+	line "al TEAM ROCKET"
+	cont "chi comanda!"
 	done
 	
 SilverActuallyShowsUpNow3:
-	text "OKERA: Um, sure."
-	para "The more, the"
-	line "merrier, I guess."
+	text "ANGELO: Capisco."
+	para "Più siamo, meglio"
+	line "è, credo."
 	done
 	
 SilverActuallyShowsUpNow4:
-	text "<RIVAL>: Okay!"
-	para "<PLAYER>, let's"
-	line "go!"
+	text "<RIVAL>: Ok!"
+	para "<PLAYER>,"
+	line "andiamo!"
 	done
 	
 SilverActuallyShowsUpNow5:
-	text "You better follow"
-	line "him down before"
-	para "he runs himself"
-	line "right into"
-	cont "trouble."
-	para "I'm going to go"
-	line "try to help out"
-	para "with the sick"
-	line "#MON over at"
-	cont "the ZOO."
+	text "Faresti meglio"
+	line "a seguirlo prima"
+	para "che si cacci"
+	line "nei guai."
+	para "Io andrò ad"
+	line "aiutare i"
+	para "#MON malati"
+	line "allo ZOO."
 	done
 	
 StandCityRocketHouse1FTVText:
-	text "It's not turned"
-	line "on…"
+	text "È spenta…"
 	done
 	
 StandCityRocketHouse1FPosterText:
-	text "All #MON are"
-	line "for the profit of"
-	cont "TEAM ROCKET!"
+	text "Tutti i #MON"
+	line "sono fonte di"
+	para "guadagno per il"
+	line "TEAM ROCKET!"
 	done
 	
 SilverLetsGoDownThere:
-	text "How are your"
-	line "#MON feeling?"
-	para "Mine aren't doing"
-	line "so hot. I think"
-	para "whatever TEAM"
-	line "ROCKET is up to"
-	para "is starting to"
-	line "make them sick!"
+	text "Come stanno i"
+	line "tuoi #MON?"
+	para "I miei non molto"
+	line "bene. Qualsiasi"
+	para "cosa stia facendo"
+	line "il TEAM ROCKET,"
+	para "li sta facendo"
+	line "sentire male!"
 	para "…"
-	para "Show me that it"
-	line "wasn't a fluke"
-	para "that I lost to"
-	line "you!"
-	para "Go down there and"
-	line "kick these guys"
-	cont "outta my town!"
+	para "Dimostra che"
+	line "non hai avuto"
+	para "solo fortuna"
+	line "a battermi!"
+	para "Butta fuori"
+	line "questi farabutti"
+	cont "dalla mia città!"
 	done
 	
 SilverTellsYouAboutHiddenStairs2:
-	text "Right here!"
-	para "TEAM ROCKET is"
-	line "hiding out down"
-	cont "here!"
+	text "Proprio qui sotto!"
+	para "Il TEAM ROCKET si"
+	line "nasconde qui!"
 	done
 	
 SilverShowsUpInBase:
-	text "OKERA: <PLAYER>!"
-	para "Wait, don't leave!"
+	text "ANGELO: <PLAYER>!"
+	para "Aspetta!"
+	line "Non andartene!"
 	done
 	
 SilverTellsYouAboutHiddenStairs:
-	text "I don't know what"
-	line "these TEAM ROCKET"
-	para "thugs are doing"
-	line "showing up in my"
-	para "town, but they're"
-	line "up to no good!"
-	para "I heard one of"
-	line "them talking about"
-	para "a hidden basement"
-	line "in this building."
+	text "Non so cosa stiano"
+	line "facendo questi"
+	para "membri del TEAM"
+	line "ROCKET, ma non"
+	para "è niente di"
+	line "buono!"
+	para "Ho sentito uno di"
+	line "loro parlare di"
+	para "un sotterraneo"
+	line "nascosto."
 	done
 	
 ShockedRocketWinText:
-	text "Argh!"
+	text "Aah!"
 	done
 
 ShockedRocketLossText:
-	text "Argh?"
+	text "Aah?"
 	done
 
 RocketShockedText:
-	text "And who are you?"
-	para "I hope you didn't"
-	line "think you could"
-	cont "sneak past me!"
-	para "No one sneaks past"
-	line "me!"
+	text "E tu chi sei?"
+	para "Spero che non"
+	line "volessi"
+	cont "sgattaiolare!"
+	para "Nessuno si fa"
+	line "gioco di me!"
 	done
 	
 WardensGranddaughterText1:
-	text "You might not be"
-	line "able to sneak"
-	cont "past me,"
-	para "but you sure can"
-	line "just walk on by"
-	para "if you've got"
-	line "#MON that"
-	cont "strong…"
+	text "Forse non puoi"
+	line "passare senza"
+	cont "che ti veda,"
+	para "ma sicuramente"
+	line "non posso"
+	para "fermarti con"
+	line "dei #MON così"
+	cont "forti…"
 	done
 
 

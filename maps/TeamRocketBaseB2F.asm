@@ -104,12 +104,12 @@ TrainerGruntM21:
 	end
 	
 GruntM21SeenText:
-	text "The ZOO #MON"
-	line "getting sick is"
-	para "just a step away"
-	line "from them being"
-	para "fully under our"
-	line "control!"
+	text "I #MON dello"
+	line "ZOO ammalati"
+	para "sono solo il"
+	line "primo passo"
+	para "per il controllo"
+	line "completo!"
 	done
 	
 GruntM21BeatenText:
@@ -117,17 +117,18 @@ GruntM21BeatenText:
 	done
 	
 GruntM21AfterBattleText:
-	text "You wouldn't be"
-	line "able to defeat me"
-	para "if your #MON"
-	line "were under our"
-	cont "control!"
+	text "Non saresti"
+	line "stato capace"
+	para "di battermi con"
+	line "i #MON sotto"
+	para "il nostro"
+	line "controllo!"
 	done
 	
 GruntM20SeenText:
-	text "Finding what"
-	line "you're looking"
-	cont "for?"
+	text "Hai trovato"
+	line "quello che"
+	cont "cercavi?"
 	done
 	
 GruntM20BeatenText:
@@ -135,74 +136,70 @@ GruntM20BeatenText:
 	done
 	
 GruntM20AfterBattleText:
-	text "There's probably"
-	line "some useful stuff"
-	para "lying around that"
-	line "you could just"
-	cont "take."
-	para "You didn't hear it"
-	line "from me, though."
+	text "Probabilmente c'è"
+	line "della roba in giro"
+	para "che potrebbe"
+	line "servirti."
+	para "Io non ti ho"
+	line "detto nulla."
 	done
 	
 GruntM19SeenText:
-	text "What's this big"
-	line "machine do?"
-	para "Oh, only allows"
-	line "complete control"
-	cont "of any #MON!"
+	text "Cosa fa questo"
+	line "macchinario?"
+	para "Oh, ci fa"
+	line "controllare"
+	cont "tutt i #MON!"
 	done
 	
 GruntM19BeatenText:
-	text "Ouch!"
+	text "Ahia!"
 	done
 	
 GruntM19AfterBattleText:
-	text "This machine is"
-	line "controlled by a"
-	cont "computer upstairs."
-	para "It's really noisy"
-	line "standing right"
-	cont "here by it."
+	text "Questo macchinario"
+	line "è controllato da"
+	cont "un computer."
+	para "È veramente"
+	line "rumoroso."
 	done
 	
 GruntM18SeenText:
-	text "What are you"
-	line "doing here?"
+	text "Cosa stai"
+	line "facendo qui?"
 	done
 	
 GruntM18BeatenText:
-	text "That's what you're"
-	line "doing here…"
+	text "Ecco cosa stai"
+	line "facendo qui…"
 	done
 	
 GruntM18AfterBattleText:
-	text "I don't really"
-	line "know what I'm"
-	cont "doing here."
-	para "TEAM ROCKET can be"
-	line "disorganized."
-	para "I was almost left"
-	line "behind on the"
-	cont "cargo ship…"
+	text "Non mi interessa"
+	line "cosa sto facendo"
+	cont "qui."
+	para "Il TEAM ROCKET è"
+	line "disorganizzato."
+	para "Mi hanno quasi"
+	line "lasciato indietro"
+	cont "sulla nave…"
 	done
 	
 GruntM17SeenText:
-	text "I'm GRUNT number"
+	text "Sono la RECLUTA"
 	line "17!"
-	para "That's all that"
-	line "the EXECUTIVE ever"
-	cont "refers to me as…"
+	para "Il GENERALE mi"
+	line "chiama così…"
 	done
 	
 GruntM17BeatenText:
-	text "I expected this."
+	text "Me lo aspettavo."
 	done
 	
 GruntM17AfterBattleText:
-	text "None of the"
-	line "leadership bothers"
-	para "to learn any of"
-	line "our names."
+	text "A nessuno dei"
+	line "capi interessano"
+	cont "i nostri nomi."
 	done
 
 

@@ -119,28 +119,26 @@ Warden2FOneStepLeftAndUp:
 	step_end
 	
 StandCityRocketHouse2FTVText:
-	text "It's a rerun…"
+	text "È una replica…"
 	done
 
 StandCityRocketHouse2FPosterText:
-	text "TEAM ROCKET aims"
-	line "to make money from"
-	cont "all #MON!"
+	text "Il TEAM ROCKET"
+	line "vuole far soldi da"
+	cont "tutti i #MON!"
 	done
 	
 Warden2FFineYouWin:
-	text "Heh. Fine."
-	para "You win."
-	para "We'll head out"
-	line "now."
-	para "Nothing else left"
-	line "here for you to"
-	cont "see."
-	para "Bye, kid."
+	text "Eh. Va bene."
+	para "Hai vinto."
+	para "Ce ne andremo.Z"
+	para "Non hai altro"
+	line "da vedere."
+	para "Addio."
 	done
 	
 ImposterWinText:
-	text "You little brat!"
+	text "Marmocchio!"
 	done
 
 ImposterLossText:
@@ -148,94 +146,88 @@ ImposterLossText:
 	done
 	
 Warden2FWhoDoYouThinkYouAreText:
-	text "Just who do you"
-	line "think you are?"
-	para "Why are you trying"
-	line "to interfere with"
-	cont "our amazing work?"
-	para "TEAM ROCKET is"
-	line "about to launch"
-	para "the biggest"
-	line "revolution in"
-	para "#MON technology"
-	line "ever!"
+	text "Chi credi di"
+	line "essere?"
+	para "Perché vuoi"
+	line "interferire con"
+	cont "il nostro lavoro?"
+	para "Il TEAM ROCKET"
+	line "vuole lanciare"
+	para "la più grande"
+	line "rivoluzione di"
+	para "sempre per la"
+	line "tecnologia!"
 	para "…"
-	para "Clearly you don't"
-	line "feel the same."
-	para "I guess I'll have"
-	line "to help you"
-	cont "understand!"
-	para "I'm through"
-	line "letting you get in"
-	cont "the way!"
+	para "Non lo capisci?"
+	para "Dovrò aiutarti"
+	line "a capirlo!"
+	para "Non potrai"
+	line "intralciarci!"
 	done
 
 ImposterHeyYouText:
-	text "Hey, you!"
-	line "Kid!"
+	text "Ehi, tu!"
+	line "Ragazzino!"
 	done
 
 GruntM7SeenText:
-	text "I've been given"
-	line "strict orders."
+	text "Ho avuto ordini"
+	line "precisi."
 
-	para "I'm to crush any-"
-	line "one who challenges"
-	cont "TEAM ROCKET!"
+	para "Devo distruggere"
+	line "chiunque si oppon-"
+	cont "ga al TEAM ROCKET!"
 	done
 
 GruntM7BeatenText:
-	text "What?!"
+	text "Cosa?!"
 	done
 
 GruntM7AfterBattleText:
-	text "I failed in my"
-	line "duties…"
+	text "Ho fallito nel"
+	line "mio compito…"
 
-	para "I'll be docked pay"
-	line "for this…"
+	para "Sarò multato"
+	line "per questo…"
 	done
 
 GruntF4SeenText:
-	text "Don't I think"
-	line "#MON are cute?"
+	text "Non credi che"
+	line "i #MON siano"
+	cont "carini?"
 
-	para "I'll think my"
-	line "#MON are cute--"
-
-	para "after they beat"
-	line "yours!"
+	para "I miei lo saranno"
+	line "dopo aver"
+	cont "battuto i tuoi!"
 	done
 
 GruntF4BeatenText:
-	text "Oh, no! They're so"
-	line "useless!"
+	text "Oh, no! Sono così"
+	line "inutili!"
 	done
 
 GruntF4AfterBattleText:
-	text "I love my"
-	line "beautiful self!"
+	text "Adoro me stesso!"
 
-	para "Who cares about"
-	line "#MON?"
+	para "A chi importano"
+	line "i #MON?"
 	done
 
 
 GruntM6SeenText:
-	text "Hey, hey! Keep out"
-	line "of our way!"
+	text "Ehi! Stai lontano"
+	line "da qui!"
 	done
 
 GruntM6BeatenText:
-	text "Arggh. I give up."
+	text "Aah. Mi arrendo."
 	done
 
 GruntM6AfterBattleText:
-	text "The EXECUTIVE"
-	line "won't like hearing"
-	para "about more kids"
-	line "getting in the way"
-	cont "of the plan…"
+	text "Al GENERALE non"
+	line "farà piacere"
+	para "sapere di altri"
+	line "ragazzini…"
 	done
 
 StandCityRocketHouse2F_MapEvents:

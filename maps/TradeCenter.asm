@@ -48,8 +48,8 @@ TradeCenterFriendScript:
 	end
 
 .FriendReadyText:
-	text "Your friend is"
-	line "ready."
+	text "Il tuo amico"
+	line "è pronto."
 	done
 
 TradeCenter_MapEvents:

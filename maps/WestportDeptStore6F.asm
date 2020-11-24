@@ -76,10 +76,10 @@ WestportVendingMachine:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "FRESH WATER  ¥200@"
-	db "SODA POP     ¥300@"
-	db "LEMONADE     ¥350@"
-	db "CANCEL@"
+	db "ACQUA FRESCA ¥200@"
+	db "GASSOSA      ¥300@"
+	db "LIMONATA     ¥350@"
+	db "ESCI@"
 
 
 WestportDeptStore6FSuperNerdScript:
@@ -116,49 +116,52 @@ WestportDeptStore6FMonText:
 	
 WestportDeptStore6FBirdText:
 	text "MADAME:"
-	line "Kwaa!"
+	line "Kyaa!"
 	done
 
 WestportVendingText:
-	text "A vending machine!"
-	line "Here's the menu."
+	text "Un distributore"
+	line "automatico:"
+	cont "vediamo cosa c'è!"
 	done
 
 WestportClangText:
-	text "Clang! A can of"
-	line "@"
+	text "Clang! Esce"
+	line "una lattina di"
+	cont "@"
 	text_ram wStringBuffer3
 	text_start
-	cont "popped out!"
+	cont "!"
 	done
 
 WestportVendingNoMoneyText:
-	text "Oops, not enough"
-	line "money."
+	text "Caspita, non hai"
+	line "abbastanza soldi."
 	done
 
 WestportVendingNoSpaceText:
-	text "There's no more"
-	line "room for stuff."
+	text "Non c'è spazio"
+	line "per nient'altro."
 	done
 
 
 
 WestportDeptStore6FSuperNerdText:
-	text "I'm off duty."
-	para "I like to take my"
-	line "#MON up here"
-	para "when I have the"
-	line "time."
-	para "#MON love the"
-	line "drinks from the"
-	cont "vending machines!"
+	text "Non sono in"
+	line "servizio!"
+	para "Mi piace portare"
+	line "i miei #MON qui"
+	cont "quando ho tempo."
+	para "I #MON adorano"
+	line "le bevande dei"
+	cont "distributori!"
 	done
 WestportDeptStore6FDirectoryText:
-	text "Take a Break from"
-	line "Shopping!"
+	text "Comprare stanca:"
+	line "riposatevi qui!"
 
-	para "6F TRANQUIL SQUARE"
+	para "P5 PIAZZETTA"
+	line "   ULTIMO PIANO"
 	done
 
 WestportDeptStore6F_MapEvents:

@@ -76,112 +76,109 @@ SunpointCityHiddenMaxEther:
 
 
 ChucksWifeFlySpeechText:
-	text "The climate on"
-	line "this side of NIHON"
-	para "is considerably"
-	line "warmer than the"
-	cont "rest of it."
+	text "Il clima in questa"
+	line "parte di NIHON"
+	para "è molto più"
+	line "caldo che altrove."
 	done
 
 ChucksWifeChubbyText:
-	text "My husband lost to"
-	line "you, so he needs"
-	cont "to train harder."
+	text "Hai battuto mio"
+	line "marito: ora dovrà"
+	cont "impegnarsi!"
 
-	para "That's good, since"
-	line "he was getting a"
-	cont "little chubby."
+	para "Meglio così: stava"
+	line "diventando un po'"
+	cont "pigro!"
 	done
 
 SunpointCityYoungsterText:
-	text "Have you ever been"
-	line "to BLUE FOREST?"
-	para "It's cold and"
-	line "snowy over there."
-	para "I couldn't live"
-	line "there!"
-	para "The cold is not"
-	line "for me."
+	text "Sei mai stato"
+	line "a BIANCASELVA?"
+	para "È fredda e"
+	line "innevata."
+	para "Non potrei"
+	line "viverci!"
+	para "Il freddo non fa"
+	line "per me."
 	done
 
 SunpointCityPokefanMText:
-	text "Rare #MON are"
-	line "said to live in"
-	cont "the MAGMA SHAFT."
-	para "It's hard to get"
-	line "into the cave"
-	para "because rocks from"
-	line "it often fall down"
-	para "and block the"
-	line "entrance."
+	text "Si dice che ci"
+	line "siano #MON rari"
+	cont "nel POZZO LAVA."
+	para "È difficile"
+	line "entrare a causa"
+	para "delle rocce che"
+	line "spesso bloccano"
+	cont "l'entrata."
 	done
 
 SunpointCityLassText:
-	text "This city doesn't"
-	line "have a GYM."
-	para "I don't think it"
-	line "needs one, though."
+	text "Non c'è una"
+	line "PALESTRA qui."
+	cont "Non ci serve."
 	done
 
 SunpointCityUnusedText:
 ; unused
-	text "There are several"
-	line "islands between"
-	cont "here and ALLOY."
+	text "Ci sono molte"
+	line "isole tra qui e"
+	cont "DESMOPOLI."
 
-	para "A mythical sea"
-	line "creature supposed-"
-	cont "ly lives there."
+	para "Si dice che una"
+	line "creatura mito-"
+	cont "logica viva lì."
 	done
 
 
 SunpointCitySignText:
-	text "SUNPOINT CITY"
-	para "NIHON's link for"
-	line "international"
-	cont "trade."
+	text "ELIOPOLI"
+	para "Centro di scambi"
+	line "internazionali"
+	cont "di NIHON."
 	done
 
 StandGymSignText:
-	text "SUNPOINT CITY"
-	line "#MON GYM"
+	text "ELIOPOLI"
+	line "CAPOPALESTRA:"
 
-	para "LEADER: CHUCK"
+	para "FURIO"
 
-	para "His Roaring Fists"
-	line "Do the Talking"
+	para "I pugni roboanti"
+	line "parlano per lui"
 	done
 
 CrownHouse2SignText:
-	text "500 Years of"
-	line "Tradition"
+	text "FARMACIA di"
+	line "ELIOPOLI"
 
-	para "SUNPOINT CITY"
-	line "PHARMACY"
+	para "Una tradizione di"
+	line "cinque secoli"
 
-	para "We Await Your"
-	line "Medicinal Queries"
+	para "Risolviamo ogni"
+	line "esigenza medica"
 	done
 
 SunpointPhotoStudioSignText:
-	text "TRAINER TIPS"
-	para "Certain HM moves"
-	line "require BADGEs to"
-	para "use outside of"
-	line "battle!"
-	para "The moves can"
-	line "still be used in"
-	cont "battle, though."
+	text "CONSIGLI UTILI"
+	para "Alcune mosse MN"
+	line "richiedono una"
+	para "MEDAGLIA per"
+	line "essere usate"
+	para "fuori dalla"
+	line "lotta."
+	para "Tuttavia si"
+	line "possono usare"
+	cont "in battaglia."
 	done
 
 SunpointPokeSeerSignText:
-	text "NOTICE:"
-	para "Dangerous rocks"
-	line "frequently fall"
-	para "from the MAGMA"
-	line "SHAFT."
-	para "Use proper caution"
-	line "if approaching."
+	text "ATTENZIONE:"
+	para "Caduta massi"
+	line "dal POZZO LAVA."
+	para "Avvicinarsi con"
+	line "cautela."
 	done
 
 SunpointCity_MapEvents:

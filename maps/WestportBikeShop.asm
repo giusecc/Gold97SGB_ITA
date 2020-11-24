@@ -47,56 +47,58 @@ WestportBikeShopBicycle:
 	jumptext WestportBikeShopBicycleText
 
 WestportBikeShopClerkIntroText:
-	text "…sigh… I moved"
-	line "here, but I can't"
+	text "…Sigh… Dopo"
+	line "aver spostato il"
 
-	para "sell my BICYCLES."
-	line "Why is that?"
+	para "negozio qui, non"
+	line "vendo più nulla."
 
-	para "Could you ride a"
-	line "BICYCLE and adver-"
-	cont "tise for me?"
+	para "Puoi andare un po'"
+	line "in BICICLETTA per"
+	cont "farmi pubblicità?"
 	done
 
 WestportBikeShopClerkAgreedText:
-	text "Really? Great!"
+	text "Davvero? Grande!"
 
-	para "Give me your name"
-	line "and phone number,"
+	para "Dammi nome e"
+	line "numero telefonico,"
 
-	para "and I'll loan you"
-	line "a BICYCLE."
+	para "ti presterò una"
+	line "BICICLETTA!"
 	done
 
 BorrowedABicycleText:
-	text "<PLAYER> borrowed a"
-	line "BICYCLE."
+	text "<PLAYER> prende una"
+	line "BICICLETTA in"
+	cont "prestito."
 	done
 
 WestportBikeShopClerkFirstRateBikesText:
-	text "My BICYCLES are"
-	line "first-rate! You"
+	text "Le mie BICICLETTE"
+	line "sono di prima"
 
-	para "can ride them"
-	line "anywhere."
+	para "qualità! Puoi"
+	line "andarci ovunque!"
 	done
 
 WestportBikeShopClerkRefusedText:
-	text "…sigh… Oh, for"
-	line "the kindness of"
-	cont "people…"
+	text "…Sigh… Oh, se la"
+	line "gente fosse"
+	cont "gentile…"
 	done
 
 WestportBikeShopJustReleasedCompactBikeText:
-	text "Just released!"
+	text "Ultimo modello!"
 
-	para "First-rate compact"
-	line "BICYCLES!"
+	para "Una BICICLETTA"
+	line "richiudibile di"
+	cont "prima qualità!"
 	done
 
 WestportBikeShopBicycleText:
-	text "It's a shiny new"
-	line "BICYCLE!"
+	text "È una BICICLETTA"
+	line "nuova di zecca!"
 	done
 
 WestportBikeShop_MapEvents:

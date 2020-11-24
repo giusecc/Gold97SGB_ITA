@@ -74,33 +74,33 @@ WestportDeptStoreB1FUltraBall:
 	itemball ULTRA_BALL
 
 WestportDeptStoreB1FBlackBelt1Text:
-	text "Hey, kid! You're"
-	line "holding us up!"
+	text "Ehi, ci stai"
+	line "disturbando!"
 
-	para "Our policy is to"
-	line "work behind the"
+	para "Noi vogliamo"
+	line "lavorare dietro"
 
-	para "scenes where no-"
-	line "one can see us!"
+	para "le quinte, senza"
+	line "farci vedere!"
 	done
 
 WestportDeptStoreB1FBlackBelt2Text:
-	text "I lose my passion"
-	line "for work if some-"
-	cont "one's watching."
+	text "Se mi osservano"
+	line "non lavoro"
+	cont "volentieri."
 
-	para "Come on, kid,"
-	line "scoot!"
+	para "Avanti, microbo:"
+	line "smamma!"
 	done
 
 WestportDeptStoreB1FBlackBelt3Text:
-	text "Oohah! Oohah!"
+	text "Oooh!"
 
-	para "The stuff on the"
-	line "ground's junk."
+	para "Sul pavimento c'è"
+	line "della robaccia."
 
-	para "Take it if you"
-	line "want it!"
+	para "Prentila se ti"
+	line "va!"
 	done
 
 WestportDeptStoreB1FMachokeText:

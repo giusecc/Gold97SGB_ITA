@@ -333,85 +333,83 @@ LightSwitch5:
 ;	step_end
 
 OkeraGivesYouSomething:
-	text "Hey, man."
-	para "I guess I owe ya"
-	line "one for kicking"
-	para "out those ROCKET"
-	line "losers."
-	para "Here, I got some-"
-	line "thing you could"
-	cont "use."
+	text "Ehi!"
+	para "Ti devo qualcosa"
+	line "per aver scacciato"
+	cont "quei farabutti."
+	para "Tieni, ho qualcosa"
+	line "che potrebbe"
+	cont "servirti."
 	done
 	
 OkeraGivesYouSomething2:
-	text "Maybe you'll find"
-	line "that useful if"
-	para "you have some"
-	line "DARK #MON."
+	text "Forse ti servirà"
+	line "se hai #MON"
+	cont "BUIO."
 	done
 
 ItsASwitch:
-	text "It's labeled"
-	line "'FAULTY'."
-	para "Press it?"
+	text "C'è scritto"
+	line "'DIFETTOSO'."
+	para "Vuoi premerlo?"
 	done
 	
 ItsASwitch2:
-	text "The lights don't"
-	line "stay on!"
+	text "Le luci non"
+	line "rimangono"
+	cont "accese!"
 	done
 	
 	
 CooltrainerfIreneSeenText:
-	text "Kyaaah!"
-	line "Someone found me!"
+	text "Aaah!"
+	line "Mi hai trovato!"
 	done
 
 CooltrainerfIreneBeatenText:
 	text "Ohhh!"
-	line "Too strong!"
+	line "Troppo forte!"
 	done
 
 CooltrainerfIreneAfterText:
-	text "The dark can be"
-	line "scary."
+	text "Il buio può"
+	line "spaventare."
 
-	para "But it can be"
-	line "safe too."
+	para "Ma può anche"
+	line "rassicurare."
 	done
 	
 CooltrainerfJuliaSeenText:
-	text "Do you believe in"
-	line "bad luck?"
+	text "Credi nella"
+	line "sfortuna?"
 	done
 
 CooltrainerfJuliaBeatenText:
-	text "I certainly have"
-	line "bad luck!"
+	text "Ho avuto molta"
+	line "sfortuna!"
 	done
 
 CooltrainerfJuliaAfterText:
-	text "These switches"
-	line "have never worked"
-	cont "correctly."
+	text "Questi interrut-"
+	line "tori non sono"
+	para "mai stati"
+	line "funzionanti."
 	done
 	
 
 
 OkeraRematchText:
-	text "What do you want?"
+	text "Cosa vuoi?"
 	
-	para "Aren't you the"
-	line "CHAMPION now?"
+	para "Non sei il"
+	line "CAMPIONE ora?"
 	
-	para "You want a second"
-	line "BADGE from me or"
-	cont "something?"
+	para "Vuoi un'altra"
+	line "MEDAGLIA o"
+	cont "cosa?"
 	
-	para "Don't think I'll"
-	line "back down from"
-	para "a challenge like"
-	line "this!"
+	para "Non credere che mi"
+	line "tirerò indietro!"
 	done
 
 OkeraRematchWinText:
@@ -419,156 +417,150 @@ OkeraRematchWinText:
 	done
 
 OkeraAfterRematchText:
-	text "I wasn't really"
-	line "expecting to win,"
-	para "but I'd never"
-	line "back out of a"
-	cont "fight."
-	para "Even if all bets"
-	line "are against me."
+	text "Non mi aspettavo"
+	line "di vincere, ma"
+	para "non potevo"
+	line "rifiutare."
+	para "Anche se la sorte"
+	line "mi era avversa."
 	
-	para "You're the same"
-	line "way, aren't you?"
+	para "Sei sempre lo"
+	line "stesso, vero?"
 	done
 
 
 CooltrainerfKellySeenText:
-	text "What do you see"
-	line "when you open"
-	para "your eyes in the"
-	line "dark?"
+	text "Cosa vedi se"
+	line "apri gli occhi"
+	cont "nel buio?"
 	done
 
 CooltrainerfKellyBeatenText:
-	text "Fine. I lost."
+	text "Bene. Ho perso."
 	done
 
 CooltrainerfKellyAfterBattleText:
-	text "Where is the GYM"
-	line "LEADER?"
-	para "He lives in the"
-	line "shadows, beyond"
-	cont "what can be seen."
+	text "Dov'è il"
+	line "CAPOPALESTRA?"
+	para "Vive nell'ombra,"
+	line "dietro ciò che"
+	cont "è invisibile."
 	done
 
 CooltrainermAaronSeenText:
-	text "Are you afraid"
-	line "of the dark?"
+	text "Paura del buio?"
 	done
 
 CooltrainermAaronBeatenText:
-	text "Whew…"
-	line "Good battle."
+	text "Eh…"
+	line "Bella lotta."
 	done
 
 CooltrainermAaronAfterBattleText:
-	text "This GYM isn't"
-	line "really that scary."
-	para "The lights are"
-	line "just turned off."
+	text "La PALESTRA non è"
+	line "così spaventosa."
+	para "Ci sono solo le"
+	line "luci spente."
 	done
 
 StandGymGuyText2:
-	text "Hey, champ-in-the-"
-	line "making!"
-	para "It sure is dark in"
+	text "Ehi! Campione in"
+	line "erba!"
+	para "È buio qui, vero?"
 	line "here!"
-	para "OKERA can be kind"
-	line "of moody, and he"
-	cont "likes it dark."
-	para "But don't let his"
-	line "age and behavior"
-	cont "fool you."
-	para "He's one tough"
-	line "trainer!"
+	para "ANGELO è un tipo"
+	line "cupo e gli piace"
+	cont "questo buio."
+	para "Ma non farti"
+	line "ingannare dal"
+	cont "suo modo di fare."
+	para "È un allenatore"
+	line "tosto!"
 	done
 	
 StandGymGuyWinText2:
-	text "I knew you weren't"
-	line "afraid of the"
-	cont "dark!"
+	text "Sapevo che non"
+	line "avevi paura del"
+	cont "buio!"
 	done
 
 ChuckIntroText1:
-	text "Heh."
-	para "You've traveled a"
-	line "long way from"
-	cont "home, haven't you?"
-	para "You've experienced"
-	line "a lot of new"
-	cont "things."
-	para "Met a lot of"
-	line "people."
-	para "Faced a lot of"
-	line "challenges."
+	text "Eh."
+	para "Ha fatto un lungo"
+	line "viaggio,vero?"
+	para "Hai scoperto un"
+	line "sacco di cose."
+	para "Fatto nuove"
+	line "amicizie."
+	para "Affrontato nuove"
+	line "sfide."
 	para "…"
-	para "But have you"
-	line "faced the sheer"
-	para "power that finds"
-	line "its strength in"
-	cont "the dark?"
-	para "DARK type #MON"
-	line "possess a power"
-	cont "like none other."
-	para "Even in the short"
-	line "time that I've"
-	cont "been a GYM LEADER,"
-	para "I've learned much"
-	line "about what they"
-	cont "are capable of."
-	para "I will show you"
-	line "now."
+	para "Ma hai mai"
+	line "sfidato la"
+	para "forza che si"
+	line "cela nel buio?"
+	para "I #MON BUIO"
+	line "hanno un potere"
+	cont "unico."
+	para "Pur essendo"
+	line "CAPOPALESTRA da"
+	para "poco, ho imparato"
+	line "molto sul loro"
+	cont "potere."
+	para "Te lo mostrerò"
+	line "ora."
 	done
 
 
 ChuckLossText:
-	text "Hm. I lost."
+	text "Hm. Ho perso."
 
-	para "This is"
-	line "unexpected."
-	para "But it proves you"
-	line "are worthy to earn"
-	cont "DUSKBADGE."
+	para "Inaspettato."
+	para "Ma dimostra che ti"
+	line "meriti la MEDAGLIA"
+	cont "CREPUSCOLO."
 	done
 
 GetStormBadgeText:
-	text "<PLAYER> received"
-	line "DUSKBADGE."
+	text "<PLAYER> riceve la"
+	line "MEDAGLIA" ; MEDAGLIA CREPUSCOLO
+	cont "CREPUSCOLO."
 	done
 
 ChuckExplainBadgeText:
-	text "DUSKBADGE makes"
-	line "all #MON up to"
+	text "La MEDAGLIA"
+	line "CREPUSCOLO farà"
 
-	para "L70 obey, even"
-	line "traded ones."
+	para "obbedire i #MON"
+	line "fino al"
+	cont "livello 70."
 
-	para "Your #MON can"
-	line "now use ROCK SMASH"
+	para "Ora i tuoi #MON"
+	line "possono usare"
 
-	para "when you're not in"
-	line "a battle."
+	para "SPACCAROCCIA fuori"
+	line "dalla lotta."
 	
-	para "I guess I'm in a"
-	line "good mood, so you"
-	cont "can have this too."
+	para "Sono di buon"
+	line "umore, prendi"
+	cont "anche questa."
 	done
 
 ChuckExplainTMText:
-	text "That move is"
-	line "THIEF."
+	text "Contiene"
+	line "FURTO."
 
-	para "It causes damage,"
-	line "and also can steal"
-	para "an opponent's held"
-	line "item."
+	para "Danneggia il"
+	line "nemico e può"
+	para "rubare lo"
+	line "strumento tenuto."
 	done
 
 ChuckAfterText:
-	text "That was a good"
-	line "battle."
-	para "Your challenge was"
-	line "worth my time."
+	text "È stata una bella"
+	line "lotta."
+	para "Ne è valsa la"
+	line "pena."
 	done
 
 StandGym_MapEvents:

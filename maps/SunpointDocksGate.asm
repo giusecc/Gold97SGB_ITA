@@ -24,29 +24,27 @@ SunpointDocksGateOfficerScript:
 	end
 
 SunpointDocksGateOfficerRocketsText:
-	text "There's something"
-	line "strange going on"
-	cont "out at the DOCKS."
-	para "Mysterious figures"
-	line "have been bringing"
-	para "lots of covered"
-	line "shipments through"
-	cont "this gate."
-	para "They don't seem to"
-	line "be breaking any"
-	para "laws, so I guess"
-	line "it's none of my"
-	cont "business…"
-	para "But they make me"
-	line "uneasy…"
+	text "Sta succedendo"
+	line "qualcosa di strano"
+	cont "ai MOLI."
+	para "Alcuni loschi"
+	line "figuri hanno"
+	para "portato svariate"
+	line "merci da questo"
+	cont "passaggio."
+	para "Non sembrano"
+	line "infrangere la"
+	para "legge, quindi"
+	line "credo che non sia"
+	cont "affare mio…"
+	para "Ma mi mettono"
+	line "a disagio…"
 	done
 
 SunpointDocksGateOfficerGoodText:
-	text "SUNPOINT CITY"
-	line "DOCKS are always"
-	cont "bustling."
-	para "It's a great place"
-	line "to people-watch."
+	text "I MOLI di ELIOPOLI"
+	line "sono sempre"
+	cont "trafficati."
 	done
 
 SunpointDocksGate_MapEvents:

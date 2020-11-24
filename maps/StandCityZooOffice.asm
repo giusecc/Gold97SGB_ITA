@@ -58,63 +58,62 @@ SafariOfficePokefanMScript:
 	end
 
 SafariOfficeSuperNerdText:
-	text "Hello. This is the"
-	line "office for the"
-	cont "STAND CITY ZOO."
-	para "We are very busy"
-	line "working on"
-	para "researching why"
-	line "our #MON are"
-	cont "feeling ill."
-	para "The ZOO is closed"
-	line "until further"
-	cont "notice."
+	text "Salve! Questo è"
+	line "l'ufficio dello"
+	cont "ZOO di INERTOPOLI."
+	para "Stiamo lavorando"
+	line "sodo per capire"
+	para "perché i nostri"
+	line "#MON stanno male."
+	para "Lo ZOO è chiuso"
+	line "fino a nuove"
+	cont "disposizioni."
 	done
 	
 SafariOfficeSuperNerdText2:
-	text "Welcome to the"
-	line "STAND CITY ZOO"
-	cont "office!"
-	para "We are hard at"
-	line "work examining the"
-	para "data we gather"
-	line "from our #MON"
-	para "in order to learn"
-	line "more about them."
+	text "Benvenuto all'"
+	line "ufficio dello"
+	cont "ZOO DI INERTOPOLI!"
+	para "Stiamo lavorando"
+	line "sui dati che"
+	para "ricaviamo dai"
+	line "nostri #MON per"
+	para "imparare di più"
+	line "su di loro."
 	done
 	
 SafariOfficeRockerText:
-	text "It seems that the"
-	line "#MON are"
-	para "suffering from"
-	line "headaches…"
-	para "That's the inital"
-	line "symptom."
+	text "Sembra che i"
+	line "#MON soffrano"
+	cont "di emicranie…"
+	para "Questo è il"
+	line "primo sintomo."
 	done
 
 SafariOfficeRockerText2:
-	text "We frequently take"
-	line "the #MON over"
-	para "to NATIONAL PARK"
-	line "so they have a"
-	para "chance to spend"
-	line "time outside of"
-	cont "the exhibit."
+	text "Portiamo spesso"
+	line "i #MON al"
+	para "PARCO NAZIONALE,"
+	line "così possono"
+	para "passare un po'"
+	line "di tempo al di"
+	para "fuori della"
+	line "mostra."
 	done
 	
 SafariOfficePokefanMText:
-	text "I've never seen"
-	line "anything like"
-	cont "this…"
+	text "Non ho mai visto"
+	line "qualcosa di"
+	cont "simile…"
 	done
 
 SafariOfficePokefanMText2:
-	text "The research from"
-	line "this ZOO has led"
-	para "to many break-"
-	line "throughs on proper"
-	para "nutrition for"
-	line "#MON."
+	text "Gli scienziati di"
+	line "questo ZOO hanno"
+	para "condotto molte"
+	line "ricerche sull'"
+	para "alimentazione"
+	line "dei #MON."
 	done
 
 StandCityZooOffice_MapEvents:

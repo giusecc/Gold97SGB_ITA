@@ -28,52 +28,55 @@ WestportDeptStore1FElevatorButton:
 	jumpstd ElevatorButtonScript
 
 WestportDeptStore1FReceptionistText:
-	text "Welcome to the"
-	line "WESTPORT CITY"
-	cont "DEPT. STORE."
+	text "Benvenuto al"
+	line "CENTRO COMMERCIALE"
+	cont "di PORTOVEST."
 	done
 
 WestportDeptStore1FGentlemanText:
-	text "The DEPT.STORE"
-	line "has a decent se-"
-	cont "lection."
+	text "C'è una buona"
+	line "scelta al CENTRO"
+	cont "COMMERCIALE."
 
-	para "But some items"
-	line "are only available"
+	para "Ma certi strumenti"
+	line "si possono avere"
 
-	para "in the vendor"
-	line "shops in the"
-	cont "basement."
+	para "soltanto nei"
+	line "sotterranei."
 	done
 
 WestportDeptStore1FPokefanFText:
-	text "I'm raring to shop"
-	line "again today!"
+	text "Che bello fare"
+	line "spese!"
 	done
 
 WestportDeptStore1FBugCatcherText:
-	text "Mom's good at"
-	line "bargain hunting."
+	text "La mamma è una"
+	line "cacciatrice di"
+	cont "offerte speciali."
 
-	para "She always buys"
-	line "stuff at lower"
-	cont "prices."
+	para "Riesce sempre a"
+	line "comprare con lo"
+	cont "sconto."
 	done
 
 WestportDeptStore1FDirectoryText:
-	text "1F SERVICE COUNTER"
+	text "PT BANCO"
+	line "   INFORMAZIONI"
 
-	para "2F TRAINER'S"
-	line "   MARKET"
+	para "P1 BANCO PER"
+	line "   ALLENATORI"
 
-	para "3F BATTLE"
-	line "   COLLECTION"
+	para "P2 COLLEZIONE"
+	line "   LOTTA"
 
-	para "4F MEDICINE BOX"
+	para "P3 LA BORSA DELLE"
+	line "   MEDICINE"
 
-	para "5F TM CORNER"
+	para "P4 ANGOLO MT"
 
-	para "6F TRANQUIL SQUARE"
+	para "P5 PIAZZETTA"
+	line "   ULTIMO PIANO"
 	done
 
 WestportDeptStore1F_MapEvents:
