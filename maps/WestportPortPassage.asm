@@ -98,7 +98,7 @@ DollSalesmanMondayMenu:
 	db "POLIWRATH   ¥5000@"
 	db "JIGGLYPUFF  ¥5000@"
 	db "BULBASAUR   ¥5000@"
-	db "CANCEL@"
+	db "ESCI@"
 	
 DollSalesmanMonday_FinishScript:
 	waitsfx
@@ -121,49 +121,47 @@ DollSalesmanMondayNoMoney:
 	end
 	
 SendItemToPCTextDollMonday:
-	text "Send this DOLL to"
-	line "your bedroom PC?"
+	text "Inviare BAMBOLA"
+	line "al tuo PC?"
 	done
 
 AlreadyHaveDecorItemTextSalesmanMonday:
-	text "You already have"
-	line "this DOLL!"
+	text "Possiedi già"
+	line "questa BAMBOLA!"
 	done
 
 DollSalesmanMonday_HereYouGoText:
-	text "Here you go!"
+	text "Ecco a te!"
 	done
 	
 DollSalesmanMondayComeAgain:
-	text "Hope to see you"
-	line "again somewhere!"
+	text "Spero di rivederti"
+	line "presto!"
 	done
 	
 DollSalesmanMondayNoMoneyText:
-	text "Sorry, you'll"
-	line "need more money!"
+	text "Mi spiace, ti"
+	line "servono più soldi!"
 	done
 	
 DollSalesmanTextMonday:
-	text "Hiya!"
-	para "I'm a traveling"
-	line "DOLL salesman!"
-	para "What does that"
-	line "mean?"
-	para "It means that I'm"
-	line "who you talk to"
-	para "if you want to"
-	line "deck out your"
-	cont "bedroom!"
-	para "My stock and my"
-	line "location change"
-	para "daily, so keep an"
-	line "eye out for me!"
+	text "Ehi!"
+	para "Sono un venditore"
+	line "di BAMBOLE!"
+	para "Cosa significa?"
+	para "Significa che devi"
+	line "parlare con me se"
+	para "vuoi decorare la"
+	line "tua camera!"
+	para "La mia merce e"
+	line "la mia posizione"
+	para "cambiano ogni"
+	line "giorno!"
 	done
 	
 DollSalesmanTextMonday_AskWhichPrizeText:
-	text "Now which DOLL"
-	line "would you like?"
+	text "Ora, quale"
+	line "BAMBOLA vuoi?"
 	done
 	
 ;---------------------------------
@@ -207,37 +205,36 @@ AbraScript2:
 	
 
 TeleportGuyText12:
-	text "Don't feel like"
-	line "taking the ship?"
-	para "Or maybe it isn't"
-	line "running today?"
-	para "Well look here!"
-	para "My beloved ABRA"
-	line "can send you over"
-	para "to the islands in"
-	line "an instant!"
-	para "I got a buddy"
-	line "waiting at the"
-	cont "AMAMI DOCKS."
-	para "I'll send you to"
-	line "him!"
-	para "How about it?"
+	text "Non vuoi prendere"
+	line "la nave?"
+	para "O sei stanco?"
+	para "Guarda qua!"
+	para "Il mio ABRA"
+	line "può portarti"
+	para "alle isole in"
+	line "un attimo!"
+	para "Ho un amico"
+	line "che attende a"
+	cont "NAZE."
+	para "Ti manderò da"
+	line "lui!"
+	para "Che ne dici?"
 	done
 	
 TeleportGuyText12_2:
-	text "Want to go to"
-	line "AMAMI TOWN?"
+	text "Vuoi andare"
+	line "a NAZE?"
 	done
 
 TeleportGuyYesText2:
-	text "OK, OK. Picture"
-	line "AMAMI TOWN in your"
-	cont "mind…"
+	text "Ok, Ok. Pensa"
+	line "intensamente"
+	cont "a NAZE…"
 	done
 
 TeleportGuyNoText2:
-	text "OK, OK. I'll be"
-	line "here!"
+	text "Ok, Ok. Quando"
+	line "vuoi, sono qui!"
 	done
 
 AbraText2:
@@ -246,10 +243,10 @@ AbraText2:
 
 
 WestportPortPassagePokefanMText:
-	text "FAST SHIP S.S.AQUA"
-	line "sails to AMAMI"
-	para "TOWN on Mondays"
-	line "and Fridays."
+	text "La NAVE VELOCE"
+	line "M/N ACQUA salpa"
+	para "per NAZE di lunedì"
+	line "e venerdì."
 	done
 
 WestportPortPassage_MapEvents:
