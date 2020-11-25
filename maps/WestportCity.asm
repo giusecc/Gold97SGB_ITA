@@ -216,33 +216,33 @@ MovementData_0x198a63:
 	
 SilverHasItFiguredOut:
 	text "<RIVAL>:<PLAYER>!"
-	para "I think I have it"
-	line "figured out!"
-	para "TEAM ROCKET is"
-	line "going to use the"
-	para "RADIO TOWER as a"
-	line "replacement for"
-	para "the antenna we had"
-	line "destroyed!"
+	para "Credo di aver"
+	line "capito!"
+	para "Il TEAM ROCKET"
+	line "vuole usare la"
+	para "TORRE RADIO al"
+	line "posto dell'antenna"
+	para "che abbiamo"
+	line "distrutto!"
 	done
 	
 SilverHasItFiguredOut2:
-	text "What?"
-	para "I was right!"
-	para "But you already"
-	line "got rid of them?"
-	para "Man, I missed out"
-	line "on all the fun!"
-	para "Well, I guess I"
-	line "had better get"
-	cont "back to training!"
-	para "I only need one"
-	line "more GYM BADGE"
-	para "before I can climb"
-	line "MT.FUJI and take"
-	cont "on the LEAGUE!"
-	para "Bet I can beat you"
-	line "to it!"
+	text "Cosa?"
+	para "Avevo ragione!"
+	para "Ma ti sei già"
+	line "liberato di loro?"
+	para "Mi sono perso"
+	line "tutto il"
+	cont "divertimento!"
+	para "Credo che tornerò"
+	line "ad allenarmi!"
+	para "Mi serve solo più"
+	line "una MEDAGLIA prima"
+	para "di poter scalare"
+	line "il MONTE FUJI e"
+	cont "sfidare la LEGA!"
+	para "In quello arriverò"
+	line "prima io!"
 	done
 	
 WestportCityMonText:
@@ -251,239 +251,245 @@ WestportCityMonText:
 	done
 	
 WestportCityDocksSignText:
-	text "WESTPORT CITY"
-	line "DOCKS"
-	para "Ferries to TEKNOS"
-	line "CITY daily."
+	text "MOLI PORTOVEST"
+	para "Traghetti per"
+	line "TECNOPOLI."
 	done
 
 
 WestportCityYoungster1Text:
-	text "I know there's a"
-	line "new BIKE SHOP, but"
+	text "Hanno aperto un"
+	line "NEGOZIO BICI, ma"
 
-	para "I can't find it"
-	line "anywhere."
+	para "non riesco a"
+	line "trovarlo."
 	done
 
 WestportCityCooltrainerF1Text:
-	text "The man in this"
-	line "house here will"
-	para "rate the nicknames"
-	line "of your #MON!"
-	para "He'll even let you"
-	line "rename them."
-	para "But know that you"
-	line "cannot rename any"
-	para "#MON you got"
-	line "in trades."
+	text "Il signore in"
+	line "questa casa"
+	para "valuta i sopran-"
+	line "nomi dei tuoi"
+	cont "#MON!"
+	para "Ti permette anche"
+	line "di darne di nuovi."
+	para "Ma non puoi cam-"
+	line "biare nome a un"
+	para "#MON ottenuto"
+	line "da uno scambio."
 	done
 
 WestportCityCooltrainerF1Text_ClearedRadioTower:
-	text "The man in this"
-	line "house here will"
-	para "rate the nicknames"
-	line "of your #MON!"
-	para "He'll even let you"
-	line "rename them."
-	para "But know that you"
-	line "cannot rename any"
-	para "#MON you got"
-	line "in trades."
+	text "Il signore in"
+	line "questa casa"
+	para "valuta i sopran-"
+	line "nomi dei tuoi"
+	cont "#MON!"
+	para "Ti permette anche"
+	line "di darne di nuovi."
+	para "Ma non puoi cam-"
+	line "biare nome a un"
+	para "#MON ottenuto"
+	line "da uno scambio."
 	done
 
 WestportCityCooltrainerF2Text:
-	text "The RADIO TOWER in"
-	line "WESTPORT CITY is"
-	cont "a landmark."
+	text "La TORRE RADIO di"
+	line "PORTOVEST è un"
+	para "punto di"
+	line "riferimento."
 
-	para "They're running a"
-	line "promotional cam- "
-	cont "paign right now."
+	para "Ora stanno facendo"
+	line "una campagna"
+	cont "promozionale."
 
-	para "They'll modify"
-	line "your #GEAR,"
+	para "Modificano il tuo"
+	line "#GEAR perché"
 
-	para "so it can also"
-	line "serve as a radio."
+	para "si possa usare"
+	line "come radio."
 	done
 
 WestportCityCooltrainerF2Text_GotRadioCard:
-	text "Oh, your #GEAR"
-	line "works as a radio!"
+	text "Il tuo #GEAR si"
+	line "può usare come"
+	cont "radio!"
 	done
 
 WestportCityYoungster2Text:
 	text "E-he-he-he…"
 
-	para "I got in trouble"
-	line "for playing in the"
+	para "Sono nei guai per"
+	line "aver giocato nei"
 
-	para "basement of the"
-	line "DEPT.STORE."
+	para "sotterranei del"
+	line "CENTRO"
+	cont "COMMERCIALE."
 	done
 
 WestportCityLassText:
-	text "My BLISSEY is able"
-	line "to heal #MON"
-	cont "using a move!"
-	para "Some #MON have"
-	line "special moves they"
-	para "can use outside of"
-	line "battle."
+	text "Il mio BLISSEY"
+	line "può curare i"
+	para "#MON con una"
+	line "mossa."
+	para "Alcuni #MON"
+	line "hanno mosse che"
+	para "si possono usare"
+	line "fuori dalla lotta."
 	done
 
 WestportCityGrampsText:
-	text "Whew! This is one"
-	line "big town. I don't"
-
-	para "know where any-"
-	line "thing is."
+	text "Questa città è"
+	line "enorme! Non riesco"
+	cont "a orientarmi!"
 	done
 
 WestportCityRocketScoutText1:
-	text "So this is the"
-	line "RADIO TOWER…"
+	text "Questa è la"
+	line "TORRE RADIO…"
 	done
 
 WestportCityRocketScoutText2:
-	text "What do you want,"
-	line "you pest? Scram!"
+	text "Cosa vuoi,"
+	line "piccola peste!"
+	cont "Smamma!"
 	done
 
 WestportCityRocket1Text:
-	text "Stay out of the"
-	line "way! Beat it!"
+	text "Stammi lontano!"
 	done
 
 WestportCityRocket2Text:
-	text "Take over the"
-	line "RADIO TOWER…"
+	text "Occupare la"
+	line "TORRE RADIO…"
 
-	para "What? It's none of"
-	line "your business!"
+	para "Cosa? Non è"
+	line "affar tuo!"
 	done
 
 WestportCityRocket3Text:
-	text "#MON? They're"
-	line "nothing more than"
+	text "#MON? Sono"
+	line "solo un modo"
 
-	para "tools for making"
-	line "money!"
+	cont "per fare soldi!"
 	done
 
 WestportCityRocket4Text:
-	text "Our dream will"
-	line "soon come true…"
+	text "Il nostro sogno"
+	line "si avvererà…"
 
-	para "It was such a long"
-	line "struggle…"
+	para "Ci è voluto così"
+	line "tanto…"
 	done
 
 WestportCityRocket5Text:
-	text "Hey, brat! You"
-	line "don't belong here!"
-	cont "Get lost!"
+	text "Marmocchio! Non"
+	line "stare qui!"
+	cont "Vattene!"
 	done
 
 WestportCityRocket6Text:
-	text "Come taste the"
-	line "true terror of"
+	text "Assapora il"
+	line "vero terrore del"
 	cont "TEAM ROCKET!"
 	done
 
 
 WestportCityRadioTowerSignText:
-	text "WESTPORT CITY"
-	line "RADIO TOWER"
-	para "JOPM HQ"
+	text "TORRE RADIO"
+	line "di PORTOVEST"
 	done
 
 WestportDeptStoreSignText:
-	text "Full Selection of"
-	line "#MON Goods!"
+	text "Una completa sele-"
+	line "zione di articoli"
+	cont "sui #MON!"
 
-	para "WESTPORT CITY"
-	line "DEPT.STORE"
+	para "CENTRO COMMERCIALE"
+	line "di PORTOVEST"
 	done
 
 TeknosGymSignText:
-	text "WESTPORT CITY"
-	line "#MON GYM"
-	cont "LEADER: BUGSY"
+	text "PORTOVEST"
+	line "CAPOPALESTRA:"
+	cont "RAFFAELLO"
 
-	para "The high-class"
-	line "master of insects!"
+	para "Maestro degli"
+	line "insetti!"
 	done
 
 WestportCitySignText:
-	text "WESTPORT CITY"
+	text "PORTOVEST"
 
-	para "NIHON's shining"
-	line "coastal metropolis"
+	para "Metropoli"
+	line "scintillante di"
+	cont "NIHON"
 	done
 
 
 WestportCityNameRaterSignText:
-	text "NAME RATER"
+	text "GIUDICE ONOMASTICO"
 
-	para "Get Your #MON"
-	line "Nicknames Rated"
+	para "Fate valutare i"
+	line "nomi dei vostri"
+	cont "#MON!"
 	done
 
 
 
 UnknownText_0x199042:
-	text "I can teach your"
-	line "#MON amazing"
+	text "Posso insegnare"
+	line "ai tuoi #MON"
 
-	para "moves if you'd"
-	line "like."
+	para "mosse incredibili,"
+	line "se ti va."
 
-	para "Should I teach a"
-	line "new move?"
+	para "Vuoi che insegni"
+	line "una nuova mossa?"
 	done
 
 UnknownText_0x199090:
-	text "It will cost you"
-	line "4000 coins. Okay?"
+	text "Ti costerà"
+	line "4000 gettoni."
+	cont "Ok?"
 	done
 
 UnknownText_0x1990b4:
-	text "Aww… But they're"
-	line "amazing…"
+	text "Oh… Ma sono"
+	line "incredibile…"
 	done
 
 UnknownText_0x1990ce:
-	text "Wahahah! You won't"
-	line "regret it!"
+	text "Ahahah! Non te"
+	line "ne pentirai!"
 
-	para "Which move should"
-	line "I teach?"
+	para "Quale mossa"
+	line "devo insegnare?"
 	done
 
 UnknownText_0x199107:
-	text "Hm, too bad. I'll"
-	line "have to get some"
-	cont "cash from home…"
+	text "Hm, peccato."
+	line "Dovrò prendere"
+	para "del denaro"
+	line "da casa…"
 	done
 
 UnknownText_0x19913a:
-	text "If you understand"
-	line "what's so amazing"
+	text "Se capisci cos'è"
+	line "così incredibile"
 
-	para "about this move,"
-	line "you've made it as"
-	cont "a trainer."
+	para "di questa mossa,"
+	line "sei un buon"
+	cont "allenatore."
 	done
 
 UnknownText_0x19918b:
-	text "Wahahah!"
-	line "Farewell, kid!"
+	text "Ahahah!"
+	line "Ci si vede!"
 	done
 
 UnknownText_0x1991a4:
-	text "B-but…"
+	text "M-ma…"
 	done
 
 UnknownText_0x1991ac:

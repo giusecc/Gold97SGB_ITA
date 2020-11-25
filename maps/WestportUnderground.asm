@@ -400,271 +400,264 @@ WestportUndergroundClerkScript:
 	jumptextfaceplayer WestportUndergroundClerkText
 	
 WestportUndergroundClerkText:
-	text "Welcome."
-	para "Here you can find"
-	line "unique stores run"
-	cont "by vendors."
-	para "These stores are"
-	line "open only at"
-	cont "particular times,"
-	para "so you may need to"
-	line "come by later if"
-	para "you want to buy"
-	line "from someone."
+	text "Benvenuto."
+	para "Qui puoi trovare"
+	line "strumenti unici."
+	para "Questi negozi"
+	line "aprono solo a"
+	cont "orari particolari,"
+	para "torna più tardi"
+	line "se vuoi comprare"
+	cont "qualcosa."
 	done
 	
 WestportUndergroundJanineText:
-	text "This place has"
-	line "some interesting"
-	cont "shops."
-	para "But the dimly-lit"
-	line "halls attract some"
-	para "seedy TRAINERS"
-	line "looking to battle!"
+	text "Ci sono negozi"
+	line "interessanti qui."
+	para "Ma ci sono anche"
+	line "allenatori pronti"
+	cont "a lottare!"
 	done
 
 SupernerdEricSeenText:
-	text "The DEPT. STORE"
-	line "employees don't"
-	para "want me hanging"
-	line "around down here"
-	cont "anymore."
-	para "You better not"
-	line "tell them that I'm"
-	cont "here!"
+	text "Gli impiegati del"
+	line "CENTRO COMMERCIALE"
+	para "non vogliono che"
+	line "stia qui."
+	para "Farai bene a non"
+	line "dire dove sono!"
 	done
 
 SupernerdEricBeatenText:
-	text "…Grumble…"
+	text "…Ufff…"
 	done
 
 SupernerdEricAfterBattleText:
-	text "I guess I should"
-	line "just behave"
-	cont "better…"
+	text "Mi sarei dovuto"
+	line "solo comportare"
+	cont "meglio…"
 	done
 
 SupernerdTeruSeenText:
-	text "Do you consider"
-	line "type alignments in"
-	cont "battle?"
+	text "Devi pensare agli"
+	line "abbinamenti di"
+	cont "tipi nella lotta!"
 
-	para "If you know your"
-	line "type advantages,"
+	para "Conoscendo i"
+	line "tipi avvantaggiati"
 
-	para "you'll do better"
-	line "in battle."
+	para "sarà più semplice"
+	line "lottare."
 	done
 
 SupernerdTeruBeatenText:
-	text "Ow, ow, ow!"
+	text "Oh, oh, oh!"
 	done
 
 SupernerdTeruAfterBattleText:
-	text "I know my #MON"
-	line "type alignments."
+	text "Conosco i tipi."
 
-	para "But I only use one"
-	line "type of #MON."
+	para "Ma ne uso uno"
+	line "soltanto."
 	done
 
 PokemaniacIssacSeenText:
-	text "My #MON just"
-	line "got a haircut!"
+	text "Il mio #MON"
+	line "si è appena"
+	para "tagliato i"
+	line "capelli!"
 
-	para "I'll show you how"
-	line "strong it is!"
+	para "Ti farò vedere"
+	line "quanto è forte!"
 	done
 
 PokemaniacIssacBeatenText:
-	text "Aiyeeee!"
+	text "Eeehi!"
 	done
 
 PokemaniacIssacAfterBattleText:
-	text "Your #MON will"
-	line "like you more if"
+	text "I tuoi #MON"
+	line "ti vorranno"
 
-	para "you give them"
-	line "haircuts."
+	para "bene dopo un"
+	line "bel taglio di"
+	cont "capelli."
 	done
 
 PokemaniacDonaldSeenText:
-	text "I think you have"
-	line "some rare #MON"
-	cont "with you."
+	text "Hai dei #MON"
+	line "rari con te?"
 
-	para "Let me see them!"
+	para "Fammi vedere!"
 	done
 
 PokemaniacDonaldBeatenText:
-	text "Gaah! I lost!"
-	line "That makes me mad!"
+	text "Aah! Ho perso!"
+	line "Sto impazzendo!"
 	done
 
 PokemaniacDonaldAfterBattleText:
-	text "Are you making a"
-	line "#DEX? Here's a"
-	cont "hot tip."
+	text "Stai lavorando al"
+	line "#DEX? Ecco un"
+	cont "consiglio."
 
-	para "Some trainers will"
-	line "phone you if they"
-	para "see any rare"
-	line "#MON."
-	para "You'll have to"
-	line "figure out who"
-	cont "they are."
+	para "Alcuni allenatori"
+	line "possono chiamarti"
+	para "se vedono dei"
+	line "#MON rari."
 	done
 
 
 UnknownText_0x7c5b01:
-	text "DEPT.STORE"
-	line "ELEVATOR"
+	text "CENTRO"
+	line "COMMERCIALE"
+	para "ASCENSORE"
 	done
 
 
 UnknownText_0x7c5f9:
-	text "Welcome!"
+	text "Benvenuto!"
 
-	para "I run the #MON"
-	line "SALON!"
+	para "Gestisco il"
+	line "SALONE #MON!"
 
-	para "I'm the older and"
-	line "better of the two"
-	cont "HAIRCUT BROTHERS."
+	para "Sono il più grande"
+	line "e bravo dei"
+	cont "FRATELLI CAPELLI."
 
-	para "I can make your"
-	line "#MON beautiful"
-	cont "for just ¥500."
+	para "Posso rendere i"
+	line "tuoi #MON"
+	para "ancora più belli"
+	line "per soli ¥500."
 
-	para "Would you like me"
-	line "to do that?"
+	para "Che ne dici?"
 	done
 
 UnknownText_0x7c69a:
-	text "Which #MON"
-	line "should I work on?"
+	text "Su che #MON"
+	line "devo lavorare?"
 	done
 
 UnknownText_0x7c6b8:
-	text "OK! Watch it"
-	line "become beautiful!"
+	text "Ok! Guarda come"
+	line "diventa bello!"
 	done
 
 UnknownText_0x7c6d8:
-	text "There! All done!"
+	text "Ecco fatto!"
 	done
 
 UnknownText_0x7c6ea:
-	text "Is that right?"
-	line "That's a shame!"
+	text "Davvero?"
+	line "Che peccato!"
 	done
 
 UnknownText_0x7c709:
-	text "You'll need more"
-	line "money than that."
+	text "Non ti bastano"
+	line "i soldi."
 	done
 
 UnknownText_0x7c72b:
-	text "I do only one"
-	line "haircut a day. I'm"
-	cont "done for today."
+	text "Un solo taglio"
+	line "al giorno. Per"
+	cont "oggi ho finito."
 	done
 
 UnknownText_0x7c75c:
-	text "Welcome to the"
-	line "#MON SALON!"
+	text "Benvenuto al"
+	line "SALONE #MON!"
 
-	para "I'm the younger"
-	line "and less expen-"
-	cont "sive of the two"
-	cont "HAIRCUT BROTHERS."
+	para "Sono il più"
+	line "giovane e meno"
+	cont "esperto dei"
+	cont "FRATELLI CAPELLI."
 
-	para "I'll spiff up your"
-	line "#MON for just"
-	cont "¥300."
+	para "Posso abbellire i"
+	line "tuoi #MON"
+	cont "per soli ¥300."
 
-	para "So? How about it?"
+	para "Che ne dici?"
 	done
 
 UnknownText_0x7c7f1:
-	text "OK, which #MON"
-	line "should I do?"
+	text "Su che #MON"
+	line "devo lavorare?"
 	done
 
 UnknownText_0x7c80e:
-	text "OK! I'll make it"
-	line "look cool!"
+	text "Ok! Guarda come"
+	line "diventa bello!"
 	done
 
 UnknownText_0x7c82a:
-	text "There we go!"
-	line "All done!"
+	text "Ecco fatto!"
 	done
 
 UnknownText_0x7c842:
-	text "No? "
-	line "How disappointing!"
+	text "No?"
+	line "Che disdetta!"
 	done
 
 UnknownText_0x7c85b:
-	text "You're a little"
-	line "short on funds."
+	text "Sei a corto"
+	line "di soldi."
 	done
 
 UnknownText_0x7c87b:
-	text "I can do only one"
-	line "haircut a day."
+	text "Solo un taglio"
+	line "al giorno."
 
-	para "Sorry, but I'm all"
-	line "done for today."
+	para "Ho finito per"
+	line "oggi."
 	done
 
 HaircutBrosText_SlightlyHappier:
 	text_ram wStringBuffer3
-	text " looks a"
-	line "little happier."
+	text " è"
+	line "un po' più felice."
 	done
 
 HaircutBrosText_Happier:
 	text_ram wStringBuffer3
-	text " looks"
-	line "happy."
+	text " è"
+	line "molto più felice."
 	done
 
 HaircutBrosText_MuchHappier:
 	text_ram wStringBuffer3
-	text " looks"
-	line "delighted!"
+	text " è"
+	line "felicissimo!"
 	done
 
 UnknownText_0x7c904:
-	text "We're not open"
-	line "today."
+	text "Oggi siamo chiusi."
 	done
 
 WestportUndergroundNoEntryText:
-	text "The World is a"
-	line "Cycle Path!"
-	cont "BIKE SHOP"
+	text "Il Mondo in"
+	line "Sella!"
+	cont "NEGOZIO BICI"
 	done
 	
 WestportUndergroundSalonText:
-	text "HAIRCUT BROTHERS"
-	line "#MON SALON"
-	para "CLOSED MONDAYS"
+	text "FRATELLI CAPELLI"
+	line "SALONE #MON"
+	para "CHIUSO LUNEDÌ"
 	done
 	
 WestportUndergroundBitterText:
-	text "NATURAL REMEDIES"
-	para "OPEN SATURDAY AND"
-	line "SUNDAY ALL DAY"
+	text "RIMEDI NATURALI"
+	para "APERTO SABATO"
+	line "E DOMENICA"
+	para "TUTTO IL GIORNO"
 	done
 	
 WestportUndergroundGrampsText:
-	text "GRAMPS' BARGAINS"
-	para "OPEN MONDAY"
-	line "MORNINGS AND"
-	cont "WEDNESDAY ALL DAY"
+	text "CENTRO AFFARI"
+	para "APERTO LUNEDÌ"
+	line "MATTINA E"
+	para "MERCOLEDÌ TUTTO"
+	line "IL GIORNO."
 	done
 
 WestportUnderground_MapEvents:

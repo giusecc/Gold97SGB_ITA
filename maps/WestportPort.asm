@@ -342,157 +342,140 @@ MovementData_0x74a49:
 	step_end
 
 WestportPortSailorNotGoingToTeknosText:
-	text "Please join us"
-	line "another time!"
+	text "Vieni da noi"
+	line "un'altra volta!"
 	done
 
 WestportPortSailorGoToTeknosText:
-	text "Welcome to the"
-	line "WESTPORT DOCKS."
-	para "Would you like to"
-	line "take a ferry to"
-	cont "TEKNOS CITY?"
+	text "Benvenuto ai MOLI"
+	line "di PORTOVEST."
+	para "Vuoi prendere un"
+	line "traghetto per"
+	cont "TECNOPOLI?"
 	done
 
 WestportPortSailorGoToTeknosText2:
-	text "Okay! Departing to"
-	line "TEKNOS CITY."
+	text "Ok! In partenza"
+	line "per TECNOPOLI."
 	done
 
 UnknownText_0x74a55:
-	text "We're departing"
-	line "soon. Please get"
-	cont "on board."
+	text "Stiamo per"
+	line "partire. Sali"
+	cont "a bordo."
 	done
 
-;	text "This ship is"
-;	line "planned to take"
-;	para "you to TEKNOS CITY,"
-;	line "but this is"
-;	para "actually the end"
-;	line "of the demo at"
-;	cont "this point."
-;	para "We're just gonna"
-;	line "warp you back to"
-;	para "the WESTPORT CITY"
-;	line "#MON CENTER."
-;	para "Thanks for"
-;	line "playing!"
-;	done
-
 UnknownText_0x74a80:
-	text "Sorry. You can't"
-	line "board now."
+	text "Scusa, non puoi"
+	line "salire ora."
 	done
 
 UnknownText_0x74a9c:
-	text "We now also offer"
-	line "trips to NIHON's"
-	cont "SOUTHWEST ISLANDS."
-	para "Would you like to"
-	line "travel there?"
+	text "Facciamo viaggi"
+	line "anche verso le"
+	para "ISOLE SUDOC-"
+	line "CIDENTALI."
+	para "Vuoi andare lì?"
 	done
 
 UnknownText_0x74ada:
-	text "May I see your"
-	line "S.S.TICKET?"
+	text "Posso vedere"
+	line "il BIGL.NAVE?"
 	done
 
 UnknownText_0x74af6:
-	text "We hope to see you"
-	line "again!"
+	text "Speriamo di"
+	line "rivederti!"
 	done
 
 UnknownText_0x74b11:
-	text "<PLAYER> flashed"
-	line "the S.S.TICKET."
+	text "<PLAYER> mostra"
+	line "il BIGL.NAVE."
 
-	para "That's it."
-	line "Thank you!"
+	para "Perfetto."
+	line "Grazie!"
 	done
 
 UnknownText_0x74b41:
-	text "<PLAYER> tried to"
-	line "show the S.S."
-	cont "TICKET…"
+	text "<PLAYER> prova"
+	line "a mostrare il"
+	cont "BIGL.NAVE…"
 
-	para "…But no TICKET!"
+	para "… Ma non ce"
+	line "l'ha!"
 
-	para "Sorry!"
-	line "Trips to the"
-	para "islands require"
-	line "you to have an"
-	cont "S.S.TICKET."
+	para "Mi spiace!"
+	line "I viaggi per le"
+	para "isole richiedono"
+	line "un BIGL.NAVE."
 	done
 
 UnknownText_0x74ba8:
-	text "The next trip to"
-	line "the SOUTHWEST"
-	cont "ISLANDS will set"
-	cont "sail on Monday."
-	para "Today, we only"
-	line "offer ferries to"
-	cont "TEKNOS CITY."
+	text "Il prossimo"
+	line "viaggio per"
+	para "PORTOVEST partirà"
+	line "lunedì."
+	para "Oggi ci sono"
+	line "solo traghetti"
+	cont "per TECNOPOLI."
 	done
 
 UnknownText_0x74bce:
-	text "The next trip to"
-	line "the SOUTHWEST"
-	cont "ISLANDS will set"
-	cont "sail on Friday."
-	para "Today, we only"
-	line "offer ferries to"
-	cont "TEKNOS CITY."
+	text "Il prossimo"
+	line "viaggio per"
+	para "PORTOVEST partirà"
+	line "venerdì."
+	para "Oggi ci sono"
+	line "solo traghetti"
+	cont "per TECNOPOLI."
 	done
 
 WestportPortFishingGuru1Text:
-	text "SHELLDER are easy"
-	line "to catch here."
+	text "Gli SHELLDER"
+	line "si trovano"
+	para "facilmente qui."
 
-	para "They're kind of"
-	line "rare elsewhere."
+	para "Sono molto rari"
+	line "altrove."
 	done
 
 WestportPortFishingGuru2Text:
-	text "Do you have any"
-	line "fishing RODS?"
+	text "Hai un AMO?"
 
-	para "Different RODS"
-	line "catch different"
-	cont "#MON."
+	para "AMI differenti"
+	line "servono per #-"
+	cont "MON differenti."
 	done
 
 WestportPortYoungsterText:
-	text "S.S.AQUA uses jets"
-	line "to skim over the"
-	cont "waves!"
+	text "La M/N ACQUA usa"
+	line "propulsori per"
+	cont "solcare le onde!"
 	done
 
 WestportPortCooltrainerFText:
-	text "There are lots of"
-	line "#MON on the"
-	cont "ISLANDS."
+	text "Ci sono molti"
+	line "#MON sulle"
+	cont "ISOLE."
 
-	para "I wish I could go…"
+	para "Vorrei andarci…"
 	done
 
 WestportPortSailorBeforeHOFText:
-	text "We're very sorry,"
-	line "but at this time,"
-	para "the WESTPORT CITY"
-	line "DOCKS are closed"
-	cont "for maintenance."
-	para "You look like a"
-	line "tough trainer,"
-	cont "though."
-	para "Have you given"
-	line "BUGSY a challenge?"
-	para "Why don't you give"
-	line "that a try and"
-	cont "come back later."
-	para "We'll probably be"
-	line "done with our work"
-	cont "by then."
+	text "Ci dispiace, i"
+	line "MOLI di PORTOVEST"
+	para "sono chiusi per"
+	line "manutenzione."
+	para "Sembri un"
+	line "allenatore forte."
+	para "Hai già sfidato"
+	line "RAFFAELLO?"
+	para "Perché non lo"
+	line "sfidi e torni"
+	cont "più tardi?"
+	para "Potremmo aver"
+	line "finito il nostro"
+	cont "lavoro per allora."
 	done
 
 

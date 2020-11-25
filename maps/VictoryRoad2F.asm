@@ -162,221 +162,220 @@ TrainerCooltrainerfCybil:
 	end
 
 BirdkeeperRoySeenText:
-	text "My birds don't"
-	line "have much room to"
-	cont "fly in this cave."
+	text "I miei #MON"
+	line "uccello non hanno"
+	para "spazio per volare"
+	line "qui dentro!"
 	done
 
 BirdkeeperRoyBeatenText:
-	text "Grounded!"
+	text "Atterrato!"
 	done
 
 BirdkeeperRoyAfterBattleText:
-	text "My birds always"
-	line "do their best."
+	text "I miei #MON"
+	line "fanno sempre del"
+	cont "loro meglio!"
 	done
 
 CooltrainerfJennSeenText:
-	text "Let me see if you"
-	line "have what it takes"
-	para "to challenge the"
-	line "LEAGUE."
+	text "Fammi vedere se"
+	line "sei pronto per"
+	cont "la LEGA."
 	done
 
 CooltrainerfJennBeatenText:
-	text "I'd say you do…"
+	text "Sei pronto…"
 	done
 
 CooltrainerfJennAfterBattleText:
-	text "To defeat the"
-	line "LEAGUE, you'll"
-	para "have to face the"
-	line "ELITE FOUR all in"
-	cont "a row."
-	para "And the CHAMPION"
-	line "after that."
-	para "It takes a lot."
-	para "You better be"
-	line "ready!"
+	text "Per conquistare"
+	line "la LEGA devi"
+	para "affrontare tutti"
+	line "i SUPERQUATTRO"
+	cont "in fila."
+	para "E il CAMPIONE"
+	line "dopo di loro."
+	para "Ci vorrà un po'."
+	para "Devi essere"
+	line "pronto!"
 	done
 	
 
 SwimmermKirkSeenText:
-	text "The water is calm"
-	line "in here."
-	para "It's kind of un-"
-	line "settling."
+	text "L'acqua è"
+	line "calma qui."
 	done
 
 SwimmermKirkBeatenText:
-	text "I'm sunk!"
+	text "Sto annegando!"
 	done
 
 SwimmermKirkAfterBattleText:
-	text "It must be nice"
-	line "riding on a"
+	text "Dev'essere bello"
+	line "navigare su un"
 	cont "#MON."
 	done
 
 SoldierAntonioSeenText:
-	text "It takes a real"
-	line "trooper to make it"
-	cont "through this cave!"
+	text "Ci vuole un vero"
+	line "soldato per"
+	para "attraversare"
+	line "questa grotta!"
 	done
 	
 SoldierAntonioBeatenText:
-	text "Keep pushing"
-	line "forward!"
+	text "Continua così!"
 	done
 	
 SoldierAntonioAfterBattleText:
-	text "It's time for you"
-	line "to march on!"
+	text "È tempo di marcia-"
+	line "re un po'!"
 	done
 	
 CooltrainermAndySeenText:
-	text "Which path is the"
-	line "right path?"
+	text "Qual è la strada"
+	line "giusta?"
 	done
 
 CooltrainermAndyBeatenText:
-	text "Guess it wasn't"
-	line "this one."
+	text "Non credo fosse"
+	line "questa."
 	done
 
 CooltrainermAndyAfterBattleText:
-	text "That was a serious"
-	line "question."
-	para "I don't want to"
-	line "get lost in here."
+	text "Era una domanda"
+	line "seria."
+	para "Non voglio"
+	line "perdermi qui."
 	done	
 
 PsychicRichardSeenText:
-	text "I know your deep-"
-	line "est desires!"
+	text "Conosco i tuoi"
+	line "desideri più"
+	cont "profondi!"
 	done
 
 PsychicRichardBeatenText:
-	text "Good battle!"
+	text "Bella lotta!"
 	done
 
 PsychicRichardAfterBattleText:
-	text "You desire to make"
-	line "your way out of"
-	cont "this cave!"
-	para "…I guess that"
-	line "one is pretty"
-	cont "obvious."
+	text "Desideri uscire"
+	line "da questa"
+	cont "grotta!"
+	para "… Credo che"
+	line "sia ovvio."
 	done
 	
 FirebreatherWaltSeenText:
-	text "I like my caves"
-	line "nice and warm."
-	para "This one is not."
+	text "Mi piacciono le"
+	line "grotte calde."
+	para "Questa non lo è."
 	done
 	
 FirebreatherWaltBeatenText:
-	text "Ow, hot!"
+	text "Oh, caldo!"
 	done
 
 FirebreatherWaltAfterBattleText:
-	text "It's pretty chilly"
-	line "in here."
-	para "Have you ever been"
-	line "in MAGMA SHAFT?"
-	para "It's much more"
-	line "toasty there!"
+	text "Fa fresco qui!"
+	para "Sei mai stato"
+	line "al POZZO LAVA?"
+	para "È molto più"
+	line "caldo!"
 	done
 
 HikerMichaelSeenText:
-	text "Yo! You're spunky!"
-	line "But you know what?"
+	text "Sei audace!"
+	line "Ma sai una cosa?"
 
-	para "When it comes to"
-	line "sheer spunkiness,"
-	cont "I'm the man!"
+	para "Quando si tratta"
+	line "di audacia,"
+	cont "sono il primo!"
 	done
 
 HikerMichaelBeatenText:
-	text "My #MON weren't"
-	line "spunky enough!"
+	text "I miei #MON non"
+	line "sono abbastanza"
+	cont "audaci!"
 	done
 
 HikerMichaelAfterBattleText:
-	text "Boy, do I love"
-	line "HP UP! Mmmm, yum!"
+	text "Adoro PS-SU!"
+	line "Mmmm, gnamm!"
 
-	para "I keep drinking my"
-	line "#MON's!"
+	para "Continuo a bere"
+	line "quello dei miei"
+	cont "#MON!"
 
-	para "I can't help it!"
+	para "Devo smettere!"
 	done
 
 
 HikerKennySeenText:
-	text "I should catch"
-	line "myself an ONIX."
+	text "Vorrei catturare"
+	line "un ONIX."
 	done
 
 HikerKennyBeatenText:
-	text "I lost…"
+	text "Ho perso…"
 	done
 
 HikerKennyAfterBattleText:
-	text "Geological fea-"
-	line "tures don't appear"
-	cont "to change."
+	text "Le caratteristiche"
+	line "geologiche"
+	para "sembrano immuta-"
+	cont "bili."
 
-	para "But they actually"
-	line "change, little by"
-	cont "little."
+	para "In realtà cambiano"
+	line "molto lentamente."
 	
-	para "MT.FUJI would have"
-	line "been shorter many"
-	cont "millennia ago."
+	para "Il MONTE FUJI non"
+	line "era così alto"
+	cont "millenni fa."
 	done
 	
 CooltrainermTylerSeenText:
-	text "This is the last"
-	line "section before the"
-	cont "summit!"
-	para "Can you make it?"
+	text "Questa è l'ultima"
+	line "parte prima della"
+	cont "cima!"
+	para "Ce la farai?"
 	done
 
 CooltrainermTylerBeatenText:
-	text "I think you've got"
-	line "this."
+	text "Ci sei quasi!"
 	done
 
 CooltrainermTylerAfterBattleText:
-	text "You're close to"
-	line "facing the LEAGUE."
-	para "How does that make"
-	line "you feel?"
+	text "Sei vicino alla"
+	line "LEGA."
+	para "Come ti senti?"
 	done
 	
 
 CooltrainerfCybilSeenText:
-	text "You look strong."
+	text "Sembri forte."
 
-	para "Good trainers seek"
-	line "tough opponents"
-	cont "instinctively."
+	para "Gli allenatori"
+	line "migliori si"
+	para "riconoscono con"
+	line "uno sguardo!"
 	done
 
 CooltrainerfCybilBeatenText:
-	text "Nope! This won't"
-	line "do at all."
+	text "No! Non doveva"
+	line "andare così."
 	done
 
 CooltrainerfCybilAfterBattleText:
-	text "We all get better"
-	line "by experiencing"
-	cont "many battles."
+	text "Miglioriamo tutti"
+	line "con le lotte."
 
-	para "I battled a lot to"
-	line "become what I am"
-	cont "today--an elite."
+	para "Io ho lottato"
+	line "molto per diventa-"
+	para "re quello che"
+	line "sono oggi."
 	done	
 
 VictoryRoad2F_MapEvents:
