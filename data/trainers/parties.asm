@@ -1619,7 +1619,8 @@ SkierGroup:
 
 	; SKIER (2)
 	db "CLARA@", TRAINERTYPE_NORMAL; unused
-	db 33, DEWGONG
+	db 28, SEEL,     POWDER_SNOW, SING, HEADBUTT, WATER_GUN
+	db 28, DELIBIRD, ICY_WIND, PROTECT, ENDURE, PRESENT
 	db -1 ; end
 
 TeacherGroup:
@@ -3380,6 +3381,13 @@ SageGroup:
 	db "QUINTO@", TRAINERTYPE_NORMAL ;used
 	db 10, PARETTE
 	db 12, HOOTHOOT
+	db -1 ; end
+	
+	; SAGE (13)
+	db "TAGO@", TRAINERTYPE_NORMAL ;used
+	db 21, GASTLY
+	db 21, GASTLY
+	db 21, CURSTRAW
 	db -1 ; end
 
 MediumGroup:

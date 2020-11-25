@@ -2,7 +2,7 @@
 	const SANSKRITGYM_PRYCE
 	const SANSKRITGYM_BUENA1
 ;	const SANSKRITGYM_ROCKER1
-;	const SANSKRITGYM_BUENA2
+	const SANSKRITGYM_BUENA2
 	const SANSKRITGYM_ROCKER2
 	const SANSKRITGYM_ROCKER3
 	const SANSKRITGYM_GYM_GUY
@@ -42,6 +42,7 @@ BlueForestGymPryceScript:
 	setevent EVENT_BEAT_SKIER_ROXANNE
 	setevent EVENT_BEAT_BOARDER_BRAD
 	setevent EVENT_BEAT_BOARDER_DOUGLAS
+	setevent EVENT_BEAT_SKIER_CLARISSA
 	setevent EVENT_BLUE_FOREST_SUPER_NERD_BLOCKS_GYM; for workers south of town
 	setevent EVENT_STAND_CITY_ZOO_MONS; makes normal pokes in zoo disappear
 	writetext PryceText_GlacierBadgeSpeech
@@ -107,7 +108,17 @@ TrainerSkierRoxanne:
 	closetext
 	end
 
+TrainerSkierClarissa:
+	trainer SKIER, CLARISSA, EVENT_BEAT_SKIER_CLARISSA, SkierClarissaSeenText, SkierClarissaBeatenText, 0, .Script
 
+.Script:
+	endifjustbattled
+	opentext
+	writetext SkierClarissaAfterBattleText
+	waitbutton
+	closetext
+	end
+	
 TrainerBoarderBrad:
 	trainer BOARDER, BRAD, EVENT_BEAT_BOARDER_BRAD, BoarderBradSeenText, BoarderBradBeatenText, 0, .Script
 
@@ -397,6 +408,20 @@ SkierRoxanneAfterBattleText:
 	line "nella PALESTRA."
 	done
 
+SkierClarissaSeenText:
+	text "Guarda come"
+	line "curvo!"
+	done
+
+SkierClarissaBeatenText:
+	text "No! Mi hai fatto"
+	line "cadere!"
+	done
+
+SkierClarissaAfterBattleText:
+	text "Non avrei dovuto"
+	line "vantarmi…"
+	done
 
 BlueForestGymGuyText:
 	text "ALFREDO è un vete-"
@@ -446,11 +471,11 @@ BlueForestGym_MapEvents:
 	bg_event  3, 15, BGEVENT_READ, BlueForestGymStatue
 	bg_event  6, 15, BGEVENT_READ, BlueForestGymStatue
 
-	db 5 ; object events
+	db 6 ; object events
 	object_event  3,  2, SPRITE_PRYCE, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_BROWN, OBJECTTYPE_SCRIPT, 0, BlueForestGymPryceScript, EVENT_PRYCE_IN_GYM
 	object_event  9, 10, SPRITE_LASS, SPRITEMOVEDATA_SPINRANDOM_FAST, 1, 1, -1, -1, PAL_NPC_RED, OBJECTTYPE_TRAINER, 1, TrainerSkierRoxanne, -1
 ;	object_event  0, 17, SPRITE_ROCKER, SPRITEMOVEDATA_STANDING_UP, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 0, TrainerBoarderRonald, -1
-;	object_event  9, 17, SPRITE_LASS, SPRITEMOVEDATA_STANDING_UP, 0, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_TRAINER, 0, TrainerSkierClarissa, -1
+	object_event  0, 17, SPRITE_LASS, SPRITEMOVEDATA_STANDING_UP, 0, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_TRAINER, 1, TrainerSkierClarissa, -1
 	object_event  5,  7, SPRITE_ROCKER, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 1, TrainerBoarderBrad, -1
 	object_event  0,  2, SPRITE_ROCKER, SPRITEMOVEDATA_SPINRANDOM_FAST, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 1, TrainerBoarderDouglas, -1
 	object_event  7, 15, SPRITE_GYM_GUY, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_SCRIPT, 0, BlueForestGymGuyScript, -1
