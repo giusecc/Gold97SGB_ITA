@@ -71,68 +71,67 @@ HappinessRatersHouseRadio:
 	jumpstd Radio2Script
 
 WestportHappinessRaterTeacherText:
-	text "If you treat your"
-	line "#MON nicely,"
+	text "Se tratti bene i"
+	line "tuoi #MON, ti"
 
-	para "they will love you"
-	line "in return."
+	para "vorranno bene a"
+	line "loro volta."
 
-	para "Oh? Let me see"
-	line "your @"
+	para "Fammi vedere"
+	line "il tuo @"
 	text_ram wStringBuffer3
 	text "…"
 	done
 
 WestportHappinessRatingText_LovesYouALot:
-	text "It looks really"
-	line "happy! It must"
-	cont "love you a lot."
+	text "Sembra proprio"
+	line "felice. Deve"
+	cont "volerti bene."
 	done
 
 WestportHappinessRatingText_ReallyTrustsYou:
-	text "I get the feeling"
-	line "that it really"
-	cont "trusts you."
+	text "Pare proprio che"
+	line "si fidi di te."
 	done
 
 WestportHappinessRatingText_SortOfHappy:
-	text "It's friendly to-"
-	line "ward you. It looks"
-	cont "sort of happy."
+	text "Ti è amico: sembra"
+	line "piuttosto felice."
 	done
 
 WestportHappinessRatingText_QuiteCute:
-	text "It's quite cute."
+	text "È proprio carino."
 	done
 
 WestportHappinessRatingText_NotUsedToYou:
-	text "You should treat"
-	line "it better. It's"
-	cont "not used to you."
+	text "Dovresti trattarlo"
+	line "meglio: non siete"
+	cont "molto in sintonia."
 	done
 
 WestportHappinessRatingText_LooksMean:
-	text "It doesn't seem to"
-	line "like you at all."
-	cont "It looks mean."
+	text "A quanto pare non"
+	line "gli piaci: ti"
+	cont "guarda storto."
 	done
 
 WestportHappinessRaterPokefanMText:
-	text "I keep losing in"
-	line "battles, and my"
+	text "Perdo sempre, e i"
+	line "miei #MON"
 
-	para "#MON end up"
-	line "fainting…"
+	para "lottano fino ad"
+	line "essere esausti…"
 
-	para "Maybe that's why"
-	line "my #MON don't"
-	cont "like me much…"
+	para "Forse è per questo"
+	line "che non piaccio"
+	cont "ai miei #MON…"
 	done
 
 WestportHappinessRaterTwinText:
-	text "When I use an item"
-	line "on my #MON, it"
-	cont "acts really glad!"
+	text "Se uso uno stru-"
+	line "mento sul mio"
+	para "#MON, mi è"
+	line "riconoscente."
 	done
 
 WestportHappinessRater_MapEvents:

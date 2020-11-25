@@ -59,81 +59,80 @@ TrainerBikerJermaine:
 	
 
 BikerBlazeSeenText:
-	text "Hey! No outsiders"
-	line "allowed!"
+	text "Ehi! Nessun"
+	line "estraneo!"
 	done
 	
 BikerBlazeBeatenText:
-	text "Urf…"
+	text "Uff…"
 	done
 	
 BikerBlazeAfterBattleText:
-	text "Just let us have"
-	line "our fun, man!"
+	text "Lasciaci in"
+	line "pace!"
 	done
 	
 
 BikerRafaelSeenText:
-	text "There's no need"
-	line "for you to come"
-	cont "this way!"
+	text "Non c'è bisogno"
+	line "che passi di qui!"
 	done
 	
 BikerRafaelBeatenText:
-	text "I'm crushed!"
+	text "Distrutto!"
 	done
 	
 BikerRafaelAfterBattleText:
-	text "All we want to"
-	line "do is ride!"
+	text "Vogliamo solo"
+	line "correre!"
 	done
 	
 
 BikerColtonSeenText:
-	text "Hey punk!"
-	para "…Well, I guess"
-	line "I'm the punk."
-	para "But you should get"
-	line "outta our way!"
+	text "Ehi teppista!"
+	para "…Beh, forse sono"
+	line "io il teppista."
+	para "Ma tu dovresti"
+	line "andartene!"
 	done
 	
 BikerColtonBeatenText:
-	text "Argh, no way!"
+	text "Aah, non importa!"
 	done
 	
 BikerColtonAfterBattleText:
-	text "Why you getting"
-	line "in our territory?"
+	text "Perché invadi il"
+	line "territorio?"
 	done
 	
 
 BikerJermaineSeenText:
-	text "Kids like you have"
-	line "no chance!"
+	text "Ragazzi come te"
+	line "non hanno"
+	cont "speranze!"
 	done
 	
 BikerJermaineBeatenText:
-	text "Not what I"
-	line "expected…"
+	text "Non l'avrei"
+	line "aspettato…"
 	done
 	
 BikerJermaineAfterBattleText:
-	text "We're not causing"
-	line "any trouble,"
-	cont "promise!"
+	text "Non faremo"
+	line "danni, promesso!"
 	done
 	
 WeatheredOfficer1Text:
-	text "We're beefing up"
-	line "security after"
-	cont "this incident."
+	text "Stiamo aumentando"
+	line "la sicurezza dopo"
+	cont "questo incidente."
 	done
 	
 WeatheredOfficer2Text:
-	text "Hey, kid!"
-	para "Thanks for your"
-	line "help."
-	para "You can go in!"
+	text "Ehi, ragazzo!"
+	para "Grazie per il"
+	line "tuo aiuto."
+	para "Puoi passare!"
 	done
 	
 	

@@ -60,14 +60,13 @@ UrasoeParkCalmSeed:
 
 	
 UrasoeParkLassText:
-	text "The #MON here"
-	line "are especially"
-	cont "tough."
-	para "This land was set"
-	line "aside specifically"
-	para "so RYUKYU CITY"
-	line "couldn't expand"
-	cont "into it."
+	text "I #MON qui"
+	line "sono molto forti."
+	para "Questo posto è"
+	line "stato realizzato"
+	para "per non far"
+	line "espandere la CITTÀ"
+	cont "DI RYU KYU."
 	done
 
 HikerJimSeenText:
@@ -75,57 +74,58 @@ HikerJimSeenText:
 	done
 
 HikerJimBeatenText:
-	text "Hahaha-hachoo!"
+	text "Hahaha-ecciù!"
 	done
 
 HikerJimAfterBattleText:
-	text "All this grass is"
-	line "making me sneeze!"
-	cont "Ahahah-CHOO!"
+	text "Tutta quest'erba"
+	line "mi fa starnutire!"
+	cont "Ecciùù!"
 	done
 
 PokefanmRobertSeenText:
-	text "You like #MON,"
-	line "don't you?"
+	text "Adori i #MON,"
+	line "non è vero?"
 
-	para "Me too!"
+	para "Anch'io!"
 	done
 
 PokefanmRobertBeatenText:
-	text "I'd have to say"
-	line "that's my loss."
+	text "Devo ammettere"
+	line "la sconfitta."
 	done
 
 PokefanmRobertAfterBattleText:
-	text "Look what you did"
-	line "to my #MON…"
+	text "Guarda cosa hai"
+	line "fatto ai miei"
+	cont "#MON…"
 
-	para "I won't forget"
-	line "this…"
+	para "Non me lo"
+	line "dimenticherò…"
 	done
 	
 EngineerLandonSeenText:
-	text "I think I've got a"
-	line "plan to win this"
-	cont "battle!"
+	text "Ho un piano"
+	line "piano per"
+	cont "vincere!"
 	done
 	
 EngineerLandonBeatenText:
-	text "The plan needs"
-	line "some work!"
+	text "Il mio piano"
+	line "richiedre tempo!"
 	done
 	
 EngineerLandonAfterBattleText:
-	text "The plan to win"
-	line "was to have"
-	cont "stronger #MON."
+	text "Il piano era"
+	line "avere dei #MON"
+	cont "più forti."
 	done
 
 TropicalIslandJungleSignText:
-	text "URASOE PARK"
+	text "PARCO URASOE"
 
-	para "A nature reserve"
-	line "for #MON"
+	para "Riserva naturale"
+	line "di #MON"
 	done
 
 UrasoePark_MapEvents:

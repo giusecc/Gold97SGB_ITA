@@ -175,61 +175,60 @@ SlowkingHint1Text:
 	text "…"
 	line "Slow…"
 	
-	para "SLOWKING gestures"
-	line "toward the jungle"
-	cont "as if to tell you"
-	cont "something…"
+	para "SLOWKING indica"
+	line "la giungla…"
 	done
 
 SlowkingHint2Text:
-	text "SLOWKING gestures"
-	line "toward the far"
-	cont "northeast of the"
-	cont "island…"
+	text "SLOWKING indica"
+	line "il punto a"
+	cont "nord-est dell'"
+	cont "isola…"
 	done
 
 SlowkingHint3Text:
-	text "SLOWKING gestures"
-	line "to the upper-"
-	cont "middle of the"
-	cont "island…"
+	text "SLOWKING indica"
+	line "in alto al"
+	cont "centro dell'"
+	cont "isola…"
 	done
 
 SlowkingHint4Text:
-	text "SLOWKING gestures"
-	line "to the far west"
-	cont "of the island…"
+	text "SLOWKING indica"
+	line "a ovest"
+	cont "dell'isola…"
 	done
 
 SlowkingHint5Text:
-	text "SLOWKING gestures"
-	line "into the jungle"
-	cont "again…"
+	text "SLOWKING indica"
+	line "di nuovo"
+	cont "la giungla…"
 	done
 
 SlowkingHint6Text:
-	text "SLOWKING gestures"
-	line "along the beach…"
+	text "SLOWKING indica"
+	line "la spiaggia…"
 	done
 
 SlowkingHint7Text:
-	text "SLOWKING gestures"
-	line "to the far north"
-	cont "of the island…"
+	text "SLOWKING indica"
+	line "l'estremo nord"
+	cont "dell'isola…"
 	done
 	
 SlowkingHint8Text:
-	text "SLOWKING gestures"
-	line "to the highest"
-	cont "point of the"
-	cont "whole island…"
+	text "SLOWKING indica"
+	line "il punto più"
+	cont "alto dell'"
+	cont "isola…"
 	done
 
 SlowkingFinalText:
 	text "… … …"
 	
-	para "SLOWKING nods"
-	line "in approval…"
+	para "SLOWKING annuisce"
+	line "in segno di"
+	cont "approvazione…"
 	done
 
 TropicalIslandOutside_MapEvents:

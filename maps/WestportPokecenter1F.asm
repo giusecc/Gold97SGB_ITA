@@ -20,29 +20,29 @@ WestportPokecenter1FLassScript:
 	jumptextfaceplayer WestportPokecenter1FLassText
 
 WestportPokecenter1FGameboyKidText:
-	text "Have you tried"
-	line "catching #MON"
-	cont "with a GREAT BALL?"
-	para "It has a better"
-	line "rate of success"
-	para "than a standard"
-	line "# BALL."
+	text "Hai mai provato"
+	line "a usare una MEGA"
+	para "BALL per catturare"
+	line "i #MON?"
+	para "Ha più probabilità"
+	line "di successo di una"
+	cont "# BALL."
 	done
 
 WestportPokecenter1FLassText:
-	text "A higher level"
-	line "#MON doesn't"
-	cont "always win."
+	text "Un #MON di"
+	line "livello più alto"
+	cont "non sempre vince."
 
-	para "After all, it may"
-	line "have a type dis-"
-	cont "advantage."
+	para "Dopotutto può"
+	line "essere sfavorito"
+	cont "dal tipo."
 
-	para "I don't think"
-	line "there is a single"
+	para "Non credo esista"
+	line "un #MON più"
 
-	para "#MON that is"
-	line "the toughest."
+	para "forte di tutti"
+	line "gli altri."
 	done
 
 

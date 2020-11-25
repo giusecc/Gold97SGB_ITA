@@ -144,105 +144,98 @@ TrainerCooltrainerfQuinn:
 	end
 
 CooltrainermErickSeenText:
-	text "Getting tired yet?"
+	text "Sei già stanco?"
 	done
 
 CooltrainermErickBeatenText:
-	text "Looks like I'm"
-	line "pretty tired."
+	text "Sembra che io"
+	line "sia stanco."
 	done
 
 CooltrainermErickAfterBattleText:
-	text "There's still a"
-	line "long way to go"
-	cont "before the top."
-	para "I hear the last"
-	line "part is like a"
-	cont "maze."
+	text "Ci vuole ancora"
+	line "molto per arriva-"
+	cont "re alla cima."
+	para "Dicono che più"
+	line "avanti sia un"
+	cont "labirinto."
 	done
 
 
 CooltrainermJakeSeenText:
-	text "I'm making my"
-	line "final preparations"
+	text "Sto facendo gli"
+	line "ultimi preparativi"
 
-	para "for the #MON"
-	line "LEAGUE."
+	para "per la LEGA"
+	line "#MON."
 	done
 
 CooltrainermJakeBeatenText:
-	text "I blew it!"
+	text "Ho perso!"
 	done
 
 CooltrainermJakeAfterBattleText:
-	text "It's going to be"
-	line "tough to win at"
-	cont "the LEAGUE."
+	text "Sarà dura vincere"
+	line "alla LEGA."
 
-	para "I need to do some"
-	line "more training."
+	para "Devo allenarmi"
+	line "ancora."
 
-	para "I hear that the"
-	line "LEAGUE's ELITE"
+	para "Dicono che i"
+	line "SUPERQUATTRO"
 
-	para "FOUR are tougher"
-	line "than GYM LEADERS."
+	para "siano più forti"
+	line "dei CAPOPALESTRA."
 	done
 
 CooltrainerfJoyceSeenText:
-	text "Since you've come"
-	line "this far, you must"
-	cont "be good."
+	text "Se sei arrivato"
+	line "fin qui, devi"
+	cont "essere forte."
 
-	para "I'm going to give"
-	line "this battle every-"
-	cont "thing I've got!"
+	para "Darò tutto in"
+	line "questa lotta!"
 	done
 
 CooltrainerfJoyceBeatenText:
-	text "No! I don't"
-	line "believe this!"
+	text "No! Non posso"
+	line "crederci!"
 	done
 
 CooltrainerfJoyceAfterBattleText:
-	text "I've defeated"
-	line "eight GYM LEADERS,"
+	text "Ho battuto otto"
+	line "CAPOPALESTRA,"
 
-	para "so I was feeling"
-	line "confident."
-
-	para "I'll have to try"
-	line "harder next time."
+	para "per questo ero"
+	line "ottimistsa."
 	done
 
 InstructorGeoffSeenText:
-	text "The trainers here"
-	line "are very strong."
-	para "Each battle can be"
-	line "a good learning"
-	cont "experience."
+	text "Gli allenatori qui"
+	line "sono molto forti."
+	para "Ogni lotta è"
+	line "un insegnamento."
 	done
 	
 InstructorGeoffBeatenText:
-	text "I definitely"
-	line "learned something"
-	cont "here."
+	text "Ho sicuramente"
+	line "imparato qualcosa."
 	done
 	
 InstructorGeoffAfterBattleText:
-	text "The wild #MON"
-	line "here are very"
-	cont "strong as well."
+	text "Anche i #MON"
+	line "sono molto"
+	cont "forti qui."
 	done
 
 
 SwimmermHaroldSeenText:
-	text "You're using a"
-	line "#MON to get you"
-	cont "through the cave?"
-	para "If you were ready"
-	line "for the LEAGUE,"
-	cont "you'd swim!"
+	text "Stai usando i"
+	line "#MON per attraver-"
+	cont "sare la grotta?"
+	para "Se fossi pronto"
+	line "per la LEGA,"
+	cont "nuoteresti!"
 	done
 
 SwimmermHaroldBeatenText:
@@ -250,88 +243,83 @@ SwimmermHaroldBeatenText:
 	done
 
 SwimmermHaroldAfterBattleText:
-	text "I guess swimming"
-	line "ability doesn't"
-	para "mean much in a"
-	line "#MON battle."
+	text "Forse nuotare"
+	line "non ha molto a"
+	para "che vedere con"
+	line "le lotte."
 	done
 
 SwimmerfLisaSeenText:
-	text "The water is"
-	line "warmer than I'd"
-	cont "expected it to be."
+	text "L'acqua è più"
+	line "calda di quanto"
+	cont "mi aspettassi."
 	done
 
 SwimmerfLisaBeatenText:
-	text "I'm sunk!"
+	text "Affondato!"
 	done
 
 SwimmerfLisaAfterBattleText:
-	text "I prefer swimming"
-	line "in caves to the"
-	cont "outdoors."
+	text "Preferisco nuota-"
+	line "re nelle grotte."
 	done
 	
 EngineerDavidsonSeenText:
-	text "I'm going to find"
-	line "a faster way to"
-	para "the summit than"
-	line "walking through"
-	cont "these caves!"
+	text "Troverò una via"
+	line "più veloce per"
+	para "arrivare in"
+	line "cima!"
 	done
 	
 EngineerDavidsonBeatenText:
-	text "Maybe I'll just"
-	line "walk."
+	text "Forse dovrei solo"
+	line "camminare."
 	done
 	
 EngineerDavidsonAfterBattleText:
-	text "You're pretty"
-	line "tough."
-	para "Don't lose at the"
-	line "LEAGUE, or I'll"
-	para "feel worse about"
-	line "losing to you!"
+	text "Sei forte."
+	para "Non perdere alla"
+	line "LEGA o sarà una"
+	para "vergogna aver"
+	line "perso con te!"
 	done
 
 
 CooltrainermCodySeenText:
-	text "MT.FUJI is very"
-	line "large."
-	para "You better be pre-"
-	line "pared, because"
-	para "you're gonna be"
-	line "here for a while!"
+	text "Il MONTE FUJI è"
+	line "immenso."
+	para "Preparati, perché"
+	line "starai qui per"
+	cont "un po'!"
 	done
 
 CooltrainermCodyBeatenText:
-	text "Rats! If only I"
-	line "had better #-"
-	cont "MON!"
+	text "Se solo avessi"
+	line "#MON più forti!"
 	done
 
 CooltrainermCodyAfterBattleText:
-	text "This mountain is"
-	line "divided into five"
-	cont "different parts."
-	para "This here is just"
-	line "part one!"
+	text "La montagna è"
+	line "divisa in cinque"
+	cont "parti."
+	para "Questa è solo la"
+	line "prima!"
 	done
 	
 CooltrainerfQuinnSeenText:
-	text "You there!"
-	line "Want to battle?"
+	text "Ehi tu!"
+	line "Vuoi lottare?"
 	done
 
 CooltrainerfQuinnBeatenText:
-	text "Down and out…"
+	text "Distrutto…"
 	done
 
 CooltrainerfQuinnAfterBattleText:
-	text "You're strong."
+	text "Sei forte."
 
-	para "You obviously must"
-	line "have trained hard."
+	para "Devi esserti alle-"
+	line "nato duramente."
 	done
 
 

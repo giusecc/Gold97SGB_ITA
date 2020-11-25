@@ -61,59 +61,59 @@ VictoryRoadGateCooltrainerFScript:
 	jumptextfaceplayer VictoryRoadGateCooltrainerFText
 	
 VictoryRoadGateCooltrainerMText:
-	text "I can't believe"
-	line "it!"
-	para "It's almost time"
-	line "for me to take on"
-	cont "the LEAGUE!"
-	para "I've been waiting"
-	line "my whole life for"
-	cont "this!"
+	text "Non ci credo!"
+	para "Manca così poco"
+	line "alla LEGA!"
+	para "È da tutta la vita"
+	line "che aspetto"
+	cont "questo momento!"
 	done
 	
 VictoryRoadGateCooltrainerFText:
-	text "CROWN PATH may"
-	line "be a cakewalk, but"
-	para "the real challenge"
-	line "is making it to"
-	para "the top of MT.FUJI"
-	line "from CROWN CITY."
+	text "Il CAMMINO DIADEMA"
+	line "può sembrare uno"
+	para "scherzo, ma la"
+	line "vera sfida è"
+	para "arrivare alla"
+	line "cima del MONTE."
 	done
 	
 VictoryRoadGateNotEvenATrainer:
-	text "You don't even"
-	line "appear to be a"
-	cont "#MON trainer."
-	para "Sorry, kid. But I"
-	line "can only let"
-	para "qualified trainers"
-	line "pass through."
+	text "Non sembri"
+	line "neppure un"
+	cont "allenatore."
+	para "Scusami, ma"
+	line "solo gli allena-"
+	para "tori qualificati"
+	line "possono passare."
 	done
 
 VictoryRoadGateOfficerText:
-	text "Only trainers who"
-	line "have proven them-"
-	cont "selves may pass."
+	text "Solo gli allena-"
+	line "tori che hanno"
+	para "dimostrato le"
+	line "loro capacità"
+	cont "possono passare."
 	done
 
 VictoryRoadGateNotEnoughBadgesText:
-	text "You don't have"
-	line "eight badges."
-	para "I'm sorry, but"
-	line "only trainers with"
-	para "enough badges are"
-	line "permitted to enter"
-	para "CROWN CITY and"
-	line "climb MT.FUJI."
+	text "Non hai otto"
+	line "medaglie."
+	para "Mi spiace, ma"
+	line "solo gli allena-"
+	para "tori con il giusto"
+	line "numero di medaglie"
+	para "possono entrare"
+	line "a DIADEMOPOLI e"
+	para "scalare il"
+	line "MONTE FUJI."
 	done
 
 VictoryRoadGateEightBadgesText:
-	text "Ah! Eight badges!"
+	text "Ah! Otto medaglie!"
 
-	para "You have proven"
-	line "yourself worthy."
-	para "Please, go on"
-	line "through!"
+	para "Prego, passa"
+	line "pure!"
 	done
 
 VictoryRoadGate_MapEvents:
