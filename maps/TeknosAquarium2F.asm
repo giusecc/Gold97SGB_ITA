@@ -97,112 +97,105 @@ Aqua2FExhibit3Script:
 	jumptext Aqua2FExhibit3Text
 	
 Aqua2FExhibit1Text:
-	text "KINGOLD are among"
-	line "the smallest of"
-	para "all aquatic"
-	line "#MON."
+	text "I KINGOLD sono"
+	line "tra i #MON"
+	para "acquatici più"
+	line "piccoli."
 	done
 
 Aqua2FExhibit2Text:
-	text "NEW EXHIBIT COMING"
-	line "SOON"
+	text "NUOVA MOSTRA"
+	line "IN ARRIVO"
 	done
 	
 Aqua2FExhibit3Text:
-	text "TURBAN can survive"
-	line "on both land and"
-	cont "fully underwater."
-	para "It has a unique"
-	line "relationship with"
-	cont "the SLOWPOKE line."
+	text "TURBAN può soprav-"
+	line "vivere sia sulla"
+	para "superficie che"
+	line "in acqua."
+	para "Ha un forte legame"
+	line "con gli SLOWPOKE."
 	done
 
 GruntM1SeenText:
-	text "What do you want?"
+	text "Cosa vuoi?"
 
-	para "If you interrupt"
-	line "our work, don't"
-	cont "expect any mercy!"
+	para "Se intralci il"
+	line "nostro lavoro,"
+	cont "non avremo pietà!"
 	done
 
 GruntM1BeatenText:
-	text "You did OK today,"
-	line "but wait till next"
-	cont "time!"
+	text "Oggi hai vinto,"
+	line "ma aspetta la"
+	cont "prossima volta!"
 	done
 
 TrainerGruntM1WhenTalkText:
-	text "Yeah, TEAM ROCKET"
-	line "was broken up"
-	cont "a year ago."
+	text "Sì, il TEAM ROCKET"
+	line "si era sciolto"
+	cont "un anno fa."
 
-	para "But we continued"
-	line "our activities"
-	cont "underground."
-
-	para "Now you can have"
-	line "fun watching us"
-	cont "stir up trouble!"
+	para "Ma abbiamo"
+	line "continuato le"
+	cont "nostre attività."
 	
-	para "We don't need this"
-	line "place! There are"
-	para "plenty of other"
-	line "avenues for us to"
-	cont "make some money."
-	para "Our ambitions are"
-	line "bigger than cash,"
-	cont "though!"
-	para "You haven't seen"
-	line "the last of us!"
+	para "Non abbiamo"
+	line "bisogno di"
+	para "questo posto!"
+	line "Ce ne sono molti"
+	para "altri per fare"
+	line "soldi!"
+	para "Non hai ancora"
+	line "visto nulla!"
 	done
 	
 
 GruntM3SeenText:
-	text "We'll show you"
-	line "how scary we are!"
+	text "Ti mostreremo"
+	line "la vera paura!"
 	done
 
 GruntM3BeatenText:
-	text "Too strong! We"
-	line "must watch you…"
+	text "Troppo forte!"
+	line "Dobbiamo fare"
+	cont "attenzione…"
 	done
 
 GruntM3AfterBattleText:
-	text "You're too strong."
+	text "Sei troppo forte."
 
-	para "Our plan for here"
-	line "isn't the most"
-	para "important part of"
-	line "our plan."
-	para "You're merely a"
-	line "distraction."
+	para "Ma il nostro"
+	line "lavoro qui non"
+	para "è importante per"
+	line "il nostro piano."
+	para "Sei solo una"
+	line "distrazione."
 	done
 	
 AquaPokefanMRocketsText:
-	text "I reckon these"
-	line "troublemakers do"
-	cont "not belong here."
+	text "I piantagrane"
+	line "devono stare"
+	cont "alla larga."
 	done
 	
 AquaPokefanMNoRocketsText:
-	text "Were those guys"
-	line "part of TEAM"
-	cont "ROCKET?"
-	para "I thought they'd"
-	line "been taken care"
-	cont "of last year."
+	text "Erano membri"
+	line "del TEAM ROCKET?"
+	para "Credevo si fossero"
+	line "sciolti un"
+	cont "anno fa."
 	done
 	
 AquaPokefanFRocketsText:
-	text "Oh dear, so much"
-	line "for a peaceful"
-	cont "day."
+	text "Oh, sembrava"
+	line "un giorno"
+	cont "tranquillo."
 	done
 	
 AquaPokefanFNoRocketsText:
-	text "I've never been"
-	line "a huge fan of"
-	cont "fish anyways."
+	text "Non mi sono mai"
+	line "piaciuti i pesci."
 	done
 
 TeknosAquarium2F_MapEvents:

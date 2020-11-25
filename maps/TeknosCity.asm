@@ -135,36 +135,34 @@ TeknosCityHiddenHyperPotion:
 	hiddenitem HYPER_POTION, EVENT_TEKNOS_CITY_HIDDEN_HYPER_POTION
 	
 TeknosCityRocket3Text:
-	text "Oh, man!"
-	para "This is going to"
-	line "be fun!"
+	text "Oh, sì!"
+	para "Sarà divertente!"
 	done
 	
 TeknosCityRocket4Text:
-	text "Almost time to"
-	line "make our presence"
-	cont "known!"
+	text "È quasi tempo di"
+	line "farci vedere!"
 	done
 	
 TeknosCityRocket5Text:
-	text "The AQUARIUM won't"
-	line "know what hit it!"
+	text "L'ACQUARIO non"
+	line "resisterà!"
 	done
 
 TeknosCityRocket1Text:
-	text "Stay out of the"
-	line "AQUARIUM if you"
-	para "know what's good"
-	line "for you, kid!"
+	text "Stai lontano"
+	line "dall'ACQUARIO!"
+	para "Lo dico per il"
+	line "tuo bene!"
 	done
 	
 TeknosCityRocket2Text:
-	text "Hehehehe!"
-	para "This place has to"
-	line "be full of rare"
-	para "#MON we can"
-	line "sell off to the"
-	cont "highest bidder!"
+	text "Ehehehe!"
+	para "Questo posto è"
+	line "pieno di #MON"
+	para "rari da vendere"
+	line "al miglior"
+	cont "offerente!"
 	
 	done
 
@@ -172,171 +170,158 @@ UnusedMissingDaughterText:
 ; unused
 	text "Oh, no. Oh, no…"
 
-	para "My daughter is"
-	line "missing."
-
-	para "No… She couldn't"
-	line "have gone to the"
-	cont "BURNED TOWER."
-
-	para "I told her not to"
-	line "go near it…"
-
-	para "People seem to"
-	line "disappear there…"
-
-	para "Oh, what should I"
-	line "do…?"
+;	para "My daughter is"
+;	line "missing."
+;
+;	para "No… She couldn't"
+;	line "have gone to the"
+;	cont "BURNED TOWER."
+;
+;	para "I told her not to"
+;	line "go near it…"
+;
+;	para "People seem to"
+;	line "disappear there…"
+;
+;	para "Oh, what should I"
+;	line "do…?"
 	done
 
 TeknosCityGramps1Text:
-	text "I've lived here"
-	line "my whole life."
-	para "This city is a"
-	line "whole lot busier"
-	para "than when I was"
-	line "young."
+	text "Vivo qui da"
+	line "sempre."
+	para "Ai miei tempi"
+	line "la città era"
+	para "molto meno"
+	line "trafficata."
 	done
 
 TeknosCityGramps2Text:
-	text "This city is going"
-	line "to grow even more"
-	para "once the BOARDWALK"
-	line "is finished."
-	para "Many more people"
-	line "will be passing"
-	cont "through."
+	text "Questa città"
+	line "crescerà ancora"
+	para "di più quando la"
+	line "PASSERELLA sarà"
+	cont "completa."
 	done
 	
 TeknosCityGramps2Text2:
-	text "I have to admit,"
-	line "I'm a big fan of"
-	para "the new GAME"
-	line "CORNER that just"
-	para "opened north of"
-	line "here."
+	text "Lo ammetto, sono"
+	line "un grande amante"
+	para "del CASINÒ che"
+	line "ha aperto a"
+	cont "nord di qui."
 	done
 
 TeknosCityLass1Text:
-	text "TEKNOS used to be"
-	line "a quiet town."
-	para "But it's grown"
-	line "quickly, and I"
-	para "don't think"
-	line "everyone has"
-	para "adjusted to it"
-	line "yet."
+	text "TECNOPOLI era"
+	line "una città"
+	cont "tranquilla."
+	para "Ma è cresciuta"
+	line "velocemente e"
+	para "non credo che"
+	line "tutti si siano"
+	cont "abituati."
 	done
 
 TeknosCityLass2Text:
-	text "WHITNEY is our GYM"
-	line "LEADER here!"
-	para "She's always been"
-	line "a huge help to"
-	cont "the town!"
-	para "Sometimes it's"
-	line "hard to catch her"
-	para "at her GYM, since"
-	line "she'll always be"
-	para "out if there's"
-	line "some issue that"
-	para "she feels she can"
-	line "help with."
+	text "CHIARA è la nostra"
+	line "CAPOPALESTRA!"
+	para "Aiuta sempre"
+	line "tutti in città!"
+	para "A volte è"
+	line "difficile trovarla"
+	para "in traversa,"
+	line "perché è sempre"
+	para "in giro ad"
+	line "aiutare qualcuno."
 	done
 
 TeknosCityLass2Text_ReleasedBeasts:
-	text "Three big #MON"
-	line "ran off in differ-"
-	cont "ent directions."
-	cont "What were they?"
+	text "Tre grandi #MON"
+	line "sono scappati in"
+	cont "direzioni diverse."
+	cont "Cosa sono?"
 	done
 
 TeknosCityFisherText:
-	text "The AQUARIUM isn't"
-	line "too interesting to"
-	cont "SAILORs like me."
-	para "We see all these"
-	line "#MON out on the"
-	cont "sea! Ohoho!"
+	text "L'ACQUARIO non è"
+	line "interessante per"
+	cont "i MARINAI."
+	para "Vediamo tutti"
+	line "questi #MON in"
+	cont "mare! Ohoho!"
 	done
 
 TeknosCityFisherText_TheresRockets:
-	text "These guys sure do"
-	line "look like TEAM"
-	cont "ROCKET members."
-	para "I thought they"
-	line "weren't around"
-	cont "anymore?"
+	text "Questi sembrano"
+	line "membri del TEAM"
+	cont "ROCKET."
+	para "Credevo si"
+	line "fossero sciolti."
 	done
 
 TeknosCityYoungsterText:
-	text "I've tried many"
-	line "times, but I've"
-	para "never been able to"
-	line "defeat WHITNEY…"
+	text "Non sono mai"
+	line "riuscito a"
+	para "sconfiggere"
+	line "CHIARA…"
 	done
 
 TeknosCityGramps3Text:
-	text "TEKNOS is starting"
-	line "to grow as another"
-	cont "port town."
-	para "It's always been"
-	line "a favorite of mine"
-	cont "to visit."
-	para "I hope it doesn't"
-	line "get too crowded"
-	cont "here!"
+	text "TECNOPOLI sta"
+	line "diventando una"
+	cont "città portuale."
+	para "Spero che non"
+	line "diventi troppo"
+	cont "affollata!"
 	done
 
 TeknosCitySignText:
-	text "TEKNOS CITY"
-	para "A city that"
-	line "embraces the"
-	cont "future."
+	text "TECNOPOLI"
+	para "La città che"
+	line "abbraccia il"
+	cont "futuro."
 	done
 
 TinTowerSignText:
-	text "COMING SOON!"
-	para "BOARDWALK and"
-	line "BOARDWALK GAME"
-	cont "CORNER!"
-	para "A walkable seaside"
-	line "connection from"
-	para "TEKNOS CITY to"
-	line "SANSKRIT TOWN,"
-	para "with games and"
-	line "prizes galore!"
+	text "IN ARRIVO!"
+	para "PASSERELLA e"
+	line "CASINÒ!"
+	para "Un collegamento"
+	line "tra TECNOPOLI"
+	para "e VESTIGIA, con"
+	line "giochi e grandi"
+	cont "premi!"
 	done
 
 TinTowerSignText2:
-	text "North to BOARDWALK"
-	line "and BOARDWALK"
-	cont "GAME CORNER!"
-	para "Games, prizes, and"
-	line "fun!"
+	text "PASSERELLA e"
+	line "CASINÒ a nord!"
+	para "Giochi, premi e"
+	line "divertimento!"
 	done
 
 BirdonGymSignText:
-	text "TEKNOS CITY"
-	line "#MON GYM"
-	cont "LEADER: WHITNEY"
+	text "TECNOPOLI"
+	line "CAPOPALESTRA:"
+	cont "CHIARA"
 
-	para "The energetic"
-	line "go-getter!"
+	para "Energica e"
+	line "intraprendente!"
 	done
 
 TeknosDanceTheaterSignText:
-	text "TEKNOS CITY"
-	line "AQUARIUM"
+	text "TECNOPOLI"
+	line "ACQUARIO"
 	done
 
 BurnedTowerSignText:
-	text "FISHING GURU"
-	line "ARNOLD'S HOUSE"
+	text "CASA DEL GURU"
+	line "PESCATORE"
 	done
 	
 TeknosCityDocksText:
-	text "TEKNOS CITY DOCKS"
+	text "MOLI TECNOPOLI"
 	done
 
 TeknosCity_MapEvents:

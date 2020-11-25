@@ -44,70 +44,68 @@ ItemFinderHouseRadio:
 	jumpstd Radio2Script
 
 TeknosItemfinderAdventureText:
-	text "I can't thank you"
-	line "enough for finding"
-	cont "my granddaughter!"
-	para "She needs to be"
-	line "more mindful in"
-	para "the future, but"
-	line "right now I'm"
-	para "just glad she's"
-	line "okay!"
-	para "You handled"
-	line "yourself very well"
-	cont "in the MINE."
-	para "If you know where"
-	line "to look, you can"
-	para "find a lot of"
-	line "interesting items"
-	para "hidden in caves"
-	line "like that."
-	para "If you want, I can"
-	line "give you something"
-	para "that could help"
-	line "you find more"
-	cont "items."
+	text "Non potrò mai"
+	line "ringraziarti"
+	para "abbastanza per"
+	line "aver ritrovato"
+	cont "mia nipote!"
+	para "Deve stare più"
+	line "attenta in"
+	para "futuro, ma ora"
+	line "sono solo"
+	para "contento che"
+	line "stia bene!"
+	para "Te la sei cavata"
+	line "bene nella CAVA."
+	para "Se sai dove"
+	line "cercare, puoi"
+	para "trovare un sacco"
+	line "di strumenti"
+	para "nascosti nella"
+	line "grotta."
+	para "Se vuoi posso"
+	line "darti qualcosa"
+	para "per trovare"
+	line "più strumenti."
 	done
 
 TeknosItemfinderTrueSpiritText:
-	text "Here you go! Take"
-	line "this with you."
+	text "Tieni! Voglio"
+	line "darti questo!"
 	done
 
 ItemfinderExplanationText:
-	text "There are many"
-	line "items lying about"
+	text "Molti strumenti"
+	line "per terra non sono"
 
-	para "that aren't ob-"
-	line "vious."
+	para "facilissimi da"
+	line "vedere."
 
-	para "Use ITEMFINDER to"
-	line "check if there is"
+	para "Con DETECTOR puoi"
+	line "trovare uno stru-"
 
-	para "an item on the"
-	line "ground near you."
+	para "mento per terra"
+	line "nelle vicinanze."
 
-	para "It doesn't show"
-	line "the exact spot,"
+	para "Non ti dice il"
+	line "punto preciso:"
 
-	para "so you'll have to"
-	line "look yourself."
+	para "quello devi"
+	line "trovarlo tu!"
 	done
 
 TeknosItemfinderToEachHisOwnText:
-	text "You sure? I think"
-	line "you'd find this"
-	cont "useful."
+	text "Sicuro? Credo che"
+	line "potrebbe servirti."
 	done
 
 TeknosHistoryBookText:
-	text "Grandpa doesn't"
-	line "want me playing in"
-	cont "the MINE."
-	para "I guess that makes"
-	line "sense. He just"
-	para "wants me to be"
-	line "safe."
+	text "Il nonno non vuole"
+	line "che giochi nella"
+	cont "CAVA."
+	para "Ha ragione."
+	line "Vuole che stia"
+	cont "al sicuro."
 	done
 
 

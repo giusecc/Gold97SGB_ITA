@@ -236,166 +236,158 @@ WhitneyDummyMovement:
 	step_end
 	
 WhitneyInAquaText:
-	text "Don't think I'll"
-	line "hold back!"
+	text "Non mi tirerò"
+	line "indietro!"
 	done
 	
 WhitneyRocket1Text:
-	text "Ugh, she's tough."
+	text "Ugh, è forte."
 	done
 	
 WhitneyRocket2Text:
-	text "I don't know if"
-	line "I've ever seen a"
-	para "MILTANK that's"
-	line "this strong…"
+	text "Non ho mai visto"
+	line "un MILTANK così"
+	cont "forte…"
 	done
 	
 WhitneyWhatIsThisText:
-	text "What is going on"
-	line "here?"
-	para "This is unaccept-"
-	line "able!"
-	para "TEAM ROCKET has no"
-	line "business here!"
+	text "Cosa succede qui?"
+	para "È inaccettabile!"
+	para "Il TEAM ROCKET"
+	line "non deve"
+	cont "stare qui!"
 	done
 	
 WhitneyWhatIsThisText2:
-	text "You're <PLAYER>,"
-	line "right?"
-	para "Didn't I see you"
-	line "in the MINE?"
-	para "How about I take"
-	line "these guys down,"
-	para "and you go on up"
-	line "ahead?"
-	para "Let's show them"
-	line "a thing or two!"
+	text "Sei <PLAYER>,"
+	line "vero?"
+	para "Non ci siamo"
+	line "visti alla CAVA?"
+	para "Che ne dici se"
+	line "mi occupo di"
+	para "questi qui e"
+	line "tu vai avanti?"
+	para "Facciamo vedere"
+	line "chi comanda!"
 	done
 	
 Aqua1FExhibit1Text:
-	text "KRABBY like to"
-	line "hide under sand."
-	para "Look closely to"
-	line "find the burrowed"
-	cont "#MON."
+	text "KRABBY adora"
+	line "nascondersi"
+	cont "sotto la sabbia."
+	para "Guarda con"
+	line "attenzione per"
+	cont "vederlo."
 	done
 	
 Aqua1FExhibit2Text:
-	text "NEW EXHIBIT COMING"
-	line "SOON"
+	text "NUOVA MOSTRA"
+	line "IN ARRIVO"
 	done
 
 Aqua1FExhibit3Text:
-	text "OSUNFISH and"
-	line "MAGIKARP can"
-	para "peacefully share"
-	line "the same living"
-	cont "space."
-	para "These #MON"
-	line "often inhabit"
-	cont "the same waters."
+	text "OSUNFISH e"
+	line "MAGIKARP possono"
+	para "condividere lo"
+	line "stesso spazio"
+	cont "vitale."
 	done
 	
 GruntM2SeenText:
-	text "We're gonna come"
-	line "in here, take what"
-	para "we want, and sell"
-	line "it off!"
-	para "We need the money,"
-	line "cause we've got"
-	cont "big plans, kid!"
+	text "Prenderemo tutto"
+	line "quello che c'è"
+	para "qui e lo"
+	line "rivenderemo!"
+	para "Ci servono soldi"
+	line "per i nsotri"
+	cont "piani!"
 	done
 	
 Aqua1FExhibit4Text:
-	text "LAPRAS STATUE"
-	para "Occasional reports"
-	line "have claimed that"
-	para "LAPRAS can be"
-	line "found living deep"
-	para "in the MINE west"
-	line "of town."
+	text "STATUA DI LAPRAS"
+	para "Si dice che alcuni"
+	line "LAPRAS vivano"
+	para "nelle profondità"
+	line "della CAVA a"
+	cont "ovest della città."
 	done
 
 GruntM2BeatenText:
-	text "Just…"
-	line "Too strong…"
+	text "Solo…"
+	line "Troppo forte…"
 	done
 
 GruntM2AfterBattleText:
-	text "You'll be seeing"
-	line "more of us!"
+	text "Questo è solo"
+	line "l'inizio!"
 	done
 	
 
 AquaReceptionistRocketsText:
-	text "Be careful! Kids"
-	line "shouldn't be here"
-	cont "right now."
-	para "We're having an"
-	line "issue with"
-	para "dangerous criminal"
-	line "activity here."
+	text "Attento! I ragaz-"
+	line "zini non devono"
+	cont "essere qui."
+	para "Abbiamo seri"
+	line "problemi con"
+	para "questi criminali."
 	done
 
 AquaReceptionistNoRocketsText:
-	text "Welcome to the"
-	line "TEKNOS CITY"
-	cont "AQUARIUM!"
-	para "Please feel free"
-	line "to look around."
+	text "Benvenuto"
+	line "all'ACQUARIO di"
+	cont "TECNOPOLI!"
+	para "Fai un giro"
+	line "dove vuoi."
 	done
 
 GruntF1SeenText:
-	text "This place has"
-	line "rare #MON that"
-	para "we can steal and"
-	line "sell off!"
-	para "Don't get in our"
-	line "way, kid!"
+	text "Ci sono molti"
+	line "#MON rari da"
+	para "rubare e"
+	line "rivendere!"
+	para "Non ti"
+	line "intromettere!"
 	done
 
 GruntF1BeatenText:
-	text "You rotten brat!"
+	text "Brutto marmocchio!"
 	done
 
 GruntF1AfterBattleText:
-	text "TEAM ROCKET won't"
-	line "forget this!"
+	text "Il TEAM ROCKET"
+	line "non dimentica!"
 	done
 	
 AquaYoungsterRocketsText:
-	text "Hmm… I don't"
-	line "think these guys"
-	para "in black are"
-	line "supposed to be"
-	cont "here…"
+	text "Hmm… Non credo"
+	line "che questi"
+	para "tipi loschi"
+	line "debbano essere"
+	cont "qui…"
 	done
 
 AquaYoungsterNoRocketsText:
-	text "I was hoping I'd"
-	line "see an ANCHORAGE"
-	para "in person, but"
-	line "there isn't one"
-	cont "here."
+	text "Volevo vedere"
+	line "un ANCHORAGE"
+	para "dal vivo, ma"
+	line "non ce ne"
+	cont "sono qui."
 	done
 	
 AquaLassRocketsText:
 	text "Eeek!"
-	para "Oh, you're not"
-	line "with them."
-	para "These people here"
-	line "are scaring me."
-	para "I should probably"
-	line "leave."
+	para "Oh, non sei uno"
+	line "di loro."
+	para "Mi spaventano!"
+	para "Forse dovrei"
+	line "andarmene."
 	done
 
 AquaLassNoRocketsText:
-	text "This AQUARIUM is"
-	line "pretty new."
-	para "They don't have"
-	line "too many exhibits"
-	cont "yet."
+	text "L'ACQUARIO è"
+	line "nuovo."
+	para "Non ci sono"
+	line "molte mostre."
 	done
 
 TeknosAquarium1F_MapEvents:

@@ -339,179 +339,168 @@ ImposterLeavesRoom:
 	step_end
 	
 TrashCanBoatText:
-	text "There's nothing in"
-	line "here…"
+	text "Non c'è niente"
+	line "qui…"
 	done
 
 GruntM22SeenText:
-	text "You're pretty far"
-	line "into the ship."
-	para "But you'll go no"
-	line "further!"
+	text "Sei andato fin"
+	line "troppo avanti."
+	para "Ma non proseguirai"
+	line "oltre!"
 	done
 
 GruntM22BeatenText:
-	text "The CAPTAIN won't"
-	line "like this…"
+	text "Il CAPITANO non"
+	line "sarà felice…"
 	done
 
 GruntM22AfterBattleText:
-	text "Ha! Just cause you"
-	line "beat me doesn't"
-	para "mean I'll let you"
-	line "pass!"
-	para "Mainly because I"
-	line "can't!"
-	para "The door's locked"
-	line "and I don't have"
-	cont "a SHIP KEY!"
-	para "Actually, I don't"
-	line "think anyone on"
-	para "this boat other"
-	line "than the CAPTAIN"
-	cont "has one."
-	para "And you can't get"
-	line "to him without it!"
-	para "Looks like you'll"
-	line "have to get one"
-	para "off some TEAM"
-	line "ROCKET member from"
-	cont "somewhere else!"
+	text "Ha! Non credere"
+	line "di passare solo"
+	cont "perché hai vinto!"
+	para "Principalmente"
+	line "perché neanche io"
+	cont "posso farlo!"
+	para "La parte è chiusa"
+	line "e io non ho la"
+	cont "CHIAVE NAVE!"
+	para "Credo che solo"
+	line "il CAPITANO ne"
+	cont "abbia una."
+	para "Sembra che dovrai"
+	line "cercarne una"
+	cont "altrove!"
 	done
 
 GruntM11SeenText:
-	text "What are you doing"
-	line "here?"
-	para "Don't get in my"
-	line "way!"
+	text "Cosa succede qui?"
+	para "Non mi"
+	line "intralciare!"
 	done
 
 GruntM11BeatenText:
-	text "You're getting in"
-	line "my way!"
+	text "Mi stai"
+	line "intalciando!"
 	done
 
 GruntM11AfterBattleText:
-	text "Really, I'm not up"
-	line "to anything"
-	cont "important."
-	para "I just like being"
-	line "a part of the ship"
-	para "crew so I can ride"
-	line "on it."
+	text "Non ho niente"
+	line "da fare."
+	para "Mi piace essere"
+	line "nell'equipaggio"
+	para "per navigare"
+	line "un po'."
 	done
 
 GruntM25SeenText:
-	text "Ha! I bet you"
-	line "weren't expecting"
-	cont "me here!"
-	para "Too bad, cause"
-	line "here I am!"
+	text "Ha! Scommeto che"
+	line "non te"
+	cont "l'aspettavi!"
 	done
 
 GruntM25BeatenText:
-	text "I think I'll stay"
-	line "in this closet…"
+	text "Mi nasconderò"
+	line "qui…"
 	done
 
 GruntM25AfterBattleText:
-	text "No one bothers"
-	line "me back here."
+	text "Nessuno mi potrà"
+	line "infastidire."
 	done
 
 GruntM13SeenText:
-	text "I don't care if"
-	line "you're lost."
+	text "Non mi importa"
+	line "se ti sei perso."
 
-	para "You show up here,"
-	line "you're nothing but"
-	cont "a victim!"
+	para "Se sei qui, sei"
+	line "solo una vittima!"
 	done
 
 GruntM13BeatenText:
-	text "Urk! Yeah, think"
-	line "you're cool, huh?"
+	text "Uh! Credi di"
+	line "essere forte?"
 	done
 
 GruntM13AfterBattleText:
-	text "You must have ice"
-	line "in your veins to"
-	cont "dis TEAM ROCKET."
+	text "Hai fegato per"
+	line "venire qui!"
 	done
 
 UnknownText_0x7c5b0:
-	text "The door's locked…"
+	text "La porta è chiusa…"
 	done
 
 UnknownText_0x7c5c3:
-	text "The door is open."
+	text "La porta è aperta."
 	done
 
 UnknownText_0x7c5d6:
-	text "The SHIP KEY"
-	line "opened the door."
+	text "La CHIAVE PORTA"
+	line "apre la porta."
 	done
 
 CaptainRBeforeText:
-	text "I'm impressed that"
-	line "you've reached me."
-	para "And I'm"
-	line "disappointed that"
-	para "none of my crew"
-	line "could stop you."
-	para "Useless, they are."
-	para "But our operations"
-	line "here are finished."
-	para "We're retreating"
-	line "back to our base."
-	para "Our plan will"
-	line "continue as"
-	cont "scheduled."
+	text "Sei arrivato qui."
+	line "Impressionante."
+	para "Che tristezza che"
+	line "nessuno sia"
+	para "riuscito a"
+	line "fermarti."
+	para "Sono inutili."
+	para "Ma abbiamo finito"
+	line "il nostro lavoro."
+	para "Ci stiamo"
+	line "ritirando."
+	para "Il piano andrà"
+	line "avanti come"
+	cont "previsto."
 	done
 	
 CaptainRTellsImposterOff:
-	text "IMPOSTOR OAK!"
+	text "OAK IMPOSTORE!"
 	done
 	
 ImposterOakIsShocked:
-	text "IMPOSTOR OAK: Yes,"
-	line "sir!"
+	text "OAK IMPOSTORE: Sì,"
+	line "signore!"
 	done
 	
 CaptainRTellsImposterOff2:
-	text "CAPTAIN: Leave me"
-	line "now."
-	para "I wish to be alone"
-	line "with our friend."
+	text "CAPITANO: puoi"
+	line "andare."
+	para "Voglio rimanere"
+	line "solo con lui."
 	done
 	
 ImposterOakIsShocked2:
-	text "IMPOSTOR OAK: Aye,"
-	line "CAPTAIN!"
+	text "OAK IMPOSTORE:"
+	line "Agli ordini!"
 	done
 	
 CaptainRFinishesSpeech:
 	text "…"
-	para "And I see you've"
-	line "met our IMPOSTOR"
-	cont "OAK."
-	para "I know you're not"
-	line "fooled."
-	para "I wouldn't expect"
-	line "you to be."
-	para "But it's not you"
-	line "I have to"
-	cont "convince."
-	para "He'll be of more"
-	line "use to us soon."
-	para "As for now, we're"
-	line "about to set sail."
-	para "But not before I"
-	line "dispose of you!"
+	para "Hai conosciuto"
+	line "il nostro"
+	cont "OAK IMPOSTORE."
+	para "Sapevo che non"
+	line "ti avrebbe"
+	cont "ingannato."
+	para "Ma non sei tu"
+	line "a dover essere"
+	cont "convinto."
+	para "Ci sarà utile"
+	line "più tardi."
+	para "Per il momento"
+	line "stiamo per"
+	cont "partire."
+	para "Ma non prima che"
+	line "mi sia sbarazzato"
+	cont "di te."
 	done
 
 CaptainRWinText:
-	text "You're good."
+	text "Sei forte."
 	done
 	
 CaptainRLossText:
@@ -519,51 +508,43 @@ CaptainRLossText:
 	done
 	
 CaptainRAfterText:
-	text "Hm. I see what a"
-	line "challenge you can"
-	cont "pose."
-	para "But our shipments"
-	line "are complete."
-	para "We have the"
-	line "materials we need"
-	para "to begin the"
-	line "construction of"
-	para "our ultimate"
-	line "weapon!"
-	para "And this weapon"
-	line "does no physical"
-	cont "damage, no."
-	para "But soon, it will"
-	line "empower us to take"
-	para "control of all"
-	line "#MON!"
-	para "And you've slowed"
-	line "that plan."
-	para "But you haven't"
-	line "stopped it!"
-	para "You'll be hearing"
-	line "more from us soon!"
-	para "In fact, everyone"
-	line "will!"
+	text "Hm. Sei un bel"
+	line "problema."
+	para "Ma il lavoro qui"
+	line "è finito."
+	para "Abbiamo i mate-"
+	line "riali necessari"
+	para "per costruire"
+	line "la nostra"
+	cont "arma finale!"
+	para "E quest'arma non"
+	line "farà nessun danno."
+	para "Ma ci farà"
+	line "prendere il con-"
+	para "trollo di tutti"
+	line "i #MON!"
+	para "Non hai fermato"
+	line "il nostro piano!"
+	para "Sentirai parlare"
+	line "presto di noi!"
+	para "Tutti lo"
+	line "sentiranno!"
 	done
 
 
 NotGonnaStandByText:
-	text "I see you scared"
-	line "off our guard."
-	para "But you're dumber"
-	line "than you look if"
-	para "you think I'm"
-	line "just gonna let you"
-	para "walk right on in"
-	line "here!"
-	para "Just try to get"
-	line "past me!"
+	text "Hai superato"
+	line "le guardie."
+	para "Ma non credere"
+	line "che ti lascerò"
+	cont "restare qui!"
+	para "Prova a"
+	line "superarmi!"
 	done
 	
 RocketEntranceShip_WinText:
-	text "You're tougher"
-	line "than you look!"
+	text "Sei più forte"
+	line "di quanto sembri!"
 	done
 	
 RocketEntranceShip_LossText:
@@ -571,117 +552,115 @@ RocketEntranceShip_LossText:
 	done
 	
 RocketEntranceShip_AfterText:
-	text "Argh!"
-	para "I better go warn"
-	line "the CAPTAIN about"
-	cont "you."
-	para "He'll take care"
-	line "of your meddling"
-	cont "ways!"
+	text "Aah!"
+	para "Dovrò avvertire"
+	line "il CAPITANO."
+	para "Si prenderà"
+	line "cura di te!"
 	done
 
 GruntF3SeenText:
-	text "What do you have"
-	line "against TEAM"
+	text "Cosa vuoi fare"
+	line "contro il TEAM"
 	cont "ROCKET?"
 	done
 
 GruntF3BeatenText:
-	text "Our plans are"
-	line "still bigger than"
-	cont "you know!"
+	text "I nostri piani"
+	line "sono più grandi"
+	cont "di quanto pensi!"
 	done
 
 GruntF3AfterBattleText:
-	text "We're getting"
-	line "ready to head out"
-	cont "of here anyways."
+	text "Siamo pronti a"
+	line "partire,"
+	cont "comunque."
 	done
 
 
 BurglarEddieSeenText:
-	text "Shh! I'm not a"
-	line "part of TEAM"
+	text "Shh! Non faccio"
+	line "parte del TEAM"
 	cont "ROCKET!"
 
-	para "I'm searching for"
-	line "loot."
+	para "Sto cercando"
+	line "del bottino."
 	done
 
 BurglarEddieBeatenText:
-	text "Over the top!"
+	text "Sopra le righe!"
 	done
 
 BurglarEddieAfterBattleText:
-	text "Does stealing from"
-	line "bad guys make me"
-	cont "a good guy?"
+	text "Rubare ai ladri"
+	line "mi rende un"
+	cont "bravo ragazzo?"
 	done
 	
 Text_EndDemo:
-	text "Also, thanks a ton"
-	line "for playing!"
-	para "This point is"
-	line "where the demo"
-	cont "ends."
-	para "You've completed"
-	line "what's available"
-	cont "of the story."
-	para "But feel free to"
-	line "spend time"
-	para "exploring and"
-	line "catching #MON!"
-	para "I've got a few"
-	line "things for you"
-	para "that will make"
-	line "exploring easier."
-	para "HM02 FLY and the"
-	line "badge you need to"
-	cont "use it!"
+	text "Fine DEMO"
+;	line "for playing!"
+;	para "This point is"
+;	line "where the demo"
+;	cont "ends."
+;	para "You've completed"
+;	line "what's available"
+;	cont "of the story."
+;	para "But feel free to"
+;	line "spend time"
+;	para "exploring and"
+;	line "catching #MON!"
+;	para "I've got a few"
+;	line "things for you"
+;	para "that will make"
+;	line "exploring easier."
+;	para "HM02 FLY and the"
+;	line "badge you need to"
+;	cont "use it!"
 	done
 	
 Text_ReceivedMineralBadgeDemo:
-	text "<PLAYER> received"
-	line "MINERALBADGE."
+	text "<PLAYER> riceve la"
+	line "MEDAGLIA MINERALE."
 	done
 	
 Text_EndDemo2:
-	text "Alright, see ya!"
+	text "Ci si vede!"
 	done
 	
 GruntM22HowdGetKey:
-	text "How'd you get that"
-	line "key!?"
+	text "Dove hai trovato"
+	line "la chiave!?"
 	done
 	
 ImposterGreetingText:
-	text "Well, who do we"
-	line "have here?"
+	text "Chi abbiamo"
+	line "qui?"
 	done
 	
 ImposterGreetingText2:
-	text "Don't you"
-	line "recognize me?"
-	para "It's me, PROF.OAK!"
-	para "I'm working with"
-	line "TEAM ROCKET now!"
-	para "…Nah, I know"
-	line "you're not buying"
-	cont "it."
+	text "Non mi riconosci?"
+	para "Sono io, il PROF."
+	para "OAK! Sto lavorando"
+	line "con il TEAM"
+	cont "ROCKET ora."
+	para "…Nah, so che non"
+	line "te la darò a bere!"
 	done
 	
 ImposterTellsCaptainText:
-	text "Hey, CAPTAIN!"
-	line "We got some kid"
-	cont "here!"
-	para "I bet it's the one"
-	line "we've been hearing"
-	cont "about!"
+	text "Ehi, CAPITANO!"
+	line "Abbiamo un"
+	cont "ragazzino qui!"
+	para "Scommetto che sei"
+	line "quello di cui"
+	para "abbiamo sentito"
+	line "parlare!"
 	done
 	
 CaptainBeckons:
-	text "CAPTAIN: Come"
-	line "here, kid!"
+	text "CAPITANO: vieni"
+	line "qui, ragazzo!"
 	done
 
 TeamRocketShipBase_MapEvents:
