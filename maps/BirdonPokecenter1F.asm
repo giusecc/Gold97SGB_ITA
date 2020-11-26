@@ -50,7 +50,7 @@ BirdonPokecenter1FUnusedText:
 	done
 
 BirdonPokecenter1FFishingGuruText:
-	para "Nel PC di BILL"
+	text "Nel PC di BILL"
 	line "puoi depositare"
 	para "fino a 20 #MON"
 	line "per BOX."
