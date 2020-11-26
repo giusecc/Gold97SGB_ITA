@@ -1080,6 +1080,7 @@ BeatUpAttackText:
 	text "Attacco di"
 	line "@"
 	text_ram wStringBuffer1
+	text "!"
 	done
 
 ; BUG: Pokémon names 8-10 characters long can overflow the textbox,
