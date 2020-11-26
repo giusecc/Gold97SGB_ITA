@@ -285,6 +285,7 @@ _NewDexDataText::
 	text "Inseriti dati di"
 	line "@"
 	text_ram wEnemyMonNick
+	text_start
 	cont "nel #DEX.@"
 	sound_slot_machine_start
 	text_promptbutton
