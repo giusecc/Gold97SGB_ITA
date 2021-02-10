@@ -39,7 +39,7 @@ Route101PagotaGate2FSignText:
 	text "<PLAYER> guarda"
 	line "attraverso"
 	cont "il binocolo!"
-	para "Uauh! Si vede uan"
+	para "Uauh! Si vede una"
 	line "TORRE altissima!"
 	done
 

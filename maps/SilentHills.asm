@@ -184,7 +184,7 @@ YoungsterAlbertAfterBattleText:
 FledglingClaytonSeenText:
 	text "Io… Ho appena"
 	line "iniziato il"
-	cont "mio viaggio?"
+	cont "mio viaggio!"
 	para "Oh, anche tu?"
 	done
 

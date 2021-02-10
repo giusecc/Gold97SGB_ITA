@@ -1776,7 +1776,7 @@ Function28d3c:
 	jp InitTradeMenuDisplay
 
 String28d44:
-	db   "SCAMBIA"
+	db   "CAMBIA"
 	next "ESCI@"
 
 LinkAskTradeForText:

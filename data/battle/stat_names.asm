@@ -5,6 +5,6 @@ StatNames:
 	db "VELOCITÀ@"
 	db "ATT SPEC@"
 	db "DIF SPEC@"
-	db "PRECISIONE@"
+	db "PRECIS.@"
 	db "ELUSIONE@"
 	db "ABILITÀ@" ; used for BattleCommand_Curse

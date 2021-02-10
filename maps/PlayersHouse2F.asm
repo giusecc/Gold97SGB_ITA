@@ -230,7 +230,7 @@ KenGreeting4:
 	done
 	
 KenGreeting5:
-	para "Mi hanno offerto"
+	text "Mi hanno offerto"
 	line "un lavoro come"
 	para "DJ alla radio di"
 	line "PORTOVEST!"

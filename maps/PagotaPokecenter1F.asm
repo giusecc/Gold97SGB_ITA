@@ -121,18 +121,6 @@ UnknownText_0x69555:
 
 	para "Puoi portare con"
 	line "te l'UOVO #MON?"
-	
-	para "It would benefit"
-	line "our research to"
-	para "learn a bit more"
-	line "about how baby"
-	para "#MON interact"
-	line "with other"
-	para "#MON and how"
-	line "this affects their"
-	cont "growth."
-	para "So could you keep"
-	line "this egg with you?"
 	done
 
 UnknownText_0x695c5:

@@ -71,7 +71,7 @@ FrostpointTownTeacherText:
 	cont "la strada."
 	para "La moglie di"
 	line "ALFREDO conosce"
-	para "uan tecnica che"
+	para "una tecnica che"
 	line "permette ai #-"
 	para "MON di attraver-"
 	line "sare i mulinelli."

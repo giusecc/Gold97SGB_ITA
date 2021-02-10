@@ -310,8 +310,8 @@ GuillotineDescription:
 	next "in una mossa.@"
 
 RazorWindDescription:
-	db   "1° turno: Prepara"
-	next "2° turno: Attacca@"
+	db   "Turno 1: Prepara"
+	next "Turno 2: Attacca@"
 
 SwordsDanceDescription:
 	db   "Una danza che po-"
@@ -334,8 +334,8 @@ WhirlwindDescription:
 	next "termina la lotta.@"
 
 FlyDescription:
-	db   "1° turno: Vola"
-	next "2° turno: Attacca@"
+	db   "Turno 1: Vola"
+	next "Turno 2: Attacca@"
 
 BindDescription:
 	db   "Lega il nemico"
@@ -510,8 +510,8 @@ AuroraBeamDescription:
 	next "ATTACCO.@"
 
 HyperBeamDescription:
-	db   "1° turno: Attacco"
-	next "2° turno: Riposo@"
+	db   "Turno 1: Attacco"
+	next "Turno 2: Riposo@"
 
 PeckDescription:
 	db   "Colpisce con"
@@ -562,8 +562,8 @@ RazorLeafDescription:
 	next "brutto colpo.@"
 
 SolarbeamDescription:
-	db   "1° turno: Carica"
-	next "2° turno: Attacca@"
+	db   "Turno 1: Carica"
+	next "Turno 2: Attacca@"
 
 PoisonpowderDescription:
 	db   "Può causare"
@@ -622,8 +622,8 @@ FissureDescription:
 	next "da KO immediato.@"
 
 DigDescription:
-	db   "1° turno: Scompare"
-	next "2° turno: Attacca@"
+	db   "Turno 1: Scompare"
+	next "Turno 2: Attacca@"
 
 ToxicDescription:
 	db   "Avvelena con ef-"
@@ -778,8 +778,8 @@ SwiftDescription:
 	next "va mai a vuoto.@"
 
 SkullBashDescription:
-	db   "1° turno: Carica"
-	next "2° turno: Attacca@"
+	db   "Turno 1: Carica"
+	next "Turno 2: Attacca@"
 
 SpikeCannonDescription:
 	db   "Lance di fuoco:"
@@ -830,8 +830,8 @@ LovelyKissDescription:
 	next "mentare il nemico.@"
 
 SkyAttackDescription:
-	db   "1° turno: Carica"
-	next "2° turno: Attacco@"
+	db   "Turno 1: Carica"
+	next "Turno 2: Attacco@"
 
 TransformDescription:
 	db   "Chi lo usa diventa"

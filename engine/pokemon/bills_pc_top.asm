@@ -81,7 +81,7 @@ _BillsPC:
 
 .strings
 	db "RITIRA <PK><MN>@"
-	db "DEPOSIT <PK><MN>@"
+	db "DEPOSITA <PK><MN>@"
 	db "CAMBIA BOX@"
 	db "SPOSTA <PK><MN>@"
 	db "CIAO!@"

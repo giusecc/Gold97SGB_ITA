@@ -243,7 +243,7 @@ FalknerTMMudSlapText:
 
 	para "Attenzione, però:"
 	line "ogni MT si usa"
-	cont "solo na volta!"
+	cont "solo una volta!"
 
 	para "La MT31 contiene"
 	line "FANGOSBERLA."

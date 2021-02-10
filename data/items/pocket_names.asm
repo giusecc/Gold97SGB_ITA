@@ -5,7 +5,7 @@ ItemPocketNames:
 	dw .Ball
 	dw .TM
 
-.Item: db "TASCA STRUM.@"
+.Item: db "TASCA STRUM@"
 .Key:  db "TASCA BASE@"
 .Ball: db "TASCA BALL@"
 .TM:   db "TASCA MT@"

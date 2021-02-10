@@ -154,7 +154,7 @@ _AskForgetMoveText::
 
 	para "Ma @"
 	text_ram wMonOrItemNameBuffer
-	text "non"
+	text " non"
 	line "può conoscere più"
 	cont "di quattro mosse."
 

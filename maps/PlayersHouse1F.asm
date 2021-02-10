@@ -267,7 +267,7 @@ ComeHomeForDSTText:
 	line "l'orologio per"
 
 	para "l'ora legale, devi"
-	line "tornare a case."
+	line "tornare a casa."
 
 	para "Ah, sai come si"
 	line "usa il TELEFONO?"
@@ -294,7 +294,7 @@ InstructionsNextText:
 	text "I numeri sono"
 	line "registrati in"
 
-	para "meoria. Selezio-"
+	para "memoria. Selezio-"
 	line "nare il numero da"
 	cont "chiamare."
 

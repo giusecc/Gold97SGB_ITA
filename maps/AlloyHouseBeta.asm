@@ -122,7 +122,7 @@ AlloyElderStoryText:
 	para "punta della"
 	line "PENTATORRE di"
 	cont "ANCESTRALIA."
-	para "Lì si posò"
+	para "Lì riposò"
 	line "per anni e anni."
 	para "Alcuni dicono che"
 	line "attese per secoli."

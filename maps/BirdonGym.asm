@@ -255,8 +255,9 @@ MortyIntroText:
 	line "giorno in cui"
 
 	para "potrò incontrare"
-	line "il #MON dai colori"
-	cont "dell'arcobaleno."
+	line "il #MON"
+	para "dai colori"
+	line "dell'arcobaleno."
 
 	para "E tu mi aiuterai a"
 	line "raggiungere quel"

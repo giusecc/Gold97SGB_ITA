@@ -351,14 +351,14 @@ ClefableScaredText2:
 
 RadioTower6fTeacherText:
 	text "Questo è l'ufficio"
-	line "del DIRETTORO"
+	line "del DIRETTORE"
 	para "a capo di questa"
 	line "operazione!"
 	done
 	
 RadioTower6fTeacherTextTakeover:
 	text "Dove è finito il"
-	line "DIRETORE?"
+	line "DIRETTORE?"
 	para "Spero stia bene!"
 	done
 

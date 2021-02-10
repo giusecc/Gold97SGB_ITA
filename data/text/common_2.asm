@@ -411,7 +411,8 @@ _BattleStatWentWayUpText::
 	prompt
 
 _BattleStatWentUpText::
-	text " sale!"
+	text_start
+	cont "sale!"
 	prompt
 
 Text_BattleFoeEffectActivate::
@@ -428,7 +429,8 @@ _BattleStatSharplyFellText::
 	prompt
 
 _BattleStatFellText::
-	text " cala!"
+	text_start
+	cont "cala!"
 	prompt
 
 Text_BattleUser::
