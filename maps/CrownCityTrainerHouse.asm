@@ -46,16 +46,16 @@ CrownCityTrainerHouseLassScript:
 IejimaTownDreamEaterFisherText:
 	text "Gulp!"
 
-	para "Mi sono allenato"
+	para "Mi sono allenata"
 	line "troppo…"
-	para "Sono così stanco"
+	para "Sono così stanca"
 	line "che potrei"
 	cont "addormentarmi!"
 	
 	para "Sapevi che esiste"
 	line "una mossa efficace"
-	para "solo contro i"
-	line "#MON addormentati?"
+	para "contro i #-"
+	line "MON addormentati?"
 	para "Ecco, guarda un"
 	line "po'."
 	done

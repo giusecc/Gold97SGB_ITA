@@ -154,8 +154,8 @@ AlloyElderStoryText:
 	line "giorno l'uccello"
 	cont "farà ritorno."
 	para "…"
-	para "Credo che il giorno"
-	line "sia vicino."
+	para "Credo che il"
+	line "giorno sia vicino."
 	para "Sarà così?"
 	done
 	

@@ -110,7 +110,7 @@ KurtsDoorLocked_Movement:
 
 	
 KurtsDoorLockedText:
-	text "It's locked…"
+	text "La porta è chiusa…"
 	done
 
 	

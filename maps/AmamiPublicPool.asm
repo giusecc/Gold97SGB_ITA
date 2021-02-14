@@ -70,8 +70,8 @@ AmamiPublicPoolLassText:
 	para "piscina può essere"
 	line "un posto migliore"
 	para "rispetto al mare"
-	line "per allenare"
-	cont "#MON ACQUA deboli."
+	line "per allenare #-"
+	cont "MON ACQUA deboli."
 	done
 	
 AmamiPublicPoolBugCatcherText:

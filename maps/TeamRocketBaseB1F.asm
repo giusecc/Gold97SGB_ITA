@@ -420,7 +420,7 @@ TeamRocketBaseB1FComputerConsolePowerMenu:
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
 	db "AUMENTA POTENZA@"
-	db "RIDUCI POTENZA"
+	db "RIDUCI POTENZA@"
 	db "SPEGNI@"
 	db "MENU PRECEDENTE@"
 	

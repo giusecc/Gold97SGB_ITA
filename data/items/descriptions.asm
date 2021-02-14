@@ -388,8 +388,8 @@ RareCandyDesc:
 	next "di un livello.@"
 
 XAccuracyDesc:
-	db   "Migliora"
-	next "precisione. (LOTTA)@"
+	db   "Aumenta precisione"
+	next "(LOTTA)@"
 
 LeafStoneDesc:
 	db   "Fa evolvere certi"

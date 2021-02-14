@@ -77,29 +77,29 @@ YoungsterMikeyAfterText:
 
 
 Route105YoungsterText_DirectionsToMrPokemonsHouse:
-	text "I'm tired."
-	para "I don't want to"
-	line "walk anymore."
-	para "I wish my #MON"
-	line "could FLY me to"
-	cont "another town."
+	text "Sono stanco."
+	para "Non riesco più"
+	line "a camminare."
+	para "Vorrei poter"
+	line "volare verso"
+	cont "un'altra città."
 	done
 
 Route105CooltrainerFText:
-	text "I'm looking for"
-	line "ELECTRIC-TYPE"
-	cont "#MON."
-	para "I know there's a"
-	line "few different"
-	para "species that live"
-	line "in this grass."
+	text "Sto cercando"
+	line "#MON di tipo"
+	cont "ELETTRO."
+	para "Ci sono diverse"
+	line "specie che vivono"
+	para "in queste zone"
+	line "d'erba."
 	done
 
 Route105SignText:
-	text "ROUTE 105"
+	text "PERCORSO 105"
 
-	para "JADE FOREST"
-	line "just up ahead!"
+	para "BOSCO GIADA"
+	line "per di qua!"
 	done
 
 

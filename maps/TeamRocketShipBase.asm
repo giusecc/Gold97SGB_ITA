@@ -641,9 +641,9 @@ ImposterGreetingText:
 ImposterGreetingText2:
 	text "Non mi riconosci?"
 	para "Sono io, il PROF."
-	para "OAK! Sto lavorando"
-	line "con il TEAM"
-	cont "ROCKET ora."
+	line "OAK! Sto lavorando"
+	para "con il TEAM"
+	line "ROCKET ora."
 	para "…Nah, so che non"
 	line "te la darò a bere!"
 	done

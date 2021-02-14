@@ -172,12 +172,12 @@
 	charmap "ò",         $ca
 	charmap "ù",         $cb
 
-	charmap "'a",        $d0
-	charmap "'e",        $d1
-	charmap "'i",        $d2
-	charmap "'o",        $d3
-	charmap "'u",        $d4
-	charmap "'è",        $d5
+	;charmap "'a",        $d0
+	;charmap "'e",        $d1
+	;charmap "'i",        $d2
+	;charmap "'o",        $d3
+	;charmap "'u",        $d4
+	;charmap "'è",        $d5
 	;charmap "'v",        $d6
 	charmap "À",         $d7
 	charmap "È",         $d8

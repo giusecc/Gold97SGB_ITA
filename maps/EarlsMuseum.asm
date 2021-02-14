@@ -271,7 +271,7 @@ ArtistEarlOddishText:
 	para "Ora vorrei finire"
 	line "la statua di un"
 	cont "DRATINI."
-	text "Se potessi vedere"
+	para "Se potessi vedere"
 	line "un DRATINI"
 	para "potrei trovare"
 	line "l'ispirazione per"

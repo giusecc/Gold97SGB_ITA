@@ -467,7 +467,6 @@ StandGymGuyText2:
 	text "Ehi! Campione in"
 	line "erba!"
 	para "È buio qui, vero?"
-	line "here!"
 	para "ANGELO è un tipo"
 	line "cupo e gli piace"
 	cont "questo buio."
@@ -485,9 +484,9 @@ StandGymGuyWinText2:
 	done
 
 ChuckIntroText1:
-	text "Eh."
-	para "Ha fatto un lungo"
-	line "viaggio,vero?"
+	text "Ehi."
+	para "Hai fatto un lungo"
+	line "viaggio, vero?"
 	para "Hai scoperto un"
 	line "sacco di cose."
 	para "Fatto nuove"

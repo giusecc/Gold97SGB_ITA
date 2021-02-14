@@ -239,11 +239,11 @@ PryceText_Intro:
 	text "Che bello"
 	line "rivederti."
 	
-	para "I #MON fanno molte"
-	line "esperienze nella"
+	para "I #MON fanno"
+	line "molte esperienze"
 
-	para "loro vita, proprio"
-	line "come noi."
+	para "nella loro vita,"
+	line "proprio come noi."
 
 	para "Anch'io ho visto e"
 	line "sofferto molto in"

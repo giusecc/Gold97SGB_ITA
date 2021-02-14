@@ -48,7 +48,7 @@ Text_NightmareIntro:
 	para "Per fortuna era"
 	line "solo un sogno."
 	para "Tuttavia, quando"
-	line "mi sono svegliato"
+	line "mi sono svegliata"
 	cont "ho trovato questa."
 	para "Io non la voglio."
 	line "Prendila tu."

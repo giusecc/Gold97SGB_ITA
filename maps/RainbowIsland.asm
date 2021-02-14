@@ -52,7 +52,7 @@ BlueSeenText:
 	line "studiare le"
 	para "specie di #MON"
 	line "che vivono su"
-	cont "island."
+	cont "quest'isola."
 	
 	
 	para "Vedo una luce"

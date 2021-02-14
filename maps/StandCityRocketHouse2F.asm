@@ -131,7 +131,7 @@ StandCityRocketHouse2FPosterText:
 Warden2FFineYouWin:
 	text "Eh. Va bene."
 	para "Hai vinto."
-	para "Ce ne andremo.Z"
+	para "Ce ne andremo."
 	para "Non hai altro"
 	line "da vedere."
 	para "Addio."

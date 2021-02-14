@@ -28,8 +28,8 @@ KKHouse1GrannyText:
 	
 	para "Forse non sembra,"
 	line "ma molti anni fa"
-	para "ero anch'io un"
-	line "lottatore giunto"
+	para "ero anch'io una"
+	line "lottatrice giunta"
 	para "qui per allenarmi"
 	line "alla CALDERA."
 	done

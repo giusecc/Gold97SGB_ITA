@@ -464,9 +464,10 @@ HaveStarter2Egg:
 	para "Non posso darti"
 	line "una MEDAGLIA, ma"
 	para "ho un UOVO di un"
-	line "#MON raro del mio"
-	cont "tipo preferito!"
-	para "Ecco, tieni!"
+	line "#MON raro del"
+	para "mio tipo"
+	line "preferito!"
+	cont "Ecco, tieni!"
 	done
 	
 NoRoomForStarter2:

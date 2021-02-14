@@ -16,7 +16,7 @@ TrainerClassNames::
 	db "SUPERQUAT.@"
 	db "SUPERQUAT.@"
 	db "CAMPIONE@"
-	db "GIOVANNI@"
+	db "CAPO@"
 	db "CAPO@"
 	db "CAPO@"
 	db "SCIENZIATO@"

@@ -235,10 +235,10 @@ LanceBattleIntroText:
 	para "Lotteremo per"
 	line "capire chi sarà"
 
-	para "il piu forte dei"
+	para "il più forte dei"
 	line "due."
 
-	para "Io LANCE, il piu"
+	para "Io LANCE, il più"
 	line "forte allenatore e"
 
 	para "il CAMPIONE della"
@@ -283,7 +283,7 @@ LanceBattleAfterText:
 	para "Diventerai un"
 	line "allenatore sempre"
 
-	para "piu forte con i"
+	para "più forte con i"
 	line "tuoi #MON."
 	done
 

@@ -165,7 +165,7 @@ CamperLloydSeenText:
 	done
 
 CamperLloydBeatenText:
-	text "Questo era troppo!."
+	text "Questo era troppo!"
 	done
 
 CamperLloydAfterBattleText:

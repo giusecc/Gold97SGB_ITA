@@ -146,7 +146,7 @@ MoomooWeakMooText:
 
 Route39BarnItsCryIsWeakText:
 	text "Non riesce quasi"
-	text "a muggire…"
+	line "a muggire…"
 	done
 
 MoomooHappyMooText:
